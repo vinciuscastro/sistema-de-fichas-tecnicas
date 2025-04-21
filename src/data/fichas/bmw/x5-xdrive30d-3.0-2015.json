@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-X5-2014.jpg",
+    "NOME": "x5-xdrive30d-3.0-2015",
+    "ANO": "2015",
+    "MARCA": "bmw",
+    "MODELO": "x5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X5",
+        "Versão:": "xDrive30d 3.0",
+        "Ano/modelo:": "2015",
+        "Detalhes:": "Importado, SUV, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "2.993 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "258 cv @ 4.000 rpm",
+        "Torque:": "57,1 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "16,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,9 s",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8 km/l",
+        "Rodoviário:": "10,5 km/l",
+        "Autonomia:": "892 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,7 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.886 mm",
+        "Altura:": "1.762 mm",
+        "Largura:": "1.938 mm",
+        "Entre-eixos:": "2.933 mm",
+        "Vão livre do solo:": "209 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.145 kg",
+        "Porta-malas:": "620 litros",
+        "Carga útil:": "630 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

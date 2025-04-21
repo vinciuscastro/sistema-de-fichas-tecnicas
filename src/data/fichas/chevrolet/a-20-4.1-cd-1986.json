@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/A20.jpg",
+    "NOME": "a-20-4.1-cd-1986",
+    "ANO": "1986",
+    "MARCA": "chevrolet",
+    "MODELO": "a",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "A-20",
+        "Versão:": "S 4.1 CD",
+        "Ano fabricação:": "1986",
+        "Detalhes:": "Nacional, picape, 4 portas, 6 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "4.093 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No bloco, engrenagens",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Etanol",
+        "Potência:": "135 cv @ 4.000 rpm",
+        "Torque:": "30 kgfm @ 2.000 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "não informado"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "19,9 s",
+        "Velocidade máxima:": "144 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "3,7 km/l",
+        "Rodoviário:": "5,4 km/l",
+        "Autonomia:": "475 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas helicoidais",
+        "Traseira:": "Eixo rígido, feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/75 R16",
+        "Traseira:": "255/75 R16"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.340 mm",
+        "Altura:": "1.780 mm",
+        "Largura:": "2.000 mm",
+        "Entre eixos:": "3.230 mm",
+        "Bitola dianteira:": "1.640 mm",
+        "Bitola traseira:": "1.600 mm",
+        "Vão livre do solo:": "320 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.040 kg",
+        "Caçamba:": "1.441 litros",
+        "Carga útil:": "750 kg",
+        "Tanque combustível:": "88 litros"
+    }
+}

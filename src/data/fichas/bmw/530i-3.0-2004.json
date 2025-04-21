@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-530i.jpg",
+    "NOME": "530i-3.0-2004",
+    "ANO": "2004",
+    "MARCA": "bmw",
+    "MODELO": "530i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "530i",
+        "Versão:": "3.0 2004",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.996 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "258@ 6.600 rpm",
+        "Torque máximo em kgfm:": "30,6 @ 2.500 rpm",
+        "Potência específica:": "86,1 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "10,7:1",
+        "Relação peso/potência:": "5,8 kg/cv",
+        "Relação peso/torque:": "49 kg/kgfm",
+        "Curso dos pistões:": "88 mm",
+        "Diâmetro dos cilindros:": "85 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N52B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,7 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,6",
+        "Estrada em km/l:": "9,5",
+        "Autonomia em km:": "665"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R16",
+        "Traseira:": "225/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,30 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.841 mm",
+        "Altura:": "1.468 mm",
+        "Largura:": "1.846 mm",
+        "Entre eixos:": "2.888 mm",
+        "Bitola dianteira:": "1.558 mm",
+        "Bitola traseira:": "1.582 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.500 kg",
+        "Porta-malas:": "520 litros",
+        "Carga útil:": "560 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

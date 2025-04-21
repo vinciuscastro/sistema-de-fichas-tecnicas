@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/911-2010.jpg",
+    "NOME": "911-turbo-3.8-2010",
+    "ANO": "2010",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Turbo 3.8",
+        "Ano/modelo:": "2010",
+        "Detalhes:": "Importado, coupé, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "3.800 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "500 cv @ 6.000 rpm",
+        "Torque:": "71,4 kgfm @ 2.100 rpm",
+        "Taxa de compressão:": "9,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,6 s",
+        "Velocidade máxima:": "311 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,6 km/l",
+        "Rodoviário:": "9,5 km/l",
+        "Autonomia:": "636 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/35 R19",
+        "Traseira:": "305/30 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,05 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.450 mm",
+        "Altura:": "1.300 mm",
+        "Largura:": "1.852 mm",
+        "Entre-eixos:": "2.350 mm",
+        "Bitola dianteira:": "1.491 mm",
+        "Bitola traseira:": "1.547 mm",
+        "Vão livre do solo:": "107 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.595 kg",
+        "Porta-malas:": "190 litros",
+        "Carga útil:": "365 kg",
+        "Tanque combustível:": "67 litros"
+    }
+}

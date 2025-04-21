@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Julho/Fiat-Toro-Volcano-2022.jpg",
+    "NOME": "toro-volcano-1.3-turbo-4x2-2022",
+    "ANO": "2022",
+    "MARCA": "fiat",
+    "MODELO": "toro",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Toro",
+        "Versão:": "Volcano 1.3 Turbo 4x2 2022",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.332 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (CV):": "185 (E) / 180 (G) @ 5.750 rpm",
+        "Torque máximo (kgfm):": "27,5 (E) / 27,5 (G) @ 1.750 rpm",
+        "Potência específica:": "138,9 cv/litro",
+        "Torque específico:": "20,6 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "9 kg/cv",
+        "Rel. peso/torque:": "60,7 kg/kgfm",
+        "Curso dos pistões:": "86,5 mm",
+        "Diâmetro dos cilindros:": "70 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GSE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,7 seg",
+        "Velocidade máxima:": "201 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,6 (E) / 9,5 (G)",
+        "Estrada em km/l:": "8 (E) / 11,2 (G)",
+        "Autonomia em km:": "440 (E) / 616 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/60 R18",
+        "Traseira:": "225/60 R18",
+        "Altura do flanco:": "135 mm",
+        "Estepe:": "125/80 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.945 mm",
+        "Altura:": "1.739 mm",
+        "Largura:": "1.845 mm",
+        "Entre-eixos:": "2.990 mm",
+        "Bitola dianteira:": "1.547 mm",
+        "Bitola traseira:": "1.575 mm",
+        "Vão livre do solo:": "263 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.670 kg",
+        "Caçamba:": "937 litros",
+        "Carga útil:": "670 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

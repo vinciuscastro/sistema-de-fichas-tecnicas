@@ -1,0 +1,100 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/porsche-cayenne-s-e-hybrid.jpg",
+    "NOME": "cayenne-turbo-s-e-hybrid-4.0-v8-2022",
+    "ANO": "2022",
+    "MARCA": "porsche",
+    "MODELO": "cayenne",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Cayenne",
+        "Versão:": "Turbo S E-Hybrid 4.0 V8",
+        "Combustível:": "Híbrido - gasolina/eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.996 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência em CV:": "550 @ 5.750 rpm",
+        "Torque em kgfm:": "78,5 @ 1.960 rpm",
+        "Potência específica:": "137,6 cv/litro",
+        "Torque específico:": "19,6 kgfm/litro",
+        "Taxa de compressão:": "10,1:1",
+        "Relação peso/potência:": "4,5 kg/cv",
+        "Relação peso/torque:": "31,7 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível",
+        "Potência:": "136 cv",
+        "Potência combinada:": "680 cv",
+        "Torque:": "40,8 kgfm",
+        "Torque combinado:": "91,8 kgfm",
+        "Capacidade bateria:": "14,1 kWh",
+        "Autonomia elétrica:": "40 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,8 seg",
+        "Velocidade máxima:": "295 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "14,9",
+        "Estrada em km/l:": "16",
+        "Autonomia em km:": "1.200"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, multibraço",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "285/40 R21",
+        "Traseira:": "315/35 R21",
+        "Altura do flanco:": "110 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,82 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.926 mm",
+        "Altura:": "1.673 mm",
+        "Largura:": "1.983 mm",
+        "Entre eixos:": "2.895 mm",
+        "Bitola dianteira:": "1.687 mm",
+        "Bitola traseira:": "1.670 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.490 kg",
+        "Porta-malas:": "645 litros",
+        "Carga útil:": "735 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

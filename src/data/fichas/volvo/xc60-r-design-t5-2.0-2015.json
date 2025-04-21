@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/XC60-R.jpg",
+    "NOME": "xc60-r-design-t5-2.0-2015",
+    "ANO": "2015",
+    "MARCA": "volvo",
+    "MODELO": "xc60",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "XC60",
+        "Versão:": "R-Design T5 2.0 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima (cv):": "240 @ 5.500 rpm",
+        "Torque máximo (kgfm):": "32,6 @ 1.800 rpm",
+        "Potência específica:": "120,1 cv/litro",
+        "Torque específico:": "16,3 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "7,1 kg/cv",
+        "Rel. peso/torque:": "52,1 kg/kgfm",
+        "Curso dos pistões:": "83,1 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "Ecoboost"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MPS6"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,1 seg",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,9",
+        "Estrada em km/l:": "8,7",
+        "Autonomia em km:": "609"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/45 R20",
+        "Traseira:": "255/45 R20",
+        "Altura do flanco:": "115 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,61 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.627 mm",
+        "Altura:": "1.713 mm",
+        "Largura:": "1.891 mm",
+        "Entre eixos:": "2.774 mm",
+        "Bitola dianteira:": "1.632 mm",
+        "Bitola traseira:": "1.586 mm",
+        "Vão livre do solo:": "230 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.698 kg",
+        "Porta-malas:": "495 litros",
+        "Carga útil:": "458 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

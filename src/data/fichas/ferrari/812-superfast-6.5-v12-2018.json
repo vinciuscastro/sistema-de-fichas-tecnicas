@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Maio/Ferrari-812-Superfast-2018.jpg",
+    "NOME": "812-superfast-6.5-v12-2018",
+    "ANO": "2018",
+    "MARCA": "ferrari",
+    "MODELO": "812",
+    "ESPECIFICACAO": {
+        "Marca:": "Ferrari",
+        "Modelo:": "812",
+        "Versão:": "Superfast 6.5 V12 2018",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Porte:": "Grande",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "6.496 cc",
+        "Cilindros:": "12, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "800 @ 8.500 rpm",
+        "Torque máximo kgfm:": "73,2 @ 7.000 rpm",
+        "Potência específica:": "123,2 cv/litro",
+        "Torque específico:": "11,3 kgfm/litro",
+        "Taxa de compressão:": "13,6:1",
+        "Rel. peso/potência:": "2,0 kg/cv",
+        "Rel. peso/torque:": "22,3 kg/kgfm",
+        "Curso dos pistões:": "78 mm",
+        "Diâmetro cilindros:": "94 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,9 seg",
+        "Velocidade máxima:": "340 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,9",
+        "Estrada em km/l:": "6",
+        "Autonomia em km:": "552"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/35 R20",
+        "Traseira:": "315/35 R20",
+        "Altura do flanco:": "110 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.657 mm",
+        "Altura:": "1.276 mm",
+        "Largura:": "1.971 mm",
+        "Entre-eixos:": "2.720 mm",
+        "Bitola dianteira:": "1.665 mm",
+        "Bitola traseira:": "1.618 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.630 kg",
+        "Porta-malas:": "320 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "92 litros"
+    }
+}

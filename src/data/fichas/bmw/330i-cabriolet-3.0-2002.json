@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-330i-cabriolet.jpg",
+    "NOME": "330i-cabriolet-3.0-2002",
+    "ANO": "2002",
+    "MARCA": "bmw",
+    "MODELO": "330i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "330i Cabriolet",
+        "Versão:": "3.0 2002",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "4",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "231 @ 5.900 rpm",
+        "Torque máximo em kgfm:": "30,6 @ 3.500 rpm",
+        "Potência específica:": "77,5 cv/litro",
+        "Torque específico:": "10,3 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "7 kg/cv",
+        "Relação peso/torque:": "52,9 kg/kgfm",
+        "Curso dos pistões:": "89,6 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M54B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 5HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,5 seg",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,5",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "567"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,05 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.488 mm",
+        "Altura:": "1.372 mm",
+        "Largura:": "1.757 mm",
+        "Entre eixos:": "2.725 mm",
+        "Bitola dianteira:": "1.471 mm",
+        "Bitola traseira:": "1.483 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.620 kg",
+        "Porta-malas:": "300 litros",
+        "Carga útil:": "420 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

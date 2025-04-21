@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/novembro/jeep-gladiator-2023.jpg",
+    "NOME": "gladiator-rubicon-3.6-v6-2022",
+    "ANO": "2022",
+    "MARCA": "jeep",
+    "MODELO": "gladiator",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Gladiator",
+        "Versão:": "Rubicon 3.6 V6 2022",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.601 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima (cv):": "284 @ 6.400 rpm",
+        "Torque máximo (kgfm):": "35,4 @ 4.100 rpm",
+        "Potência específica:": "78,8 cv/litro",
+        "Torque específico:": "9,8 kgfm/litro",
+        "Taxa de compressão:": "11,3:1",
+        "Rel. peso/potência:": "7,96 kg/cv",
+        "Rel. peso/torque:": "63,9 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro dos cilindros:": "96 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Pentastar"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "850RE"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,1 seg",
+        "Velocidade máxima:": "156 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,5",
+        "Estrada em km/l:": "7,4",
+        "Autonomia em km:": "614"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "13,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/75 R17",
+        "Traseira:": "245/75 R17",
+        "Estepe:": "245/75 R17",
+        "Altura do flanco:": "184 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.591 mm",
+        "Altura:": "1.905 mm",
+        "Largura:": "1.894 mm",
+        "Entre eixos:": "3.488 mm",
+        "Bitola dianteira:": "1.598 mm",
+        "Bitola traseira:": "1.598 mm",
+        "Vão livre do solo:": "286 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.261 kg",
+        "Caçamba:": "1.000 litros",
+        "Carga útil:": "674 kg",
+        "Tanque combustível:": "83 litros"
+    }
+}

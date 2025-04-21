@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/XJ6.jpg",
+    "NOME": "xj6-4.0-1995",
+    "ANO": "1995",
+    "MARCA": "jaguar",
+    "MODELO": "xj6",
+    "ESPECIFICACAO": {
+        "Marca:": "Jaguar",
+        "Modelo:": "XJ6",
+        "Versão:": "4.0 1995",
+        "Origem:": "Importado - Inglaterra",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.980 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "241 @ 4.800 rpm",
+        "Torque em kgfm:": "38,2 @ 4.000 rpm",
+        "Taxa de compressão:": "9,6:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h": "8,1 s",
+        "Velocidade máxima": "232 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "5 km/l",
+        "Estrada:": "7,4 km/l",
+        "Autonomia:": "599 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Molas Helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/60/R16",
+        "Traseira:": "225/60/R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,01 m²",
+        "Coef. aerodinâmico:": "0,37 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.024 mm",
+        "Altura:": "1.314 mm",
+        "Largura:": "1.799 mm",
+        "Entre eixos:": "2.870 mm",
+        "Bitola dianteira:": "1.500 mm",
+        "Bitola traseira:": "1.498 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.800 kg",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "420 kg",
+        "Tanque combustível:": "81 litros"
+    }
+}

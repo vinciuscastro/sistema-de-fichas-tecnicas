@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-135i-Coupe-2010.jpg",
+    "NOME": "135i-coupe-3.0-turbo-2010",
+    "ANO": "2010",
+    "MARCA": "bmw",
+    "MODELO": "135i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "135i",
+        "Versão:": "Coupe 3.0 Turbo 2010",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "306 @ 5.800 rpm",
+        "Torque máximo em kgfm:": "40,7 @ 1.300 rpm",
+        "Potência específica:": "102,7 cv/litro",
+        "Torque específico:": "13,7 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "4,9 kg/cv",
+        "Relação peso/torque:": "36,6 kg/kgfm",
+        "Curso dos pistões:": "89,6 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N54B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,4 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,4",
+        "Estrada em km/l:": "10,5",
+        "Autonomia em km:": "557"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/40 R18",
+        "Traseira:": "245/35 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,09 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.360 mm",
+        "Altura:": "1.408 mm",
+        "Largura:": "1.748 mm",
+        "Entre eixos:": "2.660 mm",
+        "Bitola dianteira:": "1.470 mm",
+        "Bitola traseira:": "1.497 mm",
+        "Vão livre do solo:": "132 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.490 kg",
+        "Porta-malas:": "370 litros",
+        "Carga útil:": "440 kg",
+        "Tanque combustível:": "53 litros"
+    }
+}

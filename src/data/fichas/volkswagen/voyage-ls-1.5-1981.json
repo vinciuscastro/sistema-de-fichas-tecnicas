@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Voyage-81.jpg",
+    "NOME": "voyage-ls-1.5-1981",
+    "ANO": "1981",
+    "MARCA": "volkswagen",
+    "MODELO": "voyage",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Voyage",
+        "Versão:": "LS 1.5 1981",
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.471 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "78 @ 6.100 rpm",
+        "Torque em kgfm:": "11,5 @ 3.600 rpm",
+        "Taxa de compressão:": "7,4:1",
+        "Código do motor:": "BR"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15,8 s",
+        "Velocidade máxima:": "151 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "15",
+        "Autonomia em km:": "825"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Sem assistência",
+        "Diâmetro de giro:": "11,2 mm"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70/ R13",
+        "Traseira:": "175/70/ R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,86 m²",
+        "Coef. aerodinâmico:": "0,43 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.063 mm",
+        "Altura:": "1.364 mm",
+        "Largura:": "1.601 mm",
+        "Entre eixos:": "2.358 mm",
+        "Bitola dianteira:": "1.350 mm",
+        "Bitola traseira:": "1.370 mm",
+        "Vão livre do solo:": "145 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "891 kg",
+        "Porta-malas:": "382 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "55 litros"
+    }
+}

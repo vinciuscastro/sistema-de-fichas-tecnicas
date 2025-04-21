@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-07.jpg",
+    "NOME": "range-rover-autobiography-lwb-5.0-v8",
+    "ANO": "V8",
+    "MARCA": "land-rover",
+    "MODELO": "range",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Range Rover",
+        "Versão:": "Autobiography LWB 5.0 V8",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, SUV, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "4.999 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "510 cv @ 6.000 rpm",
+        "Torque:": "63,7 kgfm @ 2.500 rpm",
+        "Taxa de compressão:": "9,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,8 s",
+        "Velocidade máxima:": "225 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,7 km/l",
+        "Rodoviário:": "7,5 km/l",
+        "Autonomia:": "787 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, braços sobrepostos, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "275/45 R21",
+        "Traseiros:": "275/45 R21"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.199 mm",
+        "Altura:": "1.840 mm",
+        "Largura:": "1.983 mm",
+        "Entre-eixos:": "3.120 mm",
+        "Vão livre do solo:": "303 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.413 kg",
+        "Porta-malas:": "535 litros",
+        "Carga útil:": "737 kg",
+        "Tanque combustível:": "105 litros"
+    }
+}

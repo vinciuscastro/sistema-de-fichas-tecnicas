@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/C3.jpg",
+    "NOME": "c3-start-1.2-2019",
+    "ANO": "2019",
+    "MARCA": "citroen",
+    "MODELO": "c3",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "C3",
+        "Versão:": "Start 1.2 2019",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.199 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima CV:": "90 (E) / 84 (G) @ 5.750 rpm",
+        "Torque máximo kgfm:": "13 (E) / 12,2 (G) @ 2.750 rpm",
+        "Potência específica:": "75,1 cv/litro",
+        "Torque específico:": "10,8 kgfm/litro",
+        "Taxa de compressão:": "12,5:1",
+        "Rel. peso/potência:": "11,9 kg/cv",
+        "Rel. peso/torque:": "82,3 kg/kgfm",
+        "Curso dos pistões:": "90,5 mm",
+        "Diâmetro cilindros:": "75 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "EB2FF"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MA/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,3 (E) / 13,2 (G)",
+        "Estrada em km/l:": "10,1 (E) / 14,8 (G)",
+        "Autonomia em km:": "556 (E) / 814 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R15",
+        "Traseira:": "195/60 R15",
+        "Altura do flanco:": "117 mm",
+        "Estepe:": "185/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.944 mm",
+        "Altura:": "1.521 mm",
+        "Largura:": "1.708 mm",
+        "Entre-eixos:": "2.460 mm",
+        "Bitola dianteira:": "1.470 mm",
+        "Bitola traseira:": "1.481 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.070 kg",
+        "Porta-malas:": "300 litros",
+        "Carga útil:": "421 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

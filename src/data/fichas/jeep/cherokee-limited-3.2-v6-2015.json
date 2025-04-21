@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Cherokee-2014.jpg",
+    "NOME": "cherokee-limited-3.2-v6-2015",
+    "ANO": "2015",
+    "MARCA": "jeep",
+    "MODELO": "cherokee",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Cherokee",
+        "Versão:": "Limited 3.2 V6 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.239 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "271 @ 6.500 rpm",
+        "Torque máximo (kgfm):": "32,2 @ 4.400 rpm",
+        "Potência específica:": "83,7 cv/litro",
+        "Torque específico:": "9,9 kgfm/litro",
+        "Taxa de compressão:": "10,7:1",
+        "Rel. peso/potência:": "6,8 kg/cv",
+        "Rel. peso/torque:": "57 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro dos cilindros:": "91 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "Pentastar"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,1 seg",
+        "Velocidade máxima:": "206 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,2",
+        "Estrada em km/l:": "9,4",
+        "Autonomia em km:": "564"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R18",
+        "Traseira:": "225/50 R18",
+        "Altura do flanco:": "124 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,66 m²",
+        "Coef. aerodinâmico:": "0,37 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.624 mm",
+        "Altura:": "1.683 mm",
+        "Largura:": "1.859 mm",
+        "Entre-eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.580 mm",
+        "Bitola traseira:": "1.573 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.834 kg",
+        "Porta-malas:": "412 litros",
+        "Carga útil:": "454 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

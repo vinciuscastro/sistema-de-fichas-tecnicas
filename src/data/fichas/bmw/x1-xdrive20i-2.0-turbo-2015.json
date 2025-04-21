@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-X1-2013.jpg",
+    "NOME": "x1-xdrive20i-2.0-turbo-2015",
+    "ANO": "2015",
+    "MARCA": "bmw",
+    "MODELO": "x1",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X1",
+        "Versão:": "xDrive20i 2.0 Turbo 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "184 @ 5.000 rpm",
+        "Torque máximo em kgfm:": "27,5 @ 1.250 rpm",
+        "Potência específica:": "92,1 cv/litro",
+        "Torque específico:": "13,8 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "8,6 kg/cv",
+        "Relação peso/torque:": "57,6 kg/kgfm",
+        "Curso dos pistões:": "90,1 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N20B20"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,7 seg",
+        "Velocidade máxima:": "205 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,6",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "756"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R18",
+        "Traseira:": "225/50 R18",
+        "Estepe:": "225/50 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,36 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.454 mm",
+        "Altura:": "1.545 mm",
+        "Largura:": "1.798 mm",
+        "Entre eixos:": "2.760 mm",
+        "Bitola dianteira:": "1.500 mm",
+        "Bitola traseira:": "1.529 mm",
+        "Vão livre do solo:": "179 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.455 kg",
+        "Porta-malas:": "420 litros",
+        "Carga útil:": "550 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

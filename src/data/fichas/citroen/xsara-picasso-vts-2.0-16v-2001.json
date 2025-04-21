@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Xsara_Picasso.jpg",
+    "NOME": "xsara-picasso-vts-2.0-16v-2001",
+    "ANO": "2001",
+    "MARCA": "citroen",
+    "MODELO": "xsara",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "Xsara Picasso",
+        "Versão:": "VTS 2.0 16V 2001",
+        "Origem:": "Importado",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "167 @ 6.500 rpm",
+        "Torque em kgfm:": "20,1 @ 4.500 rpm",
+        "Taxa de compressão:": "10,8:1",
+        "Código do motor:": "XU10J4RS"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "BE3/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,9 s",
+        "Velocidade máxima:": "225 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "7,3 km/l",
+        "Estrada:": "14 km/l",
+        "Autonomia:": "756 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Barra de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/55/15",
+        "Traseira:": "195/55/15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,02 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.167 mm",
+        "Altura:": "1.401 mm",
+        "Largura:": "1.698 mm",
+        "Entre eixos:": "2.540 mm",
+        "Bitola dianteira:": "1.420 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.190 kg",
+        "Porta-malas:": "408 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "54 litros"
+    }
+}

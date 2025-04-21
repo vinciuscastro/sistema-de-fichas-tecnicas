@@ -1,0 +1,68 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Fiat/Weekend/Adventure_02.jpg",
+    "NOME": "weekend-adventure-1.8-16v",
+    "ANO": "16V",
+    "MARCA": "fiat",
+    "MODELO": "weekend",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Weekend",
+        "Versão:": "Adventure 1.8 16V",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Nacional, perua, 4 portas, 1 ano de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.747 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "132 cv (E) / 130 cv (G) @ 5.250 rpm",
+        "Torque:": "18,9 kgfm (E) / 18,4 kgfm (G) @ 4.500 rpm",
+        "Taxa de compressão:": "11,2:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,5 s",
+        "Velocidade máxima:": "184 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,6 km/l (E) / 9,7 km/l (G)",
+        "Rodoviário:": "7,2 km/l (E) / 10,2 km/l (G)",
+        "Autonomia:": "367 km (E) / 520 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos, ventilados",
+        "Traseiros:": "Tambores"
+    },
+    "PNEUS": {
+        "Dianteiros:": "205/60 R16",
+        "Traseiros:": "205/60 R16"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.310 mm",
+        "Altura:": "1.643 mm",
+        "Largura:": "1.721 mm",
+        "Entre-eixos:": "2.466 mm",
+        "Bitola dianteira:": "1.471 mm",
+        "Bitola traseira:": "1.441 mm",
+        "Vão livre do solo:": "190 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.235 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

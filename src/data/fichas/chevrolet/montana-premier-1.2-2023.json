@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/maio/chevrolet-montana-2023.jpg",
+    "NOME": "montana-premier-1.2-2023",
+    "ANO": "2023",
+    "MARCA": "chevrolet",
+    "MODELO": "montana",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Montana",
+        "Versão:": "Premier 1.2",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Porte:": "Médio-compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.199 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "133 (E) / 132 (G) @ 5.500 rpm",
+        "Torque máx. (kgfm):": "21,4 (E) / 19,4 (G) @ 2.000 rpm",
+        "Potência específica:": "110,9 cv/litro",
+        "Torque específico:": "17,8 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "9,85 kg/cv",
+        "Rel. peso/torque:": "61,2 kg/kgfm",
+        "Curso dos pistões:": "90,5 mm",
+        "Diâmetro dos cilindros:": "75 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "CSS Prime"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "GF6"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,1 seg",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,7 (E) / 11,1 (G)",
+        "Estrada em km/l:": "9,3 (E) / 13,3 (G)",
+        "Autonomia em km:": "409 (E) / 585 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55 R17",
+        "Traseira:": "215/55 R17",
+        "Altura do flanco:": "118 mm",
+        "Estepe:": "115/70 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,54 m²",
+        "Coef. aerodinâmico:": "0,374 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.717 mm",
+        "Altura:": "1.659 mm",
+        "Largura:": "1.798 mm",
+        "Entre eixos:": "2.800 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "185 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.310 kg",
+        "Caçamba:": "874 litros",
+        "Carga útil:": "600 kg",
+        "Tanque combustível:": "44 litros"
+    }
+}

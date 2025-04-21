@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Sentra-2004.jpg",
+    "NOME": "sentra-gxe-1.8-2006",
+    "ANO": "2006",
+    "MARCA": "nissan",
+    "MODELO": "sentra",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Sentra",
+        "Versão:": "GXE 1.8",
+        "Ano/modelo:": "2006",
+        "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.769 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "115 cv @ 5.600 rpm",
+        "Torque:": "15,8 kgfm @ 4.400 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "não informado"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13 s",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,4 km/l",
+        "Rodoviário:": "12,2 km/l",
+        "Autonomia:": "610 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R15",
+        "Traseira:": "195/60 R15"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.510 mm",
+        "Altura:": "1.480 mm",
+        "Largura:": "1.710 mm",
+        "Entre-eixos:": "2.530 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.211 kg",
+        "Porta-malas:": "328 litros",
+        "Carga útil:": "395 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

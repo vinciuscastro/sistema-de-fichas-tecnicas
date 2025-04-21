@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-Estate.jpg",
+    "NOME": "c200-touring-avantgarde-1.8-2009",
+    "ANO": "2009",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c200",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C200",
+        "Versão:": "Touring Avantgarde Kompressor 1.8",
+        "Ano/modelo:": "2009",
+        "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Compressor",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "184 cv @ 5.500 rpm",
+        "Torque:": "25,5 kgfm @ 2.800 rpm",
+        "Taxa de compressão:": "8,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,8 s",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7,3 km/l",
+        "Rodoviário:": "11,5 km/l",
+        "Autonomia:": "759 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,20 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.596 mm",
+        "Altura:": "1.459 mm",
+        "Largura:": "1.770 mm",
+        "Entre-eixos:": "2.760 mm",
+        "Bitola dianteira:": "1.541 mm",
+        "Bitola traseira:": "1.544 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.555 kg",
+        "Porta-malas:": "485 litros",
+        "Carga útil:": "530 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ferrari-F12-Berlinetta.jpg",
+    "NOME": "f12-berlinetta-6.3-v12-2013",
+    "ANO": "2013",
+    "MARCA": "ferrari",
+    "MODELO": "f12",
+    "ESPECIFICACAO": {
+        "Marca:": "Ferrari",
+        "Modelo:": "F12",
+        "Versão:": "Berlinetta 6.3 V12 2013",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Porte:": "Grande",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "6.262 cc",
+        "Cilindros:": "12, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "740 @ 8.250 rpm",
+        "Torque máximo kgfm:": "70 @ 6.000 rpm",
+        "Potência específica:": "118,2 cv/litro",
+        "Torque específico:": "11,2 kgfm/litro",
+        "Taxa de compressão:": "13,5:1",
+        "Rel. peso/potência:": "2,2 kg/cv",
+        "Rel. peso/torque:": "23,2 kg/kgfm",
+        "Curso dos pistões:": "75,2 mm",
+        "Diâmetro cilindros:": "94 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,1 seg",
+        "Velocidade máxima:": "340 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,7",
+        "Estrada em km/l:": "6,5",
+        "Autonomia em km:": "598"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/35 R20",
+        "Traseira:": "315/35 R20",
+        "Altura do flanco:": "110 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,10 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.618 mm",
+        "Altura:": "1.273 mm",
+        "Largura:": "1.942 mm",
+        "Entre-eixos:": "2.720 mm",
+        "Bitola dianteira:": "1.665 mm",
+        "Bitola traseira:": "1.618 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.630 kg",
+        "Porta-malas:": "320 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "92 litros"
+    }
+}

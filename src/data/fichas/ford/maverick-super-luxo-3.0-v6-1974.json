@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-Maverick-V6.png",
+    "NOME": "maverick-super-luxo-3.0-v6-1974",
+    "ANO": "1974",
+    "MARCA": "ford",
+    "MODELO": "maverick",
+    "ESPECIFICACAO": {
+        "Origem:": "Nacional",
+        "Combustível:": "Gasolina",
+        "Detalhes:": "Cupê, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "2.300 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Potência em CV:": "99 @ 5.400 rpm",
+        "Torque em kgfm:": "16,9 @ 3.200 rpm",
+        "Taxa de compressão:": "7,8:1",
+        "Código do motor:": "Georgia"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15,3 seg",
+        "Velocidade máxima:": "158 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "585"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eíxo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "12,2"
+    },
+    "PNEUS": {
+        "Dianteira:": "não disponível",
+        "Traseira:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.555 mm",
+        "Altura:": "1.364 mm",
+        "Largura:": "1.791 mm",
+        "Entre eixos:": "2.619 mm",
+        "Bitola dianteira:": "1.430 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "173 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.274 kg",
+        "Porta-malas:": "417 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "65 litros"
+    }
+}

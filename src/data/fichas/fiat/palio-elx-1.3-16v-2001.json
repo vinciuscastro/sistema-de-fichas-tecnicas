@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Fiat-Palio-01-4.jpg",
+    "NOME": "palio-elx-1.3-16v-2001",
+    "ANO": "2001",
+    "MARCA": "fiat",
+    "MODELO": "palio",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Palio",
+        "Versão:": "ELX 1.3 16V 2001",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.242 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "80 @ 5.500 rpm",
+        "Torque máx. (kgfm):": "12 @ 4.000 rpm",
+        "Potência específica:": "64,4 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "11,8 kg/cv",
+        "Rel. peso/torque:": "78,8 kg/kgfm",
+        "Curso dos pistões:": "78,9 mm",
+        "Diâmetro dos cilindros:": "70,8 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Fire"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C513"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,1 seg",
+        "Velocidade máxima:": "168 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "10,2",
+        "Estrada em km/l:": "13,9",
+        "Autonomia em km:": "667"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R14",
+        "Traseira:": "175/65 R14",
+        "Altura do flanco:": "114 mm",
+        "Estepe:": "175/65 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,98 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.735 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.614 mm",
+        "Entre eixos:": "2.361 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "945 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "48 litros"
+    }
+}

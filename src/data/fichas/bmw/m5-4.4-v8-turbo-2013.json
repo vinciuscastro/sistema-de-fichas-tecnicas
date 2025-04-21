@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M5-2013.jpg",
+    "NOME": "m5-4.4-v8-turbo-2013",
+    "ANO": "2013",
+    "MARCA": "bmw",
+    "MODELO": "m5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M5",
+        "Versão:": "4.4 V8 Turbo 2013",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "560 @ 6.000 rpm",
+        "Torque máximo em kgfm:": "69,4 @ 1.500 rpm",
+        "Potência específica:": "127,4 cv/litro",
+        "Torque específico:": "15,8 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "3,3 kg/cv",
+        "Relação peso/torque:": "26,9 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S63B44TU"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,4 seg",
+        "Velocidade máxima:": "305 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,7",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "720"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/35 R20",
+        "Traseira:": "295/30 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,34 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.910 mm",
+        "Altura:": "1.456 mm",
+        "Largura:": "1.891 mm",
+        "Entre eixos:": "2.964 mm",
+        "Bitola dianteira:": "1.627 mm",
+        "Bitola traseira:": "1.582 mm",
+        "Vão livre do solo:": "117 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.870 kg",
+        "Porta-malas:": "520 litros",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

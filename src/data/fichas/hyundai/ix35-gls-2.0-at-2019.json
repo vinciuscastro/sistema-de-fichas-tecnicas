@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Agosto/IX35-17.jpg",
+    "NOME": "ix35-gls-2.0-at-2019",
+    "ANO": "2019",
+    "MARCA": "hyundai",
+    "MODELO": "ix35",
+    "ESPECIFICACAO": {
+        "Marca:": "Hyundai",
+        "Modelo:": "IX35",
+        "Versão:": "GLS 2.0 AT 2019",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima em CV:": "167 (E) / 157 (G) @ 6.200 rpm",
+        "Torque máximo em kgfm:": "20,6 (E) / 19,2 (G) @ 4.700 rpm",
+        "Potência específica:": "83,5 cv/litro",
+        "Torque específico:": "10,3 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "9 kg/cv",
+        "Rel. peso/torque:": "72,8 kg/kgfm",
+        "Curso dos pistões:": "97 mm",
+        "Diâmetro dos cilindros:": "81 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Nu"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,8 (E) / 10,1 (G)",
+        "Estrada em km/l:": "7,8 (E) / 11,3 (G)",
+        "Autonomia em km:": "452 (E) / 655 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R18",
+        "Traseira:": "225/55 R18",
+        "Altura do flanco:": "124 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,56 m²",
+        "Coef. aerodinâmico:": "0,37 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.410 mm",
+        "Altura:": "1.655 mm",
+        "Largura:": "1.820 mm",
+        "Entre eixos:": "2.640 mm",
+        "Bitola dianteira:": "1.585 mm",
+        "Bitola traseira:": "1.586 mm",
+        "Vão livre do solo:": "170 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.500 kg",
+        "Porta-malas:": "465 litros",
+        "Carga útil:": "480 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

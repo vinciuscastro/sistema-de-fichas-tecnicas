@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Junho/Chevy.jpg",
+    "NOME": "chevy-500-dl-1.6-1981",
+    "ANO": "1981",
+    "MARCA": "chevrolet",
+    "MODELO": "chevy",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Chevy",
+        "Versão:": "500 DL 1.6",
+        "Ano fabricação:": "1991",
+        "Detalhes:": "Nacional, Picape, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.599 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "73 cv @ 5.200 rpm",
+        "Torque:": "12,6 kgfm @ 3.200 rpm",
+        "Taxa de compressão:": "8,5:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "18,5 s",
+        "Velocidade máxima:": "140 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,1 km/l",
+        "Rodoviário:": "14,3 km/l",
+        "Autonomia:": "886 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas helicoidais",
+        "Traseira:": "Eixo rígido, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.183 mm",
+        "Altura:": "1.390 mm",
+        "Largura:": "1.466 mm",
+        "Entre eixos:": "2.395 mm",
+        "Bitola dianteira:": "1.300 mm",
+        "Bitola traseira:": "1.300 mm",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "910 kg",
+        "Caçamba:": "765 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "62 litros"
+    }
+}

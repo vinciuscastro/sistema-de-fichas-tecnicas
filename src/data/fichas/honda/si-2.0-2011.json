@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/civic-si-07.jpg",
+    "NOME": "si-2.0-2011",
+    "ANO": "2011",
+    "MARCA": "honda",
+    "MODELO": "si",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "Civic",
+        "Versão:": "Si 2.0 2011",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "8",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplop, no cabeçote",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "192 @ 7.800 rpm",
+        "Torque máximo em kgfm:": "19,2 @ 6.100 rpm",
+        "Potência específica:": "96,1 cv/litro",
+        "Torque específico:": "9,6 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "6,9 kg/cv",
+        "Relação peso/torque:": "68,9 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "K20Z3"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,9 seg",
+        "Velocidade máxima:": "215 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "13,1",
+        "Autonomia em km:": "655"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/45 R17",
+        "Traseira:": "215/45 R17",
+        "Estepe:": "215/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,16 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.489 mm",
+        "Altura:": "1.450 mm",
+        "Largura:": "1.752 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.492 mm",
+        "Bitola traseira:": "1.521 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.322 kg",
+        "Porta-malas:": "340 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "50 litros"
+    }
+}

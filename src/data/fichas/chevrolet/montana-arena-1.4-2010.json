@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chevrolet-Montana-Off-Road.jpg",
+    "NOME": "montana-arena-1.4-2010",
+    "ANO": "2010",
+    "MARCA": "chevrolet",
+    "MODELO": "montana",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Montana",
+        "Versão:": "Arena 1.4",
+        "Ano/modelo:": "2010",
+        "Detalhes:": "Nacional, picape, 2 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.389 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Flex",
+        "Potência:": "105 cv (E) / 99 cv (G) @ 6.000 rpm",
+        "Torque:": "13,4 kgfm (E) / 13,2 kgfm (G) @ 2.800 rpm",
+        "Taxa de compressão:": "12,4:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 s",
+        "Velocidade máxima:": "173 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,5 km/l (E) / 9,6 km/l (G)",
+        "Rodoviário:": "7,8 km/l (E) / 11,1 km/l (G)",
+        "Autonomia:": "405 km (E) / 577 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Disco ventilado",
+        "Traseiro:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.422 mm",
+        "Altura:": "1.456 mm",
+        "Largura:": "1.646 mm",
+        "Entre eixos:": "2.714 mm",
+        "Vão livre do solo:": "153 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.078 kg",
+        "Caçamba:": "1.143 litros",
+        "Carga útil:": "722 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

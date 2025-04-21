@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Grand-Cherokee-2000.jpg",
+    "NOME": "grand-cherokee-limited-3.0-v6-turbodiesel-2010",
+    "ANO": "2010",
+    "MARCA": "jeep",
+    "MODELO": "grand",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Grand Cherokee",
+        "Versão:": "Limited 3.0 V6 Turbodiesel 2010",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.287 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "218 @ 4.000 rpm",
+        "Torque máx. (kgfm):": "52 @ 1.600 rpm",
+        "Potência específica:": "73 cv/litro",
+        "Torque específico:": "17,4 kgfm/litro",
+        "Taxa de compressão:": "18:1",
+        "Rel. peso/potência:": "10,3 kg/cv",
+        "Rel. peso/torque:": "43 kg/kgfm",
+        "Curso dos pistões:": "92 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,7 seg",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,6",
+        "Estrada em km/l:": "11,6",
+        "Autonomia em km:": "963"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/65 R17",
+        "Traseira:": "245/65 R17",
+        "Altura do flanco:": "159 mm",
+        "Estepe:": "245/65 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,77 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.750 mm",
+        "Altura:": "1.740 mm",
+        "Largura:": "1.870 mm",
+        "Entre eixos:": "2.781 mm",
+        "Bitola dianteira:": "1.575 mm",
+        "Bitola traseira:": "1.575 mm",
+        "Vão livre do solo:": "209 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.235 kg",
+        "Porta-malas:": "978 litros",
+        "Carga útil:": "515 kg",
+        "Tanque combustível:": "83 litros"
+    }
+}

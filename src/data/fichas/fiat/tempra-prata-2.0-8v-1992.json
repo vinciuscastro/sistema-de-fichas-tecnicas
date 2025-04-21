@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Fiat-Tempra-92.jpg",
+    "NOME": "tempra-prata-2.0-8v-1992",
+    "ANO": "1992",
+    "MARCA": "fiat",
+    "MODELO": "tempra",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Tempra",
+        "Versão:": "Prata 2.0 8V 1992",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "99 @ 5.250 rpm",
+        "Torque máximo kgfm:": "16,4 @ 3.000 rpm",
+        "Potência específica:": "49,6 cv/litro",
+        "Torque específico:": "8,2 kgfm/litro",
+        "Taxa de compressão:": "8,7:1",
+        "Rel. peso/potência:": "12,4 kg/cv",
+        "Rel. peso/torque:": "74,7 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro cilindros:": "84 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C510"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,8 seg",
+        "Velocidade máxima:": "176 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,9",
+        "Estrada em km/l:": "11,5",
+        "Autonomia em km:": "805"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Altura do flanco:": "120 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,11 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.354 mm",
+        "Altura:": "1.457 mm",
+        "Largura:": "1.702 mm",
+        "Entre-eixos:": "2.543 mm",
+        "Bitola dianteira:": "1.426 mm",
+        "Bitola traseira:": "1.404 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.225 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

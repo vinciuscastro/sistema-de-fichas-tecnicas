@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Altima.jpg",
+    "NOME": "altima-sl-2.5-2014",
+    "ANO": "2014",
+    "MARCA": "nissan",
+    "MODELO": "altima",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Altima",
+        "Versão:": "SL 2.5 2014",
+        "Origem:": "Importado - México",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.488 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "182 @ 6.000 rpm",
+        "Torque em kgfm:": "24,8 @ 4.000 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "QR25DE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "6",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,7 s",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "9,7 km/l",
+        "Estrada:": "13,1 km/l",
+        "Autonomia:": "891 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Molas Helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55/R17",
+        "Traseira:": "215/55/R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,29 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.865 mm",
+        "Altura:": "1.470 mm",
+        "Largura:": "1.830 mm",
+        "Entre eixos:": "2.775 mm",
+        "Bitola dianteira:": "1.585 mm",
+        "Bitola traseira:": "1.585 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.469 kg",
+        "Porta-malas:": "436 litros",
+        "Carga útil:": "355 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Chrysler-Stratus-97.jpg",
+    "NOME": "stratus-lx-2.5-v6-1997",
+    "ANO": "1997",
+    "MARCA": "chrysler",
+    "MODELO": "stratus",
+    "ESPECIFICACAO": {
+        "Marca:": "Chrysler",
+        "Modelo:": "Stratus",
+        "Versão:": "LX 2.5 V6 1997",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.497 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "informação não disponível",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "163 @ 5.850 rpm",
+        "Torque máximo kgfm:": "22,2 @ 4.400 rpm",
+        "Potência específica:": "65,3 cv/litro",
+        "Torque específico:": "8,9 kgfm/litro",
+        "Taxa de compressão:": "9,4:1",
+        "Rel. peso/potência:": "8,8 kg/cv",
+        "Rel. peso/torque:": "64,9 kg/kgfm",
+        "Curso dos pistões:": "76 mm",
+        "Diâmetro cilindros:": "83,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "6G73"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,5 seg",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "11,5",
+        "Autonomia em km:": "690"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/60 R15",
+        "Traseira:": "205/60 R15",
+        "Altura do flanco:": "123 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,07 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.750 mm",
+        "Altura:": "1.370 mm",
+        "Largura:": "1.780 mm",
+        "Entre-eixos:": "2.747 mm",
+        "Bitola dianteira:": "1.518 mm",
+        "Bitola traseira:": "1.518 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.441 kg",
+        "Porta-malas:": "436 litros",
+        "Carga útil:": "489 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-Pampa-93.png",
+    "NOME": "pampa-gl-1.8-1990",
+    "ANO": "1990",
+    "MARCA": "ford",
+    "MODELO": "pampa",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Pampa",
+        "Versão:": "GL 1.8 1990",
+        "Combustível:": "Álcool",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.781 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Potência em CV:": "92 @ 5.400 rpm",
+        "Torque em kgfm:": "14,7 @ 3.400 rpm",
+        "Taxa de compressão:": "8,5:1",
+        "Código do motor:": "AP-1800"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,5 seg",
+        "Velocidade máxima:": "152 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,9",
+        "Estrada em km/l:": "12,4",
+        "Autonomia em km:": "918"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Não assistida",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,93 m²",
+        "Coef. aerodinâmico:": "0,52 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.382 mm",
+        "Altura:": "1.355 mm",
+        "Largura:": "1.674 mm",
+        "Entre eixos:": "2.578 mm",
+        "Bitola dianteira:": "1.367 mm",
+        "Bitola traseira:": "1.349 mm",
+        "Vão livre do solo:": "165 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.020 kg",
+        "Caçamba:": "840 litros",
+        "Carga útil:": "530 kg",
+        "Tanque combustível:": "74 litros"
+    }
+}

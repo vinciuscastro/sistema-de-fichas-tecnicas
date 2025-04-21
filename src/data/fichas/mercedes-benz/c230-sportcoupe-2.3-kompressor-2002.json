@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-230-2002.jpg",
+    "NOME": "c230-sportcoupe-2.3-kompressor-2002",
+    "ANO": "2002",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c230",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C230",
+        "Versão:": "SportCoupe 2.3 Kompressor",
+        "Ano/modelo:": "2002",
+        "Detalhes:": "Importado, coupe, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Compressor",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.295 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "197 cv @ 5.500 rpm",
+        "Torque:": "28,5 kgfm @ 2.500 rpm",
+        "Taxa de compressão:": "9:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,1 s",
+        "Velocidade máxima:": "237 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,6 km/l",
+        "Rodoviário:": "10,7 km/l",
+        "Autonomia:": "663 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,07 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.343 mm",
+        "Altura:": "1.406 mm",
+        "Largura:": "1.728 mm",
+        "Entre-eixos:": "2.715 mm",
+        "Bitola dianteira:": "1.493 mm",
+        "Bitola traseira:": "1.464 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.500 kg",
+        "Porta-malas:": "310 litros",
+        "Carga útil:": "425 kg",
+        "Tanque combustível:": "62 litros"
+    }
+}

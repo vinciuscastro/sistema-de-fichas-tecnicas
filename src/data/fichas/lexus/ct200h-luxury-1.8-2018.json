@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Lexus/Lexus-CT200h-02.jpg",
+    "NOME": "ct200h-luxury-1.8-2018",
+    "ANO": "2018",
+    "MARCA": "lexus",
+    "MODELO": "ct200h",
+    "ESPECIFICACAO": {
+        "Marca:": "Lexus",
+        "Modelo:": "CT200h",
+        "Versão:": "Luxury 1.8 2018",
+        "Combustível:": "Híbrido - Gasolina / Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.798 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência em CV:": "99 @ 5.200 rpm",
+        "Torque em kgfm:": "14,5 @ 4.000 rpm",
+        "Potência específica:": "55,1 cv/litro",
+        "Torque específico:": "8,1 kgfm/litro",
+        "Taxa de compressão:": "13:1",
+        "Relação peso/potência:": "14,8 kg/cv",
+        "Relação peso/torque:": "101 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "80,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "2ZR-FXE",
+        "Potência:": "82 cv",
+        "Potência combinada:": "136 cv",
+        "Torque:": "21 kgfm",
+        "Torque combinado:": "26,5 kgfm",
+        "Capacidade bateria:": "informação não disponível",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "CVT",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,3 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "15,7",
+        "Estrada em km/l:": "14,2",
+        "Autonomia em km:": "707"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,18 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.355 mm",
+        "Altura:": "1.455 mm",
+        "Largura:": "1.765 mm",
+        "Entre eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.540 mm",
+        "Bitola traseira:": "1.530 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.465 kg",
+        "Porta-malas:": "375 litros",
+        "Carga útil:": "325 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

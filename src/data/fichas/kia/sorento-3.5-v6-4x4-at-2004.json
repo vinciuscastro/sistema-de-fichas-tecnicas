@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Sorento-2004.jpg",
+    "NOME": "sorento-3.5-v6-4x4-at-2004",
+    "ANO": "2004",
+    "MARCA": "kia",
+    "MODELO": "sorento",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Sorento",
+        "Versão:": "3.5 V6 4x4 AT 2004",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.497 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "197 @ 5.500 rpm",
+        "Torque máx. (kgfm):": "30,1 @ 3.000 rpm",
+        "Potência específica:": "56,3 cv/litro",
+        "Torque específico:": "8,6 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "9,9 kg/cv",
+        "Rel. peso/torque:": "64,8 kg/kgfm",
+        "Curso dos pistões:": "85,8 mm",
+        "Diâmetro dos cilindros:": "93 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Sigma"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12 seg",
+        "Velocidade máxima:": "185 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,7",
+        "Estrada em km/l:": "7",
+        "Autonomia em km:": "560"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/70 R16",
+        "Traseira:": "245/70 R16",
+        "Altura do flanco:": "172 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,73 m²",
+        "Coef. aerodinâmico:": "0,42 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.567 mm",
+        "Altura:": "1.725 mm",
+        "Largura:": "1.863 mm",
+        "Entre eixos:": "2.710 mm",
+        "Bitola dianteira:": "1.580 mm",
+        "Bitola traseira:": "1.580 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.950 kg",
+        "Porta-malas:": "440 litros",
+        "Carga útil:": "630 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Setembro/Fusion-2010.jpg",
+    "NOME": "fusion-hybrid-2.5-2011",
+    "ANO": "2011",
+    "MARCA": "ford",
+    "MODELO": "fusion",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Fusion",
+        "Versão:": "Hybrid 2.5 2011",
+        "Combustível:": "Híbrido - Gasolina/Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.488 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "158 @ 6.000 rpm",
+        "Torque em kgfm:": "18,8 @ 2.250 rpm",
+        "Potência específica:": "63,5 cv/litro",
+        "Torque específico:": "7,6 kgfm/litro",
+        "Taxa de compressão:": "12,3:1",
+        "Relação peso/potência:": "10,7 kg/cv",
+        "Relação peso/torque:": "89,7 kg/kgfm",
+        "Curso dos pistões:": "100 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Duratec",
+        "Potência:": "107 cv",
+        "Potência combinada:": "193 cv",
+        "Torque:": "18 kgfm",
+        "Torque combinado:": "informação não disponível",
+        "Capacidade bateria:": "informação não disponível",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "CVT",
+        "Acoplamento:": "Engrenagem Epicicloidal",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,1 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "13,8",
+        "Estrada em km/l:": "13,1",
+        "Autonomia em km:": "911"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R17",
+        "Traseira:": "225/50 R17",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.841 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.835 mm",
+        "Entre eixos:": "2.728 mm",
+        "Bitola dianteira:": "1.568 mm",
+        "Bitola traseira:": "1.557 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.568 kg",
+        "Porta-malas:": "405 litros",
+        "Carga útil:": "386 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

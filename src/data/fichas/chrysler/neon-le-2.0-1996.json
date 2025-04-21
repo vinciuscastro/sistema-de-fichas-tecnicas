@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Chrysler-Neon.jpg",
+    "NOME": "neon-le-2.0-1996",
+    "ANO": "1996",
+    "MARCA": "chrysler",
+    "MODELO": "neon",
+    "ESPECIFICACAO": {
+        "Marca:": "Chrysler",
+        "Modelo:": "Neon",
+        "Versão:": "LE 2.0 1996",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.996 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "informação não disponível",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "133 @ 5.850 rpm",
+        "Torque máximo kgfm:": "17,7 @ 4.850 rpm",
+        "Potência específica:": "66,6 cv/litro",
+        "Torque específico:": "8,9 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Rel. peso/potência:": "8,6 kg/cv",
+        "Rel. peso/torque:": "64,4 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro cilindros:": "87,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "A588"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "NVG T-350"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 seg",
+        "Velocidade máxima:": "199 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,8",
+        "Estrada em km/l:": "10,7",
+        "Autonomia em km:": "503"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R14",
+        "Traseira:": "175/65 R14",
+        "Altura do flanco:": "114 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,99 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.364 mm",
+        "Altura:": "1.369 mm",
+        "Largura:": "1.714 mm",
+        "Entre-eixos:": "2.642 mm",
+        "Bitola dianteira:": "1.458 mm",
+        "Bitola traseira:": "1.458 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.140 kg",
+        "Porta-malas:": "330 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

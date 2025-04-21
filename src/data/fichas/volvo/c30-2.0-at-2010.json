@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volvo-C30.jpg",
+    "NOME": "c30-2.0-at-2010",
+    "ANO": "2010",
+    "MARCA": "volvo",
+    "MODELO": "c30",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "C30",
+        "Versão:": "2.0 AT",
+        "Origem:": "Importado - Suécia",
+        "Detalhes:": "Hatch, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "145 @ 6.000 rpm",
+        "Torque em kgfm:": "18,9 @ 4.500 rpm",
+        "Taxa de compressão:": "10,8:1",
+        "Código do motor:": "B4204S3"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MPS6"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,7 s",
+        "Velocidade máxima:": "205 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,6",
+        "Estrada em km/l:": "10,1",
+        "Autonomia em km:": "556"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55/R16",
+        "Traseira:": "205/55/R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,19 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.252 mm",
+        "Altura:": "1.447 mm",
+        "Largura:": "1.782 mm",
+        "Entre eixos:": "2.640 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.531 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.329 kg",
+        "Porta-malas:": "233 litros",
+        "Carga útil:": "421 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/Range.jpg",
+    "NOME": "range-rover-vogue-se-4.4-v8-2019",
+    "ANO": "2019",
+    "MARCA": "land-rover",
+    "MODELO": "range",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Range Rover",
+        "Versão:": "Vogue SE 4.4 V8",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "4.367 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "339 cv @ 3.500 rpm",
+        "Torque:": "75,5 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "16,1:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,7 s",
+        "Velocidade máxima:": "209 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,2 km/l",
+        "Rodoviário:": "10,4 km/l",
+        "Autonomia:": "894 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/50 R20",
+        "Traseira:": "255/50 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,23 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.000 mm",
+        "Altura:": "1.835 mm",
+        "Largura:": "2.073 mm",
+        "Entre-eixos:": "2.922 mm",
+        "Bitola dianteira:": "1.690 mm",
+        "Bitola traseira:": "1.653 mm",
+        "Vão livre do solo:": "295 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.504 kg",
+        "Porta-malas:": "535 litros",
+        "Carga útil:": "786 kg",
+        "Tanque combustível:": "86 litros"
+    }
+}

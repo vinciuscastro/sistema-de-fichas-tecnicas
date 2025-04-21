@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-325i-touring.jpg",
+    "NOME": "325i-touring-2.5-2008",
+    "ANO": "2008",
+    "MARCA": "bmw",
+    "MODELO": "325i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "325i",
+        "Versão:": "Touring 2.5 2008",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Perua",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.497 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "218 @ 6.500 rpm",
+        "Torque máximo em kgfm:": "25,5 @ 2.750 rpm",
+        "Potência específica:": "87,3 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "6,9 kg/cv",
+        "Relação peso/torque:": "58,8 kg/kgfm",
+        "Curso dos pistões:": "78,8 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N52B25"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 6HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,9 seg",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6",
+        "Estrada em km/l:": "10,5",
+        "Autonomia em km:": "662"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.520 mm",
+        "Altura:": "1.418 mm",
+        "Largura:": "1.817 mm",
+        "Entre eixos:": "2.760 mm",
+        "Bitola dianteira:": "1.500 mm",
+        "Bitola traseira:": "1.513 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.500 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

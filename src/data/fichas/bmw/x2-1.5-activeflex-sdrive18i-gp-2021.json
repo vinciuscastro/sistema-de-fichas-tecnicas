@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Marco/X2_M35.jpg",
+    "NOME": "x2-1.5-activeflex-sdrive18i-gp-2021",
+    "ANO": "2021",
+    "MARCA": "bmw",
+    "MODELO": "x2",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X2",
+        "Versão:": "Sdrive18i GP",
+        "Origem:": "Importado - Alemanha",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "3,em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência CV:": "136 @ 4.400 rpm",
+        "Torque kgfm:": "22,4 @ 1.500 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,7 s",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "7,4 km/l (E) / 10,6 km/l (G)",
+        "Estrada:": "8,7 km/l (E) / 12,5 km/l (G)",
+        "Autonomia:": "443 km (E) / 637 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50/18",
+        "Traseira:": "225/50/18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,37 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.360 mm",
+        "Altura:": "1.526 mm",
+        "Largura:": "1.824 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.575 mm",
+        "Bitola traseira:": "1.572 mm",
+        "Vão livre do solo:": "182 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.593 kg",
+        "Porta-malas:": "470 litros",
+        "Carga útil:": "580 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

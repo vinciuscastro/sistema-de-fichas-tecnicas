@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Toyota_Hilux_2021.jpg",
+    "NOME": "hilux-sr-2.7-4x2-at-cd-2021",
+    "ANO": "2021",
+    "MARCA": "toyota",
+    "MODELO": "hilux",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Hilux",
+        "Versão:": "SR 2.7 4x2 AT CD 2021",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "8",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.694 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima (cv):": "163 (E) / 159 (G) @ 5.000 rpm",
+        "Torque máximo (kgfm):": "24,9 (E) / 24,9 (G) @ 4.000 rpm",
+        "Potência específica:": "60,5 cv/litro",
+        "Torque específico:": "9,2 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "11,4 kg/cv",
+        "Rel. peso/torque:": "74,7 kg/kgfm",
+        "Curso dos pistões:": "95 mm",
+        "Diâmetro dos cilindros:": "95 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "2TR-FBE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "AC60E / AC60F"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15 seg",
+        "Velocidade máxima:": "165 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,8 (E) / 6,9 (G)",
+        "Estrada em km/l:": "5,6 (E) / 8,1 (G)",
+        "Autonomia em km:": "448 (E) / 648 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/65 R17",
+        "Traseira:": "265/65 R17",
+        "Estepe:": "265/65 R17",
+        "Altura do flanco:": "159 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.325 mm",
+        "Altura:": "1.815 mm",
+        "Largura:": "1.855 mm",
+        "Entre eixos:": "3.085 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "286 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.860 kg",
+        "Caçamba:": "1.036 litros",
+        "Carga útil:": "1.000 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

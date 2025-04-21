@@ -1,0 +1,72 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen_Amarok_CS_2014.jpg",
+    "NOME": "amarok-s-2.0-4x2-cs-2014",
+    "ANO": "2014",
+    "MARCA": "volkswagen",
+    "MODELO": "amarok",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Amarok",
+        "Versão:": "S 2.0 4x2 CS",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Importado, pickup, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.968 cc",
+        "Cilindros:": "4, linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "140 cv @ 3.500 rpm",
+        "Torque:": "34,7 kgfm @ 1.600 rpm",
+        "Taxa de compressão:": "16:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,6 s",
+        "Velocidade máxima:": "168 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9 km/l",
+        "Rodoviário:": "12,6 km/l",
+        "Autonomia:": "1.008 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Disco ventilado",
+        "Traseiro:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,9 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.254 mm",
+        "Altura:": "1.820 mm",
+        "Largura:": "1.944 mm",
+        "Entre-eixos:": "3.095 mm",
+        "Bitola dianteira:": "1.647 mm",
+        "Bitola traseira :": "1.644 mm",
+        "Ângulo de entrada:": "30 graus",
+        "Ângulo de saída:": "22 graus",
+        "Vão livre do solo:": "240 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.825 kg",
+        "Caçamba:": "1.814 litros",
+        "Carga útil:": "1.215 kg",
+        "Rampa máxima:": "45 graus",
+        "Travessia na água:": "500 mm",
+        "Tanque combustível:": "80 litros"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/3008-2012.jpg",
+    "NOME": "3008-griffe-1.6-turbo-2014",
+    "ANO": "2014",
+    "MARCA": "peugeot",
+    "MODELO": "3008",
+    "ESPECIFICACAO": {
+        "Marca:": "Peugeot",
+        "Modelo:": "3008",
+        "Versão:": "Griffe 1.6 Turbo 2014",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima (cv):": "165 @ 6.000 rpm",
+        "Torque máximo (kgfm):": "24,5 @ 1.400 rpm",
+        "Potência específica:": "103,3 cv/litro",
+        "Torque específico:": "15,3 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "9 kg/cv",
+        "Rel. peso/torque:": "60,4 kg/kgfm",
+        "Curso dos pistões:": "85,8 mm",
+        "Diâmetro dos cilindros:": "77 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EP6FDT M"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin TF-71SC"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 seg",
+        "Velocidade máxima:": "202 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,3",
+        "Estrada em km/l:": "11,1",
+        "Autonomia em km:": "666"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R17",
+        "Traseira:": "225/50 R17",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,56 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.365 mm",
+        "Altura:": "1.639 mm",
+        "Largura:": "1.837 mm",
+        "Entre-eixos:": "2.613 mm",
+        "Bitola dianteira:": "1.532 mm",
+        "Bitola traseira:": "1.527 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.480 kg",
+        "Porta-malas:": "432 litros",
+        "Carga útil:": "600 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

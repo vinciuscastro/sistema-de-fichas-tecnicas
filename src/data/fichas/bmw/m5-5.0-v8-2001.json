@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M5-1995.jpg",
+    "NOME": "m5-5.0-v8-2001",
+    "ANO": "2001",
+    "MARCA": "bmw",
+    "MODELO": "m5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M5",
+        "Versão:": "5.0 V8 2001",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "4.941 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "400 @ 6.600 rpm",
+        "Torque máximo em kgfm:": "51 @ 3.800 rpm",
+        "Potência específica:": "81 cv/litro",
+        "Torque específico:": "10,3 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "4,3 kg/cv",
+        "Relação peso/torque:": "33,7 kg/kgfm",
+        "Curso dos pistões:": "89 mm",
+        "Diâmetro dos cilindros:": "94 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,3 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,1",
+        "Estrada em km/l:": "7,4",
+        "Autonomia em km:": "518"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R17",
+        "Traseira:": "275/35 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,19 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.784 mm",
+        "Altura:": "1.432 mm",
+        "Largura:": "1.800 mm",
+        "Entre eixos:": "2.830 mm",
+        "Bitola dianteira:": "1.515 mm",
+        "Bitola traseira:": "1.527 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.720 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "570 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

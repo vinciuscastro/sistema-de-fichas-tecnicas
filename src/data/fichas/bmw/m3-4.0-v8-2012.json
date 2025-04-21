@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M3-2008.jpg",
+    "NOME": "m3-4.0-v8-2012",
+    "ANO": "2012",
+    "MARCA": "bmw",
+    "MODELO": "m3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M3",
+        "Versão:": "4.0 V8 2012",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.999 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "420 @ 8.300 rpm",
+        "Torque máximo em kgfm:": "40,8 @ 3.900 rpm",
+        "Potência específica:": "105 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Relação peso/potência:": "4 kg/cv",
+        "Relação peso/torque:": "41,2 kg/kgfm",
+        "Curso dos pistões:": "75,2 mm",
+        "Diâmetro dos cilindros:": "92 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S65B40"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,9 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,3",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "567"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R18",
+        "Traseira:": "265/40 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,23 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.580 mm",
+        "Altura:": "1.447 mm",
+        "Largura:": "1.817 mm",
+        "Entre eixos:": "2.761 mm",
+        "Bitola dianteira:": "1.540 mm",
+        "Bitola traseira:": "1.539 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.680 kg",
+        "Porta-malas:": "450 litros",
+        "Carga útil:": "470 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

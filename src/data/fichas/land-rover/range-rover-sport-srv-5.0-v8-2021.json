@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Range-Rover-Sport-2021.jpg",
+    "NOME": "range-rover-sport-srv-5.0-v8-2021",
+    "ANO": "2021",
+    "MARCA": "land-rover",
+    "MODELO": "range",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Range Rover",
+        "Versão:": "Sport SRV",
+        "Origem:": "Importado - Inglaterra",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Compressor",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "5.000 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "575 @ 6.000 rpm",
+        "Torque em kgfm:": "71,4 @ 3.500 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "Jaguar AJ-133"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,5 s",
+        "Velocidade máxima:": "280 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,6",
+        "Estrada em km/l:": "7,7",
+        "Autonomia em km:": "801"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/45/R21",
+        "Traseira:": "275/45/R21"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,18 m2",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.879 mm",
+        "Altura:": "1.803 mm",
+        "Largura:": "2.073 mm",
+        "Entre eixos:": "2.923 mm",
+        "Bitola dianteira:": "1.693 mm",
+        "Bitola traseira:": "1.686 mm",
+        "Vão livre do solo:": "278 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.310 kg",
+        "Porta-malas:": "535 litros",
+        "Carga útil:": "690 kg",
+        "Tanque combustível:": "104 litros"
+    }
+}

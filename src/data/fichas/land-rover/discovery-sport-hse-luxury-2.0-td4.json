@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-07.jpg",
+    "NOME": "discovery-sport-hse-luxury-2.0-td4",
+    "ANO": "TD4",
+    "MARCA": "land-rover",
+    "MODELO": "discovery",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Discovery Sport",
+        "Versão:": "SE 2.0 TD4",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, SUV, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "180 cv @ 4.000 rpm",
+        "Torque:": "43,8 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "15,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 s",
+        "Velocidade máxima:": "188 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "11 km/l",
+        "Rodoviário:": "13,2 km/l",
+        "Autonomia:": "858 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "235/60 R18",
+        "Traseiros:": "235/60 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.589 mm",
+        "Altura:": "1.724 mm",
+        "Largura:": "2.000 mm",
+        "Entre-eixos:": "2.741 mm",
+        "Vão livre do solo:": "212 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.775 kg",
+        "Porta-malas:": "200 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-2011.jpg",
+    "NOME": "c250-sport-1.8-turbo-2011",
+    "ANO": "2011",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c250",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C250",
+        "Versão:": "Sport 1.8 Turbo",
+        "Ano/modelo:": "2011",
+        "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "204 cv @ 5.500 rpm",
+        "Torque:": "31,6 kgfm @ 2.000 rpm",
+        "Taxa de compressão:": "9,3:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,4 s",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8 km/l",
+        "Rodoviário:": "13 km/l",
+        "Autonomia:": "858 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,25 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.581 mm",
+        "Altura:": "1.444 mm",
+        "Largura:": "1.770 mm",
+        "Entre-eixos:": "2.760 mm",
+        "Bitola dianteira:": "1.541 mm",
+        "Bitola traseira:": "1.544 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.505 kg",
+        "Porta-malas:": "475 litros",
+        "Carga útil:": "560 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

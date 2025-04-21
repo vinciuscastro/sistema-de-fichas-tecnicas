@@ -1,0 +1,72 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chevrolet-Tracker-2001.jpg",
+    "NOME": "tracker-2.0-turbodiesel-2003",
+    "ANO": "2003",
+    "MARCA": "chevrolet",
+    "MODELO": "tracker",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Tracker",
+        "Versão:": "2.0 Turbodiesel 4x4",
+        "Ano/modelo:": "2003",
+        "Detalhes:": "Importado, utilitário, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Diesel",
+        "Potência:": "108 cv @ 4.000 rpm",
+        "Torque:": "25,5 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "17,6:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13 s",
+        "Velocidade máxima:": "163 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "11 km/l",
+        "Rodoviário:": "15 km/l",
+        "Autonomia:": "990 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Disco ventilado",
+        "Traseiros:": "Tambor"
+    },
+    "PNEUS": {
+        "Dianteiros:": "235/60 R16",
+        "Traseiros:": "235/60 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.215 mm",
+        "Altura:": "1.740 mm",
+        "Largura:": "1.780 mm",
+        "Entre eixos:": "2.480 mm",
+        "Bitola dianteira:": "1.500 mm",
+        "Bitola traseira:": "1.500 mm",
+        "Vão livre do solo:": "180 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.540 kg",
+        "Porta-malas:": "275 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

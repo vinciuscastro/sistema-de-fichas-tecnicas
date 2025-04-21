@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/Ranger-2013.jpg",
+    "NOME": "ranger-xls-2.5-cd-2014",
+    "ANO": "2014",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "XLS 2.5 CD",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Importado, picape, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "2.488 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "173 cv (E) / 168 cv (G) @ 5.500 rpm",
+        "Torque:": "24,7 kgfm (E) / 24 kgfm (G) @ 4.250 rpm",
+        "Taxa de compressão:": "9,7:1",
+        "Código do motor:": "Duratec"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,5 s",
+        "Velocidade máxima:": "171 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4 km/l (E) / 5,2 km/l (G)",
+        "Rodoviário:": "5,9 km/l (E) / 7,6 km/l (G)",
+        "Autonomia:": "472 km (E) / 608 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/70 R16",
+        "Traseira:": "255/70 R16"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.351 mm",
+        "Altura:": "1.848 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "3.220 mm",
+        "Bitola dianteira:": "1.590 mm",
+        "Bitola traseira:": "1.590 mm",
+        "Vão livre do solo:": "232 mm",
+        "Ângulo de ataque:": "28 graus",
+        "Ângulo de saída": "26 graus",
+        "Travessia na água máx.": "800 mm",
+        "Inclinação lateral máx.": "45 graus"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.909 kg",
+        "Caçamba:": "1.180 litros",
+        "Carga útil:": "1.291 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

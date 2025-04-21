@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Mitsubishi/Lancer-GT.jpg",
+    "NOME": "lancer-gt-2.0",
+    "ANO": "2.0",
+    "MARCA": "mitsubishi",
+    "MODELO": "lancer",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Lancer",
+        "Versão:": "GT 2.0",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Nacional, sedã, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "160 cv @ 6.000 rpm",
+        "Torque:": "20,1 kgfm @ 4.200 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,7 s",
+        "Velocidade máxima:": "198 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,1 km/l",
+        "Rodoviário:": "10,7 km/l",
+        "Autonomia:": "631 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "215/45 R18",
+        "Traseiros:": "215/45 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.570 mm",
+        "Altura:": "1.490 mm",
+        "Largura:": "1.765 mm",
+        "Entre-eixos:": "2.635 mm",
+        "Vão livre do solo:": "155 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.375 kg",
+        "Porta-malas:": "413 litros",
+        "Carga útil:": "475 kg",
+        "Tanque combustível:": "59 litros"
+    }
+}

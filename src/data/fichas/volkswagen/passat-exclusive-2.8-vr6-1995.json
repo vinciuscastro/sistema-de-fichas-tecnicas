@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Passat-VR6.jpg",
+    "NOME": "passat-exclusive-2.8-vr6-1995",
+    "ANO": "1995",
+    "MARCA": "volkswagen",
+    "MODELO": "passat",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Passat",
+        "Versão:": "Exclusive 2.8 VR6",
+        "Ano/modelo:": "1995",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.792 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "174 cv @ 5.800 rpm",
+        "Torque:": "24 kgfm @ 5.200 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "VR6"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,7 s",
+        "Velocidade máxima:": "224 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7 km/l",
+        "Rodoviário:": "10 km/l",
+        "Autonomia:": "700 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/50 R15",
+        "Traseira:": "205/50 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,09 m²",
+        "Coef. aerodinâmico:": "0,31"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.605 mm",
+        "Altura:": "1.430 mm",
+        "Largura:": "1.720 mm",
+        "Entre-eixos:": "2.625 mm",
+        "Bitola dianteira:": "1.460 mm",
+        "Bitola traseira:": "1.422 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.325 kg",
+        "Porta-malas:": "495 litros",
+        "Carga útil:": "530 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

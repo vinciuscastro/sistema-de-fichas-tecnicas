@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4-07.jpg",
+    "NOME": "t4-3.0-turbo-4x4-2007",
+    "ANO": "2007",
+    "MARCA": "troller",
+    "MODELO": "t4",
+    "ESPECIFICACAO": {
+        "Marca:": "Troller",
+        "Modelo:": "T4",
+        "Versão:": "3.0 Turbo",
+        "Origem:": "Nacional",
+        "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.968 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência em CV:": "163 @ 3.800 rpm",
+        "Torque em kgfm:": "38,8 @ 1.600 rpm",
+        "Taxa de compressão:": "17:1",
+        "Código do motor:": "International NGD 3.0E"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,4 s",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,3",
+        "Estrada em km/l:": "12,2",
+        "Autonomia em km:": "878"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/75/R15",
+        "Traseira:": "255/75/R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.940 mm",
+        "Altura:": "1.880 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "2.405 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.850 kg",
+        "Porta-malas:": "130 litros",
+        "Carga útil:": "530 kg",
+        "Tanque combustível:": "72 litros"
+    }
+}

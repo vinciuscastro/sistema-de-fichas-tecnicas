@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Toyota-Camry-1992.jpg",
+    "NOME": "camry-xle-3.0-v6-1994",
+    "ANO": "1994",
+    "MARCA": "toyota",
+    "MODELO": "camry",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Camry",
+        "Versão:": "XLE 3.0 V6 1994",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.959 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "188 @ 5.400 rpm",
+        "Torque máx. (kgfm):": "26 @ 4.400 rpm",
+        "Potência específica:": "63,5 cv/litro",
+        "Torque específico:": "8,8 kgfm/litro",
+        "Taxa de compressão:": "9,2:1",
+        "Rel. peso/potência:": "8,4 kg/cv",
+        "Rel. peso/torque:": "60,8 kg/kgfm",
+        "Curso dos pistões:": "82 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "3VZ-FE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,8 seg",
+        "Velocidade máxima:": "186 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,6",
+        "Estrada em km/l:": "9,5",
+        "Autonomia em km:": "665"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/65 R15",
+        "Traseira:": "205/65 R15",
+        "Altura do flanco:": "133 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,29 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.780 mm",
+        "Altura:": "1.400 mm",
+        "Largura:": "1.770 mm",
+        "Entre eixos:": "2.618 mm",
+        "Bitola dianteira:": "1.549 mm",
+        "Bitola traseira:": "1.499 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.580 kg",
+        "Porta-malas:": "427 litros",
+        "Carga útil:": "470 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

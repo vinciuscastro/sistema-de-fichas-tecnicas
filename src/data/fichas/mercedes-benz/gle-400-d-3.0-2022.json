@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Maio/Mercedes-Benz-GLE-400-2021.jpg",
+    "NOME": "gle-400-d-3.0-2022",
+    "ANO": "2022",
+    "MARCA": "mercedes-benz",
+    "MODELO": "gle",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "GLE",
+        "Versão:": "400 D 3.0 2022",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.927 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "330 @ 3.600 rpm",
+        "Torque máximo em kgfm:": "71,4 @ 1.200 rpm",
+        "Potência específica:": "112,7 cv/litro",
+        "Torque específico:": "24,4 kgfm/litro",
+        "Taxa de compressão:": "15,5:1",
+        "Relação peso/potência:": "6,8 kg/cv",
+        "Relação peso/torque:": "31,7 kg/kgfm",
+        "Curso dos pistões:": "92,4 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "OM656DE30LA"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatico",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "9G-Tronic"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,8 seg",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,7",
+        "Estrada em km/l:": "12,6",
+        "Autonomia em km:": "819"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/50 R20",
+        "Traseira:": "275/50 R20",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,93 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.924 mm",
+        "Altura:": "1.772 mm",
+        "Largura:": "1.947 mm",
+        "Entre eixos:": "2.995 mm",
+        "Bitola dianteira:": "1.667 mm",
+        "Bitola traseira:": "1.687 mm",
+        "Vão livre do solo:": "180 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.260 kg",
+        "Porta-malas:": "630 litros (5 lug) / 120 litros (7 lug)",
+        "Carga útil:": "810 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/mercedes-benz-cla-200-14.jpg",
+    "NOME": "cla-200-first-edition-1.6-turbo-2015",
+    "ANO": "2015",
+    "MARCA": "mercedes-benz",
+    "MODELO": "cla",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "CLA 200",
+        "Versão:": "First Edition 1.6 Turbo 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.595 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "156 @ 6.200 rpm",
+        "Torque máximo (kgfm):": "25,5 @ 1.250 rpm",
+        "Potência específica:": "97,8 cv/litro",
+        "Torque específico:": "16 kgfm/litro",
+        "Taxa de compressão:": "10,3:1",
+        "Rel. peso/potência:": "9,2 kg/cv",
+        "Rel. peso/torque:": "56,1 kg/kgfm",
+        "Curso dos pistões:": "73,7 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M274DE16"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "7G-DCT"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,5 seg",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,5",
+        "Estrada em km/l:": "11,5",
+        "Autonomia em km:": "575"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/40 R18",
+        "Traseira:": "225/40 R18",
+        "Altura do flanco:": "90 mm",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,16 m²",
+        "Coef. aerodinâmico:": "0,25 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.630 mm",
+        "Altura:": "1.432 mm",
+        "Largura:": "1.777 mm",
+        "Entre-eixos:": "2.699 mm",
+        "Bitola dianteira:": "1.549 mm",
+        "Bitola traseira:": "1.547 mm",
+        "Vão livre do solo:": "120 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.430 kg",
+        "Porta-malas:": "470 litros",
+        "Carga útil:": "485 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

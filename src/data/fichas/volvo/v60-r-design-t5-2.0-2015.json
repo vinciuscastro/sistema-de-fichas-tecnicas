@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/novembro/volvo-v60-12.jpg",
+    "NOME": "v60-r-design-t5-2.0-2015",
+    "ANO": "2015",
+    "MARCA": "volvo",
+    "MODELO": "v60",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "V60",
+        "Versão:": "R-Design T5 2.0 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Perua",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.969 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima (cv):": "245 @ 5.500 rpm",
+        "Torque máximo (kgfm):": "35,7 @ 1.500 rpm",
+        "Potência específica:": "124,4 cv/litro",
+        "Torque específico:": "18,1 kgfm/litro",
+        "Taxa de compressão:": "10,8:1",
+        "Rel. peso/potência:": "7 kg/cv",
+        "Rel. peso/torque:": "48 kg/kgfm",
+        "Curso dos pistões:": "93,2 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "B4204T11"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,4 seg",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,3",
+        "Estrada em km/l:": "11,3",
+        "Autonomia em km:": "757"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/40 R18",
+        "Traseira:": "235/40 R18",
+        "Altura do flanco:": "94 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.635 mm",
+        "Altura:": "1.484 mm",
+        "Largura:": "1.825 mm",
+        "Entre eixos:": "2.776 mm",
+        "Bitola dianteira:": "1.578 mm",
+        "Bitola traseira:": "1.575 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.714 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "426 kg",
+        "Tanque combustível:": "67 litros"
+    }
+}

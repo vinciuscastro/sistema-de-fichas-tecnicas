@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/X1-18.jpg",
+    "NOME": "x1-sdrive-20i-turbo-2018",
+    "ANO": "2018",
+    "MARCA": "bmw",
+    "MODELO": "x1",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X1",
+        "Versão:": "sDrive 20i 2.0 Turbo",
+        "Ano/modelo:": "2018",
+        "Detalhes:": "Nacional, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "192 cv @ 5.000 rpm",
+        "Torque:": "28,5 kgfm @ 1.250 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B48A20M0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,7 s",
+        "Velocidade máxima:": "225 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7 km/l (E) / 10,3 km/l (G)",
+        "Rodoviário:": "9 km/l (E) / 13 km/l (G)",
+        "Autonomia:": "549 km (E) / 793 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R18",
+        "Traseira:": "225/50 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,50 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.439 mm",
+        "Altura:": "1.612 mm",
+        "Largura:": "1.821 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.561 mm",
+        "Bitola traseira:": "1.562 mm",
+        "Vão livre do solo:": "183 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.485 kg",
+        "Porta-malas:": "505 litros",
+        "Carga útil:": "590 kg",
+        "Tanque combustível:": "61 litros"
+    }
+}

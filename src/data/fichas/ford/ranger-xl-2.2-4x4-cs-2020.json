@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Ranger-CS-19.jpg",
+    "NOME": "ranger-xl-2.2-4x4-cs-2020",
+    "ANO": "2020",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "XL 2.2 4x4 CS",
+        "Ano modelo:": "2020",
+        "Detalhes:": "Importado, picape, 2 portas, 3 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.198 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "160 cv @ 3.200 rpm",
+        "Torque:": "39,3 kgfm @ 1.600 rpm",
+        "Taxa de compressão:": "15,5:1",
+        "Código do motor:": "Puma"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15 s",
+        "Velocidade máxima:": "164 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,3 km/l",
+        "Rodoviário:": "10,4 km/l",
+        "Autonomia:": "832 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/70 R16",
+        "Traseira:": "255/70 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.354 mm",
+        "Altura:": "1.806 mm",
+        "Largura:": "1.860 mm",
+        "Entre eixos:": "3.220 mm",
+        "Bitola dianteira:": "1.560 mm",
+        "Bitola traseira:": "1.560 mm",
+        "Vão livre do solo:": "232 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.966 kg",
+        "Caçamba:": "1.420 litros",
+        "Carga útil:": "1.234 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

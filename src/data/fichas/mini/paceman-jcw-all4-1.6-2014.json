@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Paceman-JCW-2014.jpg",
+    "NOME": "paceman-jcw-all4-1.6-2014",
+    "ANO": "2014",
+    "MARCA": "mini",
+    "MODELO": "paceman",
+    "ESPECIFICACAO": {
+        "Marca:": "Mini",
+        "Modelo:": "Paceman",
+        "Versão:": "John Cooper Works ALL4 1.6",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Importado, SUV, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "218 cv @ 6.000 rpm",
+        "Torque:": "28,5 kgfm @ 1.900 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "N13B16"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 s",
+        "Velocidade máxima:": "226 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8 km/l",
+        "Rodoviário:": "12,1 km/l",
+        "Autonomia:": "568 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R18",
+        "Traseira:": "225/45 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,30 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.124 mm",
+        "Altura:": "1.518 mm",
+        "Largura:": "1.786 mm",
+        "Entre-eixos:": "2.595 mm",
+        "Bitola dianteira:": "1.527 mm",
+        "Bitola traseira:": "1.554 mm",
+        "Vão livre do solo:": "124 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.420 kg",
+        "Porta-malas:": "330 litros",
+        "Carga útil:": "470 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

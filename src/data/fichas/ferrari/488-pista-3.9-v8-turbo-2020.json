@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ferrari-488-Pista.jpg",
+    "NOME": "488-pista-3.9-v8-turbo-2020",
+    "ANO": "2020",
+    "MARCA": "ferrari",
+    "MODELO": "488",
+    "ESPECIFICACAO": {
+        "Marca:": "Ferrari",
+        "Modelo:": "488",
+        "Versão:": "Pista 3.9 V8 Turbo 2020",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Porte:": "Grande",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.902 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima CV:": "720 @ 8.000 rpm",
+        "Torque máximo kgfm:": "78,5 @ 3.000 rpm",
+        "Potência específica:": "184,5 cv/litro",
+        "Torque específico:": "20,1 kgfm/litro",
+        "Taxa de compressão:": "9,4:1",
+        "Rel. peso/potência:": "1,8 kg/cv",
+        "Rel. peso/torque:": "16,3 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro cilindros:": "86,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,85 seg",
+        "Velocidade máxima:": "340 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,2",
+        "Estrada em km/l:": "8,4",
+        "Autonomia em km:": "655"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/35 R20",
+        "Traseira:": "305/30 R20",
+        "Altura do flanco:": "92 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.605 mm",
+        "Altura:": "1.206 mm",
+        "Largura:": "1.975 mm",
+        "Entre-eixos:": "2.650 mm",
+        "Bitola dianteira:": "1.679 mm",
+        "Bitola traseira:": "1.647 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.280 kg",
+        "Porta-malas:": "230 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "78 litros"
+    }
+}

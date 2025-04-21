@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/Siena-6m.jpg",
+    "NOME": "siena-1.0-6-marchas-2000",
+    "ANO": "2000",
+    "MARCA": "fiat",
+    "MODELO": "siena",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Siena",
+        "Versão:": "1.0 6 marchas",
+        "Ano fabricação:": "1999",
+        "Detalhes:": "Nacional, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "994 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "61 cv @ 6.000 rpm",
+        "Torque:": "8,1 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "9,3:1",
+        "Código do motor:": "Fiasa"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16,3 s",
+        "Velocidade máxima:": "152 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8 km/l",
+        "Rodoviário:": "13 km/l",
+        "Autonomia:": "624 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,98 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.100 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.614 mm",
+        "Entre-eixos:": "2.360 mm",
+        "Bitola dianteira:": "1.390 mm",
+        "Bitola traseira:": "1.380 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "990 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "48 litros"
+    }
+}

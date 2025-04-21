@@ -1,0 +1,100 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/volvo-s60.jpg",
+    "NOME": "s60-r-design-t8-2.0-2021",
+    "ANO": "2021",
+    "MARCA": "volvo",
+    "MODELO": "s60",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "S60",
+        "Versão:": "R-Desin T8 2.0",
+        "Combustível:": "Híbrido - gasolina/elétrico",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor e compressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.969 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "320 @ 6.000 rpm",
+        "Torque em kgfm:": "40,8 @ 2.200 rpm",
+        "Potência específica:": "162,5 cv/litro",
+        "Torque específico:": "20,7 kgfm/litro",
+        "Taxa de compressão:": "10,3:1",
+        "Relação peso/potência:": "6,4 kg/cv",
+        "Relação peso/torque:": "50,4 kg/kgfm",
+        "Curso dos pistões:": "93,2 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "B4204T48",
+        "Potência:": "87 cv",
+        "Potência combinada:": "407 cv",
+        "Torque:": "24,5 kgfm",
+        "Torque combinado:": "65,3 kgfm",
+        "Capacidade bateria:": "11,6 kWh",
+        "Autonomia elétrica:": "40 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "Aisin AW TG-81SD"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,4 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "21,9",
+        "Estrada em km/l:": "22,5",
+        "Autonomia em km:": "1.350"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola parabólica de lâmina única"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/40 R19",
+        "Traseira:": "235/40 R19",
+        "Estepe:": "125/80 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,27 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.761 mm",
+        "Altura:": "1.431 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "2.872 mm",
+        "Bitola dianteira:": "1.600 mm",
+        "Bitola traseira:": "1.600 mm",
+        "Vão livre do solo:": "142 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.055 kg",
+        "Porta-malas:": "442 litros",
+        "Carga útil:": "445 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

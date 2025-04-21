@@ -1,0 +1,102 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/ferrari-sf90-stradale.jpg",
+    "NOME": "sf90-stradale-4.0-v8-2022",
+    "ANO": "2022",
+    "MARCA": "ferrari",
+    "MODELO": "sf90",
+    "ESPECIFICACAO": {
+        "Marca:": "Ferrari",
+        "Modelo:": "sf90",
+        "Versão:": "Stradale 4.0 V8 2022",
+        "Combustível:": "Híbrido - Gasolina/Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.990 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "780 @ 7.500 rpm",
+        "Torque em kgfm:": "81,6 @ 6.000 rpm",
+        "Potência específica:": "195,5 cv/litro",
+        "Torque específico:": "20,5 kgfm/litro",
+        "Taxa de compressão:": "9,4:1",
+        "Relação peso/potência:": "2 kg/cv",
+        "Relação peso/torque:": "19,2 kg/kgfm",
+        "Curso dos pistões:": "82 mm",
+        "Diâmetro dos cilindros:": "88 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "F154CD",
+        "Potência:": "110 cv",
+        "Potência combinada:": "1.000 cv",
+        "Torque:": "informação não disponível",
+        "Torque combinado:": "informação não disponível",
+        "Capacidade bateria:": "7,9 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "25 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,5 seg",
+        "Velocidade máxima:": "340 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "816"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/35 R20",
+        "Traseira:": "315/30 R20",
+        "Altura do flanco:": "95 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.710 mm",
+        "Altura:": "1.186 mm",
+        "Largura:": "1.972 mm",
+        "Entre eixos:": "2.650 mm",
+        "Bitola dianteira:": "1.679 mm",
+        "Bitola traseira:": "1.652 mm",
+        "Vão livre do solo:": "125 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.570 kg",
+        "Porta-malas:": "74 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "68 litros"
+    }
+}

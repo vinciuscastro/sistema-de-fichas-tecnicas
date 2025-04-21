@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Crossfox-2015.jpg",
+    "NOME": "crossfox-1.6-16v-i-motion-2016",
+    "ANO": "2016",
+    "MARCA": "volkswagen",
+    "MODELO": "crossfox",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "CrossFox",
+        "Versão:": "1.6 16V I-Motion",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Nacional, hatch, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "120 cv (E) / 110 cv (G) @ 5.750 rpm",
+        "Torque:": "16,8 kgfm (E) / 15,8 kgfm (G) @ 4.000 rpm",
+        "Taxa de compressão:": "11,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado I-Motion",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,7 s",
+        "Velocidade máxima:": "179 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,8 km/l (E) / 9,5 km/l (G)",
+        "Rodoviário:": "7,3 km/l (E) / 10,3 km/l (G)",
+        "Autonomia:": "365 km (E) / 515 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Disco ventilado",
+        "Traseiro:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.053 mm",
+        "Altura:": "1.600 mm",
+        "Largura:": "1.663 mm",
+        "Entre-eixos:": "2.469 mm",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.162 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "418 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

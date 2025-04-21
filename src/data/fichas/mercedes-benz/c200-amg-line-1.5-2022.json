@@ -1,0 +1,102 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/mercedes-benz-c200-amg-line-15-2022.jpg",
+    "NOME": "c200-amg-line-1.5-2022",
+    "ANO": "2022",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c200",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C200",
+        "Versão:": "AMG Line 1.5 2022",
+        "Combustível:": "Híbrido - Gasolina / Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.497 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "204 @ 5.800 rpm",
+        "Torque em kgfm:": "30,6 @ 1.800 rpm",
+        "Potência específica:": "136,3 cv/litro",
+        "Torque específico:": "20,4 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "8,1 kg/cv",
+        "Relação peso/torque:": "53,9 kg/kgfm",
+        "Curso dos pistões:": "73,7 mm",
+        "Diâmetro dos cilindros:": "80,4 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M264DE15",
+        "Potência:": "20 cv",
+        "Potência combinada:": "204 cv",
+        "Torque:": "20,4 kgfm",
+        "Torque combinado:": "30,6 kgfm",
+        "Capacidade bateria:": "informação não disponível",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "9G-Tronic"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 seg",
+        "Velocidade máxima:": "246 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "11,1",
+        "Estrada em km/l:": "13,9",
+        "Autonomia em km:": "917"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R18",
+        "Traseira:": "225/45 R18",
+        "Altura do flanco:": "101 mm",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,24 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.751 mm",
+        "Altura:": "1.438 mm",
+        "Largura:": "1.820 mm",
+        "Entre eixos:": "2.865 mm",
+        "Bitola dianteira:": "1.582 mm",
+        "Bitola traseira:": "1.594 mm",
+        "Vão livre do solo:": "97 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.650 kg",
+        "Porta-malas:": "455 litros",
+        "Carga útil:": "690 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

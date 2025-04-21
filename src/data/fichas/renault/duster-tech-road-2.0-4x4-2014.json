@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Duster-tec-2013.jpg",
+    "NOME": "duster-tech-road-2.0-4x4-2014",
+    "ANO": "2014",
+    "MARCA": "renault",
+    "MODELO": "duster",
+    "ESPECIFICACAO": {
+        "Marca:": "Renault",
+        "Modelo:": "Duster",
+        "Versão:": "Tech Road 2.0 4x4",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Clico de admissão",
+        "Potência máx. (CV):": "142 (E) / 138 (G) @ 5.500 rpm",
+        "Torque máx. (kgfm):": "20,9 (E) / 19,7 (G) @ 3.750 rpm",
+        "Potência específica:": "71,1 cv/litro",
+        "Torque específico:": "10,5 kgfm/litro",
+        "Taxa de compressão:": "11,2:1",
+        "Rel. peso/potência:": "9,5 kg/cv",
+        "Rel. peso/torque:": "64,7 kg/kgfm",
+        "Curso dos pistões:": "93 mm",
+        "Diâmetro dos cilindros:": "82,7 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "F4R"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,4 seg",
+        "Velocidade máxima:": "181 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,1 (E) / 8,9 (G)",
+        "Estrada em km/l:": "7,2 (E) / 10,2 (G)",
+        "Autonomia em km:": "360 (E) / 510 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/65 R16",
+        "Traseira:": "215/65 R16",
+        "Altura do flanco:": "140 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,62 m²",
+        "Coef. aerodinâmico:": "0,40 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.315 mm",
+        "Altura:": "1.690 mm",
+        "Largura:": "1.822 mm",
+        "Entre eixos:": "2.673 mm",
+        "Bitola dianteira:": "1.557 mm",
+        "Bitola traseira:": "1.560 mm",
+        "Vão livre do solo:": "210 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.353 kg",
+        "Porta-malas:": "400 litros",
+        "Carga útil:": "493 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Nissan/GT-R-01.jpg",
+    "NOME": "gt-r-premium-3.8-v6-biturbo",
+    "ANO": "Biturbo",
+    "MARCA": "nissan",
+    "MODELO": "gt",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "GT-R",
+        "Versão:": "Premium 3.8 V6 Biturbo",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, coupé, 2 portas, 1 ano de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "3.799 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "572 cv @ 6.800 rpm",
+        "Torque:": "64,9 kgfm @ 3.300 rpm",
+        "Taxa de compressão:": "9:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,8 s",
+        "Velocidade máxima:": "320 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,8 km/l",
+        "Rodoviário:": "8 km/l",
+        "Autonomia:": "592 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "255/40 R20",
+        "Traseiros:": "285/35 R20"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.710 mm",
+        "Altura:": "1.370 mm",
+        "Largura:": "1.895 mm",
+        "Entre-eixos:": "2.780 mm",
+        "Vão livre do solo:": "105 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.752 kg",
+        "Porta-malas:": "315 litros",
+        "Carga útil:": "448 kg",
+        "Tanque combustível:": "74 litros"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Chrysler-PT-Cruiser01.jpg",
+    "NOME": "pt-cruiser-limited-2.4-2009",
+    "ANO": "2009",
+    "MARCA": "chrysler",
+    "MODELO": "pt",
+    "ESPECIFICACAO": {
+        "Marca:": "Chrysler",
+        "Modelo:": "PT Cruiser",
+        "Versão:": "Limited 2.4 2009",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.429 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "informação não disponível",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "143 @ 5.200 rpm",
+        "Torque máximo kgfm:": "22,4 @ 4.000 rpm",
+        "Potência específica:": "58,9 cv/litro",
+        "Torque específico:": "8,2 kgfm/litro",
+        "Taxa de compressão:": "9,5:1",
+        "Rel. peso/potência:": "11,1 kg/cv",
+        "Rel. peso/torque:": "70,8 kg/kgfm",
+        "Curso dos pistões:": "101 mm",
+        "Diâmetro cilindros:": "87,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,3 seg",
+        "Velocidade máxima:": "171 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "627"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/50 R17",
+        "Traseira:": "205/50 R17",
+        "Altura do flanco:": "103 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,32 m²",
+        "Coef. aerodinâmico:": "0,39 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.290 mm",
+        "Altura:": "1.601 mm",
+        "Largura:": "1.705 mm",
+        "Entre-eixos:": "2.616 mm",
+        "Bitola dianteira:": "1.481 mm",
+        "Bitola traseira:": "1.478 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.585 kg",
+        "Porta-malas:": "538 litros",
+        "Carga útil:": "392 kg",
+        "Tanque combustível:": "57 litros"
+    }
+}

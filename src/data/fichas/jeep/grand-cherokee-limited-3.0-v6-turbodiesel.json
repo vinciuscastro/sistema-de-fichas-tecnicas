@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Jeep/Grand_Cherokee-04.jpg",
+    "NOME": "grand-cherokee-limited-3.0-v6-turbodiesel",
+    "ANO": "turbodiesel",
+    "MARCA": "jeep",
+    "MODELO": "grand",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Grand Cherokee",
+        "Versão:": "Limited 3.0 V6 turbodiesel",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, SUV, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "2.987 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "241 cv @ 4.000 rpm",
+        "Torque:": "56 kgfm @ 1.800 rpm",
+        "Taxa de compressão:": "16,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,2 s",
+        "Velocidade máxima:": "202 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,7 km/l",
+        "Rodoviário:": "11,9 km/l",
+        "Autonomia:": "1.106 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "265/50 R20",
+        "Traseiros:": "265/50 R20"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.828 mm",
+        "Altura:": "1.802 mm",
+        "Largura:": "1.943 mm",
+        "Entre-eixos:": "2.915 mm",
+        "Vão livre do solo:": "218 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.393 kg",
+        "Porta-malas:": "457 litros",
+        "Carga útil:": "580 kg",
+        "Tanque combustível:": "93 litros"
+    }
+}

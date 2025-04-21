@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+    "NOME": "levante-sport-3.0-v6-2019",
+    "ANO": "2019",
+    "MARCA": "maserati",
+    "MODELO": "levante",
+    "ESPECIFICACAO": {
+        "Marca:": "Maserati",
+        "Modelo:": "Levante",
+        "Versão:": "Sport 3.0 V6 2019",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "430 @ 5.750 rpm",
+        "Torque máximo em kgfm:": "59,1 @ 1.750 rpm",
+        "Potência específica:": "144,3 cv/litro",
+        "Torque específico:": "19,8 kgfm/litro",
+        "Taxa de compressão:": "9,7:1",
+        "Rel. peso/potência:": "4,9 kg/cv",
+        "Rel. peso/torque:": "35,7 kg/kgfm",
+        "Curso dos pistões:": "84,5 mm",
+        "Diâmetro dos cilindros:": "86,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,2 seg",
+        "Velocidade máxima:": "264 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,1",
+        "Estrada em km/l:": "8,6",
+        "Autonomia em km:": "688"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/50 R19",
+        "Traseira:": "295/45 R19",
+        "Altura do flanco:": "133 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,81 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.003 mm",
+        "Altura:": "1.679 mm",
+        "Largura:": "1.968 mm",
+        "Entre eixos:": "3.004 mm",
+        "Bitola dianteira:": "1.624 mm",
+        "Bitola traseira:": "1.676 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.109 kg",
+        "Porta-malas:": "580 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "80 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Cerato-2006.jpg",
+    "NOME": "sobre-o-modelo",
+    "ANO": "MODELO",
+    "MARCA": "kia",
+    "MODELO": "sobre",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Cerato",
+        "Versão:": "1.6",
+        "Ano/modelo:": "2006",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.599 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "104 cv @ 5.800 rpm",
+        "Torque:": "14,6 kgfm @ 4.500 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "Gamma"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 s",
+        "Velocidade máxima:": "185 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9 km/l",
+        "Rodoviário:": "13 km/l",
+        "Autonomia:": "715 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.480 mm",
+        "Altura:": "1.470 mm",
+        "Largura:": "1.735 mm",
+        "Entre-eixos:": "2.610 mm",
+        "Bitola dianteira:": "1.495 mm",
+        "Bitola traseira:": "1.495 mm",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.210 kg",
+        "Porta-malas:": "345 litros",
+        "Carga útil:": "510 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

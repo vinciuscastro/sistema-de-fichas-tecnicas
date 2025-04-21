@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chevrolet-Celta-2002.jpg",
+    "NOME": "celta-piquet-1.0-2003",
+    "ANO": "2003",
+    "MARCA": "chevrolet",
+    "MODELO": "celta",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Celta",
+        "Versão:": "Piquet 1.0",
+        "Ano/modelo:": "2003",
+        "Detalhes:": "Nacional, hacth, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "70 cv @ 6.400 rpm",
+        "Torque:": "8,8 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "12,6:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,5 s",
+        "Velocidade máxima:": "155 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,6 km/l",
+        "Rodoviário:": "15,2 km/l",
+        "Autonomia:": "699 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Disco",
+        "Traseiro:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "10,1 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.748 mm",
+        "Altura:": "1.429 mm",
+        "Largura:": "1.608 mm",
+        "Entre eixos:": "2.443 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "870 kg",
+        "Porta-malas:": "260 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "46 litros"
+    }
+}

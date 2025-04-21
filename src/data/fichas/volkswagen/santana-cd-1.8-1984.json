@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Santana-84.jpg",
+    "NOME": "santana-cd-1.8-1984",
+    "ANO": "1984",
+    "MARCA": "volkswagen",
+    "MODELO": "santana",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Santana",
+        "Versão:": "CD 1.8 1984",
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.781 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "85 @ 5.200 rpm",
+        "Torque em kgfm:": "14,6 @ 2.600 rpm",
+        "Taxa de compressão:": "8,5:1",
+        "Código do motor:": "MD-280"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13 s",
+        "Velocidade máxima:": "167 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "10",
+        "Estrada em km/l:": "15",
+        "Autonomia em km:": "1.125"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Não assistida",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70/ R13",
+        "Traseira:": "185/70 /R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,02 m²",
+        "Coef. aerodinâmico:": "0,40 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.537 mm",
+        "Altura:": "1.402 mm",
+        "Largura:": "1.695 mm",
+        "Entre eixos:": "2.550 mm",
+        "Bitola dianteira:": "1.414 mm",
+        "Bitola traseira:": "1.422 mm",
+        "Vão livre do solo:": "145 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.070 kg",
+        "Porta-malas:": "394 litros",
+        "Carga útil:": "460 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

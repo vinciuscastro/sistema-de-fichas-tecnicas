@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Evoque-2012-5p.jpg",
+    "NOME": "evoque-prestige-tech-2.0-si4-2012",
+    "ANO": "2012",
+    "MARCA": "land-rover",
+    "MODELO": "evoque",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Evoque",
+        "Versão:": "Prestige Tech 2.0 Si4 2012",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. ( CV):": "240 @ 5.800 rpm",
+        "Torque máx. (kgfm):": "34,7 @ 1.750 rpm",
+        "Potência específica:": "120,1 cv/litro",
+        "Torque específico:": "17,4 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "6,8 kg/cv",
+        "Rel. peso/torque:": "47,3 kg/kgfm",
+        "Curso dos pistões:": "83,1 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Ecoboost"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 9HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,6 seg",
+        "Velocidade máxima:": "217 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,9",
+        "Estrada em km/l:": "11,1",
+        "Autonomia em km:": "777"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R20",
+        "Traseira:": "245/45 R20",
+        "Altura do flanco:": "110 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,73 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.365 mm",
+        "Altura:": "1.635 mm",
+        "Largura:": "1.965 mm",
+        "Entre eixos:": "2.660 mm",
+        "Bitola dianteira:": "1.625 mm",
+        "Bitola traseira:": "1.630 mm",
+        "Vão livre do solo:": "213 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.640 kg",
+        "Porta-malas:": "575 litros",
+        "Carga útil:": "680 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

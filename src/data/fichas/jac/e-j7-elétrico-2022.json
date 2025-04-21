@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/jac-e-j7-2022.jpg",
+    "NOME": "e-j7-elétrico-2022",
+    "ANO": "2022",
+    "MARCA": "jac",
+    "MODELO": "e",
+    "ESPECIFICACAO": {
+        "Marca:": "Jac",
+        "Modelo:": "E-j7",
+        "Versão:": "Elétrico 2022",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "402 km",
+        "Capacidade da bateria:": "50,1 kWh",
+        "Potência:": "192 cv",
+        "Torque:": "34,7 kgfm",
+        "Peso/potência:": "8,59 kg/cv",
+        "Peso/torque:": "47,55 kg/kgfm",
+        "Consumo elétrico:": "16 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,4 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55 R17",
+        "Traseira:": "215/55 R17",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.770 mm",
+        "Altura:": "1.510 mm",
+        "Largura:": "1.820 mm",
+        "Entre eixos:": "2.760 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "129 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.650 kg",
+        "Porta-malas:": "590 litros",
+        "Carga útil:": "450 kg"
+    }
+}

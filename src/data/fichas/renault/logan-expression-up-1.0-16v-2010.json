@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Logan-2008.jpg",
+    "NOME": "logan-expression-up-1.0-16v-2010",
+    "ANO": "2010",
+    "MARCA": "renault",
+    "MODELO": "logan",
+    "ESPECIFICACAO": {
+        "Marca:": "Renault",
+        "Modelo:": "Logan",
+        "Versão:": "Expression Up 1.0 16V",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "77 (E) / 76 (G) @ 5.850 rpm",
+        "Torque máx. (kgfm):": "10,1 (E) / 9,9 (G) @ 4.350 rpm",
+        "Potência específica:": "77,2 cv/litro",
+        "Torque específico:": "10,1 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "13,3 kg/cv",
+        "Rel. peso/torque:": "101,5 kg/kgfm",
+        "Curso dos pistões:": "66,8 mm",
+        "Diâmetro dos cilindros:": "69 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "D4D"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,2 seg",
+        "Velocidade máxima:": "161 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8 (E) / 12,1 (G)",
+        "Estrada em km/l:": "8,8 (E) / 13 (G)",
+        "Autonomia em km:": "440 (E) / 650 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "não assistida",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70 R14",
+        "Traseira:": "185/70 R14",
+        "Altura do flanco:": "130 mm",
+        "Estepe:": "185/70 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,27 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.247 mm",
+        "Altura:": "1.534 mm",
+        "Largura:": "1.740 mm",
+        "Entre eixos:": "2.630 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.025 kg",
+        "Porta-malas:": "510 litros",
+        "Carga útil:": "445 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

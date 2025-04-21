@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Carrera-GT.jpg",
+    "NOME": "carrera-gt-5.7-v10-2004",
+    "ANO": "2004",
+    "MARCA": "porsche",
+    "MODELO": "carrera",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Carrera GT",
+        "Versão:": "5.7 V10",
+        "Ano/modelo:": "2004",
+        "Detalhes:": "Importado, conversível, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "5.733 cc",
+        "Cilindros:": "10, em V",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "612 cv @ 8.000 rpm",
+        "Torque:": "60,2 kgfm @ 5.750 rpm",
+        "Taxa de compressão:": "12:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,5 s",
+        "Velocidade máxima:": "330 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "2,7 km/l",
+        "Rodoviário:": "5 km/l",
+        "Autonomia:": "460 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/30 R19",
+        "Traseira:": "335/30 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,94 m²",
+        "Coef. aerodinâmico:": "0,39 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.556 mm",
+        "Altura:": "1.192 mm",
+        "Largura:": "1.915 mm",
+        "Entre-eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.620 mm",
+        "Bitola traseira:": "1.570 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.380 kg",
+        "Porta-malas:": "100 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "92 litros"
+    }
+}

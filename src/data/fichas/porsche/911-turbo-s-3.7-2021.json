@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/911_Carrera_Coupe.jpg",
+    "NOME": "911-turbo-s-3.7-2021",
+    "ANO": "2021",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Turbo S 3.7 2021",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "8",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.745 cc",
+        "Cilindros:": "6, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima (cv):": "650 @ 6.750 rpm",
+        "Torque máximo (kgfm):": "81,6 @ 2.500 rpm",
+        "Potência específica:": "173,6 cv/litro",
+        "Torque específico:": "21,8 kgfm/litro",
+        "Taxa de compressão:": "8,7:1",
+        "Rel. peso/potência:": "2,5 kg/cv",
+        "Rel. peso/torque:": "20,1 kg/kgfm",
+        "Curso dos pistões:": "76,4 mm",
+        "Diâmetro dos cilindros:": "102 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "PDK"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,7 seg",
+        "Velocidade máxima:": "330 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,7",
+        "Estrada em km/l:": "7,5",
+        "Autonomia em km:": "510"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono cerâmica",
+        "Traseira:": "Disco de carbono cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/35 R20",
+        "Traseira:": "315/30 R21",
+        "Altura do flanco:": "95 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,12 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.535 mm",
+        "Altura:": "1.303 mm",
+        "Largura:": "1.900 mm",
+        "Entre-eixos:": "2.450 mm",
+        "Bitola dianteira:": "1.583 mm",
+        "Bitola traseira:": "1.600 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.640 kg",
+        "Porta-malas:": "392 litros",
+        "Carga útil:": "380 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

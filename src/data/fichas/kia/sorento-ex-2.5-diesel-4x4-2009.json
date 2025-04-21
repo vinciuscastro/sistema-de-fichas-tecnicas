@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Sorento-2009.jpg",
+    "NOME": "sorento-ex-2.5-diesel-4x4-2009",
+    "ANO": "2009",
+    "MARCA": "kia",
+    "MODELO": "sorento",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Sorento",
+        "Versão:": "EX 2.5 Diesel 4x4 2009",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.497 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "170 @ 3.800 rpm",
+        "Torque máx. (kgfm):": "40 @ 2.000 rpm",
+        "Potência específica:": "68,1 cv/litro",
+        "Torque específico:": "16 kgfm/litro",
+        "Taxa de compressão:": "17,7:1",
+        "Rel. peso/potência:": "11,7 kg/cv",
+        "Rel. peso/torque:": "49,8 kg/kgfm",
+        "Curso dos pistões:": "96 mm",
+        "Diâmetro dos cilindros:": "91 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12 seg",
+        "Velocidade máxima:": "182 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,7",
+        "Estrada em km/l:": "10,5",
+        "Autonomia em km:": "840"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/70 R16",
+        "Traseira:": "245/70 R16",
+        "Altura do flanco:": "172 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,73 m²",
+        "Coef. aerodinâmico:": "0,42 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.590 mm",
+        "Altura:": "1.725 mm",
+        "Largura:": "1.865 mm",
+        "Entre eixos:": "2.710 mm",
+        "Bitola dianteira:": "1.580 mm",
+        "Bitola traseira:": "1.580 mm",
+        "Vão livre do solo:": "203 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.990 kg",
+        "Porta-malas:": "440 litros",
+        "Carga útil:": "650 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

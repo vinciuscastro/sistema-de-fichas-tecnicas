@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Novembro/328-Sport.jpg",
+    "NOME": "328i-sport-gp-turbo-active-flex-2016",
+    "ANO": "2016",
+    "MARCA": "bmw",
+    "MODELO": "328i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "328i",
+        "Versão:": "Sport GP Turbo Active Flex 2016",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "6",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "245 @ 5.000 rpm",
+        "Torque máximo em kgfm:": "35,7 @ 1.250 rpm",
+        "Potência específica:": "122,7 cv/litro",
+        "Torque específico:": "17,9 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "5,9 kg/cv",
+        "Relação peso/torque:": "40,8 kg/kgfm",
+        "Curso dos pistões:": "90,1 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N20B20"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,1 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,4 (E) / 9,3 (G)",
+        "Estrada em km/l:": "9,1 (E) / 13,2 (G)",
+        "Autonomia em km:": "546 (E) / 792 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R18",
+        "Traseira:": "225/45 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,20 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.624 mm",
+        "Altura:": "1.429 mm",
+        "Largura:": "1.811 mm",
+        "Entre eixos:": "2.810 mm",
+        "Bitola dianteira:": "1.531 mm",
+        "Bitola traseira:": "1.572 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.455 kg",
+        "Porta-malas:": "480 litros",
+        "Carga útil:": "550 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

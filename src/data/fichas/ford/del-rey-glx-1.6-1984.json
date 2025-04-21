@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-Del-Rey-81.png",
+    "NOME": "del-rey-glx-1.6-1984",
+    "ANO": "1984",
+    "MARCA": "ford",
+    "MODELO": "del",
+    "ESPECIFICACAO": {
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.555 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Álcool",
+        "Potência em CV:": "73 @ 5.200 rpm",
+        "Torque em kgfm:": "11,9 @ 2.800 rpm",
+        "Taxa de compressão:": "12:1",
+        "Código do motor:": "CHT"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "17,2 seg",
+        "Velocidade máxima:": "153 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,9",
+        "Estrada em km/l:": "12,1",
+        "Autonomia em km:": "690"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eíxo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "sem assistência",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70 R13",
+        "Traseira:": "185/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.498 mm",
+        "Altura:": "1.345 mm",
+        "Largura:": "1.676 mm",
+        "Entre eixos:": "2.438 mm",
+        "Bitola dianteira:": "1.367 mm",
+        "Bitola traseira:": "1.333 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.006 kg",
+        "Porta-malas:": "343 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "57 litros"
+    }
+}

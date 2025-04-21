@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Polo-2003.jpg",
+    "NOME": "polo-1.0-16v-2003",
+    "ANO": "2003",
+    "MARCA": "volkswagen",
+    "MODELO": "polo",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Polo",
+        "Versão:": "1.0 16V",
+        "Ano/modelo:": "2003",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "79 cv @ 6500 rpm",
+        "Torque:": "9,7 kgfm @ 4.500 rpm",
+        "Taxa de compressão:": "11,5:1",
+        "Código do motor:": "EA113"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,5 s",
+        "Velocidade máxima:": "168 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,1 km/l",
+        "Rodoviário:": "14,2 km/l",
+        "Autonomia:": "639 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60 R14",
+        "Traseira:": "185/60 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,05 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.897 mm",
+        "Altura:": "1.484 mm",
+        "Largura:": "1.650 mm",
+        "Entre-eixos:": "2.460 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.045 kg",
+        "Porta-malas:": "270 litros",
+        "Carga útil:": "435 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

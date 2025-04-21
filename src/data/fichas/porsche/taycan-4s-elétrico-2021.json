@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Taycan_4S.jpg",
+    "NOME": "taycan-4s-elétrico-2021",
+    "ANO": "2021",
+    "MARCA": "porsche",
+    "MODELO": "taycan",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Taycan",
+        "Versão:": "4S Elétrico 2021",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "333 km",
+        "Capacidade da bateria:": "79,2 kWh",
+        "Potência:": "530 cv",
+        "Torque:": "65,3 kgfm",
+        "Peso/potência:": "4,19 kg/cv",
+        "Peso/torque:": "34 kg/kgfm",
+        "Consumo elétrico:": "25,7 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "2",
+        "Tração:": "Integral sob demanda"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R20",
+        "Traseira:": "285/40 R20",
+        "Altura do flanco:": "114 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,33 m²",
+        "Coef. aerodinâmico:": "0,22 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.963 mm",
+        "Altura:": "1.379 mm",
+        "Largura:": "1.966 mm",
+        "Entre eixos:": "2.900 mm",
+        "Bitola dianteira:": "1.710 mm",
+        "Bitola traseira:": "1.694 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.220 kg",
+        "Porta-malas:": "488 litros",
+        "Carga útil:": "660 kg"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-m3-94.jpg",
+    "NOME": "m3-3.0-1995",
+    "ANO": "1995",
+    "MARCA": "bmw",
+    "MODELO": "m3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M3",
+        "Versão:0": "3.0 1995",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.990 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima em CV:": "286 @ 7.000 rpm",
+        "Torque máximo em kgfm:": "32,6 @ 3.600 rpm",
+        "Potência específica:": "95,7 cv/litro",
+        "Torque específico:": "10,9 kgfm/litro",
+        "Taxa de compressão:": "10,8:1",
+        "Relação peso/potência:": "5,1 kg/cv",
+        "Relação peso/torque:": "44,8 kg/kgfm",
+        "Curso dos pistões:": "85,8 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S50B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,4",
+        "Estrada em km/l:": "7,8",
+        "Autonomia em km:": "507"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/40 R17",
+        "Traseira:": "235/40 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,94 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.433 mm",
+        "Altura:": "1.335 mm",
+        "Largura:": "1.710 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.422 mm",
+        "Bitola traseira:": "1.444 mm",
+        "Vão livre do solo:": "110 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.460 kg",
+        "Porta-malas:": "405 litros",
+        "Carga útil:": "470 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

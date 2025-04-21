@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Julho/Monza_83.jpg",
+    "NOME": "monza-hatch-sle-1.8-1983",
+    "ANO": "1983",
+    "MARCA": "chevrolet",
+    "MODELO": "monza",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Monza",
+        "Versão:": "Hatch SL/E 1.8",
+        "Ano fabricação:": "1983",
+        "Detalhes:": "Nacional, hatch, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "86 cv @ 5.400 rpm",
+        "Torque:": "14,5 kgfm @ 3.100 rpm",
+        "Taxa de compressão:": "8:1",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,2 s",
+        "Velocidade máxima:": "157 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,2 km/l",
+        "Rodoviário:": "14,2 km/l",
+        "Autonomia:": "866 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Eixo de torção, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70 R13",
+        "Traseira:": "185/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "Não disponível",
+        "Coef. aerodinâmico:": "Não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.264 mm",
+        "Altura:": "1.349 mm",
+        "Largura:": "1.668 mm",
+        "Entre eixos:": "2.574 mm",
+        "Bitola dianteira:": "1.406 mm",
+        "Bitola traseira:": "1.406 mm",
+        "Vão livre do solo:": "148 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.043 kg",
+        "Porta-malas:": "448 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "61 litros"
+    }
+}

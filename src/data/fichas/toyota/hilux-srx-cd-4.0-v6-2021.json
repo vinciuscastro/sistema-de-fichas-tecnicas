@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/Hilux_V6.jpg",
+    "NOME": "hilux-srx-cd-4.0-v6-2021",
+    "ANO": "2021",
+    "MARCA": "toyota",
+    "MODELO": "hilux",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Hilux",
+        "Versão:": "4.0 V6 SRX 4x4 CD",
+        "Origem:": "Importado - Argentina",
+        "Detalhes:": "Picape, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.956 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência CV:": "234 @ 5.200 rpm",
+        "Torque kgfm:": "38,3 @ 3.800 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "1GR-FE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "4x4",
+        "MarcCódigo do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "6 km/l",
+        "Estrada:": "7,6 km/l",
+        "Autonomia:": "688 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/65/17",
+        "Traseira:": "265/65/17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.315 mm",
+        "Altura:": "1.815 mm",
+        "Largura:": "1.855 mm",
+        "Entre eixos:": "3.085 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "310 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.090 kg",
+        "Caçamba:": "1.000 litros",
+        "Carga útil:": "1.000 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

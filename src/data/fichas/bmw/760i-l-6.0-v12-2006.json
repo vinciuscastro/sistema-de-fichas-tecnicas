@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-760i-L-06.jpg",
+    "NOME": "760i-l-6.0-v12-2006",
+    "ANO": "2006",
+    "MARCA": "bmw",
+    "MODELO": "760i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "760i",
+        "Versão:": "L 6.0 V12 2006",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "5.972 cc",
+        "Cilindros:": "12, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "445 @ 6.000 rpm",
+        "Torque máximo em kgfm:": "61,2 @ 3.950 rpm",
+        "Potência específica:": "74,5 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "11,3:1",
+        "Relação peso/potência:": "4,9 kg/cv",
+        "Relação peso/torque:": "35,6 kg/kgfm",
+        "Curso dos pistões:": "80 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N73B60"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 6HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,6 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "3,5",
+        "Estrada em km/l:": "7",
+        "Autonomia em km:": "616"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/50 R18",
+        "Traseira:": "245/50 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,40 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.179 mm",
+        "Altura:": "1.484 mm",
+        "Largura:": "1.902 mm",
+        "Entre eixos:": "3.130 mm",
+        "Bitola dianteira:": "1.578 mm",
+        "Bitola traseira:": "1.596 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.180 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "88 litros"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/3000-GT.jpg",
+    "NOME": "3000-gt-vr-4-3.0-biturbo-1992",
+    "ANO": "1992",
+    "MARCA": "mitsubishi",
+    "MODELO": "3000",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "3000",
+        "Versão:": "GT VR-4 3.0 Biturbo",
+        "Ano/modelo:": "1992",
+        "Detalhes:": "Importado, coupe, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.972 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "300 cv @ 6.000 rpm",
+        "Torque:": "42,2 kgfm @ 2.500 rpm",
+        "Taxa de compressão:": "8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,7 s",
+        "Velocidade máxima:": "215 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,4 km/l",
+        "Rodoviário:": "10,9 km/l",
+        "Autonomia:": "817 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R17",
+        "Traseira:": "245/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.585 mm",
+        "Altura:": "1.285 mm",
+        "Largura:": "1.840 mm",
+        "Entre-eixos:": "2.470 mm",
+        "Bitola dianteira:": "1.560 mm",
+        "Bitola traseira:": "1.580 mm",
+        "Vão livre do solo:": "125 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.700 kg",
+        "Porta-malas:": "172 litros",
+        "Carga útil:": "470 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

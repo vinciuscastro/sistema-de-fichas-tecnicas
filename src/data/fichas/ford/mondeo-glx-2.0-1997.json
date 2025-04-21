@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Setembro/Mondeo-95.jpg",
+    "NOME": "mondeo-glx-2.0-1997",
+    "ANO": "1997",
+    "MARCA": "ford",
+    "MODELO": "mondeo",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Mondeo",
+        "Versão:": "GLX 2.0",
+        "Ano/modelo:": "1997",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.989 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "130 cv @ 5.700 rpm",
+        "Torque:": "17,9 kgfm @ 3.700 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "Zetec"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 s",
+        "Velocidade máxima:": "204 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,7 km/l",
+        "Rodoviário:": "10,4 km/l",
+        "Autonomia:": "634 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R15",
+        "Traseira:": "195/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,10 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.556 mm",
+        "Altura:": "1.372 mm",
+        "Largura:": "1.749 mm",
+        "Entre eixos:": "2.704 mm",
+        "Bitola dianteira:": "1.503 mm",
+        "Bitola traseira:": "1.487 mm",
+        "Vão livre do solo:": "170 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.295 kg",
+        "Porta-malas:": "470 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "61 litros"
+    }
+}

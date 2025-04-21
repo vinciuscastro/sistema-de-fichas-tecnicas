@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Mini/Cooper-S.jpg",
+    "NOME": "cooper-cooper-s-2.0",
+    "ANO": "2.0",
+    "MARCA": "mini",
+    "MODELO": "cooper",
+    "ESPECIFICACAO": {
+        "Marca:": "MINI",
+        "Modelo:": "Cooper",
+        "Versão:": "S 2.0",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, hatch, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "192 cv @ 6.000 rpm",
+        "Torque:": "30,6 kgfm @ 1.250 rpm",
+        "Taxa de compressão:": "11:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 s",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,9 km/l",
+        "Rodoviário:": "13,1 km/l",
+        "Autonomia:": "576 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "205/45 R17",
+        "Traseiros:": "205/45 R17"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.005 mm",
+        "Altura:": "1.425 mm",
+        "Largura:": "1.727 mm",
+        "Entre-eixos:": "2.567 mm",
+        "Vão livre do solo:": "124 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.315 kg",
+        "Porta-malas:": "278 litros",
+        "Carga útil:": "455 kg",
+        "Tanque combustível:": "44 litros"
+    }
+}

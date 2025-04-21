@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Vitara.jpg",
+    "NOME": "vitara-4style-allgrip-1.4-turbo-at-2020",
+    "ANO": "2020",
+    "MARCA": "suzuki",
+    "MODELO": "vitara",
+    "ESPECIFICACAO": {
+        "Marca:": "Suzuki",
+        "Modelo:": "Vitara",
+        "Versão:": "4Style AllGrip 1.4 Turbo AT",
+        "Ano fabricação:": "2020",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.373 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "146 cv @ 5.500 rpm",
+        "Torque:": "23,5 kgfm @ 1.700 rpm",
+        "Taxa de compressão:": "9,9:1",
+        "Código do motor:": "K14C"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,2 s",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "11,5 km/l",
+        "Rodoviário:": "12,9 km/l",
+        "Autonomia:": "606 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Eixo de torção, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55/17",
+        "Traseira:": "215/55/17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,43 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.175 mm",
+        "Altura:": "1.610 mm",
+        "Largura:": "1.775 mm",
+        "Entre eixos:": "2.500 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.505 mm",
+        "Vão livre do solo:": "185 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.235 kg",
+        "Porta-malas:": "400 litros",
+        "Carga útil:": "495 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

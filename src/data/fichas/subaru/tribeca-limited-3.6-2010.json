@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/junho/subaru-tribeca.jpg",
+    "NOME": "tribeca-limited-3.6-2010",
+    "ANO": "2010",
+    "MARCA": "subaru",
+    "MODELO": "tribeca",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "Tribeca",
+        "Versão:": "Limited 3.6 2010",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.629 cc",
+        "Cilindros:": "6, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máx. (CV):": "280 @ 6.000 rpm",
+        "Torque máx. (kgfm):": "35,7 @ 4.000 rpm",
+        "Potência específica:": "77,2 cv/litro",
+        "Torque específico:": "9,8 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "6,9 kg/cv",
+        "Rel. peso/torque:": "54,5 kg/kgfm",
+        "Curso dos pistões:": "91 mm",
+        "Diâmetro dos cilindros:": "92 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "EZ36"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,9 seg",
+        "Velocidade máxima:": "207 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,5",
+        "Estrada em km/l:": "7,5",
+        "Autonomia em km:": "480"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/55 R18",
+        "Traseira:": "255/55 R18",
+        "Altura do flanco:": "140 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.865 mm",
+        "Altura:": "1.720 mm",
+        "Largura:": "1.880 mm",
+        "Entre eixos:": "2.750 mm",
+        "Bitola dianteira:": "1.580 mm",
+        "Bitola traseira:": "1.580 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.945 kg",
+        "Porta-malas:": "525 litros (5 lug) / 200 litros (7 lug)",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "64 litros"
+    }
+}

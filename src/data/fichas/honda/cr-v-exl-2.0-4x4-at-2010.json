@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Novembro/crv-10.jpg",
+    "NOME": "cr-v-exl-2.0-4x4-at-2010",
+    "ANO": "2010",
+    "MARCA": "honda",
+    "MODELO": "cr",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "CR-v",
+        "Versão:": "EXL 2.0 4x4 AT 2010",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência em CV:": "150 @ 6.200 rpm",
+        "Torque em kgfm:": "19,4 @ 4.200 rpm",
+        "Potência específica:": "75,1 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "10,7 kg/cv",
+        "Relação peso/torque:": "82,8 kg/kgfm",
+        "Curso dos pistões:": "96,6 mm",
+        "Diâmetro dos cilindros:": "81 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,9 seg",
+        "Velocidade máxima:": "167 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,6",
+        "Estrada em km/l:": "10,9",
+        "Autonomia em km:": "632"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Inndependente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/65 R17",
+        "Traseira:": "225/65 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.520 mm",
+        "Altura:": "1.690 mm",
+        "Largura:": "1.820 mm",
+        "Entre eixos:": "2.620 mm",
+        "Bitola dianteira:": "1.565 mm",
+        "Bitola traseira:": "1.565 mm",
+        "Vão livre do solo:": "190 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.606 kg",
+        "Porta-malas:": "559 litros",
+        "Carga útil:": "440 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

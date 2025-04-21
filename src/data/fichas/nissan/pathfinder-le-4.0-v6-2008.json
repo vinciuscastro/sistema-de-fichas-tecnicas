@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Nissan-Pathfinde-2006.jpg",
+    "NOME": "pathfinder-le-4.0-v6-2008",
+    "ANO": "2008",
+    "MARCA": "nissan",
+    "MODELO": "pathfinder",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Pathfinder",
+        "Versão:": "LE 4.0 V6",
+        "Origem:": "Importado",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.954 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "266 @ 5.600 rpm",
+        "Torque em kgfm:": "39,3 @ 4.000 rpm",
+        "Taxa de compressão:": "9,7:1",
+        "Código do motor:": "VQ40DE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "RE5R05A"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,8 s",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,3",
+        "Estrada em km/l:": "8,9",
+        "Autonomia em km:": "712"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/65/R17",
+        "Traseira:": "255/65/R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,93 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.740 mm",
+        "Altura:": "1.865 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "2.850 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.091 kg",
+        "Porta-malas:": "450 litros (5 lug) / 190 litros (7 lug)",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

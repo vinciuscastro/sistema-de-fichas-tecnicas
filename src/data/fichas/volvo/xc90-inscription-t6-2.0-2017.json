@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Volvo/Volvo_XC90_2017-foto-02.jpg",
+    "NOME": "xc90-inscription-t6-2.0-2017",
+    "ANO": "2017",
+    "MARCA": "volvo",
+    "MODELO": "xc90",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "XC90",
+        "Versão:": "Inscription T6 2.0 2017",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor e compressor mecânico",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.969 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima (cv):": "320 @ 5.700 rpm",
+        "Torque máximo (kgfm):": "40,8 @ 2.200 rpm",
+        "Potência específica:": "162,5 cv/litro",
+        "Torque específico:": "20,7 kgfm/litro",
+        "Taxa de compressão:": "10,3:1",
+        "Rel. peso/potência:": "6,8 kg/cv",
+        "Rel. peso/torque:": "53,1 kg/kgfm",
+        "Curso dos pistões:": "93,2 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "B4204T27"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "Aisin AW TG-81SC"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,5 seg",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "9,2",
+        "Autonomia em km:": "653"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/45 R20",
+        "Traseira:": "275/45 R20",
+        "Altura do flanco:": "124 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,78 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.950 mm",
+        "Altura:": "1.776 mm",
+        "Largura:": "1.923 mm",
+        "Entre eixos:": "2.984 mm",
+        "Bitola dianteira:": "1.668 mm",
+        "Bitola traseira:": "1.671 mm",
+        "Vão livre do solo:": "238 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.165 kg",
+        "Porta-malas:": "500 litros (5 lug.) / 314 litros (7 lug.)",
+        "Carga útil:": "552 kg",
+        "Tanque combustível:": "71 litros"
+    }
+}

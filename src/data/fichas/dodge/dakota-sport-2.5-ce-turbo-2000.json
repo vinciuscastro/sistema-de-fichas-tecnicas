@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-Sport.jpg",
+    "NOME": "dakota-sport-2.5-ce-turbo-2000",
+    "ANO": "2000",
+    "MARCA": "dodge",
+    "MODELO": "dakota",
+    "ESPECIFICACAO": {
+        "Marca:": "Dodge",
+        "Modelo:": "Dakota",
+        "Versão:": "Sport 2.5 CE Turbo 2000",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Picape",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção indireta de combustível",
+        "Cilindrada:": "2.464 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no bloco",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "115 @ 3.900 rpm",
+        "Torque máximo kgfm:": "30,6 @ 2.000 rpm",
+        "Potência específica:": "46,7 cv/litro",
+        "Torque específico:": "12,4 kgfm/litro",
+        "Taxa de compressão:": "21:1",
+        "Rel. peso/potência:": "15,5 kg/cv",
+        "Rel. peso/torque:": "58,3 kg/kgfm",
+        "Curso dos pistões:": "94 mm",
+        "Diâmetro cilindros:": "92 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "Detroit"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15,9 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,1",
+        "Estrada em km/l:": "12,3",
+        "Autonomia em km:": "1.021"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/75 R15",
+        "Traseira:": "235/75 R15",
+        "Altura do flanco:": "176 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.460 mm",
+        "Altura:": "1.740 mm",
+        "Largura:": "1.810 mm",
+        "Entre-eixos:": "3.320 mm",
+        "Bitola dianteira:": "1.544 mm",
+        "Bitola traseira:": "1.562 mm",
+        "Vão livre do solo:": "240 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.785 kg",
+        "Caçamba:": "1.327 litros",
+        "Carga útil:": "1.000 kg",
+        "Tanque combustível:": "83 litros"
+    }
+}

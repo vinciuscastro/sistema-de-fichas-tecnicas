@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Virtus.jpg",
+    "NOME": "virtus-1.6-2018",
+    "ANO": "2018",
+    "MARCA": "volkswagen",
+    "MODELO": "virtus",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Virtus",
+        "Versão:": "1.6 2018",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Plataforma:": "MQB",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão",
+        "Potência máxima (cv):": "117 (E / 110 (G) @ 5.750 rpm",
+        "Torque máximo (kgfm):": "16,5 (E) / 15,8 (G) @ 4.000 rpm",
+        "Potência específica:": "73,2 cv/litro",
+        "Torque específico:": "10,3 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Rel. peso/potência:": "9,7 kg/cv",
+        "Rel. peso/torque:": "68,7 kg/kgfm",
+        "Curso dos pistões:": "86,9 mm",
+        "Diâmetro dos cilindros:": "76,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA211"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MQ200"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,8 seg",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,2 (E) / 11,9 (G)",
+        "Estrada em km/l:": "9,5 (E) / 13,8 (G)",
+        "Autonomia em km:": "494 (E) / 718 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15",
+        "Estepe:": "175/70 R14",
+        "Altura do flanco:": "127 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,15 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.482 mm",
+        "Altura:": "1.472 mm",
+        "Largura:": "1.751 mm",
+        "Entre eixos:": "2.651 mm",
+        "Bitola dianteira:": "1.514 mm",
+        "Bitola traseira:": "1.495 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.134 kg",
+        "Porta-malas:": "521 litros",
+        "Carga útil:": "416 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/Pajero_Sport.jpg",
+    "NOME": "pajero-sport-hpe-2.4-turbo-2020",
+    "ANO": "2020",
+    "MARCA": "mitsubishi",
+    "MODELO": "pajero",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Pajero Sport",
+        "Versão:": "HPE 2.4 Turbo",
+        "Origem:": "Importado - Japão",
+        "Detalhes:": "SUV, 4 portas, 7 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.442 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência CV:": "190 @ 3.500 rpm",
+        "Torque kgfm:": "43,9 @ 2.500 rpm",
+        "Taxa de compressão:": "15,5:1",
+        "Código do motor:": "4N15"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral",
+        "Código do câmbio:": "Aisin TL-80NF"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,5 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "9,8 km/l",
+        "Estrada:": "11 km/l",
+        "Autonomia:": "748 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/60/18",
+        "Traseira:": "265/60/18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.785 mm",
+        "Altura:": "1.805 mm",
+        "Largura:": "1.815 mm",
+        "Entre eixos:": "2.800 mm",
+        "Bitola dianteira:": "1.520 mm",
+        "Bitola traseira:": "1.515 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.095 kg",
+        "Porta-malas:": "502 litros (5 lugares) / 120 litros (7 lugares)",
+        "Carga útil:": "615 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

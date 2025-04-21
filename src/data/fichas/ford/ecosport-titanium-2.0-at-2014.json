@@ -1,0 +1,76 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Agosto/EcoSport_2013.jpg",
+    "NOME": "ecosport-titanium-2.0-at-2014",
+    "ANO": "2014",
+    "MARCA": "ford",
+    "MODELO": "ecosport",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ecosport",
+        "Versão:": "Titanium 2.0 AT",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Nacional, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "147 cv (E) / 141 cv (G) @ 6.250 rpm",
+        "Torque:": "19,7 kgfm (E) / 18,9 kgfm (G) @ 4.250 rpm",
+        "Taxa de compressão:": "10,1:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,4 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,6 km/l (E) / 9,7 km/l (G)",
+        "Rodoviário:": "8 km/l (E) / 11,5 km/l (G)",
+        "Autonomia:": "416 km (E) / 598 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/60 R16",
+        "Traseira:": "205/60 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,54 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.241 mm",
+        "Altura:": "1.696 mm",
+        "Largura:": "1.765 mm",
+        "Entre eixos:": "2.490 mm",
+        "Bitola dianteira:": "1.524 mm",
+        "Bitola traseira:": "1.538 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.316 kg",
+        "Porta-malas:": "362 litros",
+        "Carga útil:": "375 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Scross.jpg",
+    "NOME": "s-cross-4style-1.4-turbo-at-2019",
+    "ANO": "2019",
+    "MARCA": "suzuki",
+    "MODELO": "s",
+    "ESPECIFICACAO": {
+        "Marca:": "Suzuki",
+        "Modelo:": "S-Cross",
+        "Versão:": "4Style 1.4 Turbo AT",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Importado, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.373 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "146 cv @ 5.500 rpm",
+        "Torque:": "23,5 kgfm @ 1.700 rpm",
+        "Taxa de compressão:": "9,9:1",
+        "Código do motor:": "K14C"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,5 s",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "12,2 km/l",
+        "Rodoviário:": "14 km/l",
+        "Autonomia:": "658 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55 R17",
+        "Traseira:": "215/55 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,43 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.300 mm",
+        "Altura:": "1.600 mm",
+        "Largura:": "1.785 mm",
+        "Entre-eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.505 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.190 kg",
+        "Porta-malas:": "440 litros",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Parati-96.jpg",
+    "NOME": "parati-1.0-16v-1997",
+    "ANO": "1997",
+    "MARCA": "volkswagen",
+    "MODELO": "parati",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Parati",
+        "Versão:": "1.0 16V",
+        "Origem:": "Nacional",
+        "Detalhes:": "Perua, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "Duplo no cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "69,4 @ 5.750 rpm",
+        "Torque em kgfm:": "9,4 @ 4.500 rpm",
+        "Taxa de compressão:": "10,8:1",
+        "Código do motor:": "EA111"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "17,8 s",
+        "Velocidade máxima:": "157 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "10,5",
+        "Estrada em km/l:": "15,2",
+        "Autonomia em km:": "775"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70/R13",
+        "Traseira:": "175/70/R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,90 m²",
+        "Coef. aerodinâmico:": "0,41 CX"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.131 mm",
+        "Altura:": "1.417 mm",
+        "Largura:": "1.621 mm",
+        "Entre eixos:": "2.468 mm",
+        "Bitola dianteira:": "1.388 mm",
+        "Bitola traseira:": "1.384 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.005 kg",
+        "Porta-malas:": "437 litros",
+        "Carga útil:": "455 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

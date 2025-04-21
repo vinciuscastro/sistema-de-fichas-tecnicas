@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-320-2005.jpg",
+    "NOME": "320i-2.0-2007",
+    "ANO": "2007",
+    "MARCA": "bmw",
+    "MODELO": "320i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "320i",
+        "Versão:": "2.0 2007",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "150 @ 6.200 rpm",
+        "Torque máximo em kgfm:": "20,4 @ 3.600 rpm",
+        "Potência específica:": "75,2 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "9 kg/cv",
+        "Relação peso/torque:": "66,2 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N46B2001"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,7 seg",
+        "Velocidade máxima:": "215 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "660"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/45 R16",
+        "Traseira:": "205/45 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,19 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.520 mm",
+        "Altura:": "1.421 mm",
+        "Largura:": "1.817 mm",
+        "Entre eixos:": "2.760 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.350 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "490 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

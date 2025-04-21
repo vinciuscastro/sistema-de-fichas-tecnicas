@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M6-Gran-Coup-2014.jpg",
+    "NOME": "m6-gran-coupe-4.4-v8-biturbo-2018",
+    "ANO": "2018",
+    "MARCA": "bmw",
+    "MODELO": "m6",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M6",
+        "Versão:": "Gran Coupe 4.4 V8 Biturbo 2018",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "560 @ 7.000 rpm",
+        "Torque máximo em kgfm:": "69,3 @ 1.500 rpm",
+        "Potência específica:": "127,4 cv/litro",
+        "Torque específico:": "15,8 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "3,3 kg/cv",
+        "Relação peso/torque:": "27,1 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S63B44TU"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "M-DKG 436"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,2 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,9",
+        "Estrada em km/l:": "8,6",
+        "Autonomia em km:": "688"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/35 R20",
+        "Traseira:": "295/30 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,25 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.011 mm",
+        "Altura:": "1.393 mm",
+        "Largura:": "1.899 mm",
+        "Entre eixos:": "2.964 mm",
+        "Bitola dianteira:": "1.631 mm",
+        "Bitola traseira:": "1.612 mm",
+        "Vão livre do solo:": "107 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.875 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "535 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

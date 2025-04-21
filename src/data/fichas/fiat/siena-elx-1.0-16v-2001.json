@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/Siena-01.jpg",
+    "NOME": "siena-elx-1.0-16v-2001",
+    "ANO": "2001",
+    "MARCA": "fiat",
+    "MODELO": "siena",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Siena",
+        "Versão:": "ELX 1.0 16V",
+        "Ano fabricação:": "2001",
+        "Detalhes:": "Nacional, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "70 cv @ 5.750 rpm",
+        "Torque:": "9,6 kgfm @ 4.000 rpm",
+        "Taxa de compressão:": "10,2:1",
+        "Código do motor:": "Fire"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,9 s",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "11 km/l",
+        "Rodoviário:": "16,2 km/l",
+        "Autonomia:": "777 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,98 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.113 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.614 mm",
+        "Entre-eixos:": "2.373 mm",
+        "Bitola dianteira:": "1.390 mm",
+        "Bitola traseira:": "1.380 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.035 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "48 litros"
+    }
+}

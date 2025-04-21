@@ -1,0 +1,21 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2025/janeiro/volkswagen-polo-2024.jpg",
+    "NOME": "polo-1.0-2025",
+    "ANO": "2025",
+    "MARCA": "volkswagen",
+    "MODELO": "polo",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Polo",
+        "Versão:": "1.0 2025",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "6",
+        "Garantia:": "3 anos"
+    }
+}

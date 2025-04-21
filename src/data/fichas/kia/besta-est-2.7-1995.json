@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/maio/kia-besta-94.jpg",
+    "NOME": "besta-est-2.7-1995",
+    "ANO": "1995",
+    "MARCA": "kia",
+    "MODELO": "besta",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Besta",
+        "Versão:": "EST 2.7 1995",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Van",
+        "Portas:": "3",
+        "Ocupantes:": "10",
+        "Geração:": "não disponível",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção indireta de combustível",
+        "Cilindrada:": "2.662 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "80 @ 4.000 rpm",
+        "Torque em kgfm:": "17,5 @ 2.000 rpm",
+        "Potência específica:": "30,1 cv/litro",
+        "Torque específico:": "6,6 kgfm/litro",
+        "Taxa de compressão:": "21,5:1",
+        "Relação peso/potência:": "19,5 kg/cv",
+        "Relação peso/torque:": "89,1 kg/kgfm",
+        "Curso dos pistões:": "98 mm",
+        "Diâmetro dos cilindros:": "93 mm",
+        "Tuchos:": "não disponível",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "30,4 seg",
+        "Velocidade máxima:": "130 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,4",
+        "Estrada em km/l:": "8,5",
+        "Autonomia em km:": "468"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/75 R14",
+        "Traseira:": "195/75 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4,685 mm",
+        "Altura:": "1.920 mm",
+        "Largura:": "1.690 mm",
+        "Entre eixos:": "2.400 mm",
+        "Bitola dianteira:": "1.460 mm",
+        "Bitola traseira:": "1.420 mm",
+        "Vão livre do solo:": "195 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.560 kg",
+        "Porta-malas:": "10 litros",
+        "Carga útil:": "1.200 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

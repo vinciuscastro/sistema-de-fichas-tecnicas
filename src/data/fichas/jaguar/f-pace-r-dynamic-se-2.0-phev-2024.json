@@ -1,0 +1,102 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/jaguar-f-pace.jpg",
+    "NOME": "f-pace-r-dynamic-se-2.0-phev-2024",
+    "ANO": "2024",
+    "MARCA": "jaguar",
+    "MODELO": "f",
+    "ESPECIFICACAO": {
+        "Marca:": "Jaguar",
+        "Modelo:": "F-Pace",
+        "Versão:": "R Dynamic SE 2.0 PHEV 2024",
+        "Combustível:": "Híbrido plug-in - Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "300 @ 5.500 rpm",
+        "Torque em kgfm:": "40,8 @ 4.500 rpm",
+        "Potência específica:": "150,2 cv/litro",
+        "Torque específico:": "20,4 kgfm/litro",
+        "Taxa de compressão:": "9,5:1",
+        "Relação peso/potência:": "7,3 kg/cv",
+        "Relação peso/torque:": "53,7 kg/kgfm",
+        "Curso dos pistões:": "92,3 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Ingenium",
+        "Potência:": "141 cv",
+        "Potência combinada:": "404 cv",
+        "Torque:": "28 kgfm",
+        "Torque combinado:": "65,3 kgfm",
+        "Capacidade bateria:": "17,1 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Vel. máxxima elétrica:": "140 km/h"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,3 seg",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,4",
+        "Estrada em km/l:": "8,6",
+        "Autonomia em km:": "593"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/50 R20",
+        "Traseira:": "255/50 R20",
+        "Altura do flanco:": "119 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,74 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.762 mm",
+        "Altura:": "1.644 mm",
+        "Largura:": "1.936 mm",
+        "Entre eixos:": "2.874 mm",
+        "Bitola dianteira:": "1.640 mm",
+        "Bitola traseira:": "1.656 mm",
+        "Vão livre do solo:": "213 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.189 kg",
+        "Porta-malas:": "508 litros",
+        "Carga útil:": "576 kg",
+        "Tanque combustível:": "69 litros"
+    }
+}

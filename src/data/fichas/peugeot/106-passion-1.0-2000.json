@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Peugeot-106-1998.jpg",
+    "NOME": "106-passion-1.0-2000",
+    "ANO": "2000",
+    "MARCA": "peugeot",
+    "MODELO": "106",
+    "ESPECIFICACAO": {
+        "Marca:": "Peugeot",
+        "Modelo:": "106",
+        "Versão:": "Passion 1.0 2000",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica monoponto",
+        "Cilindrada:": "954 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "50 @ 6.000 rpm",
+        "Torque máx. (kgfm):": "7,5 @ 3.700 rpm",
+        "Potência específica:": "52,4 cv/litro",
+        "Torque específico:": "7,9 kgfm/litro",
+        "Taxa de compressão:": "9,4:1",
+        "Rel. peso/potência:": "15,9 kg/cv",
+        "Rel. peso/torque:": "106 kg/kgfm",
+        "Curso dos pistões:": "62 mm",
+        "Diâmetro dos cilindros:": "70 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "TU9ML/Z"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MA/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "19,4 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,7",
+        "Estrada em km/l:": "16,7",
+        "Autonomia em km:": "752"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Barra de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "não assistida",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13",
+        "Altura do flanco:": "116 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.678 mm",
+        "Altura:": "1.380 mm",
+        "Largura:": "1.590 mm",
+        "Entre eixos:": "2.385 mm",
+        "Bitola dianteira:": "1.380 mm",
+        "Bitola traseira:": "1.300 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "795 kg",
+        "Porta-malas:": "215 litros",
+        "Carga útil:": "480 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

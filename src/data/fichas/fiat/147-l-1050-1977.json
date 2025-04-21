@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Fiat-147-76.jpg",
+    "NOME": "147-l-1050-1977",
+    "ANO": "1977",
+    "MARCA": "fiat",
+    "MODELO": "147",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "147",
+        "Versão:": "L 1050 1977",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.048 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "55 @ 5.800 rpm",
+        "Torque máximo kgfm:": "7,8 @ 3.800 rpm",
+        "Potência específica:": "52,5 cv/litro",
+        "Torque específico:": "7,4 kgfm/litro",
+        "Taxa de compressão:": "7,2:1",
+        "Rel. peso/potência:": "14,2 kg/cv",
+        "Rel. peso/torque:": "100 kg/kgfm",
+        "Curso dos pistões:": "57,8 mm",
+        "Diâmetro cilindros:": "76 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Fiasa"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C506"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "19,4 seg",
+        "Velocidade máxima:": "136 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "12,3",
+        "Estrada em km/l:": "18,2",
+        "Autonomia em km:": "692"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "não assistida",
+        "Diâmetro de giro:": "9,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "145/80 R13",
+        "Traseira:": "145/80 R13",
+        "Altura do flanco:": "116 mm",
+        "Estepe:": "145/80 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,77 m²",
+        "Coef. aerodinâmico:": "0,50 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.627 mm",
+        "Altura:": "1.350 mm",
+        "Largura:": "1.545 mm",
+        "Entre-eixos:": "2.225 mm",
+        "Bitola dianteira:": "1.269 mm",
+        "Bitola traseira:": "1.288 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "780 kg",
+        "Porta-malas:": "350 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "38 litros"
+    }
+}

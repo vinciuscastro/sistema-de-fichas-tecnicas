@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Blazer_Executive.jpg",
+    "NOME": "executive-4.3-v6-4x2-at-2001",
+    "ANO": "2001",
+    "MARCA": "chevrolet",
+    "MODELO": "executive",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Blazer",
+        "Versão:": "Executive 4.3 V6 4x2 AT",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "4.299 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no bloco",
+        "Acionamento:": "Engrenagens",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "180 @ 4.400 rpm",
+        "Torque máx. (kgfm):": "34,7 @ 2.600 rpm",
+        "Potência específica:": "41,9 cv/litro",
+        "Torque específico:": "8,1 kgfm/litro",
+        "Taxa de compressão:": "9,1:1",
+        "Rel. peso/potência:": "10,4 kg/cv",
+        "Rel. peso/torque:": "54,2 kg/kgfm",
+        "Curso dos pistões:": "88,4 mm",
+        "Diâmetro dos cilindros:": "101,6 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Powertech C43NE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,6 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,3",
+        "Estrada em km/l:": "9,8",
+        "Autonomia em km:": "686"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola parabólica de lâmina única"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/75 R15",
+        "Traseira:": "235/75 R15",
+        "Altura do flanco:": "176 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.709 mm",
+        "Altura:": "1.680 mm",
+        "Largura:": "1.731 mm",
+        "Entre eixos:": "2.718 mm",
+        "Bitola dianteira:": "1.454 mm",
+        "Bitola traseira:": "1.399 mm",
+        "Vão livre do solo:": "228 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.880 kg",
+        "Porta-malas:": "456 litros",
+        "Carga útil:": "745 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/ford-ranger-2024.jpg",
+    "NOME": "ranger-limited-3.0-v6-2024",
+    "ANO": "2024",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "Limited 3.0 V6 2024",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado - Argentina",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.993 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima em CV:": "250 @ 3.250 rpm",
+        "Torque máximo em kgfm:": "61,2 @ 1.750 rpm",
+        "Potência específica:": "83,5 cv/litro",
+        "Torque específico:": "20,4 kgfm/litro",
+        "Taxa de compressão:": "16:1",
+        "Rel. peso/potência:": "9,43 kg/cv",
+        "Rel. peso/torque:": "38,5 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Lion"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "10",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "10R80"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,2 seg",
+        "Velocidade máxima:": "187 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,9",
+        "Estrada em km/l:": "10,2",
+        "Autonomia em km:": "816"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco Ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/65 R18",
+        "Traseira:": "255/65 R18",
+        "Altura do flanco:": "166 mm",
+        "Estepe:": "255/65 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.370 mm",
+        "Altura:": "1.884 mm",
+        "Largura:": "1.918 mm",
+        "Entre eixos:": "3.270 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "235 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.357 kg",
+        "Caçamba:": "1.250 litros",
+        "Carga útil:": "1.023 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

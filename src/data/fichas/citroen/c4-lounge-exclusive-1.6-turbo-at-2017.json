@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/C42015.jpg",
+    "NOME": "c4-lounge-exclusive-1.6-turbo-at-2017",
+    "ANO": "2017",
+    "MARCA": "citroen",
+    "MODELO": "c4",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "C4 Lounge",
+        "Versão:": "Exclusive 1.6 Turbo AT 2017",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima CV:": "173 (E) / 166 (G) @ 6.000 rpm",
+        "Torque máximo kgfm:": "24,5 (E) / 24,5 (G) @ 1.400 rpm",
+        "Potência específica:": "108,3 cv/litro",
+        "Torque específico:": "15,3 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "8,7 kg/cv",
+        "Rel. peso/torque:": "61,2 kg/kgfm",
+        "Curso dos pistões:": "85,8 mm",
+        "Diâmetro cilindros:": "77 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EP6FDT M"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin TF-71SC"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,1 seg",
+        "Velocidade máxima:": "215 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,1 (E) / 10,5 (G)",
+        "Estrada em km/l:": "9 (E) / 13,2 (G)",
+        "Autonomia em km:": "540 (E) / 792 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17",
+        "Altura do flanco:": "101 mm",
+        "Estepe:": "125/85 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.621 mm",
+        "Altura:": "1.505 mm",
+        "Largura:": "1.789 mm",
+        "Entre-eixos:": "2.710 mm",
+        "Bitola dianteira:": "1.526 mm",
+        "Bitola traseira:": "1.521 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.500 kg",
+        "Porta-malas:": "450 litros",
+        "Carga útil:": "414 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

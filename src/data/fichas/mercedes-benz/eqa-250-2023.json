@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/marco/mercedes-benz-eqa-2023.jpg",
+    "NOME": "eqa-250-2023",
+    "ANO": "2023",
+    "MARCA": "mercedes-benz",
+    "MODELO": "eqa",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "EQA",
+        "Versão:": "250 2023",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "304 km",
+        "Capacidade da bateria:": "66,5 kWh",
+        "Potência:": "190 cv",
+        "Torque:": "38,2 kgfm",
+        "Peso/potência:": "10,7 kg/cv",
+        "Peso/torque:": "53,4 kg/kgfm",
+        "Consumo elétrico:": "17,6 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,9 seg",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/50 R19",
+        "Traseira:": "235/50 R19",
+        "Altura do flanco:": "118 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,53 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.463 mm",
+        "Altura:": "1.620 mm",
+        "Largura:": "1.830 mm",
+        "Entre eixos:": "2.729 mm",
+        "Bitola dianteira:": "1.584 mm",
+        "Bitola traseira:": "1.585 mm",
+        "Vão livre do solo:": "154 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.040 kg",
+        "Porta-malas:": "340 litros",
+        "Carga útil:": "informação não disponível"
+    }
+}

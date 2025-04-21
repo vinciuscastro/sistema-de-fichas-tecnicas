@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/hyundai-creta.jpg",
+    "NOME": "creta-comfort-1.0-turbo-2023",
+    "ANO": "2023",
+    "MARCA": "hyundai",
+    "MODELO": "creta",
+    "ESPECIFICACAO": {
+        "Marca:": "Hyundai",
+        "Modelo:": "Creta",
+        "Versão:": "Comfort 1.0 Turbo 2023",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo compressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "998 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de Admissão e escape",
+        "Potência máxima em CV:": "120 (E) / 120 (G) @ 6.000 rpm",
+        "Torque máximo em kgfm:": "17,5 (E) / 17,5 (G) @ 1.500 rpm",
+        "Potência específica:": "120,2 cv/litro",
+        "Torque específico:": "17,5 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "10,58 kg/cv",
+        "Relação peso/torque:": "72,6 kg/kgfm",
+        "Curso dos pistões:": "84 mm",
+        "Diâmetro dos cilindros:": "71 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Kappa"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,2 (E) / 12 (G)",
+        "Estrada em km/l:": "8,9 (E) / 12,2 (G)",
+        "Autonomia em km:": "445 (E) / 610 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/65 R16",
+        "Traseira:": "205/65 R16",
+        "Estepe:": "155/90 R16",
+        "Altura do flanco:": "133 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.300 mm",
+        "Altura:": "1.620 mm",
+        "Largura:": "1.790 mm",
+        "Entre eixos:": "2.610 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "190 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.270 kg",
+        "Porta-malas:": "422 litros",
+        "Carga útil:": "430 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

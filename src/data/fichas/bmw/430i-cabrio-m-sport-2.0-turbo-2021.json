@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Julho/BMW-430i-Cabriolet.jpg",
+    "NOME": "430i-cabrio-m-sport-2.0-turbo-2021",
+    "ANO": "2021",
+    "MARCA": "bmw",
+    "MODELO": "430i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "430i Cabriolet",
+        "Versão:": "M Sport 2.0 Turbo 2021",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "258 @ 5.000 rpm",
+        "Torque máximo em kgfm:": "40,8 @ 1.550 rpm",
+        "Potência específica:": "129,1 cv/litro",
+        "Torque específico:": "20,4 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "6,9 kg/cv",
+        "Relação peso/torque:": "43,6 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "B46B20"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,2 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,8",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "708"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R19",
+        "Traseira:": "255/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,19 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.768 mm",
+        "Altura:": "1.384 mm",
+        "Largura:": "1.852 mm",
+        "Entre eixos:": "2.851 mm",
+        "Bitola dianteira:": "1.575 mm",
+        "Bitola traseira:": "1.611 mm",
+        "Vão livre do solo:": "124 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.780 kg",
+        "Porta-malas:": "385 litros",
+        "Carga útil:": "410 kg",
+        "Tanque combustível:": "59 litros"
+    }
+}

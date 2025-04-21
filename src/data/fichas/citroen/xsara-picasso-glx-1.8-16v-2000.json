@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Xsara_Picasso.jpg",
+    "NOME": "xsara-picasso-glx-1.8-16v-2000",
+    "ANO": "2000",
+    "MARCA": "citroen",
+    "MODELO": "xsara",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "Xsara Picasso",
+        "Versão:": "GLX 1.8 16V 2000",
+        "Origem:": "Importado",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.761 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "112 @ 5.500 rpm",
+        "Torque em kgfm:": "16,1 @ 4.250 rpm",
+        "Taxa de compressão:": "10,4:1",
+        "Código do motor:": "XU7J4"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "BE3/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,7 s",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "7,2 km/l",
+        "Estrada:": "13,5 km/l",
+        "Autonomia:": "729 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Barra de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65/14",
+        "Traseira:": "185/65/14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,02 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.167 mm",
+        "Altura:": "1.401 mm",
+        "Largura:": "1.698 mm",
+        "Entre eixos:": "2.540 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.100 kg",
+        "Porta-malas:": "408 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "54 litros"
+    }
+}

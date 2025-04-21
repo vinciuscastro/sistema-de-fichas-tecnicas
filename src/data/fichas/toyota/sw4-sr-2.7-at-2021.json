@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Toyota-SW4-2021.jpg",
+    "NOME": "sw4-sr-2.7-at-2021",
+    "ANO": "2021",
+    "MARCA": "toyota",
+    "MODELO": "sw4",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "SW4",
+        "Versão:": "SR 2.7 AT 2021",
+        "Combustível:": "Flex - Etanol e/ou gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "8",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.694 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escapamento",
+        "Potência máxima (cv):": "163 (E) / 159 (G) @ 5.000 rpm",
+        "Torque máximo (kgfm):": "24,9 (E) / 24,9 (G) @ 4.000 rpm",
+        "Potência específica:": "60,5 cv/litro",
+        "Torque específico:": "9,2 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "11,6 kg/cv",
+        "Rel. peso/torque:": "75,7 kg/kgfm",
+        "Curso dos pistões:": "95 mm",
+        "Diâmetro dos cilindros:": "95 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "2TR-FBR"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,5 seg",
+        "Velocidade máxima:": "165 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,9 (E) / 7,1 (G)",
+        "Estrada em km/l:": "5,9 (E) / 8,5 (G)",
+        "Autonomia em km:": "472 (E) / 680 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/65 R17",
+        "Traseira:": "265/65 R17",
+        "Estepe:": "265/65 R17",
+        "Altura do flanco:": "172 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.795 mm",
+        "Altura:": "1.835 mm",
+        "Largura:": "1.855 mm",
+        "Entre-eixos:": "2.745 mm",
+        "Bitola dianteira:": "1.540 mm",
+        "Bitola traseira:": "1.555 mm",
+        "Vão livre do solo:": "279 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.885 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "625 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

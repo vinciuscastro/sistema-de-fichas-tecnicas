@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/bmw-218i.jpg",
+    "NOME": "218i-gran-coupe-sport-gp-1.5-2023",
+    "ANO": "2023",
+    "MARCA": "bmw",
+    "MODELO": "218i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "218i",
+        "Versão:": "Gran Coupe Sport GP 1.5 2023",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "140 @ 4.600 rpm",
+        "Torque máximo em kgfm:": "22,4 @ 1.480 rpm",
+        "Potência específica:": "93,4 cv/litro",
+        "Torque específico:": "14,9 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "9,8 kg/cv",
+        "Relação peso/torque:": "61,4 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "B38B15"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,7 seg",
+        "Velocidade máxima:": "213 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "11,2",
+        "Estrada em km/l:": "13,6",
+        "Autonomia em km:": "680"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.526 mm",
+        "Altura:": "1.420 mm",
+        "Largura:": "1.800 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.565 mm",
+        "Bitola traseira:": "1.565 mm",
+        "Vão livre do solo:": "152 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.375 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "530 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

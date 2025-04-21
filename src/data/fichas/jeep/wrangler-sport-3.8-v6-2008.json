@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Wrangler-2008.jpg",
+    "NOME": "wrangler-sport-3.8-v6-2008",
+    "ANO": "2008",
+    "MARCA": "jeep",
+    "MODELO": "wrangler",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Wrangler",
+        "Versão:": "Sport 3.8 V6 2008",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Jipe",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.778 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No bloco",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "199 @ 5.000 rpm",
+        "Torque máx. (kgfm):": "32,1 @ 4.000 rpm",
+        "Potência específica:": "52,7 cv/litro",
+        "Torque específico:": "8,5 kgfm/litro",
+        "Taxa de compressão:": "9,6:1",
+        "Rel. peso/potência:": "8,6 kg/cv",
+        "Rel. peso/torque:": "53,5 kg/kgfm",
+        "Curso dos pistões:": "87 mm",
+        "Diâmetro dos cilindros:": "96 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,2 seg",
+        "Velocidade máxima:": "174 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,1",
+        "Estrada em km/l:": "8",
+        "Autonomia em km:": "560"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/75 R16",
+        "Traseira:": "245/75 R16",
+        "Altura do flanco:": "184 mm",
+        "Estepe:": "245/75 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,94 m²",
+        "Coef. aerodinâmico:": "0,50 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.223 mm",
+        "Altura:": "1.840 mm",
+        "Largura:": "1.877 mm",
+        "Entre eixos:": "2.424 mm",
+        "Bitola dianteira:": "1.572 mm",
+        "Bitola traseira:": "1.572 mm",
+        "Vão livre do solo:": "242 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.717 kg",
+        "Porta-malas:": "142 litros",
+        "Carga útil:": "454 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

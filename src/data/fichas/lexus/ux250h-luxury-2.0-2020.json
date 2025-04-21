@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/UX250H.jpg",
+    "NOME": "ux250h-luxury-2.0-2020",
+    "ANO": "2020",
+    "MARCA": "lexus",
+    "MODELO": "ux250h",
+    "ESPECIFICACAO": {
+        "Marca:": "Lexus",
+        "Modelo:": "UX250h",
+        "Versão:": "Luxury 2.0 2020",
+        "Combustível:": "Híbrido - Gasolina / Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.987 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "145 @ 6.000 rpm",
+        "Torque em kgfm:": "18,8 @ 5.200 rpm",
+        "Potência específica:": "73 cv/litro",
+        "Torque específico:": "9,5 kgfm/litro",
+        "Taxa de compressão:": "14:1",
+        "Relação peso/potência:": "11,1 kg/cv",
+        "Relação peso/torque:": "85,6 kg/kgfm",
+        "Curso dos pistões:": "97,6 mm",
+        "Diâmetro dos cilindros:": "80,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "M20A-FXS",
+        "Potência:": "107 cv",
+        "Potência combinada:": "181 cv",
+        "Torque:": "20,2 kgfm",
+        "Torque combinado:": "informação não disponível",
+        "Capacidade bateria:": "1,3 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "6",
+        "Acoplamento:": "Engrenagem Epicicloidal",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "P313 ECVT"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,5 seg",
+        "Velocidade máxima:": "177 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "16,7",
+        "Estrada em km/l:": "14,7",
+        "Autonomia em km:": "632"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R18",
+        "Traseira:": "225/50 R18",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,38 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.495 mm",
+        "Altura:": "1.520 mm",
+        "Largura:": "1.840 mm",
+        "Entre eixos:": "2.640 mm",
+        "Bitola dianteira:": "1.560 mm",
+        "Bitola traseira:": "1.560 mm",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.610 kg",
+        "Porta-malas:": "234 litros",
+        "Carga útil:": "495 kg",
+        "Tanque combustível:": "43 litros"
+    }
+}

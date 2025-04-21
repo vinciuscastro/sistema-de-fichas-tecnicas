@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Mitsubishi/Outlander-02.jpg",
+    "NOME": "outlander-2.0",
+    "ANO": "2.0",
+    "MARCA": "mitsubishi",
+    "MODELO": "outlander",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Outlander",
+        "Versão:": "2.0",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, SUV, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "160 cv @ 6.000 rpm",
+        "Torque:": "20,1 kgfm @ 4.200 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12 s",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,3 km/l",
+        "Rodoviário:": "10,1 km/l",
+        "Autonomia:": "636 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "225/55 R18",
+        "Traseiros:": "225/55 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.695 mm",
+        "Altura:": "1.680 mm",
+        "Largura:": "1.810 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Vão livre do solo:": "208 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.425 kg",
+        "Porta-malas:": "715 litros",
+        "Carga útil:": "não informado",
+        "Tanque combustível:": "63 litros"
+    }
+}

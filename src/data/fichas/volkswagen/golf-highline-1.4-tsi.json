@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Volks/Golf.jpg",
+    "NOME": "golf-highline-1.4-tsi",
+    "ANO": "TSi",
+    "MARCA": "volkswagen",
+    "MODELO": "golf",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Golf",
+        "Versão:": "Highline 1.4 TSi",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Nacional, hatch, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.395 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência (E) / (G):": "150 cv / 150 cv @ 4.500 rpm",
+        "Torque (E) / (G):": "25,5 kgfm / 25,5 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "10,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,3 s",
+        "Velocidade máxima:": "209 km/h"
+    },
+    "CONSUMO": {
+        "Urbano (E) / (G):": "7,9 km/l / 11,6 km/l",
+        "Rodoviário (E) / (G):": "9,5 km/l / 13,6 km/l",
+        "Autonomia (E) / (G):": "475 km / 680 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "205/55 R16",
+        "Traseiros:": "205/55 R16"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.255 mm",
+        "Altura:": "1.468 mm",
+        "Largura:": "1.799 mm",
+        "Entre-eixos:": "2.630 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.218 kg",
+        "Porta-malas:": "313 litros",
+        "Carga útil:": "562 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

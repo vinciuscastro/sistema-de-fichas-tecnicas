@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Mercedes/GLC-Coupe.jpg",
+    "NOME": "glc-coupe-250-sport-2.0-turbo",
+    "ANO": "Turbo",
+    "MARCA": "mercedes-benz",
+    "MODELO": "glc",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "GLC",
+        "Versão:": "Coupe 250 2.0 Turbo",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, SUV, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.991 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "211 cv @ 5.500 rpm",
+        "Torque:": "35,7 kgfm @ 1.200 rpm",
+        "Taxa de compressão:": "9,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel 0 a 100 km/h:": "7,3 s",
+        "Velocidade máxima:": "222 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,7 km/l",
+        "Rodoviário:": "10,3 km/l",
+        "Autonomia:": "679 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "255/45 R20",
+        "Traseiros:": "285/40 R20"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.732 mm",
+        "Altura:": "1.602 mm",
+        "Largura:": "1.890 mm",
+        "Entre-eixos:": "2.873 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.735 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "700 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

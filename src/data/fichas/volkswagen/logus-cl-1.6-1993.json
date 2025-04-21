@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Logus.jpg",
+    "NOME": "logus-cl-1.6-1993",
+    "ANO": "1993",
+    "MARCA": "volkswagen",
+    "MODELO": "logus",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Logus",
+        "Versão:": "CL 1.6",
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.555 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Álcool",
+        "Potência em CV:": "74,8 @ 5.200 rpm",
+        "Torque em kgfm:": "13 @ 3.400 rpm",
+        "Taxa de compressão:": "12:1",
+        "Código do motor:": "AE-1600"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,6 s",
+        "Velocidade máxima:": "162 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,6",
+        "Estrada em km/l:": "11,5",
+        "Autonomia em km:": "736"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Não assistida",
+        "Diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70/R13",
+        "Traseira:": "175/70/R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,03 m²",
+        "Coef. aerodinâmico:": "0,32 CX"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.276 mm",
+        "Altura:": "1.406 mm",
+        "Largura:": "1.695 mm",
+        "Entre eixos:": "2.525 mm",
+        "Bitola dianteira:": "1.440 mm",
+        "Bitola traseira:": "1.455 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.025 kg",
+        "Porta-malas:": "508 litros",
+        "Carga útil:": "410 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}

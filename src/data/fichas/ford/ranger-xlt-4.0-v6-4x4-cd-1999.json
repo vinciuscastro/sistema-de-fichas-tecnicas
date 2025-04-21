@@ -1,0 +1,71 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/Ranger-CD-1999.jpg",
+    "NOME": "ranger-xlt-4.0-v6-4x4-cd-1999",
+    "ANO": "1999",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "XLT 4.0 V6 4x4 CD",
+        "Ano/modelo:": "1999",
+        "Detalhes:": "Importado, picape, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "4.011 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "162 cv @ 4.800 rpm",
+        "Torque:": "31,1 kgfm @ 2.750 rpm",
+        "Taxa de compressão:": "9:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,6 s",
+        "Velocidade máxima:": "155 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,2 km/l",
+        "Rodoviário:": "9 km/l",
+        "Autonomia:": "675 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "14 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/75 R15",
+        "Traseira:": "235/75 R15"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.125 mm",
+        "Altura:": "1.779 mm",
+        "Largura:": "1.763 mm",
+        "Entre eixos:": "3.192 mm",
+        "Bitola dianteira:": "1.486 mm",
+        "Bitola traseira:": "1.455 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.650 kg",
+        "Caçamba:": "850 litros",
+        "Carga útil:": "1.020 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

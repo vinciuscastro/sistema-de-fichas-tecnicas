@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Agosto/AMG_Roadster.jpg",
+    "NOME": "amg-gt-4.0-v8-c-roadster-2020",
+    "ANO": "2020",
+    "MARCA": "mercedes-benz",
+    "MODELO": "amg",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "AMG GT",
+        "Versão:": "4.0 V8 C Roadster",
+        "Ano/modelo:": "2020",
+        "Detalhes:": "Importado, conversível, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Biturbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "3.892 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "557 cv @ 5.750 rpm",
+        "Torque:": "69,3 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "não informado"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,7 s",
+        "Velocidade máxima:": "316 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,8 km/l",
+        "Rodoviário:": "8,4 km/l",
+        "Autonomia:": "630 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, double wishibone",
+        "Traseira:": "Independente, double wishbone"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/35 R19",
+        "Traseira:": "305/30 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.544 mm",
+        "Altura:": "1.259 mm",
+        "Largura:": "1.939 mm",
+        "Entre eixos:": "2.630 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.660 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "75 litros"
+    }
+}

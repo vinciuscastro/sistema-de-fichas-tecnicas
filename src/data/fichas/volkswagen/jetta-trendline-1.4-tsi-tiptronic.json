@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Volks/Jetta.jpg",
+    "NOME": "jetta-trendline-1.4-tsi-tiptronic",
+    "ANO": "Tiptronic",
+    "MARCA": "volkswagen",
+    "MODELO": "jetta",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Jetta",
+        "Versão:": "Trendline 1.4 TSi Tiptronic",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, sedan, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.395 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "150 cv @ 5.000 rpm",
+        "Torque:": "25,5 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático, Tiptronic",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,6 s",
+        "Velocidade máxima:": "203 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,4 km/l",
+        "Rodoviário:": "13,8 km/l",
+        "Autonomia:": "759 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "205/55 R16",
+        "Traseiros:": "205/55 R16"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.659 mm",
+        "Altura:": "1.473 mm",
+        "Largura:": "1.778 mm",
+        "Entre-eixos:": "2.651 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.298 kg",
+        "Porta-malas:": "510 litros",
+        "Carga útil:": "514 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

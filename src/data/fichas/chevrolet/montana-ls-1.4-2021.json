@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Setembro/Montana.jpg",
+    "NOME": "montana-ls-1.4-2021",
+    "ANO": "2021",
+    "MARCA": "chevrolet",
+    "MODELO": "montana",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Montana",
+        "Versão:": "LS 1.4 2021",
+        "Combustível:": "Flex",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.389 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "99 (E) / 94 (G) @ 6.000 rpm",
+        "Torque máximo em kgfm:": "13 (E) / 12,9 (G) @ 3.200 rpm",
+        "Potência específica:": "71,3 cv/litro",
+        "Torque específico:": "9,4 kgfm/litro",
+        "Taxa de compressão:": "12,4:1",
+        "Rel. peso/potência:": "11,1 kg/cv",
+        "Rel. peso/torque:": "84,4 kg/kgfm",
+        "Curso dos pistões:": "73,4 mm",
+        "Diâmetro dos cilindros:": "77,6 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família I"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "F15-5 WR"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,4 seg",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,5 (E) / 10,7 (G)",
+        "Estrada em km/l:": "8,4 (E) / 12,2 (G)",
+        "Autonomia em km:": "412 (E) / 598 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15",
+        "Altura do flanco:": "120 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.514 mm",
+        "Altura:": "1.577 mm",
+        "Largura:": "1.700 mm",
+        "Entre eixos:": "2.669 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.097 kg",
+        "Caçamba:": "1.152 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "49 litros"
+    }
+}

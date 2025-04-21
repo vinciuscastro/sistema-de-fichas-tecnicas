@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Setembro/Chevrolet-Montana-2017.jpg",
+    "NOME": "montana-sport-1.4-2017",
+    "ANO": "2017",
+    "MARCA": "chevrolet",
+    "MODELO": "montana",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Montana",
+        "Versão:": "Sport 1.4",
+        "Combustível:": "Flex - Etanol e/ou gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.389 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "99 (E) / 94 (G) @ 6.000 rpm",
+        "Torque máximo em kgfm:": "13 (E) / 12,9 (G) @ 3.200 rpm",
+        "Potência específica:": "71,3 cv/litro",
+        "Torque específico:": "9,4 kgfm/litro",
+        "Taxa de compressão:": "12,4:1",
+        "Relação peso/potência:": "11,5 kg/cv",
+        "Relação peso/torque:": "87,4 kg/kgfm",
+        "Curso dos pistões:": "73,4 mm",
+        "Diâmetro dos cilindros:": "77,6 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família I"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "F15-5 WR"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,4 seg",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,5 (E) / 11,3 (G)",
+        "Estrada em km/l:": "8,4 (E) / 12,6 (G)",
+        "Autonomia em km:": "412 (E) / 617 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola Helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/55 R16",
+        "Traseira:": "195/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.514 mm",
+        "Altura:": "1.572 mm",
+        "Largura:": "1.700 mm",
+        "Entre eixos:": "2.669 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.136 kg",
+        "Caçamba:": "1.152 litros",
+        "Carga útil:": "717 kg",
+        "Tanque combustível:": "49 litros"
+    }
+}

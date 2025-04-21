@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/300ZX.jpg",
+    "NOME": "300zx-3.0-v6-biturbo-1992",
+    "ANO": "1992",
+    "MARCA": "nissan",
+    "MODELO": "300zx",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "300ZX",
+        "Versão:": "3.0 V6 Biturbo 1992",
+        "Origem:": "Importado - Japão",
+        "Detalhes:": "Coupé, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Biturbo",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.960 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "300 @ 6.400 rpm",
+        "Torque em kgfm:": "63,2 @ 3.600 rpm",
+        "Taxa de compressão:": "8,8:1",
+        "Código do motor:": "VG30DETT"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "RS5R30A"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h": "6,1 s",
+        "Velocidade máxima": "225 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "4 km/l",
+        "Estrada:": "7 km/l",
+        "Autonomia:": "476 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Molas Helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50/R16",
+        "Traseira:": "245/45/R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.305 mm",
+        "Altura:": "1.249 mm",
+        "Largura:": "1.790 mm",
+        "Entre eixos:": "2.451 mm",
+        "Bitola dianteira:": "1.496 mm",
+        "Bitola traseira:": "1.554 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.610 kg",
+        "Porta-malas:": "324 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "68 litros"
+    }
+}

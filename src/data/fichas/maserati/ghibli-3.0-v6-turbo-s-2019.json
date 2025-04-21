@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Ghibli-S.jpg",
+    "NOME": "ghibli-3.0-v6-turbo-s-2019",
+    "ANO": "2019",
+    "MARCA": "maserati",
+    "MODELO": "ghibli",
+    "ESPECIFICACAO": {
+        "Marca:": "Maserati",
+        "Modelo:": "Ghibli",
+        "Versão:": "3.0 V6 Turbo S",
+        "Ano/modelo:": "2019",
+        "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "330 cv @ 5.000 rpm",
+        "Torque:": "51 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "9,7:1",
+        "Código do motor:": "não informado"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,6 s",
+        "Velocidade máxima:": "263 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,3 km/l",
+        "Rodoviário:": "9,3 km/l",
+        "Autonomia:": "744 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/50 R18",
+        "Traseira:": "275/45 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,42 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.971 mm",
+        "Altura:": "1.461 mm",
+        "Largura:": "1.945 mm",
+        "Entre eixos:": "2.998 mm",
+        "Bitola dianteira:": "1.635 mm",
+        "Bitola traseira:": "1.653 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.810 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "370 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volvo-460.jpg",
+    "NOME": "460-1.7-turbo-1992",
+    "ANO": "1992",
+    "MARCA": "volvo",
+    "MODELO": "460",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "460",
+        "Versão:": "1.7 Turbo 1992",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção eletrônica monoponto",
+        "Cilindrada:": "1.721 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote",
+        "Variação do comando:": "não variável",
+        "Potência máxima ( CV):": "120 @ 5.300 rpm",
+        "Torque máximo (kgfm):": "19,4 @ 3.300 rpm",
+        "Potência específica:": "69,7 cv/litro",
+        "Torque específico:": "11,3 kgfm/litro",
+        "Taxa de compressão:": "8,1:1",
+        "Rel. peso/potência:": "8,8 kg/cv",
+        "Rel. peso/torque:": "54,3 kg/kgfm",
+        "Curso dos pistões:": "83,5 mm",
+        "Diâmetro dos cilindros:": "81 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 seg",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "13",
+        "Autonomia em km:": "780"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço semi-arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Altura do flanco:": "120 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.440 mm",
+        "Altura:": "1.390 mm",
+        "Largura:": "1.690 mm",
+        "Entre eixos:": "2.500 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.053 kg",
+        "Porta-malas:": "453 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "60 litros"
+    }
+}

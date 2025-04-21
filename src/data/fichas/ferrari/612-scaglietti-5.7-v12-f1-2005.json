@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ferrari-612-Scaglietti.jpg",
+    "NOME": "612-scaglietti-5.7-v12-f1-2005",
+    "ANO": "2005",
+    "MARCA": "ferrari",
+    "MODELO": "612",
+    "ESPECIFICACAO": {
+        "Marca:": "Ferrari",
+        "Modelo:": "612",
+        "Versão:": "Scaglietti 5.7 V12 F1 2005",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Porte:": "Grande",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "5.748 cc",
+        "Cilindros:": "12, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "540 @ 7.250 rpm",
+        "Torque máximo kgfm:": "60 @ 5.250 rpm",
+        "Potência específica:": "93,9 cv/litro",
+        "Torque específico:": "10,4 kgfm/litro",
+        "Taxa de compressão:": "11,2:1",
+        "Rel. peso/potência:": "3,4 kg/cv",
+        "Rel. peso/torque:": "30,7 kg/kgfm",
+        "Curso dos pistões:": "77 mm",
+        "Diâmetro cilindros:": "89 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,2 seg",
+        "Velocidade máxima:": "317 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "2,5",
+        "Estrada em km/l:": "5,3",
+        "Autonomia em km:": "557"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R18",
+        "Traseira:": "285/40 R19",
+        "Altura do flanco:": "114 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,24 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.902 mm",
+        "Altura:": "1.344 mm",
+        "Largura:": "1.957 mm",
+        "Entre-eixos:": "2.950 mm",
+        "Bitola dianteira:": "1.688 mm",
+        "Bitola traseira:": "1.641 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.840 kg",
+        "Porta-malas:": "240 litros",
+        "Carga útil:": "410 kg",
+        "Tanque combustível:": "105 litros"
+    }
+}

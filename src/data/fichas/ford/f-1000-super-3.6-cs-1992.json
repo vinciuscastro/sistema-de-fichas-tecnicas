@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-F-1000-91.png",
+    "NOME": "f-1000-super-3.6-cs-1992",
+    "ANO": "1992",
+    "MARCA": "ford",
+    "MODELO": "f",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "F-1000",
+        "Versão:": "Super 3.6 CS 1992",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Porte:": "Grande",
+        "Portas:": "2",
+        "Ocupantes:": "3",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "3.620 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "103 @ 4.000 rpm",
+        "Torque máx. (kgfm):": "24,5 @ 1.500 rpm",
+        "Potência específica:": "28,5 cv/litro",
+        "Torque específico:": "6,8 kgfm/litro",
+        "Taxa de compressão:": "7,4:1",
+        "Rel. peso/potência:": "18 kg/cv",
+        "Rel. peso/torque:": "75,7 kg/kgfm",
+        "Curso dos pistões:": "84,8 mm",
+        "Diâmetro dos cilindros:": "93,4 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "6LBC"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "22 seg",
+        "Velocidade máxima:": "141 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5",
+        "Estrada em km/l:": "6,6",
+        "Autonomia em km:": "739"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, duplo eixo em \"I\"",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/75 R15",
+        "Traseira:": "225/75 R15",
+        "Altura do flanco:": "169 mm",
+        "Estepe:": "225/75 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.060 mm",
+        "Altura:": "1.780 mm",
+        "Largura:": "1.890 mm",
+        "Entre eixos:": "2.967 mm",
+        "Bitola dianteira:": "1.654 mm",
+        "Bitola traseira:": "1.636 mm",
+        "Vão livre do solo:": "180 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.855 kg",
+        "Caçamba:": "1.100 litros",
+        "Carga útil:": "1.100 kg",
+        "Tanque combustível:": "112 litros"
+    }
+}

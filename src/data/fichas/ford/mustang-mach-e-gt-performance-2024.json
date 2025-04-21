@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/marco/ford-mustang-mach-e.jpg",
+    "NOME": "mustang-mach-e-gt-performance-2024",
+    "ANO": "2024",
+    "MARCA": "ford",
+    "MODELO": "mustang",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Mustang",
+        "Versão:": "Mach-e GT Performance 2024",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "265 km",
+        "Capacidade da bateria:": "91 kWh",
+        "Potência:": "487 cv",
+        "Torque:": "87,7 kgfm",
+        "Peso/potência:": "4,65 kg/cv",
+        "Peso/torque:": "25,80 kg/kgfm",
+        "Consumo elétrico:": "23 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Integral sob demanda"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,8 seg",
+        "Velocidade máxima:": "2000 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco Sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R20",
+        "Traseira:": "245/45 R20",
+        "Altura do flanco:": "110 mm",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.742 mm",
+        "Altura:": "1.613 mm",
+        "Largura:": "1.882 mm",
+        "Entre eixos:": "2.985 mm",
+        "Bitola dianteira:": "1.613 mm",
+        "Bitola traseira:": "1.610 mm",
+        "Vão livre do solo:": "129 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.263 kg",
+        "Porta-malas:": "422 litros",
+        "Carga útil:": "444 kg"
+    }
+}

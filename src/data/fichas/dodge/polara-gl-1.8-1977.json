@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara.jpg",
+    "NOME": "polara-gl-1.8-1977",
+    "ANO": "1977",
+    "MARCA": "dodge",
+    "MODELO": "polara",
+    "ESPECIFICACAO": {
+        "Marca:": "Dodge",
+        "Modelo:": "Polara",
+        "Versão:": "GL 1.8 1977",
+        "Origem:": "Nacional",
+        "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.799 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No bloco",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência CV:": "93 @ 5.000 rpm",
+        "Torque kgfm:": "15,5 @ 3.500 rpm",
+        "Taxa de compressão:": "7,7:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,6 s",
+        "Velocidade máxima:": "158 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "9 km/l",
+        "Estrada:": "11 km/l",
+        "Autonomia:": "660 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "não disponível",
+        "Traseira:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.125 mm",
+        "Altura:": "1.376 mm",
+        "Largura:": "1.587 mm",
+        "Entre eixos:": "2.489 mm",
+        "Bitola dianteira:": "1.313 mm",
+        "Bitola traseira:": "1.321 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "972 kg",
+        "Porta-malas:": "316 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "60 litros"
+    }
+}

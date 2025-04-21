@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-323i-touring.jpg",
+    "NOME": "323i-touring-2.5-2000",
+    "ANO": "2000",
+    "MARCA": "bmw",
+    "MODELO": "323i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "323i",
+        "Versão:": "Touring 2.5 2000",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Perua",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.494 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima em CV:": "170 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "25 @ 3.950 rpm",
+        "Potência específica:": "68,2 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "9,1 kg/cv",
+        "Relação peso/torque:": "62,2 kg/kgfm",
+        "Curso dos pistões:": "75 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M52B25TU"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "GM 5L40-E"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,8 seg",
+        "Velocidade máxima:": "211 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,7",
+        "Estrada em km/l:": "9,6",
+        "Autonomia em km:": "605"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,08 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.478 mm",
+        "Altura:": "1.409 mm",
+        "Largura:": "1.739 mm",
+        "Entre eixos:": "2.725 mm",
+        "Bitola dianteira:": "1.471 mm",
+        "Bitola traseira:": "1.478 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.555 kg",
+        "Porta-malas:": "435 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

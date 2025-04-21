@@ -1,0 +1,82 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Julho/Hyundai-HB20S.jpg",
+    "NOME": "hb20s-vision-1.0-2022",
+    "ANO": "2022",
+    "MARCA": "hyundai",
+    "MODELO": "hb20s",
+    "ESPECIFICACAO": {
+        "Marca:": "Hyundai",
+        "Modelo:": "HB20S",
+        "Versão:": "Vision 1.0 2022",
+        "Combustível:": "Flex - etanol/gasolina",
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "998 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência em CV:": "80 (eta) / 75 (gas) @ 6.000 rpm",
+        "Torque em kgfm:": "10,2 (eta) / 9,4 (gas) @ 4.500 rpm",
+        "Taxa de compressão:": "11,5:1",
+        "Código do motor:": "Kappa"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,5 seg",
+        "Velocidade máxima:": "162 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,5 (eta) / 12,8 (gas)",
+        "Estrada em km/l:": "10,6 (eta) / 14,7 (gas)",
+        "Autonomia em km:": "530 (eta) / 735 (gas)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60 R15",
+        "Traseira:": "185/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.260 mm",
+        "Altura:": "1.470 mm",
+        "Largura:": "1.720 mm",
+        "Entre eixos:": "2.530 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.015 kg",
+        "Porta-malas:": "475 litros",
+        "Carga útil:": "425 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

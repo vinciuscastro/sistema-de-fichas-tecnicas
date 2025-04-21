@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volvo-850.jpg",
+    "NOME": "850-t5-2.3-turbo-1995",
+    "ANO": "1995",
+    "MARCA": "volvo",
+    "MODELO": "850",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "850",
+        "Versão:": "T5 2.3 Turbo 1995",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.319 cc",
+        "Cilindros:": "5, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima ( CV):": "225 @ 5.280 rpm",
+        "Torque máximo (kgfm):": "30,6 @ 2.000 rpm",
+        "Potência específica:": "97 cv/litro",
+        "Torque específico:": "13,2 kgfm/litro",
+        "Taxa de compressão:": "8,5:1",
+        "Rel. peso/potência:": "6,1 kg/cv",
+        "Rel. peso/torque:": "45,1 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "81 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "B5234T"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,4 seg",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "803"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço semi-arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/50 R16",
+        "Traseira:": "205/50 R16",
+        "Altura do flanco:": "103 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,11 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.670 mm",
+        "Altura:": "1.410 mm",
+        "Largura:": "1.760 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.520 mm",
+        "Bitola traseira:": "1.470 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.379 kg",
+        "Porta-malas:": "416 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "73 litros"
+    }
+}

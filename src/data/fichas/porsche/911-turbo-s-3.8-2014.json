@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/911-TurboS-2014.jpg",
+    "NOME": "911-turbo-s-3.8-2014",
+    "ANO": "2014",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Turbo S 3.8",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "7",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.800 cc",
+        "Cilindros:": "6, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima (cv):": "560 @ 6.500 rpm",
+        "Torque máximo (kgfm):": "71,4 @ 2.100 rpm",
+        "Potência específica:": "147,4 cv/litro",
+        "Torque específico:": "18,8 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Rel. peso/potência:": "2,9 kg/cv",
+        "Rel. peso/torque:": "22,5 kg/kgfm",
+        "Curso dos pistões:": "77,5 mm",
+        "Diâmetro dos cilindros:": "102 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "PDK"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,1 seg",
+        "Velocidade máxima:": "318 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,6",
+        "Estrada em km/l:": "9,5",
+        "Autonomia em km:": "646"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/35 R20",
+        "Traseira:": "305/30 R20",
+        "Altura do flanco:": "92 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,07 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.506 mm",
+        "Altura:": "1.296 mm",
+        "Largura:": "1.880 mm",
+        "Entre-eixos:": "2.450 mm",
+        "Bitola dianteira:": "1.539 mm",
+        "Bitola traseira:": "1.590 mm",
+        "Vão livre do solo:": "132 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.605 kg",
+        "Porta-malas:": "375 litros",
+        "Carga útil:": "385 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Wrangler-2012.jpg",
+    "NOME": "wrangler-sport-3.6-v6-2012",
+    "ANO": "2012",
+    "MARCA": "jeep",
+    "MODELO": "wrangler",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Wrangler",
+        "Versão:": "Sport 3.6 V6 2012",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Jipe",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.605 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "284 @ 6.350 rpm",
+        "Torque máx. (kgfm):": "35,4 @ 4.300 rpm",
+        "Potência específica:": "78,8 cv/litro",
+        "Torque específico:": "9,8 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "6,1 kg/cv",
+        "Rel. peso/torque:": "49,2 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro dos cilindros:": "96 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Pentastar"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,6 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,8",
+        "Estrada em km/l:": "6,7",
+        "Autonomia em km:": "469"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/75 R17",
+        "Traseira:": "245/75 R17",
+        "Altura do flanco:": "184 mm",
+        "Estepe:": "245/75 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,94 m²",
+        "Coef. aerodinâmico:": "0,50 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.223 mm",
+        "Altura:": "1.840 mm",
+        "Largura:": "1.877 mm",
+        "Entre eixos:": "2.424 mm",
+        "Bitola dianteira:": "1.520 mm",
+        "Bitola traseira:": "1.520 mm",
+        "Vão livre do solo:": "242 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.741 kg",
+        "Porta-malas:": "142 litros",
+        "Carga útil:": "554 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

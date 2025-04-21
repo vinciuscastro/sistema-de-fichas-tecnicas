@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chevrolet-Camaro-2017-Conversvel.jpg",
+    "NOME": "camaro-conversível-ss-6.2-v8-2017",
+    "ANO": "2017",
+    "MARCA": "chevrolet",
+    "MODELO": "camaro",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Camaro Conversível",
+        "Versão:": "SS 6.2 V8 2017",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "6",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "6.162 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima em CV:": "461 @ 6.000 rpm",
+        "Torque máximo em kgfm:": "62,9 @ 4.600 rpm",
+        "Potência específica:": "74,8 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Relação peso/potência:": "3,9 kg/cv",
+        "Relação peso/torque:": "28,6 kg/kgfm",
+        "Curso dos pistões:": "92 mm",
+        "Diâmetro dos cilindros:": "103,2 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "LT1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,2 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,6",
+        "Estrada em km/l:": "8",
+        "Autonomia em km:": "576"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R20",
+        "Traseira:": "275/35 R20",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,16 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.784 mm",
+        "Altura:": "1.340 mm",
+        "Largura:": "1.897 mm",
+        "Entre eixos:": "2.812 mm",
+        "Bitola dianteira:": "1.601 mm",
+        "Bitola traseira:": "1.598 mm",
+        "Vão livre do solo:": "115 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.798 kg",
+        "Porta-malas:": "208 litros",
+        "Carga útil:": "317 kg",
+        "Tanque combustível:": "72 litros"
+    }
+}

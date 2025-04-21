@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/julho/Renault-Kangoo-e-tech-2024.png",
+    "NOME": "kangoo-e-tech-ev-2024",
+    "ANO": "2024",
+    "MARCA": "renault",
+    "MODELO": "kangoo",
+    "ESPECIFICACAO": {
+        "Marca:": "Renault",
+        "Modelo:": "Kangoo E-Tech 2024",
+        "Versão:": "EV",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Furgão",
+        "Portas:": "3",
+        "Ocupantes:": "2",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "210 km",
+        "Capacidade da bateria:": "45 kWh",
+        "Potência:": "120 cv",
+        "Torque:": "25 kgfm",
+        "Peso/potência:": "14,38 kg/cv",
+        "Peso/torque:": "69,04 kg/kgfm",
+        "Consumo elétrico:": "informação não disponíveç"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12 seg",
+        "Velocidade máxima:": "130 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Barra de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R16",
+        "Traseira:": "195/65 R16",
+        "Altura do flanco:": "127 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.910 mm",
+        "Altura:": "1.890 mm",
+        "Largura:": "1.860 mm",
+        "Entre eixos:": "3.100 mm",
+        "Bitola dianteira:": "1.584 mm",
+        "Bitola traseira:": "1.596 mm",
+        "Vão livre do solo:": "182 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.726 kg",
+        "Porta-malas:": "4.300 litros",
+        "Carga útil:": "800 kg"
+    }
+}

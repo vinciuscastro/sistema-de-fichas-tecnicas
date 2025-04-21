@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Julho/340.jpg",
+    "NOME": "340i-m-xdrive-3.0-turbo-2020",
+    "ANO": "2020",
+    "MARCA": "bmw",
+    "MODELO": "340i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "340i",
+        "Versão:": "M xDrive 3.0 Turbo 2020",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "7",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.998 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "387 @ 5.800 rpm",
+        "Torque máximo em kgfm:": "51 @ 1.800 rpm",
+        "Potência específica:": "129,1 cv/litro",
+        "Torque específico:": "17 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "4,3 kg/cv",
+        "Relação peso/torque:": "32,7 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "B58B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,4 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "649"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/40 R19",
+        "Traseira:": "255/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,27 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.713 mm",
+        "Altura:": "1.440 mm",
+        "Largura:": "1.827 mm",
+        "Entre eixos:": "2.851 mm",
+        "Bitola dianteira:": "1.583 mm",
+        "Bitola traseira:": "1.567 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.670 kg",
+        "Porta-malas:": "365 litros",
+        "Carga útil:": "575 kg",
+        "Tanque combustível:": "59 litros"
+    }
+}

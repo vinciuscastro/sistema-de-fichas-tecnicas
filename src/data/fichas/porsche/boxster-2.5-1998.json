@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Boxster-1998.jpg",
+    "NOME": "boxster-2.5-1998",
+    "ANO": "1998",
+    "MARCA": "porsche",
+    "MODELO": "boxster",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Boxster",
+        "Versão:": "2.5",
+        "Ano/modelo:": "1998",
+        "Detalhes:": "Importado, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.480 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "204 cv @ 6.000 rpm",
+        "Torque:": "25 kgfm @ 4.500 rpm",
+        "Taxa de compressão:": "11:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,9 s",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7 km/l",
+        "Rodoviário:": "11 km/l",
+        "Autonomia:": "627 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "225/50 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.315 mm",
+        "Altura:": "1.290 mm",
+        "Largura:": "1.780 mm",
+        "Entre-eixos:": "2.415 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.250 kg",
+        "Porta-malas:": "260 litros",
+        "Carga útil:": "310 kg",
+        "Tanque combustível:": "57 litros"
+    }
+}

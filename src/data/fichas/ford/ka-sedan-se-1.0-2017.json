@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Ford/KA_Sedan/Ford_KA_Sedan_2017-04.jpg",
+    "NOME": "ka-sedan-se-1.0-2017",
+    "ANO": "2017",
+    "MARCA": "ford",
+    "MODELO": "ka",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ka Sedan",
+        "Versão:": "SE 1.0 2017",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "997 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima em CV:": "85 (E) / 80 (G) @ 6.500 rpm",
+        "Torque máximo em kgfm:": "10,7 (E) / 10,2 (G) @ 3.500 rpm",
+        "Potência específica:": "85,3 cv/litro",
+        "Torque específico:": "10,7 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "12 kg/cv",
+        "Rel. peso/torque:": "95,5 kg/kgfm",
+        "Curso dos pistões:": "81,8 mm",
+        "Diâmetro dos cilindros:": "71,9 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Ti-VCT"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "IB5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,1 seg",
+        "Velocidade máxima:": "166 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,9 (E) / 13 (G)",
+        "Estrada em km/l:": "10,4 (E) / 15,1 (G)",
+        "Autonomia em km:": "541 (E) / 785 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R14",
+        "Traseira:": "175/65 R14",
+        "Altura do flanco:": "114 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,20 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.254 mm",
+        "Altura:": "1.525 mm",
+        "Largura:": "1.695 mm",
+        "Entre eixos:": "2.491 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "169 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.022 kg",
+        "Porta-malas:": "445 litros",
+        "Carga útil:": "438 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

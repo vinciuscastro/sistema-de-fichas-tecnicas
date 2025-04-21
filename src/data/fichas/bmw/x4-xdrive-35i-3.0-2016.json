@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-X4-2015.jpg",
+    "NOME": "x4-xdrive-35i-3.0-2016",
+    "ANO": "2016",
+    "MARCA": "bmw",
+    "MODELO": "x4",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X4",
+        "Versão:": "xDrive 35i 3.0",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, SUV, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "306 cv @ 5.800 rpm",
+        "Torque:": "40,8 kgfm @ 1.200 rpm",
+        "Taxa de compressão:": "10,2:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,5 s",
+        "Velocidade máxima:": "247 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,7 km/l",
+        "Rodoviário:": "8,8 km/l",
+        "Autonomia:": "589 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.671 mm",
+        "Altura:": "1.624 mm",
+        "Largura:": "1.881 mm",
+        "Entre-eixos:": "2.810 mm",
+        "Vão livre do solo:": "204 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.815 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "590 kg",
+        "Tanque combustível:": "67 litros"
+    }
+}

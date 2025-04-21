@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-2012-coupe.jpg",
+    "NOME": "c180-coupe-sport-1.6-cgi-2013",
+    "ANO": "2013",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c180",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C180",
+        "Versão:": "Sport 1.6 CGi",
+        "Ano/modelo:": "2013",
+        "Detalhes:": "Importado, coupe, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.595 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "156 cv @ 5.300 rpm",
+        "Torque:": "25,5 kgfm @ 1.250 rpm",
+        "Taxa de compressão:": "10,3:1",
+        "Código do motor:": "M274DE16"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,5 s",
+        "Velocidade máxima:": "223 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9 km/l",
+        "Rodoviário:": "12,6 km/l",
+        "Autonomia:": "743 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,09 m²",
+        "Coef. aerodinâmico:": "0,26 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.590 mm",
+        "Altura:": "1.406 mm",
+        "Largura:": "1.770 mm",
+        "Entre-eixos:": "2.760 mm",
+        "Bitola dianteira:": "1.549 mm",
+        "Bitola traseira:": "1.552 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.505 kg",
+        "Porta-malas:": "450 litros",
+        "Carga útil:": "485 kg",
+        "Tanque combustível:": "59 litros"
+    }
+}

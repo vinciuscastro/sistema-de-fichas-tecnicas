@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen_Amarok_CD_2013.jpg",
+    "NOME": "amarok-s-2.0-4x4-cd-2015",
+    "ANO": "2015",
+    "MARCA": "volkswagen",
+    "MODELO": "amarok",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Amarok",
+        "Versão:": "S 2.0 4x4 CD 2015",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.968 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima (cv):": "140 @ 3.500 rpm",
+        "Torque máximo (kgfm):": "34,7 @ 1.600 rpm",
+        "Potência específica:": "71,1 cv/litro",
+        "Torque específico:": "17,6 kgfm/litro",
+        "Taxa de compressão:": "16:1",
+        "Rel. peso/potência:": "14,2 kg/cv",
+        "Rel. peso/torque:": "57,4 kg/kgfm",
+        "Curso dos pistões:": "95,5 mm",
+        "Diâmetro dos cilindros:": "81 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "EA189"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,7 seg",
+        "Velocidade máxima:": "166 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,5",
+        "Estrada em km/l:": "9,3",
+        "Autonomia em km:": "744"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,9"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/80 R16",
+        "Traseira:": "205/80 R16",
+        "Altura do flanco:": "164 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,02 m²",
+        "Coef. aerodinâmico:": "0,42 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.254 mm",
+        "Altura:": "1.834 mm",
+        "Largura:": "1.944 mm",
+        "Entre eixos:": "3.095 mm",
+        "Bitola dianteira:": "1.647 mm",
+        "Bitola traseira:": "1.644 mm",
+        "Vão livre do solo:": "240 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.993 kg",
+        "Caçamba:": "1.200 litros",
+        "Carga útil:": "1.047 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

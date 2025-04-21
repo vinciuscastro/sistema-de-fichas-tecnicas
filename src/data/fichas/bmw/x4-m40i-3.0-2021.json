@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Marco/X4_02.jpg",
+    "NOME": "x4-m40i-3.0-2021",
+    "ANO": "2021",
+    "MARCA": "bmw",
+    "MODELO": "x4",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X4",
+        "Versão:": "M40i 3.0",
+        "Origem:": "Importado",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.998 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "Duplo cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "360 @ 5.500 rpm",
+        "Torque em kgfm:": "51 @ 1.520 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B58B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,8 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,4",
+        "Estrada em km/l:": "9,9",
+        "Autonomia em km:": "644"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40/ R21",
+        "Traseira:": "275/35/ R21"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,59 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.572 mm",
+        "Altura:": "1.521 mm",
+        "Largura:": "1.938 mm",
+        "Entre eixos:": "2.868 mm",
+        "Bitola dianteira:": "1.615 mm",
+        "Bitola traseira:": "1.624 mm",
+        "Vão livre do solo:": "204 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.825 kg",
+        "Porta-malas:": "425 litros",
+        "Carga útil:": "605 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

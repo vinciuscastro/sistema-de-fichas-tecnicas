@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M4-Cabrio-2015.jpg",
+    "NOME": "m4-cabriolet-3.0-turbo-2015",
+    "ANO": "2015",
+    "MARCA": "bmw",
+    "MODELO": "m4",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M4 Cabriolet",
+        "Versão:": "3.0 Turbo 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "431 @ 5.300 rpm",
+        "Torque máximo em kgfm:": "56,1 @ 1.850 rpm",
+        "Potência específica:": "144,7 cv/litro",
+        "Torque específico:": "18,8 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "4,2 kg/cv",
+        "Relação peso/torque:": "31,9 kg/kgfm",
+        "Curso dos pistões:": "89,6 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N55B30T0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,4 seg",
+        "Velocidade máxima:": "280 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,9",
+        "Estrada em km/l:": "9,6",
+        "Autonomia em km:": "576"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/40 R18",
+        "Traseira:": "275/40 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,23 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.671 mm",
+        "Altura:": "1.386 mm",
+        "Largura:": "1.870 mm",
+        "Entre eixos:": "2.812 mm",
+        "Bitola dianteira:": "1.579 mm",
+        "Bitola traseira:": "1.603 mm",
+        "Vão livre do solo:": "116 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.790 kg",
+        "Porta-malas:": "220 litros",
+        "Carga útil:": "460 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Fevereiro/UP_Xtreme.jpg",
+    "NOME": "up-xtreme-1.0-tsi-2020",
+    "ANO": "2020",
+    "MARCA": "volkswagen",
+    "MODELO": "up",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Up",
+        "Versão:": "Xtreme 1.0 TSi",
+        "Ano fabricação:": "2020",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência máxima:": "105 cv (E) / 101 cv (G) @ 5.000 rpm",
+        "Torque máximo:": "16,8 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "EA211"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,4 s",
+        "Velocidade máxima:": "183 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10 km/l (E) / 14,3 km/l (G)",
+        "Rodoviário:": "11,5 km/l (E) / 16,3 km/l (G)",
+        "Autonomia:": "575 km (E) / 815 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Eixo de torção, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60 R15",
+        "Traseira:": "185/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,08 m²",
+        "Coef. aerodinâmico:": "0,367 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.689 mm",
+        "Altura:": "1.504 mm",
+        "Largura:": "1.645 mm",
+        "Entre eixos:": "2.421 mm",
+        "Bitola dianteira:": "1.423 mm",
+        "Bitola traseira:": "1.424 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.001 kg",
+        "Porta-malas:": "285 litros",
+        "Carga útil:": "409 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

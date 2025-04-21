@@ -1,0 +1,2073 @@
+{
+    "marca": "maserati",
+    "modelos": {
+        "levante-gt-2.0-hybrid-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+            "NOME": "levante-gt-2.0-hybrid-2023",
+            "ANO": "2023",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "GT 2.0 Hybrid 2023",
+                "Combustível:": "Híbrido leve - Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "1.995 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "330 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "45,9 @ 2.250 rpm",
+                "Potência específica:": "165,4 cv/litro",
+                "Torque específico:": "23 kgfm/litro",
+                "Taxa de compressão:": "9,5:1",
+                "Rel. peso/potência:": "6,33 kg/cv",
+                "Rel. peso/torque:": "45,5 kg/kgfm",
+                "Curso dos pistões:": "90 mm",
+                "Diâmetro dos cilindros:": "84 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "GME"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6 seg",
+                "Velocidade máxima:": "240 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "7,2",
+                "Estrada em km/l:": "9,4",
+                "Autonomia em km:": "752"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/50 R19",
+                "Traseira:": "265/50 R19",
+                "Altura do flanco:": "133 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,85 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.005 mm",
+                "Altura:": "1.693 mm",
+                "Largura:": "1.981 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.631 mm",
+                "Bitola traseira:": "1.662 mm",
+                "Vão livre do solo:": "207 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.090 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "ghibli-gt-2.0-hybrid-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2024/janeiro/maserati-ghibli-gt-20-hybrid-2023.jpg",
+            "NOME": "ghibli-gt-2.0-hybrid-2023",
+            "ANO": "2023",
+            "MARCA": "maserati",
+            "MODELO": "ghibli",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Ghibli",
+                "Versão:": "GT 2.0 Hybrid 2023",
+                "Combustível:": "Híbrido-leve - Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "1.995 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "330 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "45,9 @ 2.250 rpm",
+                "Potência específica:": "165,4 cv/litro",
+                "Torque específico:": "23 kgfm/litro",
+                "Taxa de compressão:": "9,5:1",
+                "Rel. peso/potência:": "5,69 kg/cv",
+                "Rel. peso/torque:": "40,9 kg/kgfm",
+                "Curso dos pistões:": "90 mm",
+                "Diâmetro dos cilindros:": "84 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "GME"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,7 seg",
+                "Velocidade máxima:": "255 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8",
+                "Estrada em km/l:": "10,4",
+                "Autonomia em km:": "832"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/50 R18",
+                "Traseira:": "275/45 R18",
+                "Altura do flanco:": "124 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,42 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.971 mm",
+                "Altura:": "1.461 mm",
+                "Largura:": "1.945 mm",
+                "Entre eixos:": "2.998 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.653 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.878 kg",
+                "Porta-malas:": "500 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-trofeo-3.8-v8-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante-trofeo.jpg",
+            "NOME": "levante-trofeo-3.8-v8-2019",
+            "ANO": "2019",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Trofeo 3.8 V8 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.798 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "590 @ 6.250 rpm",
+                "Torque máximo em kgfm:": "74,4 @ 2.500 rpm",
+                "Potência específica:": "155,3 cv/litro",
+                "Torque específico:": "19,6 kgfm/litro",
+                "Taxa de compressão:": "9,4:1",
+                "Rel. peso/potência:": "3,7 kg/cv",
+                "Rel. peso/torque:": "29,2 kg/kgfm",
+                "Curso dos pistões:": "80,8 mm",
+                "Diâmetro dos cilindros:": "86,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,9 seg",
+                "Velocidade máxima:": "304 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,4",
+                "Estrada em km/l:": "7,1",
+                "Autonomia em km:": "568"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/50 R19",
+                "Traseira:": "295/45 R19",
+                "Altura do flanco:": "133 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.698 mm",
+                "Largura:": "1.981 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.637 mm",
+                "Bitola traseira:": "1.699 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.170 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-sport-3.0-v6-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+            "NOME": "levante-sport-3.0-v6-2021",
+            "ANO": "2021",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Sport 3.0 V6 2021",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "430 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "59,1 @ 1.750 rpm",
+                "Potência específica:": "144,3 cv/litro",
+                "Torque específico:": "19,8 kgfm/litro",
+                "Taxa de compressão:": "9,7:1",
+                "Rel. peso/potência:": "4,9 kg/cv",
+                "Rel. peso/torque:": "35,7 kg/kgfm",
+                "Curso dos pistões:": "84,5 mm",
+                "Diâmetro dos cilindros:": "86,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 seg",
+                "Velocidade máxima:": "264 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "688"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/50 R19",
+                "Traseira:": "295/45 R19",
+                "Altura do flanco:": "133 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-sport-3.0-v6-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+            "NOME": "levante-sport-3.0-v6-2020",
+            "ANO": "2020",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Sport 3.0 V6 2020",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "430 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "59,1 @ 1.750 rpm",
+                "Potência específica:": "144,3 cv/litro",
+                "Torque específico:": "19,8 kgfm/litro",
+                "Taxa de compressão:": "9,7:1",
+                "Rel. peso/potência:": "4,9 kg/cv",
+                "Rel. peso/torque:": "35,7 kg/kgfm",
+                "Curso dos pistões:": "84,5 mm",
+                "Diâmetro dos cilindros:": "86,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 seg",
+                "Velocidade máxima:": "264 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "688"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/50 R19",
+                "Traseira:": "295/45 R19",
+                "Altura do flanco:": "133 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-sport-3.0-v6-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+            "NOME": "levante-sport-3.0-v6-2019",
+            "ANO": "2019",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Sport 3.0 V6 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "430 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "59,1 @ 1.750 rpm",
+                "Potência específica:": "144,3 cv/litro",
+                "Torque específico:": "19,8 kgfm/litro",
+                "Taxa de compressão:": "9,7:1",
+                "Rel. peso/potência:": "4,9 kg/cv",
+                "Rel. peso/torque:": "35,7 kg/kgfm",
+                "Curso dos pistões:": "84,5 mm",
+                "Diâmetro dos cilindros:": "86,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 seg",
+                "Velocidade máxima:": "264 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "688"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/50 R19",
+                "Traseira:": "295/45 R19",
+                "Altura do flanco:": "133 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-luxury-3.0-v6-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+            "NOME": "levante-luxury-3.0-v6-2021",
+            "ANO": "2021",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Luxury 3.0 V6 2021",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "350 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "51 @ 1.750 rpm",
+                "Potência específica:": "117,5 cv/litro",
+                "Torque específico:": "17,1 kgfm/litro",
+                "Taxa de compressão:": "9,7:1",
+                "Rel. peso/potência:": "6 kg/cv",
+                "Rel. peso/torque:": "41,4 kg/kgfm",
+                "Curso dos pistões:": "84,5 mm",
+                "Diâmetro dos cilindros:": "86,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6 seg",
+                "Velocidade máxima:": "251 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "688"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/60 R18",
+                "Traseira:": "255/60 R18",
+                "Altura do flanco:": "153 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-luxury-3.0-v6-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+            "NOME": "levante-luxury-3.0-v6-2020",
+            "ANO": "2020",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Luxury 3.0 V6 2020",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "350 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "51 @ 1.750 rpm",
+                "Potência específica:": "117,5 cv/litro",
+                "Torque específico:": "17,1 kgfm/litro",
+                "Taxa de compressão:": "9,7:1",
+                "Rel. peso/potência:": "6 kg/cv",
+                "Rel. peso/torque:": "41,4 kg/kgfm",
+                "Curso dos pistões:": "84,5 mm",
+                "Diâmetro dos cilindros:": "86,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6 seg",
+                "Velocidade máxima:": "251 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "688"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/60 R18",
+                "Traseira:": "255/60 R18",
+                "Altura do flanco:": "153 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-luxury-3.0-v6-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/maserati-levante.jpg",
+            "NOME": "levante-luxury-3.0-v6-2019",
+            "ANO": "2019",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Luxury 3.0 V6 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "350 @ 5.750 rpm",
+                "Torque máximo em kgfm:": "51 @ 1.750 rpm",
+                "Potência específica:": "117,5 cv/litro",
+                "Torque específico:": "17,1 kgfm/litro",
+                "Taxa de compressão:": "9,7:1",
+                "Rel. peso/potência:": "6 kg/cv",
+                "Rel. peso/torque:": "41,4 kg/kgfm",
+                "Curso dos pistões:": "84,5 mm",
+                "Diâmetro dos cilindros:": "86,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6 seg",
+                "Velocidade máxima:": "251 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "688"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/60 R18",
+                "Traseira:": "255/60 R18",
+                "Altura do flanco:": "153 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "quattroporte-gts-3.8-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Quattroporte.jpg",
+            "NOME": "quattroporte-gts-3.8-2019",
+            "ANO": "2019",
+            "MARCA": "maserati",
+            "MODELO": "quattroporte",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Quattroporte",
+                "Versão:": "GTS 3.8 V8 Biturbo",
+                "Ano/modelo:": "2019",
+                "Detalhes:": "Importado, sedã, 4 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "3.798 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "530 cv @ 6.800 rpm",
+                "Torque:": "72,4 kgfm @ 2.250 rpm",
+                "Taxa de compressão:": "9,5:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,7 s",
+                "Velocidade máxima:": "307 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5 km/l",
+                "Rodoviário:": "6,8 km/l",
+                "Autonomia:": "544 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/40 R20",
+                "Traseira:": "285/35 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,45 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.262 mm",
+                "Altura:": "1.481 mm",
+                "Largura:": "1.948 mm",
+                "Entre eixos:": "3.171 mm",
+                "Bitola dianteira:": "1.634 mm",
+                "Bitola traseira:": "1.647 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.900 kg",
+                "Porta-malas:": "530 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "granturismo-sport-4.7-v8-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Gran-Turismo.jpg",
+            "NOME": "granturismo-sport-4.7-v8-2019",
+            "ANO": "2019",
+            "MARCA": "maserati",
+            "MODELO": "granturismo",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "GranTurismo",
+                "Versão:": "4.7 V8",
+                "Ano/modelo:": "2019",
+                "Detalhes:": "Importado, cupê, 2 portas, 1 ano de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Cilindrada:": "4.691 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "460 cv @ 7.000 rpm",
+                "Torque:": "53 kgfm @ 4.750 rpm",
+                "Taxa de compressão:": "11,2:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,8 s",
+                "Velocidade máxima:": "298 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,2 km/l",
+                "Rodoviário:": "7,1 km/l",
+                "Autonomia:": "610 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "245/35 R20",
+                "Traseiros:": "295/30 R20"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.881 mm",
+                "Altura:": "1.353 mm",
+                "Largura:": "1.915 mm",
+                "Entre eixos:": "2.942 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.880 kg",
+                "Porta-malas:": "260 litros",
+                "Carga útil:": "370 kg",
+                "Tanque combustível:": "86 litros"
+            }
+        },
+        "ghibli-3.0-v6-turbo-s-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Ghibli-S.jpg",
+            "NOME": "ghibli-3.0-v6-turbo-s-2019",
+            "ANO": "2019",
+            "MARCA": "maserati",
+            "MODELO": "ghibli",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Ghibli",
+                "Versão:": "3.0 V6 Turbo S",
+                "Ano/modelo:": "2019",
+                "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "330 cv @ 5.000 rpm",
+                "Torque:": "51 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,6 s",
+                "Velocidade máxima:": "263 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,3 km/l",
+                "Rodoviário:": "9,3 km/l",
+                "Autonomia:": "744 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/50 R18",
+                "Traseira:": "275/45 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,42 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.971 mm",
+                "Altura:": "1.461 mm",
+                "Largura:": "1.945 mm",
+                "Entre eixos:": "2.998 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.653 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.810 kg",
+                "Porta-malas:": "500 litros",
+                "Carga útil:": "370 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "ghibli-3.0-v6-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Ghibli.jpg",
+            "NOME": "ghibli-3.0-v6-2019",
+            "ANO": "2019",
+            "MARCA": "maserati",
+            "MODELO": "ghibli",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Ghibli",
+                "Versão:": "3.0 V6",
+                "Ano/modelo:": "2019",
+                "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "330 cv @ 5.000 rpm",
+                "Torque:": "51 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,6 s",
+                "Velocidade máxima:": "263 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,3 km/l",
+                "Rodoviário:": "9,3 km/l",
+                "Autonomia: máxima": "744 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/50 R18",
+                "Traseira:": "275/45 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,42 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.971 mm",
+                "Altura:": "1.461 mm",
+                "Largura:": "1.945 mm",
+                "Entre eixos:": "2.998 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.653 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.810 kg",
+                "Porta-malas:": "500 litros",
+                "Carga útil:": "370 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-sport-3.0-v6-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Levante-2.jpg",
+            "NOME": "levante-sport-3.0-v6-2018",
+            "ANO": "2018",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Sport 3.0 V6",
+                "Ano/modelo:": "2018",
+                "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "430 cv @ 5.750 rpm",
+                "Torque:": "59,1 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 s",
+                "Velocidade máxima:": "264 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,1 km/l",
+                "Rodoviário:": "8,6 km/l",
+                "Autonomia:": "688 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+                "Traseira:": "Independente, multibraço, molas pneumáticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/50 R19",
+                "Traseira:": "295/45 R19"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre-eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "450 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-luxury-3.0-v6-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Levante-1.jpg",
+            "NOME": "levante-luxury-3.0-v6-2018",
+            "ANO": "2018",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Luxury 3.0 V6",
+                "Ano/modelo:": "2018",
+                "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "350 cv @ 5.750 rpm",
+                "Torque:": "51 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6 s",
+                "Velocidade máxima:": "251 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,1 km/l",
+                "Rodoviário:": "8,6 km/l",
+                "Autonomia:": "688 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+                "Traseira:": "Independente, multibraço, molas pneumáticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "diâmetro de giro:": "11,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/60 R18",
+                "Traseira:": "255/60 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,81 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre-eixos:": "3.004 mm",
+                "Bitola dianteira:": "1.624 mm",
+                "Bitola traseira:": "1.676 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "450 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "ghibli-s-q4-3.0-v6-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Ghibli-S.jpg",
+            "NOME": "ghibli-s-q4-3.0-v6-2018",
+            "ANO": "2018",
+            "MARCA": "maserati",
+            "MODELO": "ghibli",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Ghibli",
+                "Versão:": "S Q4 3.0 V6",
+                "Ano/modelo:": "2018",
+                "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "410 cv @ 5.000 rpm",
+                "Torque:": "56 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,8 s",
+                "Velocidade máxima:": "284 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,4 km/l",
+                "Rodoviário:": "9,2 km/l",
+                "Autonomia:": "736 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/50 R18",
+                "Traseira:": "275/45 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,42 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.971 mm",
+                "Altura:": "1.461 mm",
+                "Largura:": "1.945 mm",
+                "Entre-eixos:": "2.998 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.653 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.870 kg",
+                "Porta-malas:": "500 litros",
+                "Carga útil:": "400 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "ghibli-3.0-v6-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Ghibli.jpg",
+            "NOME": "ghibli-3.0-v6-2018",
+            "ANO": "2018",
+            "MARCA": "maserati",
+            "MODELO": "ghibli",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Ghibli",
+                "Versão:": "3.0 V6",
+                "Ano/modelo:": "2018",
+                "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "330 cv @ 5.000 rpm",
+                "Torque:": "51 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,6 s",
+                "Velocidade máxima:": "263 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,3 km/l",
+                "Rodoviário:": "9,3 km/l",
+                "Autonomia:": "744 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/50 R18",
+                "Traseira:": "275/45 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,42 m²",
+                "Coef. aerodinâmico:": "0,31 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.971 mm",
+                "Altura:": "1.461 mm",
+                "Largura:": "1.945 mm",
+                "Entre-eixos:": "2.998 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.653 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.810 kg",
+                "Porta-malas:": "500 litros",
+                "Carga útil:": "370 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "gran-turismo-sport-4.7-v8-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Gran-Turismo.jpg",
+            "NOME": "gran-turismo-sport-4.7-v8-2018",
+            "ANO": "2018",
+            "MARCA": "maserati",
+            "MODELO": "gran",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Gran Turismo",
+                "Versão:": "Sport 4.7 V8",
+                "Ano/modelo:": "2018",
+                "Detalhes:": "Importado, cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "4.691 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "460 cv @ 7.000 rpm",
+                "Torque:": "53 kgfm @ 4.750 rpm",
+                "Taxa de compressão:": "11,2:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,8 s",
+                "Velocidade máxima:": "298 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,2 km/l",
+                "Rodoviário:": "7,1 km/l",
+                "Autonomia:": "610 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/35 R20",
+                "Traseira:": "295/30 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,20 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.881 mm",
+                "Altura:": "1.353 mm",
+                "Largura:": "1.915 mm",
+                "Entre-eixos:": "2.942 mm",
+                "Bitola dianteira:": "1.586 mm",
+                "Bitola traseira:": "1.590 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.880 kg",
+                "Porta-malas:": "260 litros",
+                "Carga útil:": "370 kg",
+                "Tanque combustível:": "86 litros"
+            }
+        },
+        "quattroporte-gts-3.8-biturbo-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Quattroporte.jpg",
+            "NOME": "quattroporte-gts-3.8-biturbo-2018",
+            "ANO": "2018",
+            "MARCA": "maserati",
+            "MODELO": "quattroporte",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Quattroporte",
+                "Versão:": "GTS 3.8 V8 Biturbo",
+                "Ano/modelo:": "2018",
+                "Detalhes:": "Importado, sedã, 4 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "3.798 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "530 cv @ 6.800 rpm",
+                "Torque:": "72,4 kgfm @ 2.250 rpm",
+                "Taxa de compressão:": "9,5:1",
+                "Código do motor:": "não informado"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,7 s",
+                "Velocidade máxima:": "307 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5 km/l",
+                "Rodoviário:": "6,8 km/l",
+                "Autonomia:": "544 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/40 R20",
+                "Traseira:": "285/35 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,45 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.262 mm",
+                "Altura:": "1.481 mm",
+                "Largura:": "1.948 mm",
+                "Entre-eixos:": "3.171 mm",
+                "Bitola dianteira:": "1.634 mm",
+                "Bitola traseira:": "1.647 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.900 kg",
+                "Porta-malas:": "530 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "quattroporte-gts-biturbo": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Maserati/Quattroporte.jpg",
+            "NOME": "quattroporte-gts-biturbo",
+            "ANO": "Biturbo",
+            "MARCA": "maserati",
+            "MODELO": "quattroporte",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Quattroporte",
+                "Versão:": "GTS 3.8 V8",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, sedã, 4 portas, 1 ano de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Cilindrada:": "3.798 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "530 cv @ 6.800 rpm",
+                "Torque:": "72,4 kgfm @ 2.250 rpm",
+                "Taxa de compressão:": "9,5:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,7 s",
+                "Velocidade máxima:": "307 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5 km/l",
+                "Rodoviário:": "6,8 km/l",
+                "Autonomia:": "544 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "245/40 R20",
+                "Traseiros:": "285/35 R20"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.262 mm",
+                "Altura:": "1.481 mm",
+                "Largura:": "1.948 mm",
+                "Entre-eixos:": "3.171 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.900 kg",
+                "Porta-malas:": "530 litros",
+                "Carga útil:": "não informado",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "granturismo-sport-4.7-v8": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Maserati/Gran_Turismo_Sport.jpg",
+            "NOME": "granturismo-sport-4.7-v8",
+            "ANO": "V8",
+            "MARCA": "maserati",
+            "MODELO": "granturismo",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "GranTurismo",
+                "Versão:": "4.7 V8",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, cupê, 2 portas, 1 ano de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Cilindrada:": "4.691 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "460 cv @ 7.000 rpm",
+                "Torque:": "53 kgfm @ 4.750 rpm",
+                "Taxa de compressão:": "11,2:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,8 s",
+                "Velocidade máxima:": "298 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,2 km/l",
+                "Rodoviário:": "7,1 km/l",
+                "Autonomia:": "610 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "245/35 R20",
+                "Traseiros:": "295/30 R20"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.881 mm",
+                "Altura:": "1.353 mm",
+                "Largura:": "1.915 mm",
+                "Entre-eixos:": "2.942 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.880 kg",
+                "Porta-malas:": "260 litros",
+                "Carga útil:": "370 kg",
+                "Tanque combustível:": "86 litros"
+            }
+        },
+        "grancabrio-4.7-v8": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Maserati/GranCabrio.jpg",
+            "NOME": "grancabrio-4.7-v8",
+            "ANO": "V8",
+            "MARCA": "maserati",
+            "MODELO": "grancabrio",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "GranCabrio",
+                "Versão:": "4.7 V8",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, conversível, 2 portas, 1 ano de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Cilindrada:": "4.691 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "441 cv @ 7.000 rpm",
+                "Torque:": "50 kgfm @ 4.750 rpm",
+                "Taxa de compressão:": "11,2:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,3 s",
+                "Velocidade máxima:": "283 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,2 km/l",
+                "Rodoviário:": "8,1 km/l",
+                "Autonomia:": "607 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "245/35 R20",
+                "Traseiros:": "285/30 R20"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.881 mm",
+                "Altura:": "1.380 mm",
+                "Largura:": "1.847 mm",
+                "Entre-eixos:": "2.942 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.980 kg",
+                "Porta-malas:": "173 litros",
+                "Carga útil:": "370 kg",
+                "Tanque combustível:": "75 litros"
+            }
+        },
+        "ghibli-s-q4-3.0-v6": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Maserati/Ghibli-02.jpg",
+            "NOME": "ghibli-s-q4-3.0-v6",
+            "ANO": "V6",
+            "MARCA": "maserati",
+            "MODELO": "ghibli",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Ghibli",
+                "Versão:": "S Q4 3.0 V6",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, sedã, 4 portas, 1 ano de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "410 cv @ 5.500 rpm",
+                "Torque:": "56 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,8 s",
+                "Velocidade máxima:": "284 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,4 km/l",
+                "Rodoviário:": "9,2 km/l",
+                "Autonomia:": "736 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "235/50 R18",
+                "Traseiros:": "275/45 R18"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.971 mm",
+                "Altura:": "1.461 mm",
+                "Largura:": "1.945 mm",
+                "Entre-eixos:": "2.998 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.870 kg",
+                "Porta-malas:": "500 litros",
+                "Carga útil:": "não informado",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "ghibli-3.0-v6": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Maserati/Ghibli-01.jpg",
+            "NOME": "ghibli-3.0-v6",
+            "ANO": "V6",
+            "MARCA": "maserati",
+            "MODELO": "ghibli",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Ghibli",
+                "Versão:": "3.0 V6",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, sedã, 4 portas, 1 ano de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "330 cv @ 5.000 rpm",
+                "Torque:": "51 kgfm @ 1.750 rpm",
+                "Taxa de compressão:": "9,7:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,6 s",
+                "Velocidade máxima:": "263 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,3 km/l",
+                "Rodoviário:": "9,3 km/l",
+                "Autonomia:": "744 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "235/50 R18",
+                "Traseiros:": "275/45 R18"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.971 mm",
+                "Altura:": "1.461 mm",
+                "Largura:": "1.945 mm",
+                "Entre-eixos:": "2.998 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.810 kg",
+                "Porta-malas:": "500 litros",
+                "Carga útil:": "não informado",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-s-3.0-v6-turbo": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Novembro/Galerias/Maserati/Maserati_Levante_2017-foto_02.jpg",
+            "NOME": "levante-s-3.0-v6-turbo",
+            "ANO": "turbo",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante S",
+                "Versão:": "Levante S 3.0 V6 Turbo",
+                "Detalhes:": "Importado, SUV, 4 portas, 2 anos de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "duplo, no cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "430 cv @ 5.750",
+                "Torque:": "59,1 kgfm @ 1.750 rpm"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 s",
+                "Velocidade máxima:": "264 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,3 KM/L",
+                "Rodoviário:": "7,8 KM/L"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+                "Traseira:": "Independente, multibraço, molas pneumáticas"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos, ventilados",
+                "Traseiros:": "Discos, ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "265/50 R19",
+                "Traseiros:": "295/45 R19"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre-eixos:": "3.004 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "Não informado",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "levante-3.0-v6-turbo": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Novembro/Galerias/Maserati/Maserati_Levante_2017-foto_01.jpg",
+            "NOME": "levante-3.0-v6-turbo",
+            "ANO": "turbo",
+            "MARCA": "maserati",
+            "MODELO": "levante",
+            "ESPECIFICACAO": {
+                "Marca:": "Maserati",
+                "Modelo:": "Levante",
+                "Versão:": "Levante 3.0 V6 Turbo",
+                "Detalhes:": "Importado, SUV, 4 portas, 2 anos de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Cilindrada:": "2.979 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "duplo, no cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "350 cv @ 5.750",
+                "Torque:": "51 kgfm @ 1.750 rpm"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6 s",
+                "Velocidade máxima:": "251 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,5 KM/L",
+                "Rodoviário:": "8 KM/L"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+                "Traseira:": "Independente, multibraço, molas pneumáticas"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos, ventilados",
+                "Traseiros:": "Discos, ventilados"
+            },
+            "PNEUS": {
+                "Dianteiros:": "255/60 R18",
+                "Traseiros:": "255/60 R18"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.003 mm",
+                "Altura:": "1.679 mm",
+                "Largura:": "1.968 mm",
+                "Entre eixos:": "3.004 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.109 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "Não informado",
+                "Tanque combustível:": "80 litros"
+            }
+        }
+    }
+}

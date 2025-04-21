@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-323.jpg",
+    "NOME": "323i-coupe-2.5-2000",
+    "ANO": "2000",
+    "MARCA": "bmw",
+    "MODELO": "323i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "323i",
+        "Versão:": "Coupe 2.5 2000",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.494 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima em CV:": "170 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "25 @ 3.950 rpm",
+        "Potência específica:": "68,2 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "8,3 kg/cv",
+        "Relação peso/torque:": "56,2 kg/kgfm",
+        "Curso dos pistões:": "75 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M52B25TU"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 5HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9 seg",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,9",
+        "Estrada em km/l:": "9,8",
+        "Autonomia em km:": "617"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,10 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.488 mm",
+        "Altura:": "1.369 mm",
+        "Largura:": "1.757 mm",
+        "Entre eixos:": "2.725 mm",
+        "Bitola dianteira:": "1.471 mm",
+        "Bitola traseira:": "1.478 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.405 kg",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "460 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Quantum-85.jpg",
+    "NOME": "quantum-gl-2.0-1991",
+    "ANO": "1991",
+    "MARCA": "volkswagen",
+    "MODELO": "quantum",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Quantum",
+        "Versão:": "GL 2.0 1991",
+        "Combustível:": "Álcool",
+        "Origem:": "Nacional",
+        "Categoria:": "Perua",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "125 @ 5.200 rpm",
+        "Torque máx. (kgfm):": "18,3 @ 3.400 rpm",
+        "Potência específica:": "63 cv/litro",
+        "Torque específico:": "9,2 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "9,2 kg/cv",
+        "Rel. peso/torque:": "63,2 kg/kgfm",
+        "Curso dos pistões:": "92,8 mm",
+        "Diâmetro dos cilindros:": "82,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "AP-2000"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,1 seg",
+        "Velocidade máxima:": "168 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,2",
+        "Estrada em km/l:": "8,6",
+        "Autonomia em km:": "645"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R14",
+        "Traseira:": "195/60 R14",
+        "Altura do flanco:": "117 mm",
+        "Estepe:": "195/60 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,02 m²",
+        "Coef. aerodinâmico:": "0,42 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.527 mm",
+        "Altura:": "1.402 mm",
+        "Largura:": "1.695 mm",
+        "Entre eixos:": "2.550 mm",
+        "Bitola dianteira:": "1.414 mm",
+        "Bitola traseira:": "1.422 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.156 kg",
+        "Porta-malas:": "490 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

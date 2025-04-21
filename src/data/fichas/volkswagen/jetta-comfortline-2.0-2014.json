@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Jetta-2011.jpg",
+    "NOME": "jetta-comfortline-2.0-2014",
+    "ANO": "2014",
+    "MARCA": "volkswagen",
+    "MODELO": "jetta",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Jetta",
+        "Versão:": "Comfortline 2.0",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Flex",
+        "Potência:": "120 cv (E) / 116 cv (G) @ 5.000 rpm",
+        "Torque:": "18,4 kgfm (E) / 17,7 kgfm (G) @ 4.000 rpm",
+        "Taxa de compressão:": "11,5:1",
+        "Código do motor:": "EA113"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10 s",
+        "Velocidade máxima:": "202 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,3 km/l (E) / 8,9 km/l (G)",
+        "Rodoviário:": "8 km/l (E) / 11 km/l (G)",
+        "Autonomia:": "440 km (E) / 605 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,18 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.644 mm",
+        "Altura:": "1.473 mm",
+        "Largura:": "1.778 mm",
+        "Entre-eixos:": "2.651 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.532 mm",
+        "Vão livre do solo:": "Não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.311 kg",
+        "Porta-malas:": "510 litros",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

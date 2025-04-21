@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M1-2011.jpg",
+    "NOME": "m1-coupe-3.0-2011",
+    "ANO": "2011",
+    "MARCA": "bmw",
+    "MODELO": "m1",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M1",
+        "Versão:0": "Coupe 3.0 2011",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "340 @ 5.900 rpm",
+        "Torque máximo em kgfm:": "45,9 @ 1.500 rpm",
+        "Potência específica:": "114,1 cv/litro",
+        "Torque específico:": "15,4 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "4,6 kg/cv",
+        "Relação peso/torque:": "34,2 kg/kgfm",
+        "Curso dos pistões:": "89,6 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N554B30T0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,9 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,7",
+        "Estrada em km/l:": "10,4",
+        "Autonomia em km:": "551"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R19",
+        "Traseira:": "265/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,18 m²",
+        "Coef. aerodinâmico:": "0,37 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.380 mm",
+        "Altura:": "1.420 mm",
+        "Largura:": "1.803 mm",
+        "Entre eixos:": "2.660 mm",
+        "Bitola dianteira:": "1.541 mm",
+        "Bitola traseira:": "1.541 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.570 kg",
+        "Porta-malas:": "370 litros",
+        "Carga útil:": "405 kg",
+        "Tanque combustível:": "53 litros"
+    }
+}

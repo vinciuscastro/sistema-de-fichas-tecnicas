@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Julho/ASX.jpg",
+    "NOME": "asx-2.0-4x2-at-2019",
+    "ANO": "2019",
+    "MARCA": "mitsubishi",
+    "MODELO": "asx",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "ASX",
+        "Versão:": "2.0 4x2 AT 2019",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "170 (E) / 160 (G) @ 6.000 rpm",
+        "Torque máximo (kgfm):": "23 (E) / 22 (G) @ 4.250 rpm",
+        "Potência específica:": "85,1 cv/litro",
+        "Torque específico:": "11,5 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "8,4 kg/cv",
+        "Rel. peso/torque:": "61,7 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "4B11"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,5 seg",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,9 (E) / 9,8 (G)",
+        "Estrada em km/l:": "9,1 (E) / 12,6 (G)",
+        "Autonomia em km:": "546 (E) / 756 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R18",
+        "Traseira:": "225/55 R18",
+        "Altura do flanco:": "124 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,46 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.360 mm",
+        "Altura:": "1.635 mm",
+        "Largura:": "1.810 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.525 mm",
+        "Bitola traseira:": "1.525 mm",
+        "Vão livre do solo:": "215 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.420 kg",
+        "Porta-malas:": "415 litros",
+        "Carga útil:": "550 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

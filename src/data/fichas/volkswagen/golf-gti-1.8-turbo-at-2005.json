@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Golf-2005.jpg",
+    "NOME": "golf-gti-1.8-turbo-at-2005",
+    "ANO": "2005",
+    "MARCA": "volkswagen",
+    "MODELO": "golf",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Golf",
+        "Versão:": "GTi 1.8 Turbo AT",
+        "Ano/modelo:": "2005",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.781 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "5",
+        "Combustível:": "Gasolina",
+        "Potência:": "180 cv @ 5.500 rpm",
+        "Torque:": "24 kgfm @ 1.950 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "EA113"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,4 s",
+        "Velocidade máxima:": "205 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,6 km/l",
+        "Rodoviário:": "8,9 km/l",
+        "Autonomia:": "489 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,15 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.149 mm",
+        "Altura:": "1.459 mm",
+        "Largura:": "1.735 mm",
+        "Entre-eixos:": "2.515 mm",
+        "Bitola dianteira:": "1.513 mm",
+        "Bitola traseira:": "1.494 mm",
+        "Vão livre do solo:": "Não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.329 kg",
+        "Porta-malas:": "330 litros",
+        "Carga útil:": "511 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Fiat-Palio-96-2P.jpg",
+    "NOME": "palio-1.6-16v-mpi-2p-1996",
+    "ANO": "1996",
+    "MARCA": "fiat",
+    "MODELO": "palio",
+    "ESPECIFICACAO": {
+        "Origem:": "Nacional",
+        "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.580 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "106 @ 5.750 rpm",
+        "Torque em kgfm:": "15,1 @ 4.500 rpm",
+        "Taxa de compressão:": "9,3:1",
+        "Código do motor:": "Torque"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,5 seg",
+        "Velocidade máxima:": "188 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "10",
+        "Estrada em km/l:": "13,6",
+        "Autonomia em km:": "653"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,98 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.735 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.614 mm",
+        "Entre eixos:": "2.361 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "960 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "48 litros"
+    }
+}

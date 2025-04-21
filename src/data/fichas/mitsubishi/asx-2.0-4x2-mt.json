@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Mitsubishi/ASX-03.jpg",
+    "NOME": "asx-2.0-4x2-mt",
+    "ANO": "MT",
+    "MARCA": "mitsubishi",
+    "MODELO": "asx",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "ASX",
+        "Versão:": "2.0 4x2 MT",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Nacional, SUV, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "160 cv @ 6.000 rpm",
+        "Torque:": "20,1 kgfm @ 4.200 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,6 s",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,7 km/l",
+        "Rodoviário:": "10,3 km/l",
+        "Autonomia:": "648 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "225/55 R18",
+        "Traseiros:": "225/55 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.360 mm",
+        "Altura:": "1.635 mm",
+        "Largura:": "1.780 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Vão livre do solo:": "215 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.360 kg",
+        "Porta-malas:": "415 kg",
+        "Carga útil:": "610 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

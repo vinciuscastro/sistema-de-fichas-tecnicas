@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Grand-Cherokee-2000.jpg",
+    "NOME": "grand-cherokee-laredo-2.7-2003",
+    "ANO": "2003",
+    "MARCA": "jeep",
+    "MODELO": "grand",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Grand Cherokee",
+        "Versão:": "Laredo 2.7 Turbodiesel 2003",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.668 cc",
+        "Cilindros:": "5, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "163 @ 4.000 rpm",
+        "Torque máx. (kgfm):": "40,8 @ 1.800 rpm",
+        "Potência específica:": "60,6 cv/litro",
+        "Torque específico:": "15,2 kgfm/litro",
+        "Taxa de compressão:": "18:1",
+        "Rel. peso/potência:": "11,9 kg/cv",
+        "Rel. peso/torque:": "47,5 kg/kgfm",
+        "Curso dos pistões:": "88,4 mm",
+        "Diâmetro dos cilindros:": "88 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "12,3",
+        "Autonomia em km:": "959"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/70 R16",
+        "Traseira:": "245/70 R16",
+        "Altura do flanco:": "172 mm",
+        "Estepe:": "245/70 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,75 m²",
+        "Coef. aerodinâmico:": "0,45 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.613 mm",
+        "Altura:": "1.762 mm",
+        "Largura:": "1.836 mm",
+        "Entre eixos:": "2.691 mm",
+        "Bitola dianteira:": "1.511 mm",
+        "Bitola traseira:": "1.511 mm",
+        "Vão livre do solo:": "210 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.940 kg",
+        "Porta-malas:": "422 litros",
+        "Carga útil:": "565 kg",
+        "Tanque combustível:": "78 litros"
+    }
+}

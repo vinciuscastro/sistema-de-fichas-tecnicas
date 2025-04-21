@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Maio/Chevrolet-Suprema.jpg",
+    "NOME": "suprema-gls-2.0-1993",
+    "ANO": "1993",
+    "MARCA": "chevrolet",
+    "MODELO": "suprema",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Suprema",
+        "Versão:": "GLS 2.0 1993",
+        "Combustível:": "Etanol",
+        "Origem:": "Nacional",
+        "Categoria:": "Perua",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "130 @ 5.400 rpm",
+        "Torque máx. (kgfm):": "18,6 @ 4.000 rpm",
+        "Potência específica:": "65,1 cv/litro",
+        "Torque específico:": "9,3 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "11 kg/cv",
+        "Rel. peso/torque:": "76,6 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,3 seg",
+        "Velocidade máxima:": "187 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,6",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "630"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço semi-arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15",
+        "Altura do flanco:": "127 mm",
+        "Estepe:": "195/65 R 15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,18 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.768 mm",
+        "Altura:": "1.454 mm",
+        "Largura:": "1.760 mm",
+        "Entre eixos:": "2.730 mm",
+        "Bitola dianteira:": "1.462 mm",
+        "Bitola traseira:": "1.476 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.425 kg",
+        "Porta-malas:": "540 litros",
+        "Carga útil:": "520 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

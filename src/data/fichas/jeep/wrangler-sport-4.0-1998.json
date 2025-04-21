@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Wrangler-1997.jpg",
+    "NOME": "wrangler-sport-4.0-1998",
+    "ANO": "1998",
+    "MARCA": "jeep",
+    "MODELO": "wrangler",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Wrangler",
+        "Versão:": "Sport 4.0",
+        "Ano/modelo:": "1998",
+        "Detalhes:": "Importado, jipe, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.964 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No bloco",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "177 cv @ 4.600 rpm",
+        "Torque:": "29,6 kgfm @ 3.600 rpm",
+        "Taxa de compressão:": "8,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "3",
+        "Tração:": "4 X 4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,4 s",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,8 km/l",
+        "Rodoviário:": "8 km/l",
+        "Autonomia:": "576 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/50 R20",
+        "Traseira:": "265/50 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.883 mm",
+        "Altura:": "1.767 mm",
+        "Largura:": "1.693 mm",
+        "Entre-eixos:": "2.373 mm",
+        "Bitola dianteira:": "1.470 mm",
+        "Bitola traseira:": "1.470 mm",
+        "Vão livre do solo:": "218 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.570 kg",
+        "Porta-malas:": "320 litros",
+        "Carga útil:": "405 kg",
+        "Tanque combustível:": "72 litros"
+    }
+}

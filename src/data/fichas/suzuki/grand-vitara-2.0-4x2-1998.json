@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Suzuki-Grand-Vitara-1998.jpg",
+    "NOME": "grand-vitara-2.0-4x2-1998",
+    "ANO": "1998",
+    "MARCA": "suzuki",
+    "MODELO": "grand",
+    "ESPECIFICACAO": {
+        "Marca:": "Suzuki",
+        "Modelo:": "Grand Vitara",
+        "Versão:": "2.0 4x2 1998",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Jipe",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "128 @ 6.000 rpm",
+        "Torque máx. (kgfm):": "17,7 @ 4.300 rpm",
+        "Potência específica:": "64,2 cv/litro",
+        "Torque específico:": "8,9 kgfm/litro",
+        "Taxa de compressão:": "9,3:1",
+        "Rel. peso/potência:": "11 kg/cv",
+        "Rel. peso/torque:": "79,3 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "J20A"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13 seg",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,1",
+        "Estrada em km/l:": "8,2",
+        "Autonomia em km:": "541"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/60 R16",
+        "Traseira:": "235/60 R16",
+        "Altura do flanco:": "141 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.195 mm",
+        "Altura:": "1.740 mm",
+        "Largura:": "1.780 mm",
+        "Entre eixos:": "2.480 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "195 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.403 kg",
+        "Porta-malas:": "300 litros",
+        "Carga útil:": "595 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

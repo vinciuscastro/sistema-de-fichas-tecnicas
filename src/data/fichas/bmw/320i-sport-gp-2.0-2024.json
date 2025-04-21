@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/marco/bmw-320i-2023.jpg",
+    "NOME": "320i-sport-gp-2.0-2024",
+    "ANO": "2024",
+    "MARCA": "bmw",
+    "MODELO": "320i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "320i",
+        "Versão:": "Sport GP 2.0 2024",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "7",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. (CV):": "184 (E) / 184 (G) @ 5.000 rpm",
+        "Torque máx. (kgfm):": "30,6 (E) / 30,6 (G) @ 1.350 rpm",
+        "Potência específica:": "92,1 cv/litro",
+        "Torque específico:": "15,3 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Rel. peso/potência:": "7,9 kg/cv",
+        "Rel. peso/torque:": "47,7 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "B48B20"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,1 seg",
+        "Velocidade máxima:": "235 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,5 (E) / 10,7 (G)",
+        "Estrada em km/l:": "9,2 (E) / 13,2 (G)",
+        "Autonomia em km:": "543 (E) / 779 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R18",
+        "Traseira:": "225/45 R18",
+        "Altura do flanco:": "101 mm",
+        "Estepe:": "135/80 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,25 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.709 mm",
+        "Altura:": "1.435 mm",
+        "Largura:": "1.827 mm",
+        "Entre eixos:": "2.851 mm",
+        "Bitola dianteira:": "1.589 mm",
+        "Bitola traseira:": "1.604 mm",
+        "Vão livre do solo:": "136 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.460 kg",
+        "Porta-malas:": "365 litros",
+        "Carga útil:": "590 kg",
+        "Tanque combustível:": "59 litros"
+    }
+}

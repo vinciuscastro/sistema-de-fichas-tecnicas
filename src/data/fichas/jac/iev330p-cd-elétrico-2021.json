@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/IEV330p.jpg",
+    "NOME": "iev330p-cd-elétrico-2021",
+    "ANO": "2021",
+    "MARCA": "jac",
+    "MODELO": "iev330p",
+    "ESPECIFICACAO": {
+        "Marca:": "Jac",
+        "Modelo:": "iev330p",
+        "Versão:": "CD Elétrico 2021",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "320 km",
+        "Capacidade da bateria:": "67,2 kWh",
+        "Potência:": "150 cv",
+        "Torque:": "33,7 kgfm",
+        "Peso/potência:": "14,67 kg/cv",
+        "Peso/torque:": "65,28 kg/kgfm",
+        "Consumo elétrico:": "21 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "99 seg",
+        "Velocidade máxima:": "97 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/65 R18",
+        "Traseira:": "245/65 R18",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.615 mm",
+        "Altura:": "1.830 mm",
+        "Largura:": "1.880 mm",
+        "Entre eixos:": "3.380 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "197 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.200 kg",
+        "Caçamba:": "1.500 litros",
+        "Carga útil:": "800 kg"
+    }
+}

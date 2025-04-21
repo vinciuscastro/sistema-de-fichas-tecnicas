@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-2015.jpg",
+    "NOME": "c180-avantgarde-1.6-turbo-2016",
+    "ANO": "2016",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c180",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C180",
+        "Versão:": "Avantgarde 1.6 Turbo 2016",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.595 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "156 (E) / 156 (G) @ 5.300 rpm",
+        "Torque máximo (kgfm):": "25,5 (E) / 25,5 (G) @ 1.200 rpm",
+        "Potência específica:": "97,8 cv/litro",
+        "Torque específico:": "16 kgfm/litro",
+        "Taxa de compressão:": "10,3:1",
+        "Rel. peso/potência:": "9,1 kg/cv",
+        "Rel. peso/torque:": "55,9 kg/kgfm",
+        "Curso dos pistões:": "73,7 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M274DE16"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,5 seg",
+        "Velocidade máxima:": "223 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7 (E) / 10,2 (G)",
+        "Estrada em km/l:": "9,2 (E) / 13,3 (G)",
+        "Autonomia em km:": "607 (E) / 878 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R17",
+        "Traseira:": "225/50 R17",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,27 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.686 mm",
+        "Altura:": "1.442 mm",
+        "Largura:": "1.810 mm",
+        "Entre-eixos:": "2.840 mm",
+        "Bitola dianteira:": "1.588 mm",
+        "Bitola traseira:": "1.570 mm",
+        "Vão livre do solo:": "92 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.425 kg",
+        "Porta-malas:": "480 litros",
+        "Carga útil:": "640 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

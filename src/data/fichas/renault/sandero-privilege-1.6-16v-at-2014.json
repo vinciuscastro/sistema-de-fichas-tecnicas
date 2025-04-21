@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Sandero-2012.jpg",
+    "NOME": "sandero-privilege-1.6-16v-at-2014",
+    "ANO": "2014",
+    "MARCA": "renault",
+    "MODELO": "sandero",
+    "ESPECIFICACAO": {
+        "Marca:": "Renault",
+        "Modelo:": "Sandero",
+        "Versão:": "Privilege 1.6 16V AT",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "112 cv (E) / 107 cv (G) @ 5.750 rpm",
+        "Torque:": "15,5 kgfm (E) / 15,1 kgfm (G) @ 3.750 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "K4M"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,7 s",
+        "Velocidade máxima:": "171 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,7 km/l (E) / 8,9 km/l (G)",
+        "Rodoviário:": "8,8 km/l (E) / 11 km/l (G)",
+        "Autonomia:": "440 km (E) / 550 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,27 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.021 mm",
+        "Altura:": "1.528 mm",
+        "Largura:": "1.746 mm",
+        "Entre-eixos:": "2.591 mm",
+        "Bitola dianteira:": "1.504 mm",
+        "Bitola traseira:": "1.484 mm",
+        "Vão livre do solo:": "185 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.095 kg",
+        "Porta-malas:": "320 litros",
+        "Carga útil:": "515 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

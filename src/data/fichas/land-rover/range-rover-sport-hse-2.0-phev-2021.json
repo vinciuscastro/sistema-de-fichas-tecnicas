@@ -1,0 +1,84 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Range-Rover-Sport-2021.jpg",
+    "NOME": "range-rover-sport-hse-2.0-phev-2021",
+    "ANO": "2021",
+    "MARCA": "land-rover",
+    "MODELO": "range",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Range Rover",
+        "Versão:": "Sport HSE 2.0 PHEV",
+        "Origem:": "Importado - Inglaterra",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "Duplo no cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina + Híbrido plug in",
+        "Potência CV:": "300 @ 5.500 rpm",
+        "Torque kgfm:": "40,8 @ 1.500 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "Ingenium AJ200",
+        "Potência:": "116 cv",
+        "Torque:": "28 kgfm",
+        "Potência combinada:": "404 cv",
+        "Torque combinado:": "65,3 kgfm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h": "6,7 s",
+        "Velocidade máxima": "220 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "16,3 km/l",
+        "Estrada:": "16 km/l",
+        "Autonomia:": "1.500 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/45/21",
+        "Traseira:": "275/45/21"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,04 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.879 mm",
+        "Altura:": "1.803 mm",
+        "Largura:": "1.983 mm",
+        "Entre-eixos:": "2.923 mm",
+        "Bitola dianteira:": "1.692 mm",
+        "Bitola traseira:": "1.686 mm",
+        "Vão livre do solo:": "278 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.539 kg",
+        "Porta-malas:": "535 litros",
+        "Carga útil:": "659 kg",
+        "Tanque combustível": "92 litros"
+    }
+}

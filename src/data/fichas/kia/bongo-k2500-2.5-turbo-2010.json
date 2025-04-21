@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/kia-bongo-08.jpg",
+    "NOME": "bongo-k2500-2.5-turbo-2010",
+    "ANO": "2010",
+    "MARCA": "kia",
+    "MODELO": "bongo",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Bongo",
+        "Versão:": "K2500 2.5 Turbo 2010",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Chassi-cabine",
+        "Portas:": "2",
+        "Ocupantes:": "3",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção indireta de combustível",
+        "Cilindrada:": "2.476 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "único, no bloco, corrente",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "94 @ 3.800 rpm",
+        "Torque em kgfm:": "22,4 @ 2.000 rpm",
+        "Potência específica:": "38 cv/litro",
+        "Torque específico:": "9 kgfm/litro",
+        "Taxa de compressão:": "20,5:1",
+        "Relação peso/potência:": "19 kg/cv",
+        "Relação peso/torque:": "79,9 kg/kgfm",
+        "Curso dos pistões:": "informação não disponível",
+        "Diâmetro dos cilindros:": "informação não disponível",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "20 seg",
+        "Velocidade máxima:": "140 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "660"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/80 R14",
+        "Traseira:": "195/80 R14",
+        "Altura do flanco:": "156 mm",
+        "Estepe:": "195/80 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.820 mm",
+        "Altura:": "1.972 mm",
+        "Largura:": "1.740 mm",
+        "Entre eixos:": "2.415 mm",
+        "Bitola dianteira:": "1.490 mm",
+        "Bitola traseira:": "1.460 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.790 kg",
+        "Caçamba:": "1.812 litros",
+        "Carga útil:": "1.530 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

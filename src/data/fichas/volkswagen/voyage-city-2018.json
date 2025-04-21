@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/VW_Voyage_2018.jpg",
+    "NOME": "voyage-city-2018",
+    "ANO": "2018",
+    "MARCA": "volkswagen",
+    "MODELO": "voyage",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Voyage",
+        "Versão:": "City 1.0 2019",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão",
+        "Potência máxima (cv):": "82 (E) / 75 (G) @ 6.250 rpm",
+        "Torque máximo (kgfm):": "10,4 (E) / 9,7 (G) @ 3.000 rpm",
+        "Potência específica:": "82,1 cv/litro",
+        "Torque específico:": "10,4 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Rel. peso/potência:": "11,5 kg/cv",
+        "Rel. peso/torque:": "91,1 kg/kgfm",
+        "Curso dos pistões:": "76,4 mm",
+        "Diâmetro dos cilindros:": "74,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA211"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MQ200"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,7 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,7 (E) / 12,9 (G)",
+        "Estrada em km/l:": "10,5 (E) / 15,4 (G)",
+        "Autonomia em km:": "578 (E) / 847 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Estepe:": "185/65 R14",
+        "Altura do flanco:": "120 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,03 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.218 mm",
+        "Altura:": "1.463 mm",
+        "Largura:": "1.656 mm",
+        "Entre eixos:": "2.467 mm",
+        "Bitola dianteira:": "1.429 mm",
+        "Bitola traseira:": "1.416 mm",
+        "Vão livre do solo:": "161 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "947 kg",
+        "Porta-malas:": "480 litros",
+        "Carga útil:": "440 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

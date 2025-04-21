@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Accent_95.jpg",
+    "NOME": "accent-gls-1.5-1995",
+    "ANO": "1995",
+    "MARCA": "hyundai",
+    "MODELO": "accent",
+    "ESPECIFICACAO": {
+        "Marca:": "Hyundai",
+        "Modelo:": "Accent",
+        "Versão:": "GLS 1.5 1995",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.495 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "3",
+        "Comando de válvulas:": "No cabeçote",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "88 @ 5.600 rpm",
+        "Torque máximo em kgfm:": "13,6 @ 3.050 rpm",
+        "Potência específica:": "58,9 cv/litro",
+        "Torque específico:": "8,9 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "11,3 kg/cv",
+        "Rel. peso/torque:": "75 kg/kgfm",
+        "Curso dos pistões:": "83,5 mm",
+        "Diâmetro dos cilindros:": "75,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "G4EK"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "M5AF3"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,7 seg",
+        "Velocidade máxima:": "174 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "11,9",
+        "Estrada em km/l:": "15,7",
+        "Autonomia em km:": "707"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "9,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13",
+        "Altura do flanco:": "123 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.117 mm",
+        "Altura:": "1.394 mm",
+        "Largura:": "1.620 mm",
+        "Entre eixos:": "2.400 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "998 kg",
+        "Porta-malas:": "308 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

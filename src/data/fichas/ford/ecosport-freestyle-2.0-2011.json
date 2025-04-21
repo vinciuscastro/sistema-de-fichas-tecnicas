@@ -1,0 +1,76 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Julho/Eco-03.jpg",
+    "NOME": "ecosport-freestyle-2.0-2011",
+    "ANO": "2011",
+    "MARCA": "ford",
+    "MODELO": "ecosport",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ecosport",
+        "Versão:": "Freestyle 2.0",
+        "Ano/modelo:": "2011",
+        "Detalhes:": "Nacional, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "145 cv (E) / 141 cv (G) @ 6.000 rpm",
+        "Torque:": "19,4 kgfm (E) / 19,1 (G) @ 4.250 rpm",
+        "Taxa de compressão:": "10,1:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,5 km/l (E) / 8,3 km/l (G)",
+        "Rodoviário:": "6,5 km/l (E) / 10 km/l (G)",
+        "Autonomia:": "351 km (E) / 540 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/65 R15",
+        "Traseira:": "205/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,47 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.228 mm",
+        "Altura:": "1.679 mm",
+        "Largura:": "1.734 mm",
+        "Entre eixos:": "2.490 mm",
+        "Bitola dianteira:": "1.484 mm",
+        "Bitola traseira:": "1.446 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.234 kg",
+        "Porta-malas:": "296 litros",
+        "Carga útil:": "436 kg",
+        "Tanque combustível:": "54 litros"
+    }
+}

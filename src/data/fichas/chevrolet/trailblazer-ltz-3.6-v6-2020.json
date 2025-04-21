@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Setembro/Chevrolet-Trailblazer-2022.jpg",
+    "NOME": "trailblazer-ltz-3.6-v6-2020",
+    "ANO": "2020",
+    "MARCA": "chevrolet",
+    "MODELO": "trailblazer",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Trailblazer",
+        "Versão:": "LTZ 3.6 V6 2020",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Londitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.564 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "277 @ 6.400 rpm",
+        "Torque máximo em kgfm:": "35,7 @ 3.700 rpm",
+        "Potência específica:": "77,7 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Relação peso/potência:": "7,6 kg/cv",
+        "Relação peso/torque:": "59 kg/kgfm",
+        "Curso dos pistões:": "85,6 mm",
+        "Diâmetro dos cilindros:": "94 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Alloytec LFX"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,6 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,6",
+        "Estrada em km/l:": "8,6",
+        "Autonomia em km:": "654"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/60 R18",
+        "Traseira:": "265/60 R18",
+        "Estepe:": "265/60 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.887 mm",
+        "Altura:": "1.844 mm",
+        "Largura:": "1.902 mm",
+        "Entre eixos:": "2.845 mm",
+        "Bitola dianteira:": "1.570 mm",
+        "Bitola traseira:": "1.588 mm",
+        "Vão livre do solo:": "193 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.106 kg",
+        "Porta-malas:": "554 litros (5 lug) / 205 litros (7 lug)",
+        "Carga útil:": "614 kg",
+        "Tanque combustível:": "76 litros"
+    }
+}

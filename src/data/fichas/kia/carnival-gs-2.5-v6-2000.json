@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Carnival-2000.jpg",
+    "NOME": "carnival-gs-2.5-v6-2000",
+    "ANO": "2000",
+    "MARCA": "kia",
+    "MODELO": "carnival",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Carnival",
+        "Versão:": "GS 2.5 V6",
+        "Ano/modelo:": "2000",
+        "Detalhes:": "Importado, minivan, 4 portas, 7 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.497 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "165 cv @ 6.500 rpm",
+        "Torque:": "22,6 kgfm @ 4.100 rpm",
+        "Taxa de compressão:": "10,4:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15,5 s",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7 km/l",
+        "Rodoviário:": "8 km/l",
+        "Autonomia:": "600 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "13 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/65 R15",
+        "Traseira:": "215/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,79 m²",
+        "Coef. aerodinâmico:": "0,40 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.890 mm",
+        "Altura:": "1.730 mm",
+        "Largura:": "1.900 mm",
+        "Entre-eixos:": "2.905 mm",
+        "Bitola dianteira:": "1.625 mm",
+        "Bitola traseira:": "1.600 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.785 kg",
+        "Porta-malas:": "665 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "75 litros"
+    }
+}

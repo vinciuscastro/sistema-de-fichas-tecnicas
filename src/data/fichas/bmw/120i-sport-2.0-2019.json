@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/120-19.jpg",
+    "NOME": "120i-sport-2.0-2019",
+    "ANO": "2019",
+    "MARCA": "bmw",
+    "MODELO": "120i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "120i",
+        "Versão:": "Sport 2.0",
+        "Ano/modelo:": "2019",
+        "Detalhes:": "Importado, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "184 cv @ 5.000 rpm",
+        "Torque:": "27,5 kgfm @ 1.350 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B48B20"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,1 s",
+        "Velocidade máxima:": "225 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,2 km/l",
+        "Rodoviário:": "12,5 km/l",
+        "Autonomia:": "650 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/45 R17",
+        "Traseira:": "205/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,13 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.329 mm",
+        "Altura:": "1.421 mm",
+        "Largura:": "1.765 mm",
+        "Entre-eixos:": "2.690 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.569 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.380 kg",
+        "Porta-malas:": "360 litros",
+        "Carga útil:": "560 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

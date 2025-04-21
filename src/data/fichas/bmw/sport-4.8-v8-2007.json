@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-X5-2007.jpg",
+    "NOME": "sport-4.8-v8-2007",
+    "ANO": "2007",
+    "MARCA": "bmw",
+    "MODELO": "sport",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X5",
+        "Versão:": "Sport 4.8 V8",
+        "Ano/modelo:": "2007",
+        "Detalhes:": "Importado, SUV, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "4.799 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "355 cv @ 6.300 rpm",
+        "Torque:": "48,4 kgfm @ 3.400 rpm",
+        "Taxa de compressão:": "10,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,5 s",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,5 km/l",
+        "Rodoviário:": "6,5 km/l",
+        "Autonomia:": "552 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.854 mm",
+        "Altura:": "1.766 mm",
+        "Largura:": "1.933 mm",
+        "Entre-eixos:": "2.933 mm",
+        "Vão livre do solo:": "212 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.245 kg",
+        "Porta-malas:": "620 litros",
+        "Carga útil:": "615 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

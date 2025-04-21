@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Maio/Chevrolet-Vectra-97.jpg",
+    "NOME": "vectra-gl-2.0-1998",
+    "ANO": "1998",
+    "MARCA": "chevrolet",
+    "MODELO": "vectra",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Vectra",
+        "Versão:": "GL 2.0 1998",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "110 @ 5.200 rpm",
+        "Torque máximo kgfm:": "17,7 @ 2.600 rpm",
+        "Potência específica:": "55,1 cv/litro",
+        "Torque específico:": "8,9 kgfm/litro",
+        "Taxa de compressão:": "9,2:1",
+        "Rel. peso/potência:": "11,6 kg/cv",
+        "Rel. peso/torque:": "72,4 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro cilindros:": "86 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "F18"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,4 seg",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,3",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "684"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70 R14",
+        "Traseira:": "185/70 R14",
+        "Altura do flanco:": "130 mm",
+        "Estepe:": "185/70 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,06 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.447 mm",
+        "Altura:": "1.420 mm",
+        "Largura:": "1.710 mm",
+        "Entre-eixos:": "2.640 mm",
+        "Bitola dianteira:": "1.484 mm",
+        "Bitola traseira:": "1.470 mm",
+        "Vão livre do solo:": "129 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.281 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "57 litros"
+    }
+}

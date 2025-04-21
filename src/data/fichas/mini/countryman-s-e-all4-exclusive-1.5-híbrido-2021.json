@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/dezembro/mini-countryman-21.jpg",
+    "NOME": "countryman-s-e-all4-exclusive-1.5-híbrido-2021",
+    "ANO": "2021",
+    "MARCA": "mini",
+    "MODELO": "countryman",
+    "ESPECIFICACAO": {
+        "Marca:": "Mini",
+        "Modelo:": "Countryman",
+        "Versão:": "S E All4 Exclusive 1.5 Híbrido 2021",
+        "Combustível:": "Híbrido - Gasolina / Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "136 @ 4.400 rpm",
+        "Torque em kgfm:": "22,4 @ 1.250 rpm",
+        "Potência específica:": "90,7 cv/litro",
+        "Torque específico:": "14,9 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "12,6 kg/cv",
+        "Relação peso/torque:": "76,6 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "B38A15",
+        "Potência:": "88 cv",
+        "Potência combinada:": "224 cv",
+        "Torque:": "16,8 kgfm",
+        "Torque combinado:": "39,3 kgfm",
+        "Capacidade bateria:": "9,6 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "57 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 seg",
+        "Velocidade máxima:": "197 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "23,6",
+        "Estrada em km/l:": "23,2",
+        "Autonomia em km:": "850"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R18",
+        "Traseira:": "225/50 R18",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,41 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.297 mm",
+        "Altura:": "1.559 mm",
+        "Largura:": "1.822 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.563 mm",
+        "Bitola traseira:": "1.565 mm",
+        "Vão livre do solo:": "165 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.715 kg",
+        "Porta-malas:": "405 litros",
+        "Carga útil:": "600 kg",
+        "Tanque combustível:": "36 litros"
+    }
+}

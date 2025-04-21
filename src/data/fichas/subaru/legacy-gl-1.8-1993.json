@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/junho/subaru-legacy-93.jpg",
+    "NOME": "legacy-gl-1.8-1993",
+    "ANO": "1993",
+    "MARCA": "subaru",
+    "MODELO": "legacy",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "Legacy",
+        "Versão:": "GL 1.8 1993",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.820 cc",
+        "Cilindros:": "4, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "103 @ 6.000 rpm",
+        "Torque máx. (kgfm):": "15 @ 3.200 rpm",
+        "Potência específica:": "56,6 cv/litro",
+        "Torque específico:": "8,2 kgfm/litro",
+        "Taxa de compressão:": "9,7:1",
+        "Rel. peso/potência:": "11,4 kg/cv",
+        "Rel. peso/torque:": "78,3 kg/kgfm",
+        "Curso dos pistões:": "75 mm",
+        "Diâmetro dos cilindros:": "87,9 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "EJ18"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,8 seg",
+        "Velocidade máxima:": "186 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "10",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "720"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R14",
+        "Traseira:": "175/70 R14",
+        "Altura do flanco:": "123 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.545 mm",
+        "Altura:": "1.380 mm",
+        "Largura:": "1.690 mm",
+        "Entre eixos:": "2.580 mm",
+        "Bitola dianteira:": "1.465 mm",
+        "Bitola traseira:": "1.450 mm",
+        "Vão livre do solo:": "145 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.175 kg",
+        "Porta-malas:": "372 litros",
+        "Carga útil:": "475 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

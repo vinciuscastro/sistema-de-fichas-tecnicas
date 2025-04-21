@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Lancer-2001.jpg",
+    "NOME": "lancer-evolution-vi-2.0-turbo-2001",
+    "ANO": "2001",
+    "MARCA": "mitsubishi",
+    "MODELO": "lancer",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Lancer",
+        "Versão:": "Evolution VI 2.0 Turbo",
+        "Ano/modelo:": "2001",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "280 cv @ 6.500 rpm",
+        "Torque:": "39 kgfm @ 3.500 rpm",
+        "Taxa de compressão:": "8,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,6 s",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4 km/l",
+        "Rodoviário:": "7 km/l",
+        "Autonomia:": "336 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R17",
+        "Traseira:": "235/45 R17"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.455 mm",
+        "Altura:": "1.450 mm",
+        "Largura:": "1.770 mm",
+        "Entre-eixos:": "2.625 mm",
+        "Bitola dianteira:": "1.515 mm",
+        "Bitola traseira:": "1.515 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.380 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "48 litros"
+    }
+}

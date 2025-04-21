@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Novembro/Accord-19.jpg",
+    "NOME": "accord-touring-2.0-turbo-2019",
+    "ANO": "2019",
+    "MARCA": "honda",
+    "MODELO": "accord",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "Accord",
+        "Versão:": "Touring 2.0 Turbo 2019",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "10",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.996 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência em CV:": "256 @ 6.500 rpm",
+        "Torque em kgfm:": "37,7 @ 1.500 rpm",
+        "Potência específica:": "128,3 cv/litro",
+        "Torque específico:": "18,9 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Relação peso/potência:": "6 kg/cv",
+        "Relação peso/torque:": "41 kg/kgfm",
+        "Curso dos pistões:": "85,9 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "não disponível",
+        "Código do motor:": "K20C4"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "10",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,7 seg",
+        "Velocidade máxima:": "203 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "12,3",
+        "Autonomia em km:": "689"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R18",
+        "Traseira:": "235/45 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.489 mm",
+        "Altura:": "1.450 mm",
+        "Largura:": "1.862 mm",
+        "Entre eixos:": "2.830 mm",
+        "Bitola dianteira:": "1.600 mm",
+        "Bitola traseira:": "1.610 mm",
+        "Vão livre do solo:": "125 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.547 kg",
+        "Porta-malas:": "574 litros",
+        "Carga útil:": "483 kg",
+        "Tanque combustível:": "56 litros"
+    }
+}

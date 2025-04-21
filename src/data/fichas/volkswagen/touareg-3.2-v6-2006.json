@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/TouaregV6-2006.jpg",
+    "NOME": "touareg-3.2-v6-2006",
+    "ANO": "2006",
+    "MARCA": "volkswagen",
+    "MODELO": "touareg",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Touareg",
+        "Versão:": "3.2 V6",
+        "Ano/modelo:": "2006",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.189 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "241 cv @ 6.200 rpm",
+        "Torque:": "31,6 kgfm @ 3.200 rpm",
+        "Taxa de compressão:": "10,8:1",
+        "Código do motor:": "V6"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 s",
+        "Velocidade máxima:": "206 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,9 km/l",
+        "Rodoviário:": "7,9 km/l",
+        "Autonomia:": "790 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/65 R17",
+        "Traseira:": "235/65 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,83 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.754 mm",
+        "Altura:": "1.726 mm",
+        "Largura:": "1.928 mm",
+        "Entre-eixos:": "2.855 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.214 kg",
+        "Porta-malas:": "555 litros",
+        "Carga útil:": "731 kg",
+        "Tanque combustível:": "100 litros"
+    }
+}

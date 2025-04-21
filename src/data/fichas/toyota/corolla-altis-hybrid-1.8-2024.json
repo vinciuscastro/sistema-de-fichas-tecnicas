@@ -1,0 +1,102 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/agosto/toyota-corolla-2024.jpg",
+    "NOME": "corolla-altis-hybrid-1.8-2024",
+    "ANO": "2024",
+    "MARCA": "toyota",
+    "MODELO": "corolla",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Corolla",
+        "Versão:": "Altis Hybrid 1.8 2024",
+        "Combustível:": "Híbrido - Etanol e/ou Gasolina / Eletricidade",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "12",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.798 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência em CV:": "101 (E) / 98 (G) @ 5.200 rpm",
+        "Torque em kgfm:": "14,5 @ 3.600 rpm",
+        "Potência específica:": "56,2 cv/litro",
+        "Torque específico:": "8,1 kgfm/litro",
+        "Taxa de compressão:": "13:1",
+        "Relação peso/potência:": "14,3 kg/cv",
+        "Relação peso/torque:": "99,7 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "80,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "2ZR-FXB",
+        "Potência:": "72 cv",
+        "Potência combinada:": "122 cv",
+        "Torque:": "16,6 kgfm",
+        "Torque combinado:": "informação não disponível",
+        "Capacidade bateria:": "1,3 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "CVT",
+        "Acoplamento:": "Engrenagem Epicicloidal",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "P610"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12 seg",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "12,8 (E) / 18,2 (G)",
+        "Estrada em km/l:": "11,1 (E) / 15,7 (G)",
+        "Autonomia em km:": "477 (E) / 675 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/50 R17",
+        "Traseira:": "215/50 R17",
+        "Estepe:": "205/55 R16",
+        "Altura do flanco:": "108 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,20 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.630 mm",
+        "Altura:": "1.455 mm",
+        "Largura:": "1.780 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.531 mm",
+        "Bitola traseira:": "1.544 mm",
+        "Vão livre do solo:": "148 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.445 kg",
+        "Porta-malas:": "470 litros",
+        "Carga útil:": "410 kg",
+        "Tanque combustível:": "43 litros"
+    }
+}

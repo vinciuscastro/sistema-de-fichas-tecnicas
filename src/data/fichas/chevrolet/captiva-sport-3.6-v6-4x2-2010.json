@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chevrolet-Captiva-3.6_2009.jpg",
+    "NOME": "captiva-sport-3.6-v6-4x2-2010",
+    "ANO": "2010",
+    "MARCA": "chevrolet",
+    "MODELO": "captiva",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Captiva",
+        "Versão:": "Sport 3.6 V6 4x2",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.564 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "261 @ 6.500 rpm",
+        "Torque máx. (kgfm):": "32,9 @ 2.100 rpm",
+        "Potência específica:": "73,2 cv/litro",
+        "Torque específico:": "9,2 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "6,8 kg/cv",
+        "Rel. peso/torque:": "54,3 kg/kgfm",
+        "Curso dos pistões:": "85,6 mm",
+        "Diâmetro dos cilindros:": "94 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Alloytec HFV6"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "HMD 6T70"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,4 seg",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,2",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "648"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/60 R17",
+        "Traseira:": "235/60 R17",
+        "Altura do flanco:": "141 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,68 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.576 mm",
+        "Altura:": "1.704 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "2.707 mm",
+        "Bitola dianteira:": "1.569 mm",
+        "Bitola traseira:": "1.579 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.785 kg",
+        "Porta-malas:": "383 litros",
+        "Carga útil:": "433 kg",
+        "Tanque combustível:": "72 litros"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/ES300H.jpg",
+    "NOME": "es300h-2.5-2020",
+    "ANO": "2020",
+    "MARCA": "lexus",
+    "MODELO": "es300h",
+    "ESPECIFICACAO": {
+        "Marca:": "Lexus",
+        "Modelo:": "ES300h",
+        "Versão:": "2.5 2020",
+        "Combustível:": "Híbrido - Gasolina / Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "7",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "2.487 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "178 @ 5.700 rpm",
+        "Torque em kgfm:": "22,1 @ 5.200 rpm",
+        "Potência específica:": "71,6 cv/litro",
+        "Torque específico:": "8,9 kgfm/litro",
+        "Taxa de compressão:": "14:1",
+        "Relação peso/potência:": "9,4 kg/cv",
+        "Relação peso/torque:": "76 kg/kgfm",
+        "Curso dos pistões:": "103,4 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "A25A-FXS",
+        "Potência:": "120 cv",
+        "Potência combinada:": "211 cv",
+        "Torque:": "20,2 kgfm",
+        "Torque combinado:": "informação não disponível",
+        "Capacidade bateria:": "1,3 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "CVT",
+        "Acoplamento:": "Engrenagem EpicicloidalConversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,5 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "16",
+        "Estrada em km/l:": "15,4",
+        "Autonomia em km:": "800"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R18",
+        "Traseira:": "235/45 R18",
+        "Altura do flanco:": "106 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,29 m²",
+        "Coef. aerodinâmico:": "0,26 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.976 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.864 mm",
+        "Entre eixos:": "2.870 mm",
+        "Bitola dianteira:": "1.600 mm",
+        "Bitola traseira:": "1.610 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.680 kg",
+        "Porta-malas:": "454 litros",
+        "Carga útil:": "470 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

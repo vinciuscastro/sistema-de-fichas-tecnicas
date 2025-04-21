@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Agosto/208-GT.jpg",
+    "NOME": "208-gt-1.6-turbo-2018",
+    "ANO": "2018",
+    "MARCA": "peugeot",
+    "MODELO": "208",
+    "ESPECIFICACAO": {
+        "Marca:": "Peugeot",
+        "Modelo:": "208",
+        "Versão:": "GT 1.6 Turbo 2018",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima (cv):": "173 (E) / 166 (G) @ 6.000 rpm",
+        "Torque máximo (kgfm):": "24,5 (E) / 24,5 (G) @ 1.400 rpm",
+        "Potência específica:": "108,3 cv/litro",
+        "Torque específico:": "15,3 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "6,9 kg/cv",
+        "Rel. peso/torque:": "48,8 kg/kgfm",
+        "Curso dos pistões:": "85,8 mm",
+        "Diâmetro dos cilindros:": "77 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EP6FDT M"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MCB/6"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,6 seg",
+        "Velocidade máxima:": "222 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,2 (E) / 12 (G)",
+        "Estrada em km/l:": "9,5 (E) / 13,8 (G)",
+        "Autonomia em km:": "523 (E) / 759 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/45 R17",
+        "Traseira:": "205/45 R17",
+        "Altura do flanco:": "92 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,11 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.975 mm",
+        "Altura:": "1.472 mm",
+        "Largura:": "1.702 mm",
+        "Entre-eixos:": "2.541 mm",
+        "Bitola dianteira:": "1.475 mm",
+        "Bitola traseira:": "1.470 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.196 kg",
+        "Porta-malas:": "285 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

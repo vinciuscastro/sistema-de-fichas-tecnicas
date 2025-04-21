@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/C5_01.jpg",
+    "NOME": "c5-3.0-v6-at-2002",
+    "ANO": "2002",
+    "MARCA": "citroen",
+    "MODELO": "c5",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "C5",
+        "Versão:": "3.0 V6 AT 2002",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.946 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima CV:": "210 @ 6.000 rpm",
+        "Torque máximo kgfm:": "30 @ 3.750 rpm",
+        "Potência específica:": "71,3 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "10,9:1",
+        "Rel. peso/potência:": "7,2 kg/cv",
+        "Rel. peso/torque:": "50,7 kg/kgfm",
+        "Curso dos pistões:": "82,6 mm",
+        "Diâmetro cilindros:": "87 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "ES9A"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "ZF 4HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,3 seg",
+        "Velocidade máxima:": "232 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,8",
+        "Estrada em km/l:": "10,7",
+        "Autonomia em km:": "706"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Esfera hidropneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55 R16",
+        "Traseira:": "215/55 R16",
+        "Altura do flanco:": "118 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.618 mm",
+        "Altura:": "1.476 mm",
+        "Largura:": "1.770 mm",
+        "Entre-eixos:": "2.750 mm",
+        "Bitola dianteira:": "1.528 mm",
+        "Bitola traseira:": "1.493 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.520 kg",
+        "Porta-malas:": "456 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

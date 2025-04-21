@@ -1,0 +1,100 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/porsche-panamera-4s-e-hybrid.jpg",
+    "NOME": "panamera-4s-e-hybrid-2.9-v6-2022",
+    "ANO": "2022",
+    "MARCA": "porsche",
+    "MODELO": "panamera",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Panamera",
+        "Versão:": "4S E-Hybrid 2.9 V6",
+        "Combustível:": "Híbrido - gasolina/eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.894 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência em CV:": "440 @ 5.650 rpm",
+        "Torque em kgfm:": "56,1 @ 2.000 rpm",
+        "Potência específica:": "152 cv/litro",
+        "Torque específico:": "19,4 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "5,1 kg/cv",
+        "Relação peso/torque:": "39,7 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "84,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA839",
+        "Potência:": "136 cv",
+        "Potência combinada:": "560 cv",
+        "Torque:": "40,8 kgfm",
+        "Torque combinado:": "76,5 kgfm",
+        "Capacidade bateria:": "17,9 kWh",
+        "Autonomia elétrica:": "54 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "PDK"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,7 seg",
+        "Velocidade máxima:": "298 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "18,3",
+        "Estrada em km/l:": "18,7",
+        "Autonomia em km:": "1.496"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/40 R20",
+        "Traseira:": "315/35 R20",
+        "Altura do flanco:": "110 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,41 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.049 mm",
+        "Altura:": "1.423 mm",
+        "Largura:": "1.937 mm",
+        "Entre eixos:": "2.950 mm",
+        "Bitola dianteira:": "1.657 mm",
+        "Bitola traseira:": "1.639 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.225 kg",
+        "Porta-malas:": "403 litros",
+        "Carga útil:": "525 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

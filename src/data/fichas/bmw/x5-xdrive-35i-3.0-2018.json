@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/X5-35.jpg",
+    "NOME": "x5-xdrive-35i-3.0-2018",
+    "ANO": "2018",
+    "MARCA": "bmw",
+    "MODELO": "x5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X4",
+        "Versão:": "35i 3.0",
+        "Ano/modelo:": "2018",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "306 cv @ 5.800 rpm",
+        "Torque:": "40,8 kgfm @ 1.200 rpm",
+        "Taxa de compressão:": "10,2:1",
+        "Código do motor:": "N55B30M0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,5 s",
+        "Velocidade máxima:": "235 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,2 km/l",
+        "Rodoviário:": "8,2 km/l",
+        "Autonomia:": "679 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/40 R20",
+        "Traseira:": "315/35 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,93 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.886 mm",
+        "Altura:": "1.762 mm",
+        "Largura:": "1.938 mm",
+        "Entre-eixos:": "2.933 mm",
+        "Bitola dianteira:": "1.644 mm",
+        "Bitola traseira:": "1.650 mm",
+        "Vão livre do solo:": "209 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.224 kg",
+        "Porta-malas:": "650 litros",
+        "Carga útil:": "601 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

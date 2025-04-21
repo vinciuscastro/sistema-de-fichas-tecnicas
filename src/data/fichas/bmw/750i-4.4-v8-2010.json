@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-750i-10.jpg",
+    "NOME": "750i-4.4-v8-2010",
+    "ANO": "2010",
+    "MARCA": "bmw",
+    "MODELO": "750i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "750i",
+        "Versão:": "4.4 V8 2010",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "408 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "61,2 @ 1.750 rpm",
+        "Potência específica:": "92,8 cv/litro",
+        "Torque específico:": "13,9 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "4,8 kg/cv",
+        "Relação peso/torque:": "31,8 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N63B44"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 6HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,2 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,8",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "738"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/50 R18",
+        "Traseira:": "245/50 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,41 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.072 mm",
+        "Altura:": "1.479 mm",
+        "Largura:": "1.902 mm",
+        "Entre eixos:": "3.070 mm",
+        "Bitola dianteira:": "1.611 mm",
+        "Bitola traseira:": "1.650 mm",
+        "Vão livre do solo:": "144 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.945 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "630 kg",
+        "Tanque combustível:": "82 litros"
+    }
+}

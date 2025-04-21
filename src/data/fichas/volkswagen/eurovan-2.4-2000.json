@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Eurovan.jpg",
+    "NOME": "eurovan-2.4-2000",
+    "ANO": "2000",
+    "MARCA": "volkswagen",
+    "MODELO": "eurovan",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Eurovan",
+        "Versão:": "2.4",
+        "Origem:": "Importado - Alemanha",
+        "Detalhes:": "Van, 3 portas, 12 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Compressor",
+        "Alimentação:": "Injeção indireta",
+        "Cilindrada:": "2.370 cc",
+        "Cilindros:": "5, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Diesel",
+        "Potência em CV:": "75 @ 3.700 rpm",
+        "Torque em kgfm:": "16,3 @ 1.900 rpm",
+        "Taxa de compressão:": "não disponível",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "22 s",
+        "Velocidade máxima:": "136 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,2",
+        "Estrada em km/l:": "13",
+        "Autonomia em km:": "1.040"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/65/R15",
+        "Traseira:": "205/65/R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.107 mm",
+        "Altura:": "1.940 mm",
+        "Largura:": "1.840 mm",
+        "Entre eixos:": "3.320 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.822 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "1.070 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

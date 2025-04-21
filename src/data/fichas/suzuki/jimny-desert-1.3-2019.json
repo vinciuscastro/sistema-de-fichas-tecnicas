@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Jimny-Desert.jpg",
+    "NOME": "jimny-desert-1.3-2019",
+    "ANO": "2019",
+    "MARCA": "suzuki",
+    "MODELO": "jimny",
+    "ESPECIFICACAO": {
+        "Marca:": "Suzuki",
+        "Modelo:": "Jimny",
+        "Versão:": "Desert 1.3",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Nacional, jipe, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Naturaç",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.324 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "85 cv @ 6.000 rpm",
+        "Torque:": "11,2 kgfm @ 4.100 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "M13A"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15,1 s",
+        "Velocidade máxima:": "146 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,5 km/l",
+        "Rodoviário:": "10,7 km/l",
+        "Autonomia:": "428 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "9,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/70 R15",
+        "Traseira:": "205/70 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.645 mm",
+        "Altura:": "1.705 mm",
+        "Largura:": "1.600 mm",
+        "Entre-eixos:": "2.250 mm",
+        "Bitola dianteira:": "1.355 mm",
+        "Bitola traseira:": "1.365 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.090 kg",
+        "Porta-malas:": "113 litros",
+        "Carga útil:": "330 kg",
+        "Tanque combustível:": "40 litros"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Nissan-Quest.jpg",
+    "NOME": "quest-gxe-3.0-v6-1995",
+    "ANO": "1995",
+    "MARCA": "nissan",
+    "MODELO": "quest",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Quest",
+        "Versão:": "GXE 3.0 V6",
+        "Origem:": "Importado",
+        "Detalhes:": "Minivan, 3 portas, 7 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.960 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "153 @ 4.800 rpm",
+        "Torque em kgfm:": "24,5 @ 4.400 rpm",
+        "Taxa de compressão:": "9:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,7 s",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,9",
+        "Estrada em km/l:": "7,5",
+        "Autonomia em km:": "570"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/70/R15",
+        "Traseira:": "215/70/R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,73 m",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.824 mm",
+        "Altura:": "1.717 mm",
+        "Largura:": "1.872 mm",
+        "Entre eixos:": "2.850 mm",
+        "Bitola dianteira:": "1.610 mm",
+        "Bitola traseira:": "1.610 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.798 kg",
+        "Porta-malas:": "400 litros (5 lugares) / 120 litros (7 lugares)",
+        "Carga útil:": "630 kg",
+        "Tanque combustível:": "76 litros"
+    }
+}

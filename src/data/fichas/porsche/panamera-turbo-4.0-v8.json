@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Panamera-Turbo.jpg",
+    "NOME": "panamera-turbo-4.0-v8",
+    "ANO": "V8",
+    "MARCA": "porsche",
+    "MODELO": "panamera",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Panamera",
+        "Versão:": "Turbo 4.0 V8",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, sedan, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "3.996 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "550 cv @ 5.750 rpm",
+        "Torque:": "78,5 kgfm @ 1.960 rpm",
+        "Taxa de compressão:": "10,1:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,6 s",
+        "Velocidade máxima:": "306 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "km/l",
+        "Rodoviário:": "8 km/l",
+        "Autonomia:": "720 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "275/40 R20",
+        "Traseiros:": "315/35 R20"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.049 mm",
+        "Altura:": "1.427 mm",
+        "Largura:": "1.937 mm",
+        "Entre-eixos:": "2.950 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.995 kg",
+        "Porta-malas:": "495 litros",
+        "Carga útil:": "590 kg",
+        "Tanque combustível:": "90 litros"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-Belina-Scala.jpg",
+    "NOME": "belina-scala-1.6-1984",
+    "ANO": "1984",
+    "MARCA": "ford",
+    "MODELO": "belina",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Belina",
+        "Versão:": "Scala 1.6 1984",
+        "Combustível:": "Álcool",
+        "Origem:": "Nacional",
+        "Categoria:": "Perua",
+        "Portas:": "2",
+        "Ocupantes:": "5 lugares",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.555 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no bloco, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "73 @ 5.200 rpm",
+        "Torque máximo em kgfm:": "11,9 @ 3.600 rpm",
+        "Potência específica:": "46,9 cv/litro",
+        "Torque específico:": "7,7 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "14,4 kg/cv",
+        "Rel. peso/torque:": "88,2 kg/kgfm",
+        "Curso dos pistões:": "83,5 mm",
+        "Diâmetro dos cilindros:": "77 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "CHT"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "19 seg",
+        "Velocidade máxima:": "148 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "11,8",
+        "Autonomia em km:": "743"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "sem assistência",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70 R13",
+        "Traseira:": "185/70 R13",
+        "Altura do flanco:": "130 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.488 mm",
+        "Altura:": "1.351 mm",
+        "Largura:": "1.659 mm",
+        "Entre eixos:": "2.438 mm",
+        "Bitola dianteira:": "1.361 mm",
+        "Bitola traseira:": "1.349 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.050 kg",
+        "Porta-malas:": "569 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

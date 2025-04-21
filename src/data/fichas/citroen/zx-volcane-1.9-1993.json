@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Citroen-ZX.jpg",
+    "NOME": "zx-volcane-1.9-1993",
+    "ANO": "1993",
+    "MARCA": "citroen",
+    "MODELO": "zx",
+    "ESPECIFICACAO": {
+        "Origem:": "Importado - França",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica monoponto",
+        "Cilindrada:": "1.905 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "130 @ 6.000 rpm",
+        "Torque em kgfm:": "16,4 @ 4.750 rpm",
+        "Taxa de compressão:": "9,6:1",
+        "Código do motor:": "XU9JA"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "BE3/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,4 seg",
+        "Velocidade máxima:": "201 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "594"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60/ R14",
+        "Traseira:": "185/60/ R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,01 m²",
+        "Coef. aerodinâmico:": "0,32 CX"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.085 mm",
+        "Altura:": "1.386 mm",
+        "Largura:": "1.707 mm",
+        "Entre eixos:": "2.540 mm",
+        "Bitola dianteira:": "1.415 mm",
+        "Bitola traseira:": "1.405 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.151 kg",
+        "Porta-malas:": "345 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "54 litros"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/novembro/bmw-i3.jpg",
+    "NOME": "i3-unique-forever-2022",
+    "ANO": "2022",
+    "MARCA": "bmw",
+    "MODELO": "i3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "I3",
+        "Versão:": "Unique Forever 2022",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "335 km",
+        "Capacidade da bateria:": "42,2 kWh",
+        "Potência:": "170 cv (traseiro)",
+        "Torque:": "25,5 kgfm (traseiro)",
+        "Peso/potência:": "7,32 kg/cv",
+        "Peso/torque:": "48,82 kg/kgfm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "155/60 R20",
+        "Traseira:": "175/55 R20",
+        "Altura do flanco:": "96 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,38 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.011 mm",
+        "Altura:": "1.598 mm",
+        "Largura:": "1.775 mm",
+        "Entre eixos:": "2.570 mm",
+        "Bitola dianteira:": "1.571 mm",
+        "Bitola traseira:": "1.556 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.245 kg",
+        "Porta-malas:": "260 litros",
+        "Carga útil:": "425 kg"
+    }
+}

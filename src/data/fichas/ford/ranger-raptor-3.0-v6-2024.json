@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/ford-ranger-raptor-2024.jpg",
+    "NOME": "ranger-raptor-3.0-v6-2024",
+    "ANO": "2024",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "Raptor 3.0 V6 2024",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.956 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima em CV:": "397 @ 6.250 rpm",
+        "Torque máximo em kgfm:": "59,4 @ 3.500 rpm",
+        "Potência específica:": "134,3 cv/litro",
+        "Torque específico:": "20,1 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "6,5 kg/cv",
+        "Rel. peso/torque:": "40,4 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "85,4 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EcoBoost"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "10",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "10R60"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,8 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,3",
+        "Estrada em km/l:": "10,2",
+        "Autonomia em km:": "836"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco Ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "285/70 R17",
+        "Traseira:": "285/70 R17",
+        "Altura do flanco:": "200 mm",
+        "Estepe:": "285/70 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.360 mm",
+        "Altura:": "1.926 mm",
+        "Largura:": "2.028 mm",
+        "Entre eixos:": "3.270 mm",
+        "Bitola dianteira:": "1.710 mm",
+        "Bitola traseira:": "1.710 mm",
+        "Vão livre do solo:": "272 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.400 kg",
+        "Caçamba:": "1.250 litros",
+        "Carga útil:": "736 kg",
+        "Tanque combustível:": "82 litros"
+    }
+}

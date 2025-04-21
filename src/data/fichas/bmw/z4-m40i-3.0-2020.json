@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Marco/Z4_M40.jpg",
+    "NOME": "z4-m40i-3.0-2020",
+    "ANO": "2020",
+    "MARCA": "bmw",
+    "MODELO": "z4",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "Z4",
+        "Versão:": "M40i 3.0",
+        "Ano fabricação:": "2020",
+        "Detalhes:": "Importado, conversível, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.998 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência máxima:": "340 cv @ 5.000 rpm",
+        "Torque máximo:": "51 kgfm @ 1.600 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B58B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,5 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,5 km/l",
+        "Rodoviário:": "11 km/l",
+        "Autonomia:": "572 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Independente, multibraço, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/35 R19",
+        "Traseira:": "275/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,07 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.324 mm",
+        "Altura:": "1.304 mm",
+        "Largura:": "1.864 mm",
+        "Entre eixos:": "2.470 mm",
+        "Bitola dianteira:": "1.594 mm",
+        "Bitola traseira:": "1.589 mm",
+        "Vão livre do solo:": "114 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.535 kg",
+        "Porta-malas:": "não disponível",
+        "Carga útil:": "325 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

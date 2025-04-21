@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/janeiro/citroen-c3-2023.jpg",
+    "NOME": "c3-live-1.0-2024",
+    "ANO": "2024",
+    "MARCA": "citroen",
+    "MODELO": "c3",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "C3",
+        "Versão:": "Live 1.0 2024",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote, correia dentada",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima em CV:": "75 (E) / 71 (G) @ 6.000 rpm",
+        "Torque máximo em kgfm:": "10,7 (E) / 10 (G) @ 3.250 rpm",
+        "Potência específica:": "75,1 cv/litro",
+        "Torque específico:": "10,7 kgfm/litro",
+        "Taxa de compressão:": "13,2:1",
+        "Rel. peso/potência:": "13,8 kg/cv",
+        "Rel. peso/torque:": "96,9 kg/kgfm",
+        "Curso dos pistões:": "86,5 mm",
+        "Diâmetro dos cilindros:": "70 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Firefly"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C513"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,1 seg",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,5 (E) / 13,2 (G)",
+        "Estrada em km/l:": "10,3 (E) / 14,5 (G)",
+        "Autonomia em km:": "484 (E) / 682 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15",
+        "Altura do flanco:": "127 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.981 mm",
+        "Altura:": "1.586 mm",
+        "Largura:": "1.733 mm",
+        "Entre eixos:": "2.540 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "180 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.037 kg",
+        "Porta-malas:": "315 litros",
+        "Carga útil:": "429 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-Mondeo-Hatch.png",
+    "NOME": "mondeo-clx-hatch-1.8-1996",
+    "ANO": "1996",
+    "MARCA": "ford",
+    "MODELO": "mondeo",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Mondeo Hatch",
+        "Versão:": "CLX 1.8 1996",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "115 @ 5.750 rpm",
+        "Torque máx. (kgfm):": "16,1 @ 3.750 rpm",
+        "Potência específica:": "64 cv/litro",
+        "Torque específico:": "9 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "11 kg/cv",
+        "Rel. peso/torque:": "78,3 kg/kgfm",
+        "Curso dos pistões:": "88 mm",
+        "Diâmetro dos cilindros:": "80,6 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "Zetec"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MTX-75"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 seg",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,4",
+        "Estrada em km/l:": "12,8",
+        "Autonomia em km:": "781"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Altura do flanco:": "120 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,11 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.481 mm",
+        "Altura:": "1.424 mm",
+        "Largura:": "1.747 mm",
+        "Entre eixos:": "2.704 mm",
+        "Bitola dianteira:": "1.503 mm",
+        "Bitola traseira:": "1.487 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.260 kg",
+        "Porta-malas:": "470 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "61 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Astra_99.jpg",
+    "NOME": "astra-gl-1.8-1999",
+    "ANO": "1999",
+    "MARCA": "chevrolet",
+    "MODELO": "astra",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Astra",
+        "Versão:": "GL 1.8",
+        "Ano fabricação:": "1999",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "110 cv @ 5.400 rpm",
+        "Torque:": "15,8 kgfm @ 2.600 rpm",
+        "Taxa de compressão:": "9,2:1",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,6 s",
+        "Velocidade máxima:": "186 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,4 km/l",
+        "Rodoviário:": "14,2 km/l",
+        "Autonomia:": "738 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Eixo de torção, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,93 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.111 mm",
+        "Altura:": "1.431 mm",
+        "Largura:": "1.709 mm",
+        "Entre eixos:": "2.614 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "170 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.120 kg",
+        "Porta-malas:": "370 litros",
+        "Carga útil:": "495 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

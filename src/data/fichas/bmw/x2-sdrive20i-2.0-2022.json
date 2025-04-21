@@ -1,0 +1,82 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Setembro/BMW-X2-sDrive-2022.jpg",
+    "NOME": "x2-sdrive20i-2.0-2022",
+    "ANO": "2022",
+    "MARCA": "bmw",
+    "MODELO": "x2",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X2",
+        "Versão:": "sDrive20i 2.0",
+        "Combustível:": "Flex",
+        "Origem:": "Nacional",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência em CV:": "192 @ 5.000 rpm",
+        "Torque em kgfm:": "28,5 @ 1.500 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B48A20M0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin AWF835"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,7 seg",
+        "Velocidade máxima:": "225 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,8 (eta) / 10,4 (gas)",
+        "Estrada em km/l:": "8,8 (eta) / 13,1 (gas)",
+        "Autonomia em km:": "449 (eta) / 668 (gas)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R18",
+        "Traseira:": "225/50 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,37 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.360 mm",
+        "Altura:": "1.543 mm",
+        "Largura:": "1.824 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.563 mm",
+        "Bitola traseira:": "1.562 mm",
+        "Vão livre do solo:": "182 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.460 kg",
+        "Porta-malas:": "370 litros",
+        "Carga útil:": "595 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

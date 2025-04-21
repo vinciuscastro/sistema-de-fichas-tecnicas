@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/byd-han-ev-2022.jpg",
+    "NOME": "han-ev-2022",
+    "ANO": "2022",
+    "MARCA": "byd",
+    "MODELO": "han",
+    "ESPECIFICACAO": {
+        "Marca:": "Byd",
+        "Modelo:": "Han",
+        "Versão:": "EV 2022",
+        "Combustível:": "Elétrico",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Potência:": "272 cv (traseiro)",
+        "Potência combinada:": "494 cv",
+        "Torque:": "35,7 kgfm (traseiro)",
+        "Torque combinado:": "69,3 kgfm (traseiro)",
+        "Peso/potência:": "4,39 kg/cv",
+        "Peso/torque:": "31,31 kg/kgfm",
+        "Autonomia:": "500 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Integral sob demanda"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,9 seg",
+        "Velocidade máxima:": "186 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R19",
+        "Traseira:": "245/45 R19",
+        "Estepe:": "Kit de reparo e encimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,43 m²",
+        "Coef. aerodinâmico:": "0,23 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.980 mm",
+        "Altura:": "1.495 mm",
+        "Largura:": "1.910 mm",
+        "Entre eixos:": "2.920 mm",
+        "Bitola dianteira:": "1.640 mm",
+        "Bitola traseira:": "1.640 mm",
+        "Vão livre do solo:": "125 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.170 kg",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "não disponível"
+    }
+}

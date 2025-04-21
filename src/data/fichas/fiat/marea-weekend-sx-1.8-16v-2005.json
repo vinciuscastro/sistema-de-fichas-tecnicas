@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Fiat-Marea-Weekend-01.jpg",
+    "NOME": "marea-weekend-sx-1.8-16v-2005",
+    "ANO": "2005",
+    "MARCA": "fiat",
+    "MODELO": "marea",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Marea Weekend",
+        "Versão:": "SX 1.8 16V 2005",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Perua",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.747 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima CV:": "132 @ 6.500 rpm",
+        "Torque máximo kgfm:": "16,7 @ 4.000 rpm",
+        "Potência específica:": "75,6 cv/litro",
+        "Torque específico:": "9,6 kgfm/litro",
+        "Taxa de compressão:": "10,3:1",
+        "Rel. peso/potência:": "10,2 kg/cv",
+        "Rel. peso/torque:": "80,8 kg/kgfm",
+        "Curso dos pistões:": "82,7 mm",
+        "Diâmetro cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "VFD"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a aseco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C510"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10 seg",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,2",
+        "Estrada em km/l:": "9,6",
+        "Autonomia em km:": "605"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R15",
+        "Traseira:": "195/60 R15",
+        "Altura do flanco:": "117 mm",
+        "Estepe:": "195/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,12 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.490 mm",
+        "Altura:": "1.535 mm",
+        "Largura:": "1.741 mm",
+        "Entre-eixos:": "2.540 mm",
+        "Bitola dianteira:": "1.475 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.350 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

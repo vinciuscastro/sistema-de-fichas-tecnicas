@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Agosto/A200.jpg",
+    "NOME": "a200-amg-line-1.3-2024",
+    "ANO": "2024",
+    "MARCA": "mercedes-benz",
+    "MODELO": "a200",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "A200",
+        "Versão:": "AMG Line 1.3 2024",
+        "Combustível:": "Híbrido leve - Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.332 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "163 @ 5.000 rpm",
+        "Torque máximo (kgfm):": "27,5 @ 2.000 rpm",
+        "Potência específica:": "122,4 cv/litro",
+        "Torque específico:": "20,6 kgfm/litro",
+        "Taxa de compressão:": "10,6:1",
+        "Rel. peso/potência:": "8,83 kg/cv",
+        "Rel. peso/torque:": "52,4 kg/kgfm",
+        "Curso dos pistões:": "81,4 mm",
+        "Diâmetro dos cilindros:": "72,2 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M282DE14"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "7G-DCT"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,2 seg",
+        "Velocidade máxima:": "225 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "12,3",
+        "Estrada em km/l:": "14,4",
+        "Autonomia em km:": "619"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R18",
+        "Traseira:": "225/45 R18",
+        "Altura do flanco:": "101 mm",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,19 m²",
+        "Coef. aerodinâmico:": "0,26 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.428 mm",
+        "Altura:": "1.440 mm",
+        "Largura:": "1.796 mm",
+        "Entre-eixos:": "2.729 mm",
+        "Bitola dianteira:": "1.567 mm",
+        "Bitola traseira:": "1.558 mm",
+        "Vão livre do solo:": "91 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.440 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "350 kg",
+        "Tanque combustível:": "43 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Marco/RX350F.jpg",
+    "NOME": "rx350-f-sport-3.6-v6-2019",
+    "ANO": "2019",
+    "MARCA": "lexus",
+    "MODELO": "rx350",
+    "ESPECIFICACAO": {
+        "Marca:": "Lexus",
+        "Modelo:": "RX350",
+        "Versão:": "F-Sport 3.5 V6",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "3.456 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "Duplo no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência combinada:": "305 cv @ 6.300 rpm",
+        "Torque combinado:": "38 kgfm @ 4.700 rpm",
+        "Taxa de compressão:": "11,8:1",
+        "Código do motor:": "2GR-FE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,4 s",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,9 km/l",
+        "Rodoviário:": "9,4 km/l",
+        "Autonomia:": "676 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, mola helicoidal",
+        "Traseira:": "Independente, multibraço, mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/55 R20",
+        "Traseira:": "235/55 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,75 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.890 mm",
+        "Altura:": "1.710 mm",
+        "Largura:": "1.895 mm",
+        "Entre eixos:": "2.790 mm",
+        "Bitola dianteira:": "1.635 mm",
+        "Bitola traseira:": "1.625 mm",
+        "Vão livre do solo:": "194 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.990 kg",
+        "Porta-malas:": "521 litros",
+        "Carga útil:": "750 kg",
+        "Tanque combustível:": "72 litros"
+    }
+}

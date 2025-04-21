@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chery-Face.jpg",
+    "NOME": "face-1.3-2010",
+    "ANO": "2010",
+    "MARCA": "chery",
+    "MODELO": "face",
+    "ESPECIFICACAO": {
+        "Marca:": "Chery",
+        "Modelo:": "Face",
+        "Versão:": "1.3",
+        "Ano/modelo:": "2010",
+        "Detalhes:": "Importado, hatch, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.297 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "84 cv @ 5.750 rpm",
+        "Torque:": "11,4 kgfm @ 3.500 rpm",
+        "Taxa de compressão:": "10,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16 s",
+        "Velocidade máxima:": "156 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "11 km/l",
+        "Rodoviário:": "14,5 km/l",
+        "Autonomia:": "652 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "9,5 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.700 mm",
+        "Altura:": "1.564 mm",
+        "Largura:": "1.578 mm",
+        "Entre-eixos:": "2.390 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.040 kg",
+        "Porta-malas:": "190 litros",
+        "Carga útil:": "375 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

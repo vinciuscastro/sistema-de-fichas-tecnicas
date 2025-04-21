@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Junho/Wind_94.jpg",
+    "NOME": "corsa-wind-1.0-1995",
+    "ANO": "1995",
+    "MARCA": "chevrolet",
+    "MODELO": "corsa",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Corsa",
+        "Versão:": "Wind 1.0",
+        "Ano fabricação:": "1995",
+        "Detalhes:": "Nacional, hatch, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção monoponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "50 cv @ 5.800 rpm",
+        "Torque:": "7,8 kgfm @ 3.200 rpm",
+        "Taxa de compressão:": "9,2:1",
+        "Código do motor:": "GM Família I"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "19,3 s",
+        "Velocidade máxima:": "143 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "13,1 km/l",
+        "Rodoviário:": "14,4 km/l",
+        "Autonomia:": "662 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Eixo de torção, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "10,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "145/80 R13",
+        "Traseira:": "145/80 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,90 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.729 mm",
+        "Altura:": "1.388 mm",
+        "Largura:": "1.608 mm",
+        "Entre eixos:": "2.443 mm",
+        "Bitola dianteira:": "1.387 mm",
+        "Bitola traseira:": "1.388 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "845 kg",
+        "Porta-malas:": "240 litros",
+        "Carga útil:": "475 litros",
+        "Tanque combustível:": "46 litros"
+    }
+}

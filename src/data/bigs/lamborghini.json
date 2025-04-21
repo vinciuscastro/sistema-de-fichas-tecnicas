@@ -1,0 +1,3263 @@
+{
+    "marca": "lamborghini",
+    "modelos": {
+        "revuelto-6.5-v12-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2024/janeiro/lamborghini-revuelto-2024.jpg",
+            "NOME": "revuelto-6.5-v12-2024",
+            "ANO": "2024",
+            "MARCA": "lamborghini",
+            "MODELO": "revuelto",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Revuelto",
+                "Versão:": "6.5 V12 2024",
+                "Combustível:": "Híbrido plug-in - gasolina/eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "825 @ 9.500 rpm",
+                "Torque em kgfm:": "73,9 @ 6.750 rpm",
+                "Potência específica:": "127 cv/litro",
+                "Torque específico:": "11,4 kgfm/litro",
+                "Taxa de compressão:": "12,6:1",
+                "Relação peso/potência:": "2,15 kg/cv",
+                "Relação peso/torque:": "24 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível",
+                "Potência:": "150 cv (traseiro)",
+                "Torque:": "15,3 kgfm (traseiro)",
+                "Potência combinada:": "1015 cv",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "3,8 kWh",
+                "Autonomia elétrica:": "10 km"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "8",
+                "Acoplamento:": "Embreagem dupla banhada a óleo",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "AMT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,5 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "595"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/35 R20",
+                "Traseira:": "345/30 R21",
+                "Altura do flanco:": "104 mm",
+                "Estepe:": "Kit de reparo e enchimento"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.947 mm",
+                "Altura:": "1.160 mm",
+                "Largura:": "2.033 mm",
+                "Entre eixos:": "2.779 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.701 mm",
+                "Vão livre do solo:": "120 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.772 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "urus-lp-650-4-4.0-v8-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Urus.jpg",
+            "NOME": "urus-lp-650-4-4.0-v8-2023",
+            "ANO": "2023",
+            "MARCA": "lamborghini",
+            "MODELO": "urus",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Urus",
+                "Versão:": "LP 650-4 4.0 V8 2023",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.996 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo Admissão e escape",
+                "Potência máxima em CV:": "650 @ 6.000 rpm",
+                "Torque máximo em kgfm:": "86,7 @ 2.250 rpm",
+                "Potência específica:": "162,7 cv/litro",
+                "Torque específico:": "21,7 kgfm/litro",
+                "Taxa de compressão:": "9:1",
+                "Rel. peso/potência:": "3,38 kg/cv",
+                "Rel. peso/torque:": "25,4 kg/kgfm",
+                "Curso dos pistões:": "86 mm",
+                "Diâmetro dos cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "EA825"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,6 seg",
+                "Velocidade máxima:": "305 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "7,5",
+                "Autonomia em km:": "638"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/45 R21",
+                "Traseira:": "315/40 R21",
+                "Altura do flanco:": "126 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.112 mm",
+                "Altura:": "1.638 mm",
+                "Largura:": "2.016 mm",
+                "Entre eixos:": "3.003 mm",
+                "Bitola dianteira:": "1.695 mm",
+                "Bitola traseira:": "1.710 mm",
+                "Vão livre do solo:": "248 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "616 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "urus-lp-650-4-4.0-v8-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Urus.jpg",
+            "NOME": "urus-lp-650-4-4.0-v8-2022",
+            "ANO": "2022",
+            "MARCA": "lamborghini",
+            "MODELO": "urus",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Urus",
+                "Versão:": "LP 650-4 4.0 V8 2022",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.996 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo Admissão e escape",
+                "Potência máxima em CV:": "650 @ 6.000 rpm",
+                "Torque máximo em kgfm:": "86,7 @ 2.250 rpm",
+                "Potência específica:": "162,7 cv/litro",
+                "Torque específico:": "21,7 kgfm/litro",
+                "Taxa de compressão:": "9:1",
+                "Rel. peso/potência:": "3,4 kg/cv",
+                "Rel. peso/torque:": "25,4 kg/kgfm",
+                "Curso dos pistões:": "86 mm",
+                "Diâmetro dos cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "EA825"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,6 seg",
+                "Velocidade máxima:": "305 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "7,5",
+                "Autonomia em km:": "638"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/45 R21",
+                "Traseira:": "315/40 R21",
+                "Altura do flanco:": "126 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.112 mm",
+                "Altura:": "1.638 mm",
+                "Largura:": "2.016 mm",
+                "Entre eixos:": "3.003 mm",
+                "Bitola dianteira:": "1.695 mm",
+                "Bitola traseira:": "1.710 mm",
+                "Vão livre do solo:": "248 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "616 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "urus-lp-650-4-4.0-v8-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Urus.jpg",
+            "NOME": "urus-lp-650-4-4.0-v8-2021",
+            "ANO": "2021",
+            "MARCA": "lamborghini",
+            "MODELO": "urus",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Urus",
+                "Versão:": "LP 650-4 4.0 V8 2021",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.996 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Admissão e escape",
+                "Potência máxima em CV:": "650 @ 6.000 rpm",
+                "Torque máximo em kgfm:": "86,7 @ 2.250 rpm",
+                "Potência específica:": "162,7 cv/litro",
+                "Torque específico:": "21,7 kgfm/litro",
+                "Taxa de compressão:": "9:1",
+                "Rel. peso/potência:": "3,4 kg/cv",
+                "Rel. peso/torque:": "25,4 kg/kgfm",
+                "Curso dos pistões:": "86 mm",
+                "Diâmetro dos cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "EA825"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,6 seg",
+                "Velocidade máxima:": "305 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "7,5",
+                "Autonomia em km:": "638"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/45 R21",
+                "Traseira:": "315/40 R21",
+                "Altura do flanco:": "126 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.112 mm",
+                "Altura:": "1.638 mm",
+                "Largura:": "2.016 mm",
+                "Entre eixos:": "3.003 mm",
+                "Bitola dianteira:": "1.695 mm",
+                "Bitola traseira:": "1.710 mm",
+                "Vão livre do solo:": "248 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "616 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "huracan-spyder-evo-lp-640-4-5.2-v10-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/lamborghini-huracan-evo-spyder.jpg",
+            "NOME": "huracan-spyder-evo-lp-640-4-5.2-v10-2022",
+            "ANO": "2022",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan Spyder",
+                "Versão:": "Evo LP 640-4 5.2 V10 2022",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Conversível",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "61,2 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,4 kg/cv",
+                "Rel. peso/torque:": "25,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,1 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,8",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "564"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.520 mm",
+                "Altura:": "1.180 mm",
+                "Largura:": "1.933 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.542 kg",
+                "Porta-malas:": "100 litros",
+                "Carga útil:": "360 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-spyder-evo-lp-640-4-5.2-v10-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/lamborghini-huracan-evo-spyder.jpg",
+            "NOME": "huracan-spyder-evo-lp-640-4-5.2-v10-2021",
+            "ANO": "2021",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan Spyder",
+                "Versão:": "Evo LP 640-4 5.2 V10 2021",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Conversível",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "61,2 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,4 kg/cv",
+                "Rel. peso/torque:": "25,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,1 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,8",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "564"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.520 mm",
+                "Altura:": "1.180 mm",
+                "Largura:": "1.933 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.542 kg",
+                "Porta-malas:": "100 litros",
+                "Carga útil:": "360 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-spyder-evo-lp-640-4-5.2-v10-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/lamborghini-huracan-evo-spyder.jpg",
+            "NOME": "huracan-spyder-evo-lp-640-4-5.2-v10-2020",
+            "ANO": "2020",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan Spyder",
+                "Versão:": "Evo LP 640-4 5.2 V10 2020",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Conversível",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "61,2 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,4 kg/cv",
+                "Rel. peso/torque:": "25,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,1 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,8",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "564"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.520 mm",
+                "Altura:": "1.180 mm",
+                "Largura:": "1.933 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.542 kg",
+                "Porta-malas:": "100 litros",
+                "Carga útil:": "360 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-sto-5.2-v10-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/lamborghini-huracan-sto.jpg",
+            "NOME": "huracan-sto-5.2-v10-2022",
+            "ANO": "2022",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "STO 5.2 V10 2022",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "57,6 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,1 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,1 kg/cv",
+                "Rel. peso/torque:": "23,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3 seg",
+                "Velocidade máxima:": "310 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,8",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "544"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.547 mm",
+                "Altura:": "1.220 mm",
+                "Largura:": "1.945 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.688 mm",
+                "Bitola traseira:": "1.647 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.339 kg",
+                "Porta-malas:": "100 litros",
+                "Carga útil:": "480 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "huracan-evo-lp-640-4-5.2-v10-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/lamborghini-huracan-evo.jpg",
+            "NOME": "huracan-evo-lp-640-4-5.2-v10-2022",
+            "ANO": "2022",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "Evo LP 640-4 5.2 V10 2022",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "61,2 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,2 kg/cv",
+                "Rel. peso/torque:": "23,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,8",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "564"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.520 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.933 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.422 kg",
+                "Porta-malas:": "100 litros",
+                "Carga útil:": "480 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-evo-lp-640-4-5.2-v10-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/lamborghini-huracan-evo.jpg",
+            "NOME": "huracan-evo-lp-640-4-5.2-v10-2021",
+            "ANO": "2021",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "Evo LP 640-4 5.2 V10 2021",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "61,2 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,2 kg/cv",
+                "Rel. peso/torque:": "23,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,8",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "564"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.520 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.933 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.422 kg",
+                "Porta-malas:": "100 litros",
+                "Carga útil:": "480 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-evo-lp-640-4-5.2-v10-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/lamborghini-huracan-evo.jpg",
+            "NOME": "huracan-evo-lp-640-4-5.2-v10-2020",
+            "ANO": "2020",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "Evo LP 640-4 5.2 V10 2020",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "61,2 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,2 kg/cv",
+                "Rel. peso/torque:": "23,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,8",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "564"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.520 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.933 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.422 kg",
+                "Porta-malas:": "100 litros",
+                "Carga útil:": "480 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-performante-5.2-v10-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Huracan-Performante.jpg",
+            "NOME": "huracan-performante-5.2-v10-2019",
+            "ANO": "2019",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "Performante 5.2 V10 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "640 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "61,1 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,2 kg/cv",
+                "Rel. peso/torque:": "22,6 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,5",
+                "Estrada em km/l:": "7,3",
+                "Autonomia em km:": "606"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.506 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.924 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.382 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "520 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-lp-580-2-5.2-v10-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Huracan18.jpg",
+            "NOME": "huracan-lp-580-2-5.2-v10-2019",
+            "ANO": "2019",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "LP 580-2 5.2 V10 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Admissão",
+                "Potência máxima em CV:": "580 @ 8.000 rpm",
+                "Torque máximo em kgfm:": "55,1 @ 6.500 rpm",
+                "Potência específica:": "111,5 cv/litro",
+                "Torque específico:": "10,6 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,4 kg/cv",
+                "Rel. peso/torque:": "25,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,4 seg",
+                "Velocidade máxima:": "320 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,4",
+                "Estrada em km/l:": "6,9",
+                "Autonomia em km:": "573"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/35 R19",
+                "Traseira:": "305/35 R19",
+                "Altura do flanco:": "107 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.459 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.924 mm",
+                "Entre eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.389 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "aventador-svj-770-4-6.5-v12-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Julho/Lamborghini-Aventador.jpg",
+            "NOME": "aventador-svj-770-4-6.5-v12-2022",
+            "ANO": "2022",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador",
+                "Versão:": "770-4 6.5 V12 2022",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "770 @ 8.500 rpm",
+                "Torque máximo (kgfm):": "73,4 @ 6.750 rpm",
+                "Potência específica:": "118,6 cv/litro",
+                "Torque específico:": "11,3 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2 kg/cv",
+                "Rel. peso/torque:": "20,8 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,8 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,3",
+                "Estrada em km/l:": "6,5",
+                "Autonomia em km:": "553"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/30 R20",
+                "Traseira:": "355/25 R21",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,96 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.797 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.030 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.680 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.525 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "aventador-svj-770-4-6.5-v12-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Julho/Lamborghini-Aventador.jpg",
+            "NOME": "aventador-svj-770-4-6.5-v12-2021",
+            "ANO": "2021",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador",
+                "Versão:": "770-4 6.5 V12 2021",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "770 @ 8.500 rpm",
+                "Torque máximo (kgfm):": "73,4 @ 6.750 rpm",
+                "Potência específica:": "118,6 cv/litro",
+                "Torque específico:": "11,3 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2 kg/cv",
+                "Rel. peso/torque:": "20,8 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,8 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,3",
+                "Estrada em km/l:": "6,5",
+                "Autonomia em km:": "553"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/30 R20",
+                "Traseira:": "355/25 R21",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,96 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.797 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.030 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.680 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.525 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "aventador-svj-770-4-6.5-v12-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Julho/Lamborghini-Aventador.jpg",
+            "NOME": "aventador-svj-770-4-6.5-v12-2020",
+            "ANO": "2020",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador",
+                "Versão:": "770-4 6.5 V12 2020",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "770 @ 8.500 rpm",
+                "Torque máximo (kgfm):": "73,4 @ 6.750 rpm",
+                "Potência específica:": "118,6 cv/litro",
+                "Torque específico:": "11,3 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2 kg/cv",
+                "Rel. peso/torque:": "20,8 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,8 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,3",
+                "Estrada em km/l:": "6,5",
+                "Autonomia em km:": "553"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/30 R20",
+                "Traseira:": "355/25 R21",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,96 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.797 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.030 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.680 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.525 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "aventador-svj-770-4-6.5-v12-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Julho/Lamborghini-Aventador.jpg",
+            "NOME": "aventador-svj-770-4-6.5-v12-2019",
+            "ANO": "2019",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador",
+                "Versão:": "770-4 6.5 V12 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "770 @ 8.500 rpm",
+                "Torque máximo (kgfm):": "73,4 @ 6.750 rpm",
+                "Potência específica:": "118,6 cv/litro",
+                "Torque específico:": "11,3 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2 kg/cv",
+                "Rel. peso/torque:": "20,8 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,8 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,3",
+                "Estrada em km/l:": "6,5",
+                "Autonomia em km:": "553"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/30 R20",
+                "Traseira:": "355/25 R21",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,96 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.797 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.030 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.680 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.525 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "aventador-s-lp-740-4-6.5-v12-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Aventador-S.jpg",
+            "NOME": "aventador-s-lp-740-4-6.5-v12-2019",
+            "ANO": "2019",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador",
+                "Versão:": "S LP 740-4 6.5 V12 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "740 @ 8.400 rpm",
+                "Torque máximo (kgfm):": "70,4 @ 5.500 rpm",
+                "Potência específica:": "113,9 cv/litro",
+                "Torque específico:": "10,8 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2,1 kg/cv",
+                "Rel. peso/torque:": "22,4 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,5",
+                "Estrada em km/l:": "7,6",
+                "Autonomia em km:": "646"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/30 R20",
+                "Traseira:": "355/25 R21",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,96 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.797 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.030 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.680 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.575 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "450 kg",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "urus-lp-650-4-4.0-v8-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Urus.jpg",
+            "NOME": "urus-lp-650-4-4.0-v8-2020",
+            "ANO": "2020",
+            "MARCA": "lamborghini",
+            "MODELO": "urus",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Urus",
+                "Versão:": "LP 650-4 4.0 V8 2020",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.996 cc",
+                "Cilindros:": "4, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência máxima (cv):": "650 @ 6.000 rpm",
+                "Torque máximo (kgfm):": "86,7 @ 2.250 rpm",
+                "Potência específica:": "162,7 cv/litro",
+                "Torque específico:": "21,7 kgfm/litro",
+                "Taxa de compressão:": "9:1",
+                "Rel. peso/potência:": "3,4 kg/cv",
+                "Rel. peso/torque:": "25,4 kg/kgfm",
+                "Curso dos pistões:": "86 mm",
+                "Diâmetro dos cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "EA825"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,6 seg",
+                "Velocidade máxima:": "305 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "578"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/45 R21",
+                "Traseira:": "315/40 R21",
+                "Altura do flanco:": "126 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.112 mm",
+                "Altura:": "1.638 mm",
+                "Largura:": "2.016 mm",
+                "Entre-eixos:": "3.003 mm",
+                "Bitola dianteira:": "1.695 mm",
+                "Bitola traseira:": "1.710 mm",
+                "Vão livre do solo:": "248 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "616 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "urus-lp-650-4-4.0-v8-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Urus.jpg",
+            "NOME": "urus-lp-650-4-4.0-v8-2019",
+            "ANO": "2019",
+            "MARCA": "lamborghini",
+            "MODELO": "urus",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Urus",
+                "Versão:": "LP 650-4 4.0 V8 2019",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.996 cc",
+                "Cilindros:": "4, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência máxima (cv):": "650 @ 6.000 rpm",
+                "Torque máximo (kgfm):": "86,7 @ 2.250 rpm",
+                "Potência específica:": "162,7 cv/litro",
+                "Torque específico:": "21,7 kgfm/litro",
+                "Taxa de compressão:": "9:1",
+                "Rel. peso/potência:": "3,4 kg/cv",
+                "Rel. peso/torque:": "25,4 kg/kgfm",
+                "Curso dos pistões:": "86 mm",
+                "Diâmetro dos cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "EA825"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,6 seg",
+                "Velocidade máxima:": "305 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "578"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/45 R21",
+                "Traseira:": "315/40 R21",
+                "Altura do flanco:": "126 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.112 mm",
+                "Altura:": "1.638 mm",
+                "Largura:": "2.016 mm",
+                "Entre-eixos:": "3.003 mm",
+                "Bitola dianteira:": "1.695 mm",
+                "Bitola traseira:": "1.710 mm",
+                "Vão livre do solo:": "248 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "616 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "urus-lp-650-4-4.0-v8-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Urus.jpg",
+            "NOME": "urus-lp-650-4-4.0-v8-2018",
+            "ANO": "2018",
+            "MARCA": "lamborghini",
+            "MODELO": "urus",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Urus",
+                "Versão:": "LP 650-4 4.0 V8 2018",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.996 cc",
+                "Cilindros:": "4, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência máxima (cv):": "650 @ 6.000 rpm",
+                "Torque máximo (kgfm):": "86,7 @ 2.250 rpm",
+                "Potência específica:": "162,7 cv/litro",
+                "Torque específico:": "21,7 kgfm/litro",
+                "Taxa de compressão:": "9:1",
+                "Rel. peso/potência:": "3,4 kg/cv",
+                "Rel. peso/torque:": "25,4 kg/kgfm",
+                "Curso dos pistões:": "86 mm",
+                "Diâmetro dos cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "EA825"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,6 seg",
+                "Velocidade máxima:": "305 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "578"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola pneumática"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/45 R21",
+                "Traseira:": "315/40 R21",
+                "Altura do flanco:": "126 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.112 mm",
+                "Altura:": "1.638 mm",
+                "Largura:": "2.016 mm",
+                "Entre-eixos:": "3.003 mm",
+                "Bitola dianteira:": "1.695 mm",
+                "Bitola traseira:": "1.710 mm",
+                "Vão livre do solo:": "248 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "616 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "aventador-superveloce-lp-750-4-6.5-v12-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Aventador-SV.jpg",
+            "NOME": "aventador-superveloce-lp-750-4-6.5-v12-2016",
+            "ANO": "2016",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador",
+                "Versão:": "SuperVeloce LP 750-4 6.5 V12 2016",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "750 @ 8.400 rpm",
+                "Torque máximo (kgfm):": "70,4 @ 5.500 rpm",
+                "Potência específica:": "115,4 cv/litro",
+                "Torque específico:": "10,8 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2 kg/cv",
+                "Rel. peso/torque:": "21,7 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,8 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,2",
+                "Estrada em km/l:": "6,7",
+                "Autonomia em km:": "603"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/30 R20",
+                "Traseira:": "355/25 R21",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,96 m²",
+                "Coef. aerodinâmico:": "0,37 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.835 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.030 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.680 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.525 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "450 kg",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "huracan-performante-5.2-v10-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Huracan-Performante.jpg",
+            "NOME": "huracan-performante-5.2-v10-2018",
+            "ANO": "2018",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "Performante 5.2 V10 2018",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "640 @ 8.000 rpm",
+                "Torque máximo (kgfm):": "61,2 @ 6.500 rpm",
+                "Potência específica:": "123 cv/litro",
+                "Torque específico:": "11,8 kgfm/litro",
+                "Taxa de compressão:": "12,7:1",
+                "Rel. peso/potência:": "2,2 kg/cv",
+                "Rel. peso/torque:": "22,6 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,5",
+                "Estrada em km/l:": "7,3",
+                "Autonomia em km:": "606"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,36 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.506 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.924 mm",
+                "Entre-eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.382 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "520 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "huracan-lp-610-4-5.2-v10-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Huracan18.jpg",
+            "NOME": "huracan-lp-610-4-5.2-v10-2018",
+            "ANO": "2018",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "LP 610-4 5.2 V10",
+                "Ano/modelo:": "2018",
+                "Detalhes:": "Importado, cupê, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "610 cv @ 8.250 rpm",
+                "Torque:": "57,1 kgfm @ 6.500 rpm",
+                "Taxa de compressão:": "12,7:1",
+                "Código do motor:": "V10"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,2 s",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,4 km/l",
+                "Rodoviário:": "7,1 km/l",
+                "Autonomia:": "639 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/35 R19",
+                "Traseira:": "295/30 R19"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,36 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.459 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.924 mm",
+                "Entre-eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.422 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "huracan-lp-610-4-5.2-v10-2017": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Huracan.jpg",
+            "NOME": "huracan-lp-610-4-5.2-v10-2017",
+            "ANO": "2017",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "LP 610-4 5.2 V10",
+                "Ano/modelo:": "2017",
+                "Detalhes:": "Importado, cupê, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "610 cv @ 8.250 rpm",
+                "Torque:": "57,1 kgfm @ 6.500 rpm",
+                "Taxa de compressão:": "12,7:1",
+                "Código do motor:": "V10"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,2 s",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,4 km/l",
+                "Rodoviário:": "7,1 km/l",
+                "Autonomia:": "639 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/35 R19",
+                "Traseira:": "295/30 R19"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,36 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.459 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.924 mm",
+                "Entre-eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.422 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "huracan-spyder-lp-610-4-5.2-v10-2017": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Huracan-Spyder.jpg",
+            "NOME": "huracan-spyder-lp-610-4-5.2-v10-2017",
+            "ANO": "2017",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "Spyder LP 610-4 5.2 V10",
+                "Ano/modelo:": "2017",
+                "Detalhes:": "Importado, conversível, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "610 cv @ 8.250 rpm",
+                "Torque:": "57,1 kgfm @ 6.500 rpm",
+                "Taxa de compressão:": "12,7:1",
+                "Código do motor:": "V10"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,4 s",
+                "Velocidade máxima:": "324 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,2 km/l",
+                "Rodoviário:": "6,9 km/l",
+                "Autonomia:": "621 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/30 R20",
+                "Traseira:": "305/30 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,93 m²",
+                "Coef. aerodinâmico:": "0,40 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.459 mm",
+                "Altura:": "1.180 mm",
+                "Largura:": "1.924 mm",
+                "Entre-eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.542 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "huracan-lp-610-4-5.2-v10-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Huracan-2015.jpg",
+            "NOME": "huracan-lp-610-4-5.2-v10-2016",
+            "ANO": "2016",
+            "MARCA": "lamborghini",
+            "MODELO": "huracan",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Huracan",
+                "Versão:": "LP 610-4 5.2 V10",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, Coupé, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "610 cv @ 8.250 rpm",
+                "Torque:": "57,1 kgfm @ 6.500 rpm",
+                "Taxa de compressão:": "12,7:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,2 s",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,4 km/l",
+                "Rodoviário:": "7,1 km/l",
+                "Autonomia:": "639 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/35 R19",
+                "Traseira:": "295/30 R19"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,36 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.459 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.924 mm",
+                "Entre-eixos:": "2.620 mm",
+                "Bitola dianteira:": "1.668 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.422 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "aventador-roadster-lp-700-4-6.5-v12-2015": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Aventador-Road-2015.jpg",
+            "NOME": "aventador-roadster-lp-700-4-6.5-v12-2015",
+            "ANO": "2015",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador Roadster",
+                "Versão:": "LP 750-4 6.5 V12 2015",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Conversível",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "700 @ 8.250 rpm",
+                "Torque máximo (kgfm):": "70,3 @ 5.500 rpm",
+                "Potência específica:": "107,7 cv/litro",
+                "Torque específico:": "10,8 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2,3 kg/cv",
+                "Rel. peso/torque:": "23,1 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,3",
+                "Estrada em km/l:": "6",
+                "Autonomia em km:": "540"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/35 R19",
+                "Traseira:": "335/30 R20",
+                "Altura do flanco:": "101 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,95 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.780 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.020 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.700 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.625 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "450 kg",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "veneno-roadster-6.5-v12-2014": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Veneno-road.jpg",
+            "NOME": "veneno-roadster-6.5-v12-2014",
+            "ANO": "2014",
+            "MARCA": "lamborghini",
+            "MODELO": "veneno",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Veneno",
+                "Versão:": "Roadster 6.5 V12",
+                "Ano/modelo:": "2014",
+                "Detalhes:": "Importado, coupé, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "750 cv @ 8.400 rpm",
+                "Torque:": "70,4 kgfm @ 5.500 rpm",
+                "Taxa de compressão:": "11,8:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 s",
+                "Velocidade máxima:": "355 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "3 km/l",
+                "Rodoviário:": "6,4 km/l",
+                "Autonomia:": "576 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/30 R20",
+                "Traseira:": "335/25 R21"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,05 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.020 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "2.075 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.490 kg",
+                "Porta-malas:": "60 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "sobre-o-modelo": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Superveloce.jpg",
+            "NOME": "sobre-o-modelo",
+            "ANO": "MODELO",
+            "MARCA": "lamborghini",
+            "MODELO": "sobre",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Murcielago SuperVeloce",
+                "Versão:": "6.5 V12",
+                "Ano/modelo:": "2009",
+                "Detalhes:": "Importado, coupe, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "6.496 cc",
+                "Cilindros:": "12, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "670 cv @ 8.000 rpm",
+                "Torque:": "67,3 kgfm @ 6.500 rpm",
+                "Taxa de compressão:": "11:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,2 s",
+                "Velocidade máxima:": "342 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "2,3 km/l",
+                "Rodoviário:": "4,7 km/l",
+                "Autonomia:": "470 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/35 R18",
+                "Traseira:": "335/30 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,99 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.705 mm",
+                "Altura:": "1.135 mm",
+                "Largura:": "2.058 mm",
+                "Entre-eixos:": "2.665 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.695 mm",
+                "Vão livre do solo:": "140 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.635 kg",
+                "Porta-malas:": "50 litros",
+                "Carga útil:": "350 kg",
+                "Tanque combustível:": "100 litros"
+            }
+        },
+        "aventador-roadster-lp-700-4-6.5-v12-2012": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Aventador-road.jpg",
+            "NOME": "aventador-roadster-lp-700-4-6.5-v12-2012",
+            "ANO": "2012",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador Roadster",
+                "Versão:": "LP 750-4 6.5 V12 2012",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Conversível",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "700 @ 8.250 rpm",
+                "Torque máximo (kgfm):": "70,3 @ 5.500 rpm",
+                "Potência específica:": "107,7 cv/litro",
+                "Torque específico:": "10,8 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2,3 kg/cv",
+                "Rel. peso/torque:": "23,1 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,3",
+                "Estrada em km/l:": "6",
+                "Autonomia em km:": "540"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/35 R19",
+                "Traseira:": "335/30 R20",
+                "Altura do flanco:": "101 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,95 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.780 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.020 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.700 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.625 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "450 kg",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "aventador-lp-700-4-6.5-v12-2012": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Aventador-2012.jpg",
+            "NOME": "aventador-lp-700-4-6.5-v12-2012",
+            "ANO": "2012",
+            "MARCA": "lamborghini",
+            "MODELO": "aventador",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Aventador",
+                "Versão:": "LP 750-4 6.5 V12 2012",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.498 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima (cv):": "700 @ 8.250 rpm",
+                "Torque máximo (kgfm):": "70,3 @ 5.500 rpm",
+                "Potência específica:": "107,7 cv/litro",
+                "Torque específico:": "10,8 kgfm/litro",
+                "Taxa de compressão:": "11,8:1",
+                "Rel. peso/potência:": "2,3 kg/cv",
+                "Rel. peso/torque:": "22,4 kg/kgfm",
+                "Curso dos pistões:": "76,4 mm",
+                "Diâmetro dos cilindros:": "95 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "LF539"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "ISR"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "2,9 seg",
+                "Velocidade máxima:": "350 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,3",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "612"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/35 R19",
+                "Traseira:": "335/30 R20",
+                "Altura do flanco:": "101 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,95 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.780 mm",
+                "Altura:": "1.136 mm",
+                "Largura:": "2.020 mm",
+                "Entre-eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.720 mm",
+                "Bitola traseira:": "1.700 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.575 kg",
+                "Porta-malas:": "140 litros",
+                "Carga útil:": "450 kg",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "gallardo-spyder-lp-560-4-5.2-v10-2010": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Spyder-2010.jpg",
+            "NOME": "gallardo-spyder-lp-560-4-5.2-v10-2010",
+            "ANO": "2010",
+            "MARCA": "lamborghini",
+            "MODELO": "gallardo",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Gallardo Spyder",
+                "Versão:": "LP 560-4 5.2 V10 2010",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Conversível",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima (cv):": "560 @ 8.000 rpm",
+                "Torque máximo (kgfm):": "55,1 @ 6.500 rpm",
+                "Potência específica:": "107,6 cv/litro",
+                "Torque específico:": "10,6 kgfm/litro",
+                "Taxa de compressão:": "12,5:1",
+                "Rel. peso/potência:": "2,9 kg/cv",
+                "Rel. peso/torque:": "29,8 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4 seg",
+                "Velocidade máxima:": "324 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,2",
+                "Estrada em km/l:": "6,6",
+                "Autonomia em km:": "528"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/35 R19",
+                "Traseira:": "295/30 R19",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,91 m²",
+                "Coef. aerodinâmico:": "0,36 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.345 mm",
+                "Altura:": "1.184 mm",
+                "Largura:": "1.900 mm",
+                "Entre-eixos:": "2.560 mm",
+                "Bitola dianteira:": "1.632 mm",
+                "Bitola traseira:": "1.597 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.640 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "300 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "gallardo-lp-560-4-5.2-v10-2010": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Gallardo-2010.jpg",
+            "NOME": "gallardo-lp-560-4-5.2-v10-2010",
+            "ANO": "2010",
+            "MARCA": "lamborghini",
+            "MODELO": "gallardo",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Gallardo",
+                "Versão:": "LP 560-4 5.2 V10 2010",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "10, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima (cv):": "560 @ 8.000 rpm",
+                "Torque máximo (kgfm):": "55,1 @ 6.500 rpm",
+                "Potência específica:": "107,6 cv/litro",
+                "Torque específico:": "10,6 kgfm/litro",
+                "Taxa de compressão:": "12,5:1",
+                "Rel. peso/potência:": "2,7 kg/cv",
+                "Rel. peso/torque:": "27,2 kg/kgfm",
+                "Curso dos pistões:": "92,8 mm",
+                "Diâmetro dos cilindros:": "84,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,7 seg",
+                "Velocidade máxima:": "325 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,2",
+                "Estrada em km/l:": "6,6",
+                "Autonomia em km:": "594"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/35 R19",
+                "Traseira:": "295/30 R19",
+                "Altura do flanco:": "89 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,88 m²",
+                "Coef. aerodinâmico:": "0,36 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.345 mm",
+                "Altura:": "1.165 mm",
+                "Largura:": "1.900 mm",
+                "Entre-eixos:": "2.560 mm",
+                "Bitola dianteira:": "1.632 mm",
+                "Bitola traseira:": "1.597 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.500 kg",
+                "Porta-malas:": "110 litros",
+                "Carga útil:": "300 kg",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "murcielago-roadster-6.2-v12-2004": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Murcielago-R-2002.jpg",
+            "NOME": "murcielago-roadster-6.2-v12-2004",
+            "ANO": "2004",
+            "MARCA": "lamborghini",
+            "MODELO": "murcielago",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Murcielago",
+                "Versão:": "Roadster 6.2 V12",
+                "Ano/modelo:": "2004",
+                "Detalhes:": "Importado, conversível, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "6.192 cc",
+                "Cilindros:": "12, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "579 cv @ 7.500 rpm",
+                "Torque:": "66,3 kgfm @ 5.400 rpm",
+                "Taxa de compressão:": "10,7:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,9 s",
+                "Velocidade máxima:": "320 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "2,4 km/l",
+                "Rodoviário:": "4,8 km/l",
+                "Autonomia:": "480 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/35 R18",
+                "Traseira:": "335/30 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,97 m²",
+                "Coef. aerodinâmico:": "0,36 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.580 mm",
+                "Altura:": "1.132 mm",
+                "Largura:": "2.045 mm",
+                "Entre-eixos:": "2.665 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.695 mm",
+                "Vão livre do solo:": "140 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.665 kg",
+                "Porta-malas:": "50 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "100 litros"
+            }
+        },
+        "murcielago-6.2-v12-2002": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Murcielago-2002.jpg",
+            "NOME": "murcielago-6.2-v12-2002",
+            "ANO": "2002",
+            "MARCA": "lamborghini",
+            "MODELO": "murcielago",
+            "ESPECIFICACAO": {
+                "Marca:": "Lamborghini",
+                "Modelo:": "Murcielago",
+                "Versão:": "6.2 V12",
+                "Ano/modelo:": "2002",
+                "Detalhes:": "Importado, coupe, 2 portas, 2 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Central",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "6.192 cc",
+                "Cilindros:": "12, em V",
+                "Comando de válvulas:": "No cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "579 cv @ 7.500 rpm",
+                "Torque:": "66,3 kgfm @ 5.400 rpm",
+                "Taxa de compressão:": "10,7:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,8 s",
+                "Velocidade máxima:": "330 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "2,4 km/l",
+                "Rodoviário:": "4,8 km/l",
+                "Autonomia:": "480 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/35 R18",
+                "Traseira:": "335/30 R18"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,97 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.580 mm",
+                "Altura:": "1.135 mm",
+                "Largura:": "2.045 mm",
+                "Entre-eixos:": "2.665 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.695 mm",
+                "Vão livre do solo:": "140 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.650 kg",
+                "Porta-malas:": "50 litros",
+                "Carga útil:": "350 kg",
+                "Tanque combustível:": "100 litros"
+            }
+        }
+    }
+}

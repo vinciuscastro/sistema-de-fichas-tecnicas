@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/Mustang-2007-con.jpg",
+    "NOME": "mustang-conversível-gt-4.6-v8-2007",
+    "ANO": "2007",
+    "MARCA": "ford",
+    "MODELO": "mustang",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Mustang Conversível",
+        "Versão:": "GT 4.6 V8 2007",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "5",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "4.601 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "3",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "304 @ 5.750 rpm",
+        "Torque máximo em kgfm:": "44,3 @ 4.500 rpm",
+        "Potência específica:": "66,1 cv/litro",
+        "Torque específico:": "9,6 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Relação peso/potência:": "5,5 kg/cv",
+        "Relação peso/torque:": "37,4 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "90,2 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,7 seg",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,4",
+        "Estrada em km/l:": "7,2",
+        "Autonomia em km:": "432"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/55 R17",
+        "Traseira:": "235/55 R17",
+        "Estepe:": "235/55 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,24 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.765 mm",
+        "Altura:": "1.415 mm",
+        "Largura:": "1.877 mm",
+        "Entre eixos:": "2.720 mm",
+        "Bitola dianteira:": "1.582 mm",
+        "Bitola traseira:": "1.587 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.659 kg",
+        "Porta-malas:": "275 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "60 litros"
+    }
+}

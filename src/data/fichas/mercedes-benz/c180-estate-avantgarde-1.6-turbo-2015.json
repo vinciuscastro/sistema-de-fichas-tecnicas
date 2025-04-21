@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-Estate.jpg",
+    "NOME": "c180-estate-avantgarde-1.6-turbo-2015",
+    "ANO": "2015",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c180",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C180",
+        "Versão:": "Estate Avantgarde 1.6 Turbo",
+        "Ano/modelo:": "2015",
+        "Detalhes:": "Importado, perua, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.595 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "156 cv @ 5.300 rpm",
+        "Torque:": "25,5 kgfm @ 1.250 rpm",
+        "Taxa de compressão:": "10,3:1",
+        "Código do motor:": "M274DE16"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "7",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,7 s",
+        "Velocidade máxima:": "223 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10 km/l",
+        "Rodoviário:": "13,6 km/l",
+        "Autonomia:": "897 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R17",
+        "Traseira:": "225/50 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,24 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.702 mm",
+        "Altura:": "1.457 mm",
+        "Largura:": "1.810 mm",
+        "Entre-eixos:": "2.840 mm",
+        "Bitola dianteira:": "1.584 mm",
+        "Bitola traseira:": "1.566 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.500 kg",
+        "Porta-malas:": "490 litros",
+        "Carga útil:": "650 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

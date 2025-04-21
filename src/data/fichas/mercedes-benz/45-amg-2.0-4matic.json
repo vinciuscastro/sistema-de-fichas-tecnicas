@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Mercedes/GLA-AMG.jpg",
+    "NOME": "45-amg-2.0-4matic",
+    "ANO": "4Matic",
+    "MARCA": "mercedes-benz",
+    "MODELO": "45",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "GLA",
+        "Versão:": "45 AMG 2.0 4Matic",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, SUV, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.991 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "381 cv @ 6.000 rpm",
+        "Torque:": "48,4 kgfm @ 2.250 rpm",
+        "Taxa de compressão:": "8,6:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,4 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,9 km/l",
+        "Rodoviário:": "11,2 km/l",
+        "Autonomia:": "627 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "235/45 R19",
+        "Traseiros:": "235/45 R19"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.417 mm",
+        "Altura:": "1.479 mm",
+        "Largura:": "1.804 mm",
+        "Entre-eixos:": "2.699 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.585 kg",
+        "Porta-malas:": "421 litros",
+        "Carga útil:": "não informado",
+        "Tanque combustível:": "56 litros"
+    }
+}

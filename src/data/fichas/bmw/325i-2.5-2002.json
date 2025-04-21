@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-sedan-325i-01.jpg",
+    "NOME": "325i-2.5-2002",
+    "ANO": "2002",
+    "MARCA": "bmw",
+    "MODELO": "325i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "325i",
+        "Versão:": "2.5 2002",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.494 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "192 @ 5.900 rpm",
+        "Torque máximo em kgfm:": "25 @ 4.700 rpm",
+        "Potência específica:": "77 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "7,3 kg/cv",
+        "Relação peso/torque:": "56,4 kg/kgfm",
+        "Curso dos pistões:": "75 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M54B25"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 5HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,4 seg",
+        "Velocidade máxima:": "237 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,7",
+        "Estrada em km/l:": "10,2",
+        "Autonomia em km:": "643"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,09 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.471 mm",
+        "Altura:": "1.415 mm",
+        "Largura:": "1.739 mm",
+        "Entre eixos:": "2.725 mm",
+        "Bitola dianteira:": "1.471 mm",
+        "Bitola traseira:": "1.483 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.410 kg",
+        "Porta-malas:": "440 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

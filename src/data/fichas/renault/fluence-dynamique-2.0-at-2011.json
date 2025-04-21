@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Fluence-2011.jpg",
+    "NOME": "fluence-dynamique-2.0-at-2011",
+    "ANO": "2011",
+    "MARCA": "renault",
+    "MODELO": "fluence",
+    "ESPECIFICACAO": {
+        "Marca:": "Renault",
+        "Modelo:": "Fluence",
+        "Versão:": "Dynamique 2.0 AT",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máx. (CV):": "143 (E) / 140 (G) @ 6.000 rpm",
+        "Torque máx. (kgfm):": "20,3 (E) / 19,9 (G) @ 3.750 rpm",
+        "Potência específica:": "71,6 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "9,6 kg/cv",
+        "Rel. peso/torque:": "67,6 kg/kgfm",
+        "Curso dos pistões:": "90,1 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M4R"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "JF011-E"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 seg",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6 (E) / 9,1 (G)",
+        "Estrada em km/l:": "8,1 (E) / 12 (G)",
+        "Autonomia em km:": "486 (E) / 720 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R17",
+        "Traseira:": "205/55 R17",
+        "Altura do flanco:": "113 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,28 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.620 mm",
+        "Altura:": "1.480 mm",
+        "Largura:": "1.810 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.372 kg",
+        "Porta-malas:": "530 litros",
+        "Carga útil:": "413 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

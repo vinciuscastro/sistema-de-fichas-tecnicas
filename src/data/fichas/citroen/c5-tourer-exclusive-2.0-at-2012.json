@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Citroen-C5-Tourer.jpg",
+    "NOME": "c5-tourer-exclusive-2.0-at-2012",
+    "ANO": "2012",
+    "MARCA": "citroen",
+    "MODELO": "c5",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "C5 Tourer",
+        "Versão:": "Exclusive 2.0 AT 2012",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Perua",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima CV:": "143 @ 6.000 rpm",
+        "Torque máximo kgfm:": "20,4 @ 4.000 rpm",
+        "Potência específica:": "71,6 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "10,8:1",
+        "Rel. peso/potência:": "11,3 kg/cv",
+        "Rel. peso/torque:": "79,4 kg/kgfm",
+        "Curso dos pistões:": "88 mm",
+        "Diâmetro cilindros:": "85 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EW10A"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "AL4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,3 seg",
+        "Velocidade máxima:": "201 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,6",
+        "Estrada em km/l:": "9,8",
+        "Autonomia em km:": "696"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Esfera hidropneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R18",
+        "Traseira:": "245/45 R18",
+        "Altura do flanco:": "110 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.829 mm",
+        "Altura:": "1.479 mm",
+        "Largura:": "1.860 mm",
+        "Entre-eixos:": "2.815 mm",
+        "Bitola dianteira:": "1.528 mm",
+        "Bitola traseira:": "1.493 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.619 kg",
+        "Porta-malas:": "505 litros",
+        "Carga útil:": "605 kg",
+        "Tanque combustível:": "71 litros"
+    }
+}

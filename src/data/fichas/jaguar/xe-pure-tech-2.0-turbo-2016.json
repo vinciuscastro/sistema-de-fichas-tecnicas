@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/XE-2016.jpg",
+    "NOME": "xe-pure-tech-2.0-turbo-2016",
+    "ANO": "2016",
+    "MARCA": "jaguar",
+    "MODELO": "xe",
+    "ESPECIFICACAO": {
+        "Marca:": "Jaguar",
+        "Modelo:": "XE",
+        "Versão:": "Pure Tech 2.0 Turbo 2016",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "240 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "34,7 @ 1.750 rpm",
+        "Potência específica:": "120,1 cv/litro",
+        "Torque específico:": "17,4 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "6,4 kg/cv",
+        "Rel. peso/torque:": "44,2 kg/kgfm",
+        "Curso dos pistões:": "83,1 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Ecoboost"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,5",
+        "Estrada em km/l:": "11,6",
+        "Autonomia em km:": "731"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/55 R17",
+        "Traseira:": "235/55 R17",
+        "Altura do flanco:": "129 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,23 m²",
+        "Coef. aerodinâmico:": "0,26 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.672 mm",
+        "Altura:": "1.416 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "2.835 mm",
+        "Bitola dianteira:": "1.602 mm",
+        "Bitola traseira:": "1.603 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.535 kg",
+        "Porta-malas:": "455 litros",
+        "Carga útil:": "600 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

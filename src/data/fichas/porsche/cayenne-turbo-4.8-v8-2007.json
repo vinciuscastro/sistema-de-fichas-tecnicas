@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Cayenne-2007.jpg",
+    "NOME": "cayenne-turbo-4.8-v8-2007",
+    "ANO": "2007",
+    "MARCA": "porsche",
+    "MODELO": "cayenne",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Cayenne",
+        "Versão:": "Turbo 4.8 V8",
+        "Ano/modelo:": "2007",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção Direta",
+        "Cilindrada:": "4.806 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável na admissão",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "500 cv @ 6.000 rpm",
+        "Torque:": "71,4 kgfm @ 2.250 rpm",
+        "Taxa de compressão:": "10,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,1 s",
+        "Velocidade máxima:": "275 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4 km/l",
+        "Rodoviário:": "9 km/l",
+        "Autonomia:": "900 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/55 R18",
+        "Traseira:": "255/55 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,78 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.795 mm",
+        "Altura:": "1.694 mm",
+        "Largura:": "1.928 mm",
+        "Entre-eixos:": "2.855 mm",
+        "Bitola dianteira:": "1.647 mm",
+        "Bitola traseira:": "1.662 mm",
+        "Vão livre do solo:": "215 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.355 kg",
+        "Porta-malas:": "540 litros",
+        "Carga útil:": "775 kg",
+        "Tanque combustível:": "100 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/Bravo-11.jpg",
+    "NOME": "bravo-absolute-1.8-dualogic-2011",
+    "ANO": "2011",
+    "MARCA": "fiat",
+    "MODELO": "bravo",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Bravo",
+        "Versão:": "Absolute 1.8 Dualogic",
+        "Ano fabricação:": "2011",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.747 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "132 cv (E) / 130 cv (G) @ 5.250 rpm",
+        "Torque:": "18,9 kgfm (E) / 18,4 kgfm (G) @ 4.500 rpm",
+        "Taxa de compressão:": "11,2:1",
+        "Código do motor:": "E.TorQ"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 s",
+        "Velocidade máxima:": "193 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,4 km/l (A) / 8,9 km/l",
+        "Rodoviário:": "7,5 km/l (E) / 10,9 km/l",
+        "Autonomia:": "435 km (E) / 632 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/45 R17",
+        "Traseira:": "215/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,30 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.336 mm",
+        "Altura:": "1.508 mm",
+        "Largura:": "1.792 mm",
+        "Entre-eixos:": "2.602 mm",
+        "Bitola dianteira:": "1.585 mm",
+        "Bitola traseira:": "1.521 mm",
+        "Vão livre do solo:": "153 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.365 kg",
+        "Porta-malas:": "400 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

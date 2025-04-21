@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-335i.jpg",
+    "NOME": "335i-3.0-2007",
+    "ANO": "2007",
+    "MARCA": "bmw",
+    "MODELO": "335i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "335i",
+        "Versão:": "3.0 2007",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "306 @ 5.800 rpm",
+        "Torque máximo em kgfm:": "40,8 @ 1.300 rpm",
+        "Potência específica:": "102,7 cv/litro",
+        "Torque específico:": "13,7 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "5,1 kg/cv",
+        "Relação peso/torque:": "38 kg/kgfm",
+        "Curso dos pistões:": "89,6 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M54B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 6HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,8 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,2",
+        "Estrada em km/l:": "10",
+        "Autonomia em km:": "630"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.531 mm",
+        "Altura:": "1.421 mm",
+        "Largura:": "1.817 mm",
+        "Entre eixos:": "2.760 mm",
+        "Bitola dianteira:": "1.500 mm",
+        "Bitola traseira:": "1.529 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.550 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "520 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

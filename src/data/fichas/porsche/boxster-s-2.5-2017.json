@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/718-Bosxter-S.jpg",
+    "NOME": "boxster-s-2.5-2017",
+    "ANO": "2017",
+    "MARCA": "porsche",
+    "MODELO": "boxster",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Boxster",
+        "Versão:": "S 2.5 (718)",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, conversível, 2 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "2.497 cc",
+        "Cilindros:": "4, opostos",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "350 cv @ 6.500 rpm",
+        "Torque:": "42,8 kgfm @ 1.900 rpm",
+        "Taxa de compressão:": "9,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,4 s",
+        "Velocidade máxima:": "285 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9 km/l",
+        "Rodoviário:": "12 km/l",
+        "Autonomia:": "768 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "235/40 R19",
+        "Traseiros:": "235/40 R19"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.379 mm",
+        "Altura:": "1.284 mm",
+        "Largura:": "1.801 mm",
+        "Entre-eixos:": "2.475 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.385 kg",
+        "Porta-malas:": "334 litros",
+        "Carga útil:": "310 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}

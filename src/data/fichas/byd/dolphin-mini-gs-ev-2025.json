@@ -1,0 +1,30 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd-dolphin-mini-2024.jpg",
+    "NOME": "dolphin-mini-gs-ev-2025",
+    "ANO": "2025",
+    "MARCA": "byd",
+    "MODELO": "dolphin",
+    "ESPECIFICACAO": {
+        "Marca:": "BYD",
+        "Modelo:": "Dolphin Mini",
+        "Versão:": "GS EV 2025",
+        "Propulsão:": "Elétrico",
+        "Combustível:": "Eletrecidade",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Porte:": "subcompacto",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "280 km",
+        "Capacidade da bateria:": "38 kWh",
+        "Potência:": "75 cv",
+        "Torque:": "13,8 kgfm",
+        "Peso/potência:": "16,52 kg/cv",
+        "Peso/torque:": "89,78 kg/kgfm",
+        "Consumo elétrico:": "9,6 kWh/100 km"
+    }
+}

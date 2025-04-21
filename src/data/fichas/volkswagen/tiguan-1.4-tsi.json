@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Volks/Tiguan.jpg",
+    "NOME": "tiguan-1.4-tsi",
+    "ANO": "TSi",
+    "MARCA": "volkswagen",
+    "MODELO": "tiguan",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Tiguan",
+        "Versão:": "1.4 TSi",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Nacional, SUV, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.395 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "150 cv @ 5.000 rpm",
+        "Torque:": "25,5 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,2 s",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,1 km/l",
+        "Rodoviário:": "11,6 km/l",
+        "Autonomia:": "730 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "235/55 R17",
+        "Traseiros:": "235/55 R17"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.427 mm",
+        "Altura:": "1.665 mm",
+        "Largura:": "1.809 mm",
+        "Entre-eixos:": "2.605 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.501 kg",
+        "Porta-malas:": "360 litros",
+        "Carga útil:": "559 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Nissan-Maxima-1995.jpg",
+    "NOME": "maxima-30j-3.0-v6-1995",
+    "ANO": "1995",
+    "MARCA": "nissan",
+    "MODELO": "maxima",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Maxima",
+        "Versão:": "30J 3.0 V6",
+        "Origem:": "Importado",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.987 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "193 @ 6.400 rpm",
+        "Torque em kgfm:": "26 @ 4.400 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "VQ30DE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h": "8,3 s",
+        "Velocidade máxima": "230 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "9,8",
+        "Autonomia em km:": "686"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/65/R15",
+        "Traseira:": "205/65/R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,13 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.770 mm",
+        "Altura:": "1.415 mm",
+        "Largura:": "1.770 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.520 mm",
+        "Bitola traseira:": "1.500 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.393 kg",
+        "Porta-malas:": "440 litros",
+        "Carga útil:": "612 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

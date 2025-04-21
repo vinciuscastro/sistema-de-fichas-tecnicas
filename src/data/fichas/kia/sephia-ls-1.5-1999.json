@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Sephia_99.jpg",
+    "NOME": "sephia-ls-1.5-1999",
+    "ANO": "1999",
+    "MARCA": "kia",
+    "MODELO": "sephia",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Sephia",
+        "Versão:": "LS 1.5 1999",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "1 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.498 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "105 @ 5.500 rpm",
+        "Torque máx. (kgfm):": "15 @ 4.000 rpm",
+        "Potência específica:": "70,1 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "9,3:1",
+        "Rel. peso/potência:": "10,8 kg/cv",
+        "Rel. peso/torque:": "75,9 kg/kgfm",
+        "Curso dos pistões:": "78,4 mm",
+        "Diâmetro dos cilindros:": "78 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "B5-DE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "G5M"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,8 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "10,2",
+        "Estrada em km/l:": "12,5",
+        "Autonomia em km:": "625"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Altura do flanco:": "120 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,05 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.427 mm",
+        "Altura:": "1.413 mm",
+        "Largura:": "1.711 mm",
+        "Entre eixos:": "2.560 mm",
+        "Bitola dianteira:": "1.465 mm",
+        "Bitola traseira:": "1.455 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.138 kg",
+        "Porta-malas:": "349 litros",
+        "Carga útil:": "452 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

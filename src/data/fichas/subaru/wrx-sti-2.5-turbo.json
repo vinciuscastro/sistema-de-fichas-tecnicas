@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Subaru/WRX_STI.jpg",
+    "NOME": "wrx-sti-2.5-turbo",
+    "ANO": "Turbo",
+    "MARCA": "subaru",
+    "MODELO": "wrx",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "WRX",
+        "Versão:": "STi 2.5 Turbo",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, sedan, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "2.457 cc",
+        "Cilindros:": "4, opostos",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "310 cv @ 6.000 rpm",
+        "Torque:": "40 kgfm @ 4.000 rpm",
+        "Taxa de compressão:": "8,2:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,2 s",
+        "Velocidade máxima:": "255 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,7 km/l",
+        "Rodoviário:": "8,7 km/l",
+        "Autonomia:": "522 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "245/40 R18",
+        "Traseiros:": "245/40 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.595 mm",
+        "Altura:": "1.475 mm",
+        "Largura:": "1.795 mm",
+        "Entre-eixos:": "2.650 mm",
+        "Vão livre do solo:": "135 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.516 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "320 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

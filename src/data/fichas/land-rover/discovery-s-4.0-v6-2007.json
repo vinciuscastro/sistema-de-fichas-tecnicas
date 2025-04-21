@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Discovery-2005.jpg",
+    "NOME": "discovery-s-4.0-v6-2007",
+    "ANO": "2007",
+    "MARCA": "land-rover",
+    "MODELO": "discovery",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Discovery",
+        "Versão:": "S 4.0 V6",
+        "Ano/modelo:": "2007",
+        "Detalhes:": "Importado, SUV, 4 portas, 7 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "4.009 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "215 cv @ 4.500 rpm",
+        "Torque:": "36,7 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "9,7:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,2 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7 km/l",
+        "Rodoviário:": "10 km/l",
+        "Autonomia:": "860 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, braços sobrepostos, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/70 R17",
+        "Traseira:": "235/70 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,07 m²",
+        "Coef. aerodinâmico:": "0,44 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.848 mm",
+        "Altura:": "1.887 mm",
+        "Largura:": "1.915 mm",
+        "Entre-eixos:": "2.885 mm",
+        "Vão livre do solo:": "240 mm",
+        "Ângulo de entrada:": "32 graus",
+        "Ângulo de saída:": "25 graus",
+        "Travessia de água:": "600 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.411 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "769 kg",
+        "Tanque combustível:": "86 litros"
+    }
+}

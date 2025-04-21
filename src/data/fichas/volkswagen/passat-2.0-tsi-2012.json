@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Passat-2011.jpg",
+    "NOME": "passat-2.0-tsi-2012",
+    "ANO": "2012",
+    "MARCA": "volkswagen",
+    "MODELO": "passat",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Passat",
+        "Versão:": "2.0 TSi 2012",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "7",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima (cv):": "211 @ 5.300 rpm",
+        "Torque máximo (kgfm):": "28,5 @ 1.700 rpm",
+        "Potência específica:": "106,4 cv/litro",
+        "Torque específico:": "14,4 kgfm/litro",
+        "Taxa de compressão:": "9,6:1",
+        "Rel. peso/potência:": "7 kg/cv",
+        "Rel. peso/torque:": "51,7 kg/kgfm",
+        "Curso dos pistões:": "92,8 mm",
+        "Diâmetro dos cilindros:": "82,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA888"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "DSG DQ250"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,6 seg",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,1",
+        "Estrada em km/l:": "12,1",
+        "Autonomia em km:": "847"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R17",
+        "Traseira:": "235/45 R17",
+        "Altura do flanco:": "106 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,26 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.769 mm",
+        "Altura:": "1.480 mm",
+        "Largura:": "1.820 mm",
+        "Entre eixos:": "2.712 mm",
+        "Bitola dianteira:": "1.550 mm",
+        "Bitola traseira:": "1.550 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.474 kg",
+        "Porta-malas:": "485 litros",
+        "Carga útil:": "611 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

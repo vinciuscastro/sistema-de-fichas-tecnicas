@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/911-Targa4.jpg",
+    "NOME": "911-targa-4-3.0-2019",
+    "ANO": "2019",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Targa 4 3.0",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Importado, conversível, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.981 cc",
+        "Cilindros:": "6 opostos",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "370 cv @ 6.500 rpm",
+        "Torque:": "45,9 kgfm @ 1.700 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,3 s",
+        "Velocidade máxima:": "287 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,2 km/l",
+        "Rodoviário:": "10,8 km/l",
+        "Autonomia:": "734 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/40 R19",
+        "Traseira:": "295/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,05 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.499 mm",
+        "Altura:": "1.288 mm",
+        "Largura:": "1.852 mm",
+        "Entre-eixos:": "2.450 mm",
+        "Bitola dianteira:": "1.541 mm",
+        "Bitola traseira:": "1.558 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.590 kg",
+        "Porta-malas:": "285 litros",
+        "Carga útil:": "425 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

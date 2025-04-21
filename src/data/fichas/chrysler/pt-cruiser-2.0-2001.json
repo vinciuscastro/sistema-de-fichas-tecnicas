@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Chrysler-PT-Cruiser01.jpg",
+    "NOME": "pt-cruiser-2.0-2001",
+    "ANO": "2001",
+    "MARCA": "chrysler",
+    "MODELO": "pt",
+    "ESPECIFICACAO": {
+        "Marca:": "Chrysler",
+        "Modelo:": "PT Cruiser",
+        "Versão:": "Limited 2.0 2001",
+        "Origem:": "Importado - Estados Unidos",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "141 @ 5.700 rpm",
+        "Torque em kgfm:": "19,2 @ 4.150 rpm",
+        "Taxa de compressão:": "9,6:1",
+        "Código do motor:": "ECC"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,7 seg",
+        "Velocidade máxima:": "156 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,5",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "684"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção, braços arrastados",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55/ R16",
+        "Traseira:": "205/55/ R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,32 m²",
+        "Coef. aerodinâmico:": "0,39 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.288 mm",
+        "Altura:": "1.601 mm",
+        "Largura:": "1.705 mm",
+        "Entre eixos:": "2.616 mm",
+        "Bitola dianteira:": "1.481 mm",
+        "Bitola traseira:": "1.478 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.366 kg",
+        "Porta-malas:": "538 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "57 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ferrari-Ff.jpg",
+    "NOME": "ff-6.3-v12-4wd-2015",
+    "ANO": "2015",
+    "MARCA": "ferrari",
+    "MODELO": "ff",
+    "ESPECIFICACAO": {
+        "Origem:": "Importado - Itália",
+        "Detalhes:": "Perua, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "6.262 cc",
+        "Cilindros:": "12, em V",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "660 @ 8.000 rpm",
+        "Torque em kgfm:": "69,6 @ 6.000 rpm",
+        "Taxa de compressão:": "12,3:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,7 seg",
+        "Velocidade máxima:": "335 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "3",
+        "Estrada em km/l:": "6",
+        "Autonomia em km:": "546"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/35 R20",
+        "Traseira:": "295/35 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,29 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.907 mm",
+        "Altura:": "1.379 mm",
+        "Largura:": "1.953 mm",
+        "Entre eixos:": "2.990 mm",
+        "Bitola dianteira:": "1.676 mm",
+        "Bitola traseira:": "1.660 mm",
+        "Vão livre do solo:": "125 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.880 kg",
+        "Porta-malas:": "450 litros",
+        "Carga útil:": "440 kg",
+        "Tanque combustível:": "91 litros"
+    }
+}

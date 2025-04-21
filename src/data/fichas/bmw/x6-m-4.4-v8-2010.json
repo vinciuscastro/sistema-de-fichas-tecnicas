@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-X6-M-2010.jpg",
+    "NOME": "x6-m-4.4-v8-2010",
+    "ANO": "2010",
+    "MARCA": "bmw",
+    "MODELO": "x6",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X6",
+        "Versão:": "M 4.4 V8",
+        "Ano/modelo:": "2010",
+        "Detalhes:": "Importado, SUV, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "555 cv @ 6.000 rpm",
+        "Torque:": "69,3 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "9,3:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,7 s",
+        "Velocidade máxima:": "275 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "3,4 km/l",
+        "Rodoviário:": "6,5 km/l",
+        "Autonomia:": "552 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.876 mm",
+        "Altura:": "1.684 mm",
+        "Largura:": "1.983 mm",
+        "Entre-eixos:": "2.933 mm",
+        "Vão livre do solo:": "205 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.380 kg",
+        "Porta-malas:": "570 litros",
+        "Carga útil:": "600 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

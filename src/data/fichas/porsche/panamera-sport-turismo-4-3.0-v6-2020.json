@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/porsche-panamera-sport-turismo-2018.jpg",
+    "NOME": "panamera-sport-turismo-4-3.0-v6-2020",
+    "ANO": "2020",
+    "MARCA": "porsche",
+    "MODELO": "panamera",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Panamera Sport Turismo",
+        "Versão:": "4 3.0 V6 2018",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Perua",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "2.995 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "330 @ 5.400 rpm",
+        "Torque máximo em kgfm:": "45,9 @ 1.340 rpm",
+        "Potência específica:": "110,2 cv/litro",
+        "Torque específico:": "15,3 kgfm/litro",
+        "Taxa de compressão:": "11,2:1",
+        "Rel. peso/potência:": "5,7 kg/cv",
+        "Rel. peso/torque:": "41 kg/kgfm",
+        "Curso dos pistões:": "89 mm",
+        "Diâmetro dos cilindros:": "84,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA839"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "PDK"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,3 seg",
+        "Velocidade máxima:": "259 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,4",
+        "Estrada em km/l:": "12,4",
+        "Autonomia em km:": "930"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/45 R19",
+        "Traseira:": "295/40 R19",
+        "Altura do flanco:": "118 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,39 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.049 mm",
+        "Altura:": "1.428 mm",
+        "Largura:": "1.937 mm",
+        "Entre eixos:": "2.950 mm",
+        "Bitola dianteira:": "1.671 mm",
+        "Bitola traseira:": "1.651 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.880 kg",
+        "Porta-malas:": "520 litros",
+        "Carga útil:": "670 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

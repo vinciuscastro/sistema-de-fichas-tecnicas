@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/Ranger-2013.jpg",
+    "NOME": "ranger-limited-2.5-cd-2013",
+    "ANO": "2013",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "Limited 2.5 CD 2013",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado - Argentina",
+        "Categoria:": "Picape",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica miltiponto",
+        "Cilindrada:": "2.488 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "173 (E) / 168 (G) @ 5.500 rpm",
+        "Torque máx. (kgfm):": "24,7 (E) / 24 (G) @ 4.250 rpm",
+        "Potência específica:": "69,5 cv/litro",
+        "Torque específico:": "9,9 kgfm/litro",
+        "Taxa de compressão:": "9,7:1",
+        "Rel. peso/potência:": "11,2 kg/cv",
+        "Rel. peso/torque:": "78,5 kg/kgfm",
+        "Curso dos pistões:": "100 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Duratec"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "Getrag M75"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,5 seg",
+        "Velocidade máxima:": "171 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4 (E) / 5,2 (G)",
+        "Estrada em km/l:": "5,9 (E) / 7,6 (G)",
+        "Autonomia em km:": "472 (E) / 608 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/65 R17",
+        "Traseira:": "265/65 R17",
+        "Altura do flanco:": "172 mm",
+        "Estepe:": "265/60 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.351 mm",
+        "Altura:": "1.848 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "3.220 mm",
+        "Bitola dianteira:": "1.590 mm",
+        "Bitola traseira:": "1.590 mm",
+        "Vão livre do solo:": "232 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.939 kg",
+        "Caçamba:": "1.180 litros",
+        "Carga útil:": "1.261 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

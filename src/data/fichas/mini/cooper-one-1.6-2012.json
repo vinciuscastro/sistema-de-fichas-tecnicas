@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/One-2012.jpg",
+    "NOME": "cooper-one-1.6-2012",
+    "ANO": "2012",
+    "MARCA": "mini",
+    "MODELO": "cooper",
+    "ESPECIFICACAO": {
+        "Marca:": "Mini",
+        "Modelo:": "Cooper",
+        "Versão:": "One 1.6",
+        "Ano/modelo:": "2012",
+        "Detalhes:": "Importado, hatch, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "98 cv @ 6.000 rpm",
+        "Torque:": "156 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "N13B16"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,8 s",
+        "Velocidade máxima:": "183 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10 km/l",
+        "Rodoviário:": "13 km/l",
+        "Autonomia:": "520 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R15",
+        "Traseira:": "175/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,01 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.723 mm",
+        "Altura:": "1.407 mm",
+        "Largura:": "1.683 mm",
+        "Entre-eixos:": "2.467 mm",
+        "Bitola dianteira:": "1.459 mm",
+        "Bitola traseira:": "1.467 mm",
+        "Vão livre do solo:": "134 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.100 kg",
+        "Porta-malas:": "160 litros",
+        "Carga útil:": "430 kg",
+        "Tanque combustível:": "40 litros"
+    }
+}

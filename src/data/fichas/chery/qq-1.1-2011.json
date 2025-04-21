@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chery-QQ-2011.jpg",
+    "NOME": "qq-1.1-2011",
+    "ANO": "2011",
+    "MARCA": "chery",
+    "MODELO": "qq",
+    "ESPECIFICACAO": {
+        "Marca:": "Chery",
+        "Modelo:": "QQ",
+        "Versão:": "1.1",
+        "Ano/modelo:": "2011",
+        "Detalhes:": "Importado, hatch, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.083 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "68 cv @ 6.000 rpm",
+        "Torque:": "9,1 kgfm @ 3.500 rpm",
+        "Taxa de compressão:": "9,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14 s",
+        "Velocidade máxima:": "130 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "11,8 km/l",
+        "Rodoviário:": "13,9 km/l",
+        "Autonomia:": "486 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.550 mm",
+        "Altura:": "1.485 mm",
+        "Largura:": "1.495 mm",
+        "Entre-eixos:": "2.340 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "890 kg",
+        "Porta-malas:": "190 litros",
+        "Carga útil:": "375 kg",
+        "Tanque combustível:": "35 litros"
+    }
+}

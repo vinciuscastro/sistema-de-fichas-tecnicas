@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Forester.jpg",
+    "NOME": "forester-sport-2.0-2018",
+    "ANO": "2018",
+    "MARCA": "subaru",
+    "MODELO": "forester",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "Forester",
+        "Versão:": "Sport 2.0",
+        "Ano fabricação:": "2018",
+        "Detalhes:": "Importado, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, opostos",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "150 cv @ 6.200 rpm",
+        "Torque:": "20,2 kgfm @ 4.200 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "FB20B"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 s",
+        "Velocidade máxima:": "192 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10 km/l",
+        "Rodoviário:": "14,4 km/l",
+        "Autonomia:": "864 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R18",
+        "Traseira:": "225/55 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.595 mm",
+        "Altura:": "1.735 mm",
+        "Largura:": "1.795 mm",
+        "Entre-eixos:": "2.640 mm",
+        "Bitola dianteira:": "1.545 mm",
+        "Bitola traseira:": "1.550 mm",
+        "Vão livre do solo:": "220 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.472 kg",
+        "Porta-malas:": "505 litros",
+        "Carga útil:": "508 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

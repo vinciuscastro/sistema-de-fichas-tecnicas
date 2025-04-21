@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/kia-bongo-cd.jpg",
+    "NOME": "bongo-k2700-2.7-cd-2012",
+    "ANO": "2012",
+    "MARCA": "kia",
+    "MODELO": "bongo",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Bongo",
+        "Versão:": "K2700 2.7 CD 2012",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Chassi-cabine",
+        "Portas:": "4",
+        "Ocupantes:": "6",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção indireta de combustível",
+        "Cilindrada:": "2.665 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no bloco, corrente",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "83 @ 4.150 rpm",
+        "Torque em kgfm:": "17,5 @ 2.400 rpm",
+        "Potência específica:": "31,1 cv/litro",
+        "Torque específico:": "6,6 kgfm/litro",
+        "Taxa de compressão:": "21,5:1",
+        "Relação peso/potência:": "20,8 kg/cv",
+        "Relação peso/torque:": "98,9 kg/kgfm",
+        "Curso dos pistões:": "informação não disponível",
+        "Diâmetro dos cilindros:": "informação não disponível",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "23 seg",
+        "Velocidade máxima:": "135 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "10",
+        "Autonomia em km:": "600"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/80 R14",
+        "Traseira:": "195/80 R14",
+        "Altura do flanco:": "156 mm",
+        "Estepe:": "195/80 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.805 mm",
+        "Altura:": "2.090 mm",
+        "Largura:": "1.740 mm",
+        "Entre eixos:": "2.415 mm",
+        "Bitola dianteira:": "1.505 mm",
+        "Bitola traseira:": "1.460 mm",
+        "Vão livre do solo:": "203 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.730 kg",
+        "Caçamba:": "1.250 litros",
+        "Carga útil:": "1.530 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

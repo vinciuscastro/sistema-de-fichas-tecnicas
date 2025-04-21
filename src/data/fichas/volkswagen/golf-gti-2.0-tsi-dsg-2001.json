@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/Golf.jpg",
+    "NOME": "golf-gti-2.0-tsi-dsg-2001",
+    "ANO": "2001",
+    "MARCA": "volkswagen",
+    "MODELO": "golf",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Golf",
+        "Versão:": "GTi 2.0 TSi DSG",
+        "Ano fabricação:": "2018",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "230 cv @ 4.700 rpm",
+        "Torque:": "35,7 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "9,6:1",
+        "Código do motor:": "EA888"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7 s",
+        "Velocidade máxima:": "238 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,2 km/l",
+        "Rodoviário:": "12,1 km/l",
+        "Autonomia:": "605 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,21 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.268 mm",
+        "Altura:": "1.456 mm",
+        "Largura:": "1.799 mm",
+        "Entre-eixos:": "2.631 mm",
+        "Bitola dianteira:": "1.537 mm",
+        "Bitola traseira:": "1.513 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.317 kg",
+        "Porta-malas:": "338 litros",
+        "Carga útil:": "533 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

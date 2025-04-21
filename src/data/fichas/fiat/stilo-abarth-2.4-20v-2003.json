@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Fiat-Stilo-Abarth-03.jpg",
+    "NOME": "stilo-abarth-2.4-20v-2003",
+    "ANO": "2003",
+    "MARCA": "fiat",
+    "MODELO": "stilo",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Stilo",
+        "Versão:": "Abarth 2.4 20V 2003",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.446 cc",
+        "Cilindros:": "5, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "167 @ 5.750 rpm",
+        "Torque máximo kgfm:": "22,8 @ 3.500 rpm",
+        "Potência específica:": "68,3 cv/litro",
+        "Torque específico:": "9,3 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "8 kg/cv",
+        "Rel. peso/torque:": "58,3 kg/kgfm",
+        "Curso dos pistões:": "90,4 mm",
+        "Diâmetro cilindros:": "83 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Fivetech"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,4 seg",
+        "Velocidade máxima:": "212 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,6",
+        "Estrada em km/l:": "10,8",
+        "Autonomia em km:": "626"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16",
+        "Altura do flanco:": "113 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,29 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.253 mm",
+        "Altura:": "1.535 mm",
+        "Largura:": "1.756 mm",
+        "Entre-eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.514 mm",
+        "Bitola traseira:": "1.512 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.330 kg",
+        "Porta-malas:": "380 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/agosto/haval-h6.jpg",
+    "NOME": "haval-h6-premium-1.5-hev-2024",
+    "ANO": "2024",
+    "MARCA": "gwm",
+    "MODELO": "haval",
+    "ESPECIFICACAO": {
+        "Marca:": "GWM",
+        "Modelo:": "Haval",
+        "Versão:": "H6 Premium 1.5 HEV",
+        "Combustível:": "Híbrido - gasolina/elétrico",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "171 @ 5.600 rpm",
+        "Torque em kgfm:": "29 @ 1.400 rpm",
+        "Potência específica:": "114,1 cv/litro",
+        "Torque específico:": "19,3 kgfm/litro",
+        "Taxa de compressão:": "informação não disponível",
+        "Relação peso/potência:": "9,94 kg/cv",
+        "Relação peso/torque:": "58,6 kg/kgfm",
+        "Curso dos pistões:": "84,9 mm",
+        "Diâmetro dos cilindros:": "74 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "GW4B15",
+        "Potência:": "136 cv",
+        "Torque:": "25 kgfm",
+        "Potência combinada:": "243 cv",
+        "Torque combinado:": "54 kgfm",
+        "Capacidade bateria:": "1,6 kWh",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "2",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,9 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "13,8",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "720"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R19",
+        "Traseira:": "225/55 R19",
+        "Altura do flanco:": "124 mm",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.683 mm",
+        "Altura:": "1.730 mm",
+        "Largura:": "1.886 mm",
+        "Entre eixos:": "2.738 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "181 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.699 kg",
+        "Porta-malas:": "560 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "60 litros"
+    }
+}

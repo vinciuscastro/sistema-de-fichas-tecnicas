@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/Yaris/Toyota-Yaris-2019-04.jpg",
+    "NOME": "yaris-xls-connect-1.5-at-2020",
+    "ANO": "2020",
+    "MARCA": "toyota",
+    "MODELO": "yaris",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Yaris",
+        "Versão:": "XLS Connect 1.5 AT 2020",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.496 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escapamento",
+        "Potência máxima (cv):": "110 (E) / 105 (G) @ 5.600 rpm",
+        "Torque máximo (kgfm):": "14,9 (E) / 14,9 (G) @ 4.000 rpm",
+        "Potência específica:": "73,5 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "13:1",
+        "Rel. peso/potência:": "10,5 kg/cv",
+        "Rel. peso/torque:": "77,2 kg/kgfm",
+        "Curso dos pistões:": "90,6 mm",
+        "Diâmetro dos cilindros:": "72,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "2NR-FBE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin K312"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 seg",
+        "Velocidade máxima:": "173 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,8 (E) / 12,6 (G)",
+        "Estrada em km/l:": "10 (E) / 13,8 (G)",
+        "Autonomia em km:": "450 (E) / 621 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60 R15",
+        "Traseira:": "185/60 R15",
+        "Estepe:": "175/65 R14",
+        "Altura do flanco:": "111 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.145 mm",
+        "Altura:": "1.490 mm",
+        "Largura:": "1.730 mm",
+        "Entre-eixos:": "2.550 mm",
+        "Bitola dianteira:": "1.470 mm",
+        "Bitola traseira:": "1.460 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.150 kg",
+        "Porta-malas:": "310 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

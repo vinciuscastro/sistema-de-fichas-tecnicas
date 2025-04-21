@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Coupe.jpg",
+    "NOME": "dart-gran-coupe-5.2-v8-1973",
+    "ANO": "1973",
+    "MARCA": "dodge",
+    "MODELO": "dart",
+    "ESPECIFICACAO": {
+        "Origem:": "Nacional",
+        "Detalhes:": "Cupê, 2 portas, 6 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "5.212 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No bloco, engrenagens",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "198 @ 4.400 rpm",
+        "Torque em kgfm:": "41,5 @ 2.400 rpm",
+        "Taxa de compressão:": "7,5:1",
+        "Código do motor:": "LA 318"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "3",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12 seg",
+        "Velocidade máxima:": "177 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,7",
+        "Estrada em km/l:": "7",
+        "Autonomia em km:": "434"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Tambor",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Não assistida",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "não disponível",
+        "Traseira:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.960 mm",
+        "Altura:": "1.390 mm",
+        "Largura:": "1.810 mm",
+        "Entre eixos:": "2.820 mm",
+        "Bitola dianteira:": "1.480 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.495 kg",
+        "Porta-malas:": "436 litros",
+        "Carga útil:": "410 kg",
+        "Tanque combustível:": "62 litros"
+    }
+}

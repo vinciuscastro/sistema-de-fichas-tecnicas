@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Jaguar/XF/Jaguar_XF_02.jpg",
+    "NOME": "xf-r-sport-2.0-2017",
+    "ANO": "2017",
+    "MARCA": "jaguar",
+    "MODELO": "xf",
+    "ESPECIFICACAO": {
+        "Marca:": "Jaguar",
+        "Modelo:": "XF",
+        "Versão:": "R-Sport 2.0 2017",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "240 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "34,7 @ 1.750 rpm",
+        "Potência específica:": "120,1 cv/litro",
+        "Torque específico:": "17,4 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "6,8 kg/cv",
+        "Rel. peso/torque:": "46,9 kg/kgfm",
+        "Curso dos pistões:": "83,1 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Ecoboost"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7 seg",
+        "Velocidade máxima:": "248 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,7",
+        "Estrada em km/l:": "12,2",
+        "Autonomia em km:": "854"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R18",
+        "Traseira:": "245/45 R18",
+        "Altura do flanco:": "110 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,32 m²",
+        "Coef. aerodinâmico:": "0,26 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.954 mm",
+        "Altura:": "1.457 mm",
+        "Largura:": "1.877 mm",
+        "Entre eixos:": "2.960 mm",
+        "Bitola dianteira:": "1.605 mm",
+        "Bitola traseira:": "1.594 mm",
+        "Vão livre do solo:": "116 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.628 kg",
+        "Porta-malas:": "505 litros",
+        "Carga útil:": "585 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

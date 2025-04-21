@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/XR3_Conv_88.jpg",
+    "NOME": "escort-xr3-conversível-1.8-1989",
+    "ANO": "1989",
+    "MARCA": "ford",
+    "MODELO": "escort",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Escort",
+        "Versão:": "XR3 Conversível 1.8 1989",
+        "Origem:": "Nacional",
+        "Detalhes:": "Conversível, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.781 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Álcool",
+        "Potência em CV:": "99 @ 5.800 rpm",
+        "Torque em kgfm:": "16 @ 3.200 rpm",
+        "Taxa de compressão:": "12:1",
+        "Código do motor:": "AP1800S"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 s",
+        "Velocidade máxima:": "173 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "6,5 km/l",
+        "Estrada:": "10 km/l",
+        "Autonomia:": "650 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60/14",
+        "Traseira:": "185/60/14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,85 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.062 mm",
+        "Altura:": "1.324 mm",
+        "Largura:": "1.640 mm",
+        "Entre eixos:": "2.402 mm",
+        "Bitola dianteira:": "1.400 mm",
+        "Bitola traseira:": "1.423 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.034 kg",
+        "Porta-malas:": "220 litros",
+        "Carga útil:": "425 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

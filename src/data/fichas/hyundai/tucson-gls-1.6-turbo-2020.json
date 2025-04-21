@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Julho/Hyundai-Tucson.jpg",
+    "NOME": "tucson-gls-1.6-turbo-2020",
+    "ANO": "2020",
+    "MARCA": "hyundai",
+    "MODELO": "tucson",
+    "ESPECIFICACAO": {
+        "Marca:": "Hyundai",
+        "Modelo:": "Tucson",
+        "Versão:": "GLS 1.6 Turbo 2020",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.591 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima em CV:": "177 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "27 @ 1.500 rpm",
+        "Potência específica:": "111,3 cv/litro",
+        "Torque específico:": "17 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "9,2 kg/cv",
+        "Rel. peso/torque:": "60,1 kg/kgfm",
+        "Curso dos pistões:": "85,4 mm",
+        "Diâmetro dos cilindros:": "77 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Gamma"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,1 seg",
+        "Velocidade máxima:": "201 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,9",
+        "Estrada em km/l:": "11,7",
+        "Autonomia em km:": "725"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/60 R17",
+        "Traseira:": "225/60 R17",
+        "Altura do flanco:": "135 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,61 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.475 mm",
+        "Altura:": "1.660 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.608 mm",
+        "Bitola traseira:": "1.620 mm",
+        "Vão livre do solo:": "172 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.624 kg",
+        "Porta-malas:": "513 litros",
+        "Carga útil:": "486 kg",
+        "Tanque combustível:": "62 litros"
+    }
+}

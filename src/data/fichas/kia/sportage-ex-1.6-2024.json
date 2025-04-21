@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/kia-sportage-2023.jpg",
+    "NOME": "sportage-ex-1.6-2024",
+    "ANO": "2024",
+    "MARCA": "kia",
+    "MODELO": "sportage",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Sportage",
+        "Versão:": "EX 1.6 2024",
+        "Combustível:": "Híbrido leve - gasolina/elétrico",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "180 @ 5.500 rpm",
+        "Torque em kgfm:": "27 @ 1.500 rpm",
+        "Potência específica:": "112,6 cv/litro",
+        "Torque específico:": "16,9 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "8,74 kg/cv",
+        "Relação peso/torque:": "58,3 kg/kgfm",
+        "Curso dos pistões:": "89 mm",
+        "Diâmetro dos cilindros:": "75,6 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "G4FP",
+        "Potência:": "informação não disponível",
+        "Torque:": "informação não disponível",
+        "Potência combinada:": "informação não disponível",
+        "Torque combinado:": "informação não disponível",
+        "Capacidade bateria:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,1 seg",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "11,5",
+        "Estrada em km/l:": "12,1",
+        "Autonomia em km:": "653"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/55 R18",
+        "Traseira:": "235/55 R18",
+        "Altura do flanco:": "129 mm",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.515 mm",
+        "Altura:": "1.650 mm",
+        "Largura:": "1.865 mm",
+        "Entre eixos:": "2.680 mm",
+        "Bitola dianteira:": "1.615 mm",
+        "Bitola traseira:": "1.622 mm",
+        "Vão livre do solo:": "180 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.574 kg",
+        "Porta-malas:": "562 litros",
+        "Carga útil:": "536 kg",
+        "Tanque combustível:": "54 litros"
+    }
+}

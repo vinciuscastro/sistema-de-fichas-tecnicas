@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Passat-2001.jpg",
+    "NOME": "passat-2.8-v6-tiptronic-2001",
+    "ANO": "2001",
+    "MARCA": "volkswagen",
+    "MODELO": "passat",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Passat",
+        "Versão:": "2.8 V6 Tiptronic",
+        "Ano/modelo:": "2001",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.771 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "5",
+        "Combustível:": "Gasolina",
+        "Potência:": "190 cv @ 6.000 rpm",
+        "Torque:": "26,5 kgfm @ 3.200 rpm",
+        "Taxa de compressão:": "10,6:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,3 s",
+        "Velocidade máxima:": "235 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,7 km/l",
+        "Rodoviário:": "12,5 km/l",
+        "Autonomia:": "775 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,27 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.703 mm",
+        "Altura:": "1.462 mm",
+        "Largura:": "1.746 mm",
+        "Entre-eixos:": "2.703 mm",
+        "Bitola dianteira:": "1.500 mm",
+        "Bitola traseira:": "1.500 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.476 kg",
+        "Porta-malas:": "475 litros",
+        "Carga útil:": "550 kg",
+        "Tanque combustível:": "62 litros"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/maio/peugeot-partner-99.jpg",
+    "NOME": "partner-furgão-1.6-16v-2012",
+    "ANO": "2012",
+    "MARCA": "peugeot",
+    "MODELO": "partner",
+    "ESPECIFICACAO": {
+        "Marca:": "Peugeot",
+        "Modelo:": "Partner",
+        "Versão:": "Furgão 1.6 16V 2012",
+        "Combustível:": "Flex - etanol e/ou gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Furgão",
+        "Portas:": "3",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.587 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "113 (E) / 110 (G) @ 5.750 rpm",
+        "Torque em kgfm:": "15,8 (E) / 14,5 (G) @ 4.000 rpm",
+        "Potência específica:": "71,2 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "10,8 kg/cv",
+        "Relação peso/torque:": "77,2 kg/kgfm",
+        "Curso dos pistões:": "82 mm",
+        "Diâmetro dos cilindros:": "78,6 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "TU5JP4"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14 seg",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7 (E) / 9,1 (G)",
+        "Estrada em km/l:": "10 (E) / 13 (G)",
+        "Autonomia em km:": "550 (E) / 715 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Barra de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R14",
+        "Traseira:": "175/65 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.137 mm",
+        "Altura:": "1.858 mm",
+        "Largura:": "1.724 mm",
+        "Entre eixos:": "2.693 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.219 kg",
+        "Porta-malas:": "3.000 litros",
+        "Carga útil:": "800 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

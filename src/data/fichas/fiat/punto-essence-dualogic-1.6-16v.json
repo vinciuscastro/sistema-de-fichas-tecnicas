@@ -1,0 +1,68 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Fiat/Punto/Punto_Essence.jpg",
+    "NOME": "punto-essence-dualogic-1.6-16v",
+    "ANO": "16V",
+    "MARCA": "fiat",
+    "MODELO": "punto",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Punto",
+        "Versão:": "Essence Dualogic 1.6 16V",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Nacional, hatch, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "117 cv (E) / 115 cv (G) @ 5.500 rpm",
+        "Torque:": "16,8 kgfm (E) / 16,2 kgfm (G) @ 4.500 rpm",
+        "Taxa de compressão:": "10,3:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,3 s",
+        "Velocidade máxima:": "184 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,9 km/l (E) / 10,1 km/l (G)",
+        "Rodoviário:": "8 km/l (E) / 11,8 km/l (G)",
+        "Autonomia:": "480 km (E) / 708 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos, ventilados",
+        "Traseiros:": "Tambores"
+    },
+    "PNEUS": {
+        "Dianteiros:": "195/60 R15",
+        "Traseiros:": "195/60 R15"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.065 mm",
+        "Altura:": "1.493 mm",
+        "Largura:": "1.687 mm",
+        "Entre-eixos:": "2.510 mm",
+        "Bitola dianteira:": "1.471 mm",
+        "Bitola traseira:": "1.467 mm",
+        "Vão livre do solo:": "149 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.217 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

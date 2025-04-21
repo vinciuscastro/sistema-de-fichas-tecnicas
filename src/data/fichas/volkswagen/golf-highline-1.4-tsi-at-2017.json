@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Volks/Golf.jpg",
+    "NOME": "golf-highline-1.4-tsi-at-2017",
+    "ANO": "2017",
+    "MARCA": "volkswagen",
+    "MODELO": "golf",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Golf",
+        "Versão:": "Highline 1.4 TSi AT 2017",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "7",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.395 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "150 @ 4.500 rpm",
+        "Torque máximo em kgfm:": "25,5 @ 1.500 rpm",
+        "Potência específica:": "107,5 cv/litro",
+        "Torque específico:": "18,3 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "8,3 kg/cv",
+        "Rel. peso/torque:": "48,5 kg/kgfm",
+        "Curso dos pistões:": "80 mm",
+        "Diâmetro dos cilindros:": "74,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA211"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin TF-60SN"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,6 seg",
+        "Velocidade máxima:": "204 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,7 (E) / 11,3 (G)",
+        "Estrada em km/l:": "9,5 (E) / 13,7 (G)",
+        "Autonomia em km:": "475 (E) / 685 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,20 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.255 mm",
+        "Altura:": "1.468 mm",
+        "Largura:": "1.799 mm",
+        "Entre eixos:": "2.630 mm",
+        "Bitola dianteira:": "1.539 mm",
+        "Bitola traseira:": "1.510 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.238 kg",
+        "Porta-malas:": "313 litros",
+        "Carga útil:": "562 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Junho/C4.jpg",
+    "NOME": "c4-cactus-feel-1.6-at-2020",
+    "ANO": "2020",
+    "MARCA": "citroen",
+    "MODELO": "c4",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "C4 Cactus",
+        "Versão:": "Feel 1.6 AT 2020",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.587 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima (CV):": "118 (E) / 115 (G) @ 5.750 rpm",
+        "Torque máximo (kgfm):": "16,1 (E) / 16,1 (G) @ 4.750 rpm",
+        "Potência específica:": "74,4 cv/litro",
+        "Torque específico:": "10,1 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Rel. peso/potência:": "10,2 kg/cv",
+        "Rel. peso/torque:": "74,8 kg/kgfm",
+        "Curso dos pistões:": "82 mm",
+        "Diâmetro dos cilindros:": "78,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EC5JP4"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin TF-71SC"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12 seg",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,3 (E) / 10,4 (G)",
+        "Estrada em km/l:": "9,1 (E) / 13 (G)",
+        "Autonomia em km:": "501 (E) / 715 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R17",
+        "Traseira:": "205/55 R17",
+        "Altura do flanco:": "113 mm",
+        "Estepe:": "185/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.170 mm",
+        "Altura:": "1.534 mm",
+        "Largura:": "1.714 mm",
+        "Entre-eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.496 mm",
+        "Bitola traseira:": "1.491 mm",
+        "Vão livre do solo:": "225 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.204 kg",
+        "Porta-malas:": "320 litros",
+        "Carga útil:": "350 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+    "NOME": "journey-stx-3.6-v6-2013",
+    "ANO": "2013",
+    "MARCA": "dodge",
+    "MODELO": "journey",
+    "ESPECIFICACAO": {
+        "Marca:": "Dodge",
+        "Modelo:": "Journey",
+        "Versão:": "STX 3.6 V6 2013",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.605 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima CV:": "280 @ 6.350 rpm",
+        "Torque máximo kgfm:": "34,9 @ 4.350 rpm",
+        "Potência específica:": "77,7 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "7,1 kg/cv",
+        "Rel. peso/torque:": "56,8 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro cilindros:": "96 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Pentastar"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,9 seg",
+        "Velocidade máxima:": "208 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,1",
+        "Estrada em km/l:": "7,4",
+        "Autonomia em km:": "570"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,7"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/65 R17",
+        "Traseira:": "255/65 R17",
+        "Altura do flanco:": "166 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.888 mm",
+        "Altura:": "1.745 mm",
+        "Largura:": "1.878 mm",
+        "Entre-eixos:": "2.890 mm",
+        "Bitola dianteira:": "1.571 mm",
+        "Bitola traseira:": "1.582 mm",
+        "Vão livre do solo:": "197 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.981 kg",
+        "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+        "Carga útil:": "491 kg",
+        "Tanque combustível:": "77 litros"
+    }
+}

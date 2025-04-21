@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/junho/subaru-impreza-16.jpg",
+    "NOME": "impreza-2.0-2016",
+    "ANO": "2016",
+    "MARCA": "subaru",
+    "MODELO": "impreza",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "Impreza",
+        "Versão:": "2.0 2016",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. (CV):": "155 @ 6.200 rpm",
+        "Torque máx. (kgfm):": "20 @ 4.200 rpm",
+        "Potência específica:": "77,7 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "8,8 kg/cv",
+        "Rel. peso/torque:": "68,5 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "FB20B"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,1 seg",
+        "Velocidade máxima:": "197 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "11,8",
+        "Autonomia em km:": "649"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/50 R17",
+        "Traseira:": "205/50 R17",
+        "Altura do flanco:": "103 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.580 mm",
+        "Altura:": "1.465 mm",
+        "Largura:": "1.740 mm",
+        "Entre eixos:": "2.645 mm",
+        "Bitola dianteira:": "1.510 mm",
+        "Bitola traseira:": "1.515 mm",
+        "Vão livre do solo:": "145 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.370 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

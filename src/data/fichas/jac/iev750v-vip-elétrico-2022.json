@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/dezembro/jac-iev750v-vip.jpg",
+    "NOME": "iev750v-vip-elétrico-2022",
+    "ANO": "2022",
+    "MARCA": "jac",
+    "MODELO": "iev750v",
+    "ESPECIFICACAO": {
+        "Marca:": "Jac",
+        "Modelo:": "Iev750v Elétrico 2022",
+        "Versão:": "Vip",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Van",
+        "Portas:": "2",
+        "Ocupantes:": "14",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "235 km",
+        "Capacidade da bateria:": "92 kWh",
+        "Potência:": "163 cv",
+        "Torque:": "76,5 kgfm",
+        "Peso/potência:": "19,33 kg/cv",
+        "Peso/torque:": "41,18 kg/kgfm",
+        "Consumo elétrico:": "40 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "99 seg",
+        "Velocidade máxima:": "100 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "14 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/75 R16",
+        "Traseira:": "215/75 R16",
+        "Altura do flanco:": "146 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.995 mm",
+        "Altura:": "2.645 mm",
+        "Largura:": "2.098 mm",
+        "Entre eixos:": "3.570 mm",
+        "Bitola dianteira:": "1.760 mm",
+        "Bitola traseira:": "1.645 mm",
+        "Vão livre do solo:": "155 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "3.150 kg",
+        "Porta-malas:": "200 litros",
+        "Carga útil:": "1.445 kg"
+    }
+}

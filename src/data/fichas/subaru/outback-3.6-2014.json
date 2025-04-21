@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/junho/subaru-outback-14.jpg",
+    "NOME": "outback-3.6-2014",
+    "ANO": "2014",
+    "MARCA": "subaru",
+    "MODELO": "outback",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "Outback",
+        "Versão:": "3.6 2014",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Perua",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.629 cc",
+        "Cilindros:": "6, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. (CV):": "256 @ 5.600 rpm",
+        "Torque máx. (kgfm):": "35,7 @ 4.400 rpm",
+        "Potência específica:": "70,5 cv/litro",
+        "Torque específico:": "9,8 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "6,4 kg/cv",
+        "Rel. peso/torque:": "45,8 kg/kgfm",
+        "Curso dos pistões:": "91 mm",
+        "Diâmetro dos cilindros:": "92 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "EZ36"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,5 seg",
+        "Velocidade máxima:": "221 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,8",
+        "Estrada em km/l:": "10",
+        "Autonomia em km:": "600"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/60 R17",
+        "Traseira:": "225/60 R17",
+        "Altura do flanco:": "135 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,58 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.790 mm",
+        "Altura:": "1.665 mm",
+        "Largura:": "1.820 mm",
+        "Entre eixos:": "2.745 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.535 mm",
+        "Vão livre do solo:": "220 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.635 kg",
+        "Porta-malas:": "490 litros",
+        "Carga útil:": "480 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

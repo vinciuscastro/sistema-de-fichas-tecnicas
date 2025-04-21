@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Boxster-2013.jpg",
+    "NOME": "boxster-2.7-2015",
+    "ANO": "2015",
+    "MARCA": "porsche",
+    "MODELO": "boxster",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Boxster",
+        "Versão:": "2.7",
+        "Ano/modelo:": "2015",
+        "Detalhes:": "Importado, conversível, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.706 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "265 cv @ 6.700 rpm",
+        "Torque:": "28,6 kgfm @ 4.500 rpm",
+        "Taxa de compressão:": "12,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,7 s",
+        "Velocidade máxima:": "262 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,1 km/l",
+        "Rodoviário:": "11,8 km/l",
+        "Autonomia:": "755 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R18",
+        "Traseira:": "265/45 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,96 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.374 mm",
+        "Altura:": "1.282 mm",
+        "Largura:": "1.801 mm",
+        "Entre-eixos:": "2.475 mm",
+        "Bitola dianteira:": "1.526 mm",
+        "Bitola traseira:": "1.536 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.435 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "240 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}

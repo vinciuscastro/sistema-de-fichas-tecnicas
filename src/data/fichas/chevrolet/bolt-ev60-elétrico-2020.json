@@ -1,0 +1,63 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Bolt.jpg",
+    "NOME": "bolt-ev60-elétrico-2020",
+    "ANO": "2020",
+    "MARCA": "chevrolet",
+    "MODELO": "bolt",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Bolt",
+        "Versão:": "EV 60 Elétrico 2020",
+        "Origem:": "Importado - Estados Unidos",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Capacidade da bateria:": "66 kWh",
+        "Potência:": "203 cv",
+        "Torque:": "36,7 kgfm",
+        "Autonomia:": "416 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 s",
+        "Velocidade máxima:": "146 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/50/17",
+        "Traseira:": "215/50/17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,42 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.165 mm",
+        "Altura:": "1.610 mm",
+        "Largura:": "1.765 mm",
+        "Entre eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.499 mm",
+        "Bitola traseira:": "1.501 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.616 kg",
+        "Porta-malas:": "478 litros",
+        "Carga útil:": "478 kg"
+    }
+}

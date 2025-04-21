@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Junho/Amarok_Confortline.jpg",
+    "NOME": "amarok-2.0-confortline-tdi-2020",
+    "ANO": "2020",
+    "MARCA": "volkswagen",
+    "MODELO": "amarok",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Amarok",
+        "Versão:": "Comfortline 2.0I TDI",
+        "Ano fabricação:": "2020",
+        "Detalhes:": "Importado, pickup, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.968 cc",
+        "Cilindros:": "4 em linha",
+        "Comando de válvulas:": "não disponível",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência máxima:": "180 cv @ 4.000 rpm",
+        "Torque máximo:": "40,8 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "16:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,9 s",
+        "Velocidade máxima:": "179 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "não disponível",
+        "Rodoviário:": "não disponível",
+        "Autonomia:": "não disponível"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, tipo duplo A, molas helicoidais",
+        "Traseira:": "Eixo rígido, feixe de molas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/60 R18",
+        "Traseira:": "255/60 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,1 m²",
+        "Coef. aerodinâmico:": "0,465 Cw"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.254 mm",
+        "Altura:": "1.834 mm",
+        "Largura:": "1.944 mm",
+        "Entre eixos:": "3.097 mm",
+        "Bitola dianteira:": "1.648 mm",
+        "Bitola traseira:": "1.644 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.036 kg",
+        "Caçamba:": "1.280 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "80 litros"
+    }
+}

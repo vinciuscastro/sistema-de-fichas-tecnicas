@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Marco/Edge.jpg ",
+    "NOME": "edge-st-2.7-v6-turbo-2019",
+    "ANO": "2019",
+    "MARCA": "ford",
+    "MODELO": "edge",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Edge",
+        "Versão:": "ST 2.7 V6 Turbo 2019",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.694 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "335 @ 5.550 rpm",
+        "Torque máximo em kgfm:": "54,5 @ 3.250 rpm",
+        "Potência específica:": "124,4 cv/litro",
+        "Torque específico:": "20,2 kgfm/litro",
+        "Taxa de compressão:": "9,7:1",
+        "Relação peso/potência:": "6,3 kg/cv",
+        "Relação peso/torque:": "38,8 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Ecoboost"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "8F35"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,2 seg",
+        "Velocidade máxima:": "209 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,3",
+        "Estrada em km/l:": "9,4",
+        "Autonomia em km:": "658"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/40 R21",
+        "Traseira:": "265/40 R21",
+        "Estepe:": "155/70 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,70 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.796 mm",
+        "Altura:": "1.736 mm",
+        "Largura:": "1.828 mm",
+        "Entre eixos:": "2.849 mm",
+        "Bitola dianteira:": "1.645 mm",
+        "Bitola traseira:": "1.643 mm",
+        "Vão livre do solo:": "201 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.116 kg",
+        "Porta-malas:": "600 litros",
+        "Carga útil:": "469 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

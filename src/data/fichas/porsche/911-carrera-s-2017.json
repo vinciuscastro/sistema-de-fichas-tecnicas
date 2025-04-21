@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/911-Carrera-S.jpg",
+    "NOME": "911-carrera-s-2017",
+    "ANO": "2017",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Carrera S",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, cupê, 2 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "2.981 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "420 cv @ 6.500 rpm",
+        "Torque:": "51 kgfm @ 1.700 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,9 s",
+        "Velocidade máxima:": "306 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,8 km/l",
+        "Rodoviário:": "10,6 km/l",
+        "Autonomia:": "678 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "245/35 R20",
+        "Traseiros:": "305/30 R20"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.499 mm",
+        "Altura:": "1.302 mm",
+        "Largura:": "1.808 mm",
+        "Entre-eixos:": "2.450 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.460 kg",
+        "Porta-malas:": "405 litros",
+        "Carga útil:": "455 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}

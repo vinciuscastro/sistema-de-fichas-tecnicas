@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Panamera-2010.jpg",
+    "NOME": "panamera-turbo-4.8-v8-2010",
+    "ANO": "2010",
+    "MARCA": "porsche",
+    "MODELO": "panamera",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Panamera",
+        "Versão:": "Turbo 4.8 V8",
+        "Ano/modelo:": "2010",
+        "Detalhes:": "Importado, sedan, 4 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "4.806 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "500 cv @ 6.000 rpm",
+        "Torque:": "71,3 kgfm @ 2.250 rpm",
+        "Taxa de compressão:": "10,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,2 s",
+        "Velocidade máxima:": "303 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,3 km/l",
+        "Rodoviário:": "8,1 km/l",
+        "Autonomia:": "810 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/45 R19",
+        "Traseira:": "285/40 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,33 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.970 mm",
+        "Altura:": "1.418 mm",
+        "Largura:": "1.931 mm",
+        "Entre-eixos:": "2.920 mm",
+        "Bitola dianteira:": "1.656 mm",
+        "Bitola traseira:": "1.646 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.970 kg",
+        "Porta-malas:": "432 litros",
+        "Carga útil:": "530 kg",
+        "Tanque combustível:": "100 litros"
+    }
+}

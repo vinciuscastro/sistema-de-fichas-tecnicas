@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/junho/subaru-legacy-00.jpg",
+    "NOME": "legacy-gx-2.5-at-2002",
+    "ANO": "2002",
+    "MARCA": "subaru",
+    "MODELO": "legacy",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "Legacy",
+        "Versão:": "GX 2.5 AT 2002",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.457 cc",
+        "Cilindros:": "4, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "156 @ 5.600 rpm",
+        "Torque máx. (kgfm):": "22,7 @ 3.600 rpm",
+        "Potência específica:": "63,5 cv/litro",
+        "Torque específico:": "9,2 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "9,04 kg/cv",
+        "Rel. peso/torque:": "62,1 kg/kgfm",
+        "Curso dos pistões:": "79 mm",
+        "Diâmetro dos cilindros:": "99,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "EJ25"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 seg",
+        "Velocidade máxima:": "202 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "704"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R15",
+        "Traseira:": "195/60 R15",
+        "Altura do flanco:": "117 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.605 mm",
+        "Altura:": "1.415 mm",
+        "Largura:": "1.695 mm",
+        "Entre eixos:": "2.650 mm",
+        "Bitola dianteira:": "1.460 mm",
+        "Bitola traseira:": "1.460 mm",
+        "Vão livre do solo:": "145 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.410 kg",
+        "Porta-malas:": "464 litros",
+        "Carga útil:": "475 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}

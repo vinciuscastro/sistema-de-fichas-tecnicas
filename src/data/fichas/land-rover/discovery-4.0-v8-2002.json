@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Discovery-2002.jpg",
+    "NOME": "discovery-4.0-v8-2002",
+    "ANO": "2002",
+    "MARCA": "land-rover",
+    "MODELO": "discovery",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Discovery",
+        "Versão:": "4.0 V8",
+        "Ano/modelo:": "2002",
+        "Detalhes:": "Importado, SUV, 4 portas, 7 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.950 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No bloco",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "190 cv @ 4.750 rpm",
+        "Torque:": "34,6 kgfm @ 2.600 rpm",
+        "Taxa de compressão:": "9,3:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,8 s",
+        "Velocidade máxima:": "174 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,6 km/l",
+        "Rodoviário:": "6,4 km/l",
+        "Autonomia:": "595 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, braços sobrepostos, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/55 R18",
+        "Traseira:": "255/55 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,11 m²",
+        "Coef. aerodinâmico:": "0,44 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.705 mm",
+        "Altura:": "1.940 mm",
+        "Largura:": "1.885 mm",
+        "Entre-eixos:": "2.540 mm",
+        "Vão livre do solo:": "254 mm",
+        "Ângulo de entrada:": "31 graus",
+        "Ângulo de saída:": "21 graus"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.060 kg",
+        "Porta-malas:": "302 litros",
+        "Carga útil:": "765 kg",
+        "Tanque combustível:": "93 litros"
+    }
+}

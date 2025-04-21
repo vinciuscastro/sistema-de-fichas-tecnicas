@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-540i-93.jpg",
+    "NOME": "540i-4.0-v8-1995",
+    "ANO": "1995",
+    "MARCA": "bmw",
+    "MODELO": "540i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "540i",
+        "Versão:": "4.0 V8 1995",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.982 cc",
+        "Cilindros:": "8, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "286 @ 5.800 rpm",
+        "Torque máximo em kgfm:": "40,8 @ 4.500 rpm",
+        "Potência específica:": "71,8 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "5,8 kg/cv",
+        "Relação peso/torque:": "40,4 kg/kgfm",
+        "Curso dos pistões:": "80 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M60B40"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,6",
+        "Estrada em km/l:": "7,4",
+        "Autonomia em km:": "592"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/60 R15",
+        "Traseira:": "225/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,10 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.720 mm",
+        "Altura:": "1.412 mm",
+        "Largura:": "1.751 mm",
+        "Entre eixos:": "2.761 mm",
+        "Bitola dianteira:": "1.470 mm",
+        "Bitola traseira:": "1.495 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.650 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "510 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

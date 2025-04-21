@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Lexus/LS-460.jpg",
+    "NOME": "ls-460-4.6-v8",
+    "ANO": "V8",
+    "MARCA": "lexus",
+    "MODELO": "ls",
+    "ESPECIFICACAO": {
+        "Marca:": "Lexus",
+        "Modelo:": "LS 460",
+        "Versão:": "4.6 V8",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, sedã, 4 portas, 4 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "4.608 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "354 cv @ 6.400 rpm",
+        "Torque:": "46,4 kgfm @ 4.100 rpm",
+        "Taxa de compressão:": "10,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,6 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,9 km/l",
+        "Rodoviária:": "9,2 km/l",
+        "Autonomia:": "772 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "245/45 R19",
+        "Traseiros:": "245/45 R19"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.210 mm",
+        "Altura:": "1.475 mm",
+        "Largura:": "1.875 mm",
+        "Entre-eixos:": "3.090 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.080 kg",
+        "Porta-malas:": "450 litros",
+        "Carga útil:": "não informado",
+        "Tanque combustível:": "84 litros"
+    }
+}

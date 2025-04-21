@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/abril/Chevrolet-Trafic.jpg",
+    "NOME": "trafic-2.1-1992",
+    "ANO": "1992",
+    "MARCA": "chevrolet",
+    "MODELO": "trafic",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Trafic",
+        "Versão:": "2.1",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Furgão",
+        "Portas:": "3",
+        "Ocupantes:": "3",
+        "Geração:": "não disponível",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção indireta de combustível",
+        "Cilindrada:": "2.086 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "60 @ 4.000 rpm",
+        "Torque em kgfm:": "12,2 @ 2.000 rpm",
+        "Potência específica:": "28,8 cv/litro",
+        "Torque específico:": "5,8 kgfm/litro",
+        "Taxa de compressão:": "21,5:1",
+        "Relação peso/potência:": "28,8 kg/cv",
+        "Relação peso/torque:": "121,9 kg/kgfm",
+        "Curso dos pistões:": "89 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "não disponível",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "25 seg",
+        "Velocidade máxima:": "120 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "803"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70 R15",
+        "Traseira:": "185/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,38 m²",
+        "Coef. aerodinâmico:": "0,42 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.500 mm",
+        "Altura:": "2.088 mm",
+        "Largura:": "1.905 mm",
+        "Entre eixos:": "2.800 mm",
+        "Bitola dianteira:": "Não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.487 kg",
+        "Porta-malas:": "5.300 litros",
+        "Carga útil:": "1.410 kg",
+        "Tanque combustível:": "73 litros"
+    }
+}

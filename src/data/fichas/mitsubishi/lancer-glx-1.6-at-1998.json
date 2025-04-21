@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Lancer-1996.jpg",
+    "NOME": "lancer-glx-1.6-at-1998",
+    "ANO": "1998",
+    "MARCA": "mitsubishi",
+    "MODELO": "lancer",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Lancer",
+        "Versão:": "GLX 1.6 AT",
+        "Ano/modelo:": "1998",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.597 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "115 cv @ 6.000 rpm",
+        "Torque:": "14,3 kgfm @ 5.000 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,5 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9 km/l",
+        "Rodoviário:": "12 km/l",
+        "Autonomia:": "600 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60 R14",
+        "Traseira:": "185/60 R14"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.290 mm",
+        "Altura:": "1.410 mm",
+        "Largura:": "1.690 mm",
+        "Entre-eixos:": "2.500 mm",
+        "Bitola dianteira:": "1.450 mm",
+        "Bitola traseira:": "1.410 mm",
+        "Vão livre do solo:": "165 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.045 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "50 litros"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M3-CSL-3.2-2004.jpg",
+    "NOME": "m3-csl-3.2-2004",
+    "ANO": "2004",
+    "MARCA": "bmw",
+    "MODELO": "m3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M3",
+        "Versão:": "CSL 3.2 2004",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.246 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "360 @ 7.900 rpm",
+        "Torque máximo em kgfm:": "37,7 @ 4.900 rpm",
+        "Potência específica:": "110,9 cv/litro",
+        "Torque específico:": "11,6 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Relação peso/potência:": "3,8 kg/cv",
+        "Relação peso/torque:": "36,7 kg/kgfm",
+        "Curso dos pistões:": "91 mm",
+        "Diâmetro dos cilindros:": "87 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S54B32"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,9 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,1",
+        "Estrada em km/l:": "7,8",
+        "Autonomia em km:": "491"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/40 R19",
+        "Traseira:": "255/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,09 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.492 mm",
+        "Altura:": "1.383 mm",
+        "Largura:": "1.780 mm",
+        "Entre eixos:": "2.731 mm",
+        "Bitola dianteira:": "1.508 mm",
+        "Bitola traseira:": "1.525 mm",
+        "Vão livre do solo:": "110 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.385 kg",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "490 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

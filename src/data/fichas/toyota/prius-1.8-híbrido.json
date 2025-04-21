@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Prius.jpg",
+    "NOME": "prius-1.8-híbrido",
+    "ANO": "híbrido",
+    "MARCA": "toyota",
+    "MODELO": "prius",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Prius",
+        "Versão:": "1.8",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, sedan, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.798 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Híbrido",
+        "Potência:": "98 cv @ 5.200 rpm",
+        "Torque:": "14,2 kgfm @ 3.600 rpm",
+        "Taxa de compressão:": "13:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "CVT",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 s",
+        "Velocidade máxima:": "165 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "18,9 km/l",
+        "Rodoviário:": "17 km/l",
+        "Autonomia:": "731 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "não informado"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "195/65 R15",
+        "Traseiros:": "195/65 R15"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.540 mm",
+        "Altura:": "1.490 mm",
+        "Largura:": "1.760 mm",
+        "Entre-eixos:": "2.700 mm",
+        "Vão livre do solo:": "136 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.400 kg",
+        "Porta-malas:": "412 litros",
+        "Carga útil:": "390 kg",
+        "Tanque combustível:": "43 litros"
+    }
+}

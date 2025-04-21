@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Chevrolet-Spin-2022.png",
+    "NOME": "spin-lt-1.8-2022",
+    "ANO": "2022",
+    "MARCA": "chevrolet",
+    "MODELO": "spin",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Spin",
+        "Versão:": "1.8 2022",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Minivan",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima (cv):": "111 (E) / 106 (G) @ 5.200 rpm",
+        "Torque máximo (kgfm):": "17,7 (E) / 17,7 (G) @ 2.600 rpm",
+        "Potência específica:": "61,8 cv/litro",
+        "Torque específico:": "9,9 kgfm/litro",
+        "Taxa de compressão:": "12,3:1",
+        "Rel. peso/potência:": "10,7 kg/cv",
+        "Rel. peso/torque:": "67 kg/kgfm",
+        "Curso dos pistões:": "88,2 mm",
+        "Diâmetro dos cilindros:": "80,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família I"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "F17-6 CR"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,2 seg",
+        "Velocidade máxima:": "173 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,8 (E) / 11,3 (G)",
+        "Estrada em km/l:": "9,1 (E) / 13 (G)",
+        "Autonomia em km:": "413 (E) / 599 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15",
+        "Estepe:": "115/70 R16",
+        "Altura do flanco:": "127 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,48 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.360 mm",
+        "Altura:": "1.684 mm",
+        "Largura:": "1.735 mm",
+        "Entre-eixos:": "2.620 mm",
+        "Bitola dianteira:": "1.503 mm",
+        "Bitola traseira:": "1.509 mm",
+        "Vão livre do solo:": "136 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.186 kg",
+        "Porta-malas:": "710 litros",
+        "Carga útil:": "510 kg",
+        "Tanque combustível:": "53 litros"
+    }
+}

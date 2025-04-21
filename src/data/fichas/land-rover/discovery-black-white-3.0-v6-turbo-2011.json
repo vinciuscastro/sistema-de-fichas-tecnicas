@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Discovery-2010-BW.jpg",
+    "NOME": "discovery-black-white-3.0-v6-turbo-2011",
+    "ANO": "2011",
+    "MARCA": "land-rover",
+    "MODELO": "discovery",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Discovery",
+        "Versão:": "Black White 3.0 V6 Turbo",
+        "Ano/modelo:": "2011",
+        "Detalhes:": "Importado, SUV, 4 portas, 7 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.993 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "245 cv @ 4.000 rpm",
+        "Torque:": "61,2 kgfm @ 2.000 rpm",
+        "Taxa de compressão:": "16:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,6 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,6 km/l",
+        "Rodoviário:": "11 km/l",
+        "Autonomia:": "946 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, braços sobrepostos, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/55 R19",
+        "Traseira:": "255/55 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,07 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.829 mm",
+        "Altura:": "1.887 mm",
+        "Largura:": "1.915 mm",
+        "Entre-eixos:": "2.885 mm",
+        "Vão livre do solo:": "240 mm",
+        "Ângulo de entrada:": "36 graus",
+        "Ângulo de saída:": "28 graus"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.508 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "732 kg",
+        "Tanque combustível:": "86 litros"
+    }
+}

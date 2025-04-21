@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Cooper-Cabrio-2016.jpg",
+    "NOME": "cooper-cabriolet-s-2.0-2016",
+    "ANO": "2016",
+    "MARCA": "mini",
+    "MODELO": "cooper",
+    "ESPECIFICACAO": {
+        "Marca:": "Mini",
+        "Modelo:": "Cooper",
+        "Versão:": "Cabriolet S 2.0",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, conversível, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "192 cv @ 6.000 rpm",
+        "Torque:": "30,6 kgfm @ 1.250 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B48A20M0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,1 s",
+        "Velocidade máxima:": "228 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,6 km/l",
+        "Rodoviário:": "13,2 km/l",
+        "Autonomia:": "580 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/45 R17",
+        "Traseira:": "205/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,08 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.850 mm",
+        "Altura:": "1.415 mm",
+        "Largura:": "1.727 mm",
+        "Entre-eixos:": "2.495 mm",
+        "Bitola dianteira:": "1.485 mm",
+        "Bitola traseira:": "1.485 mm",
+        "Vão livre do solo:": "115 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.295 kg",
+        "Porta-malas:": "160 litros",
+        "Carga útil:": "470 kg",
+        "Tanque combustível:": "44 litros"
+    }
+}

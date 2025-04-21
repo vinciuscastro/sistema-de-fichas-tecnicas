@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/marco/mercedes-benz-eqe-300-2023.jpg",
+    "NOME": "eqe-300-edition-one-2023",
+    "ANO": "2023",
+    "MARCA": "mercedes-benz",
+    "MODELO": "eqe",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "EQE",
+        "Versão:": "300 Edition One 2023",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "369 km",
+        "Capacidade da bateria:": "89 kWh",
+        "Potência:": "245 cv",
+        "Torque:": "56,1 kgfm",
+        "Peso/potência:": "9,73 kg/cv",
+        "Peso/torque:": "42,5 kg/kgfm",
+        "Consumo elétrico:": "15,9 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 seg",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/35 R21",
+        "Traseira:": "285/30 R21",
+        "Altura do flanco:": "86 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,52 m²",
+        "Coef. aerodinâmico:": "0,25 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.946 mm",
+        "Altura:": "1.510 mm",
+        "Largura:": "1.961 mm",
+        "Entre eixos:": "3.120 mm",
+        "Bitola dianteira:": "1.632 mm",
+        "Bitola traseira:": "1.642 mm",
+        "Vão livre do solo:": "102 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.385 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "informação não disponível"
+    }
+}

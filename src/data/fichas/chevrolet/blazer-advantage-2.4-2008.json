@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Advantage_07.jpg",
+    "NOME": "blazer-advantage-2.4-2008",
+    "ANO": "2008",
+    "MARCA": "chevrolet",
+    "MODELO": "blazer",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Blazer",
+        "Versão:": "Advantage 2.4 2008",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.405 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "147 (E) / 141 (G) @ 5.200 rpm",
+        "Torque máx. (kgfm):": "21,9 (E) / 21,9 (G) @ 2.800 rpm",
+        "Potência específica:": "61,1 cv/litro",
+        "Torque específico:": "9,1 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Rel. peso/potência:": "11,8 kg/cv",
+        "Rel. peso/torque:": "79,5 kg/kgfm",
+        "Curso dos pistões:": "100 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "FSO 1305A"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,9 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5 (E) / 7 (G)",
+        "Estrada em km/l:": "6 (E) / 8,5 (G)",
+        "Autonomia em km:": "420 (E) / 595 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola parabólica de lâmina única"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/75 R15",
+        "Traseira:": "225/75 R15",
+        "Altura do flanco:": "169 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.712 mm",
+        "Altura:": "1.722 mm",
+        "Largura:": "1.731 mm",
+        "Entre eixos:": "2.718 mm",
+        "Bitola dianteira:": "1.454 mm",
+        "Bitola traseira:": "1.399 mm",
+        "Vão livre do solo:": "228 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.740 kg",
+        "Porta-malas:": "456 litros",
+        "Carga útil:": "745 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

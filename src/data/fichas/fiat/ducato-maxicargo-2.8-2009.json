@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/abril/DucatoMaxicargo-2006.jpg",
+    "NOME": "ducato-maxicargo-2.8-2009",
+    "ANO": "2009",
+    "MARCA": "fiat",
+    "MODELO": "ducato",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Ducato",
+        "Versão:": "Maxicargo 2.8 2009",
+        "Combustível:": "Diesel",
+        "Origem:": "Nacional",
+        "Categoria:": "Furgão",
+        "Portas:": "3",
+        "Ocupantes:": "3",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transveral",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.799 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "127 @ 3.600 rpm",
+        "Torque em kgfm:": "30,6 @ 1.800 rpm",
+        "Potência específica:": "45,4 cv/litro",
+        "Torque específico:": "10,9 kgfm/litro",
+        "Taxa de compressão:": "18,5:1",
+        "Relação peso/potência:": "15,6 kg/cv",
+        "Relação peso/torque:": "64,7 kg/kgfm",
+        "Curso dos pistões:": "100 mm",
+        "Diâmetro dos cilindros:": "94,4 mm",
+        "Tuchos:": "não disponível",
+        "Código do motor:": "Sofim 8140"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "22 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,5",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "880"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/75 R16",
+        "Traseira:": "205/75 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.599 mm",
+        "Altura:": "2.450 mm",
+        "Largura:": "1.998 mm",
+        "Entre eixos:": "3.700 mm",
+        "Bitola dianteira:": "1.720 mm",
+        "Bitola traseira:": "1.710 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.980 kg",
+        "Porta-malas:": "12.000 litros",
+        "Carga útil:": "1.520 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

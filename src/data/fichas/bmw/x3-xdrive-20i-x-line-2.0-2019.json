@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Novembro/X3-19.jpg",
+    "NOME": "x3-xdrive-20i-x-line-2.0-2019",
+    "ANO": "2019",
+    "MARCA": "bmw",
+    "MODELO": "x3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X3",
+        "Versão:": "XDrive 20i X Line 2.0",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "184 cv @ 5.000 rpm",
+        "Torque:": "27,5 kgfm @ 1.350 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B48B20"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,3 s",
+        "Velocidade máxima:": "215 km/h"
+    },
+    "CONSUMO": {
+        "Urbano": "7,6 km/l",
+        "Rodoviário": "11 km/l",
+        "Autonomia:": "660 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/50 R19",
+        "Traseira:": "235/50 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,65 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.708 mm",
+        "Altura:": "1.676 mm",
+        "Largura:": "1.891 mm",
+        "Entre-eixos:": "2.864 mm",
+        "Bitola dianteira:": "1.620 mm",
+        "Bitola traseira:": "1.636 mm",
+        "Vão livre do solo:": "204 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.715 kg",
+        "Porta-malas:": "450 litros",
+        "Carga útil:": "670 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

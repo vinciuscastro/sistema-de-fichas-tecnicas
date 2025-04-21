@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-650-coup.jpg",
+    "NOME": "650i-4.4-v8-2012",
+    "ANO": "2012",
+    "MARCA": "bmw",
+    "MODELO": "650i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "650",
+        "Versão:": "4.4 V8 biturbo",
+        "Ano/modelo:": "2012",
+        "Detalhes:": "Importado, coupe, 2 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "407 cv @ 5.500 rpm",
+        "Torque:": "61,2 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,9 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,8 km/l",
+        "Rodoviário:": "9,5 km/l",
+        "Autonomia:": "665 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.894 mm",
+        "Altura:": "1.369 mm",
+        "Largura:": "1.894 mm",
+        "Entre-eixos:": "2.855 mm",
+        "Vão livre do solo:": "124 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.770 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "380 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

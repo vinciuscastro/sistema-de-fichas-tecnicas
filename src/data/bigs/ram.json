@@ -1,0 +1,1626 @@
+{
+    "marca": "ram",
+    "modelos": {
+        "rampage-rebel-2.0-turbodiesel-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2024.png",
+            "NOME": "rampage-rebel-2.0-turbodiesel-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Rebel 2.0 Turbodiesel 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-rebel-2.0-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2024.png",
+            "NOME": "rampage-rebel-2.0-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Rebel 2.0 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-laramie-2.0-turbodiesel-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2024.png",
+            "NOME": "rampage-laramie-2.0-turbodiesel-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Laramie 2.0 Turbodiesel 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-laramie-2.0-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2024.png",
+            "NOME": "rampage-laramie-2.0-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Laramie 2.0 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-rt-2.0-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-r_t-2023.jpg",
+            "NOME": "rampage-rt-2.0-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "R/T 2.0 2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-rebel-2.0-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2023.jpg",
+            "NOME": "rampage-rebel-2.0-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Rebel 2.0 2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-rebel-2.0-turbodiesel-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2023.jpg",
+            "NOME": "rampage-rebel-2.0-turbodiesel-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Rebel 2.0 Turbodiesel2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-laramie-2.0-turbodiesel-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2023.jpg",
+            "NOME": "rampage-laramie-2.0-turbodiesel-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Laramie 2.0 Turbodiesel2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "rampage-laramie-2.0-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-rampage-2023.jpg",
+            "NOME": "rampage-laramie-2.0-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "rampage",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "Rampage",
+                "Versão:": "Laramie 2.0 2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            }
+        },
+        "3500-night-edition-6.7-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-3500-2023.jpg",
+            "NOME": "3500-night-edition-6.7-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "3500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "3500",
+                "Versão:": "Night Edition 6.7 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "3500-night-edition-6.7-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-3500-2023.jpg",
+            "NOME": "3500-night-edition-6.7-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "3500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "3500",
+                "Versão:": "Night Edition 6.7 2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "2500-rodeo-edition-6.7-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-2500-rodeo-edition-2024.jpg",
+            "NOME": "2500-rodeo-edition-6.7-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "2500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "2500",
+                "Versão:": "Rodeo Edition 6.7 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "6",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "2500-night-edition-6.7-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-2500-2024.jpg",
+            "NOME": "2500-night-edition-6.7-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "2500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "2500",
+                "Versão:": "Night Edition 6.7 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "2500-laie-6.7-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-2500-2024.jpg",
+            "NOME": "2500-laie-6.7-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "2500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "2500",
+                "Versão:": "Laie 6.7 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "1500-laie-night-edition-3.0-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-1500-laie-night-edition-2025.jpg",
+            "NOME": "1500-laie-night-edition-3.0-2025",
+            "ANO": "2025",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Laie Night Edition 3.0 2025",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "1500-laie-3.0-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-1500-2025.jpg",
+            "NOME": "1500-laie-3.0-2025",
+            "ANO": "2025",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Laie 3.0 2025",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "1500-rebel-5.7-v8-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-1500-rebel.jpg",
+            "NOME": "1500-rebel-5.7-v8-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Rebel 5.7 V8",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "1500-limited-night-edition-5.7-v8-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-1500-limited-night-edition.jpg",
+            "NOME": "1500-limited-night-edition-5.7-v8-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Limited Night Edition 5.7 V8",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "1500-limited-5.7-v8-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/ram-1500-limited.jpg",
+            "NOME": "1500-limited-5.7-v8-2024",
+            "ANO": "2024",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Limited 5.7 V8",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            }
+        },
+        "1500-classic-laie-night-edition-5.7-v8-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2024/abril/ram-1500-classic.jpg",
+            "NOME": "1500-classic-laie-night-edition-5.7-v8-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Classic Laie Night Edition 5.7 V8 2023",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "4",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "Admissão",
+                "Potência máxima (cv):": "400 @ 5.600 rpm",
+                "Torque máximo (kgfm):": "56,7 @ 3.950 rpm",
+                "Potência específica:": "70,7 cv/litro",
+                "Torque específico:": "10 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "6,38 kg/cv",
+                "Rel. peso/torque:": "45 kg/kgfm",
+                "Curso dos pistões:": "90,9 mm",
+                "Diâmetro dos cilindros:": "99,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Hemi"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "Torqueflite 8HP75"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,7 seg",
+                "Velocidade máxima:": "174 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "6,4",
+                "Autonomia em km:": "627"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/60 R20",
+                "Traseira:": "275/60 R20",
+                "Altura do flanco:": "165 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.816 mm",
+                "Altura:": "1.970 mm",
+                "Largura:": "2.017 mm",
+                "Entre-eixos:": "3.570 mm",
+                "Bitola dianteira:": "1.728 mm",
+                "Bitola traseira:": "1.714 mm",
+                "Vão livre do solo:": "236 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.553 kg",
+                "Caçamba:": "1.424 litros",
+                "Carga útil:": "531 kg",
+                "Tanque combustível:": "98 litros"
+            }
+        },
+        "1500-classic-laie-night-edition-5.7-v8-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2024/abril/ram-1500-classic.jpg",
+            "NOME": "1500-classic-laie-night-edition-5.7-v8-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Classic Laie Night Edition 5.7 V8 2022",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "4",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "Admissão",
+                "Potência máxima (cv):": "400 @ 5.600 rpm",
+                "Torque máximo (kgfm):": "56,7 @ 3.950 rpm",
+                "Potência específica:": "70,7 cv/litro",
+                "Torque específico:": "10 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "6,38 kg/cv",
+                "Rel. peso/torque:": "45 kg/kgfm",
+                "Curso dos pistões:": "90,9 mm",
+                "Diâmetro dos cilindros:": "99,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Hemi"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "Torqueflite 8HP75"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,7 seg",
+                "Velocidade máxima:": "174 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "6,4",
+                "Autonomia em km:": "627"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/60 R20",
+                "Traseira:": "275/60 R20",
+                "Altura do flanco:": "165 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.816 mm",
+                "Altura:": "1.970 mm",
+                "Largura:": "2.017 mm",
+                "Entre-eixos:": "3.570 mm",
+                "Bitola dianteira:": "1.728 mm",
+                "Bitola traseira:": "1.714 mm",
+                "Vão livre do solo:": "236 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.553 kg",
+                "Caçamba:": "1.424 litros",
+                "Carga útil:": "531 kg",
+                "Tanque combustível:": "98 litros"
+            }
+        },
+        "1500-laie-5.7-v8-cd-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2024/abril/ram-1500-classic.jpg",
+            "NOME": "1500-laie-5.7-v8-cd-2023",
+            "ANO": "2023",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Classic Laie 5.7 V8 2023",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "4",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "Admissão",
+                "Potência máxima (cv):": "400 @ 5.600 rpm",
+                "Torque máximo (kgfm):": "56,7 @ 3.950 rpm",
+                "Potência específica:": "70,7 cv/litro",
+                "Torque específico:": "10 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "6,38 kg/cv",
+                "Rel. peso/torque:": "45 kg/kgfm",
+                "Curso dos pistões:": "90,9 mm",
+                "Diâmetro dos cilindros:": "99,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Hemi"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "Torqueflite 8HP75"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,7 seg",
+                "Velocidade máxima:": "174 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "6,4",
+                "Autonomia em km:": "627"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/60 R20",
+                "Traseira:": "275/60 R20",
+                "Altura do flanco:": "165 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.816 mm",
+                "Altura:": "1.970 mm",
+                "Largura:": "2.017 mm",
+                "Entre-eixos:": "3.570 mm",
+                "Bitola dianteira:": "1.728 mm",
+                "Bitola traseira:": "1.714 mm",
+                "Vão livre do solo:": "236 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.553 kg",
+                "Caçamba:": "1.424 litros",
+                "Carga útil:": "531 kg",
+                "Tanque combustível:": "98 litros"
+            }
+        },
+        "1500-laie-5.7-v8-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2024/abril/ram-1500-classic.jpg",
+            "NOME": "1500-laie-5.7-v8-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Classic Laie 5.7 V8 2022",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "4",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "Admissão",
+                "Potência máxima (cv):": "400 @ 5.600 rpm",
+                "Torque máximo (kgfm):": "56,7 @ 3.950 rpm",
+                "Potência específica:": "70,7 cv/litro",
+                "Torque específico:": "10 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "6,38 kg/cv",
+                "Rel. peso/torque:": "45 kg/kgfm",
+                "Curso dos pistões:": "90,9 mm",
+                "Diâmetro dos cilindros:": "99,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Hemi"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "Torqueflite 8HP75"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,7 seg",
+                "Velocidade máxima:": "174 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,2",
+                "Estrada em km/l:": "6,4",
+                "Autonomia em km:": "627"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/60 R20",
+                "Traseira:": "275/60 R20",
+                "Altura do flanco:": "165 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.816 mm",
+                "Altura:": "1.970 mm",
+                "Largura:": "2.017 mm",
+                "Entre-eixos:": "3.570 mm",
+                "Bitola dianteira:": "1.728 mm",
+                "Bitola traseira:": "1.714 mm",
+                "Vão livre do solo:": "236 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.553 kg",
+                "Caçamba:": "1.424 litros",
+                "Carga útil:": "531 kg",
+                "Tanque combustível:": "98 litros"
+            }
+        },
+        "3500-limited-longhorn-6.7-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/ram-3500-limited-longhorn-2022.jpg",
+            "NOME": "3500-limited-longhorn-6.7-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "3500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "3500",
+                "Versão:": "Limited Longhorn 6.7 CD 2022",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "6.690 cc",
+                "Cilindros:": "6, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "não variável",
+                "Potência máxima em CV:": "377 @ 2.800 rpm",
+                "Torque máximo em kgfm:": "117,3 @ 1.800 rpm",
+                "Potência específica:": "56,4 cv/litro",
+                "Torque específico:": "17,5 kgfm/litro",
+                "Taxa de compressão:": "19:1",
+                "Rel. peso/potência:": "9,5 kg/cv",
+                "Rel. peso/torque:": "30,7 kg/kgfm",
+                "Curso dos pistões:": "124 mm",
+                "Diâmetro dos cilindros:": "107 mm",
+                "Tuchos:": "Mecânicos",
+                "Código do motor:": "Cummnis"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "68RFE"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,1",
+                "Estrada em km/l:": "7,6",
+                "Autonomia em km:": "889"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "feixe de molas semielípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Eletro-hidráulica",
+                "Diâmetro de giro:": "15,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/70 R18",
+                "Traseira:": "275/70 R18",
+                "Altura do flanco:": "193 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "6.066 mm",
+                "Altura:": "2.039 mm",
+                "Largura:": "2.210 mm",
+                "Entre eixos:": "3.785 mm",
+                "Bitola dianteira:": "1.745 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "333 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "3.600 kg",
+                "Caçamba:": "1.280 litros",
+                "Carga útil:": "1.752 kg",
+                "Tanque combustível:": "117 litros"
+            }
+        },
+        "3500-laramie-6.7-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/ram-3500.jpg",
+            "NOME": "3500-laramie-6.7-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "3500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "3500",
+                "Versão:": "Laramie 6.7 CD 2022",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "6.690 cc",
+                "Cilindros:": "6, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "não variável",
+                "Potência máxima em CV:": "377 @ 2.800 rpm",
+                "Torque máximo em kgfm:": "117,3 @ 1.800 rpm",
+                "Potência específica:": "56,4 cv/litro",
+                "Torque específico:": "17,5 kgfm/litro",
+                "Taxa de compressão:": "19:1",
+                "Rel. peso/potência:": "9,7 kg/cv",
+                "Rel. peso/torque:": "31,2 kg/kgfm",
+                "Curso dos pistões:": "124 mm",
+                "Diâmetro dos cilindros:": "107 mm",
+                "Tuchos:": "Mecânicos",
+                "Código do motor:": "Cummnis"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "68RFE"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,1",
+                "Estrada em km/l:": "7,6",
+                "Autonomia em km:": "889"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "feixe de molas semielípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Eletro-hidráulica",
+                "Diâmetro de giro:": "15,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/70 R18",
+                "Traseira:": "275/70 R18",
+                "Altura do flanco:": "193 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "6.066 mm",
+                "Altura:": "2.039 mm",
+                "Largura:": "2.210 mm",
+                "Entre eixos:": "3.785 mm",
+                "Bitola dianteira:": "1.745 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "333 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "3.665 kg",
+                "Caçamba:": "1.280 litros",
+                "Carga útil:": "1.687 kg",
+                "Tanque combustível:": "117 litros"
+            }
+        },
+        "3500-night-edition-6.7-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/ram-3500.jpg",
+            "NOME": "3500-night-edition-6.7-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "3500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "3500",
+                "Versão:": "Night Edition 6.7 CD 2022",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "6.690 cc",
+                "Cilindros:": "6, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "não variável",
+                "Potência máxima em CV:": "377 @ 2.800 rpm",
+                "Torque máximo em kgfm:": "117,3 @ 1.800 rpm",
+                "Potência específica:": "56,4 cv/litro",
+                "Torque específico:": "17,5 kgfm/litro",
+                "Taxa de compressão:": "19:1",
+                "Rel. peso/potência:": "9,7 kg/cv",
+                "Rel. peso/torque:": "31,2 kg/kgfm",
+                "Curso dos pistões:": "124 mm",
+                "Diâmetro dos cilindros:": "107 mm",
+                "Tuchos:": "Mecânicos",
+                "Código do motor:": "Cummnis"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "68RFE"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,1",
+                "Estrada em km/l:": "7,6",
+                "Autonomia em km:": "889"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "feixe de molas semielípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Eletro-hidráulica",
+                "Diâmetro de giro:": "15,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/70 R18",
+                "Traseira:": "275/70 R18",
+                "Altura do flanco:": "193 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "6.066 mm",
+                "Altura:": "2.039 mm",
+                "Largura:": "2.210 mm",
+                "Entre eixos:": "3.785 mm",
+                "Bitola dianteira:": "1.745 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "333 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "3.665 kg",
+                "Caçamba:": "1.280 litros",
+                "Carga útil:": "1.687 kg",
+                "Tanque combustível:": "117 litros"
+            }
+        },
+        "2500-night-edition-6.7-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/ram-2500-night-edition-2022.jpg",
+            "NOME": "2500-night-edition-6.7-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "2500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "2500",
+                "Versão:": "Night Edition 6.7 CD 2022",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "6.690 cc",
+                "Cilindros:": "6, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "não variável",
+                "Potência máxima em CV:": "365 @ 2.600 rpm",
+                "Torque máximo em kgfm:": "110,7 @ 1.800 rpm",
+                "Potência específica:": "54,6 cv/litro",
+                "Torque específico:": "16,5 kgfm/litro",
+                "Taxa de compressão:": "19:1",
+                "Rel. peso/potência:": "9,4 kg/cv",
+                "Rel. peso/torque:": "31,1 kg/kgfm",
+                "Curso dos pistões:": "124 mm",
+                "Diâmetro dos cilindros:": "107 mm",
+                "Tuchos:": "Mecânicos",
+                "Código do motor:": "Cummnis"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "68RFE"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,1",
+                "Estrada em km/l:": "7,6",
+                "Autonomia em km:": "1.049"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "15,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/70 R18",
+                "Traseira:": "275/70 R18",
+                "Altura do flanco:": "193 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "6.066 mm",
+                "Altura:": "2.037 mm",
+                "Largura:": "2.210 mm",
+                "Entre eixos:": "3.785 mm",
+                "Bitola dianteira:": "1.745 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "334 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "3.448 kg",
+                "Caçamba:": "1.280 litros",
+                "Carga útil:": "1.088 kg",
+                "Tanque combustível:": "138 litros"
+            }
+        },
+        "2500-laramie-6.7-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/ram-2500-2022.jpg",
+            "NOME": "2500-laramie-6.7-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "2500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "2500",
+                "Versão:": "Laramie 6.7 CD 2022",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "6.690 cc",
+                "Cilindros:": "6, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "não variável",
+                "Potência máxima em CV:": "365 @ 2.600 rpm",
+                "Torque máximo em kgfm:": "110,7 @ 1.800 rpm",
+                "Potência específica:": "54,6 cv/litro",
+                "Torque específico:": "16,5 kgfm/litro",
+                "Taxa de compressão:": "19:1",
+                "Rel. peso/potência:": "9,4 kg/cv",
+                "Rel. peso/torque:": "31,1 kg/kgfm",
+                "Curso dos pistões:": "124 mm",
+                "Diâmetro dos cilindros:": "107 mm",
+                "Tuchos:": "Mecânicos",
+                "Código do motor:": "Cummnis"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "68RFE"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,1",
+                "Estrada em km/l:": "7,6",
+                "Autonomia em km:": "1.049"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "15,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/70 R18",
+                "Traseira:": "275/70 R18",
+                "Altura do flanco:": "193 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "6.066 mm",
+                "Altura:": "2.037 mm",
+                "Largura:": "2.210 mm",
+                "Entre eixos:": "3.785 mm",
+                "Bitola dianteira:": "1.745 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "334 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "3.448 kg",
+                "Caçamba:": "1.280 litros",
+                "Carga útil:": "1.088 kg",
+                "Tanque combustível:": "138 litros"
+            }
+        },
+        "1500-rebel-5.7-v8-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/outubro/ram-1500-rebel-2022.jpg",
+            "NOME": "1500-rebel-5.7-v8-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Rebel 5.7 V8 CD",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "Admissão",
+                "Potência máxima (cv):": "400 @ 5.600 rpm",
+                "Torque máximo (kgfm):": "56,7 @ 3.950 rpm",
+                "Potência específica:": "70,7 cv/litro",
+                "Torque específico:": "10 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "6,5 kg/cv",
+                "Rel. peso/torque:": "46 kg/kgfm",
+                "Curso dos pistões:": "90,9 mm",
+                "Diâmetro dos cilindros:": "99,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Hemi"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6,4 seg",
+                "Velocidade máxima:": "174 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,4",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "666"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "14,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/65 R18",
+                "Traseira:": "275/65 R18",
+                "Altura do flanco:": "179 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.929 mm",
+                "Altura:": "2.012 mm",
+                "Largura:": "2.084 mm",
+                "Entre-eixos:": "3.672 mm",
+                "Bitola dianteira:": "1.740 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "249 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.610 kg",
+                "Caçamba:": "1.200 litros",
+                "Carga útil:": "610 kg",
+                "Tanque combustível:": "98 litros"
+            }
+        },
+        "2500-rodeo-6.7-turbo-cd-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ram-2500-Rodeo.png",
+            "NOME": "2500-rodeo-6.7-turbo-cd-2021",
+            "ANO": "2021",
+            "MARCA": "ram",
+            "MODELO": "2500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "2500",
+                "Versão:": "Rodeo 6.7 Turbo CD",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "6",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "6.690 cc",
+                "Cilindros:": "6, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "não variável",
+                "Potência máxima (cv):": "365 @ 2.600 rpm",
+                "Torque máximo (kgfm):": "110,7 @ 1.800 rpm",
+                "Potência específica:": "54,6 cv/litro",
+                "Torque específico:": "16,5 kgfm/litro",
+                "Taxa de compressão:": "19:1",
+                "Rel. peso/potência:": "9,4 kg/cv",
+                "Rel. peso/torque:": "31,1 kg/kgfm",
+                "Curso dos pistões:": "124 mm",
+                "Diâmetro dos cilindros:": "107 mm",
+                "Tuchos:": "Mecânicos",
+                "Código do motor:": "Cummins"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "68RFE"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,1",
+                "Estrada em km/l:": "7,6",
+                "Autonomia em km:": "1.049"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "15,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/70 R18",
+                "Traseira:": "275/70 R18",
+                "Altura do flanco:": "193 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "6.066 mm",
+                "Altura:": "2.037 mm",
+                "Largura:": "2.084 mm",
+                "Entre-eixos:": "3.785 mm",
+                "Bitola dianteira:": "1.745 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "334 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "3.448 kg",
+                "Caçamba:": "1.628 litros",
+                "Carga útil:": "1.088 kg",
+                "Tanque combustível:": "138 litros"
+            }
+        },
+        "1500-rebel-5.7-v8-cd-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/RAM-1500.jpg",
+            "NOME": "1500-rebel-5.7-v8-cd-2021",
+            "ANO": "2021",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Rebel 5.7 V8 CD",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "Admissão",
+                "Potência máxima (cv):": "400 @ 5.600 rpm",
+                "Torque máximo (kgfm):": "56,7 @ 3.950 rpm",
+                "Potência específica:": "70,7 cv/litro",
+                "Torque específico:": "10 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "6,5 kg/cv",
+                "Rel. peso/torque:": "46 kg/kgfm",
+                "Curso dos pistões:": "90,9 mm",
+                "Diâmetro dos cilindros:": "99,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Hemi"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6,4 seg",
+                "Velocidade máxima:": "174 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,4",
+                "Estrada em km/l:": "6,8",
+                "Autonomia em km:": "666"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "14,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/65 R18",
+                "Traseira:": "275/65 R18",
+                "Altura do flanco:": "179 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.929 mm",
+                "Altura:": "2.012 mm",
+                "Largura:": "2.084 mm",
+                "Entre-eixos:": "3.672 mm",
+                "Bitola dianteira:": "1.740 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "249 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.610 kg",
+                "Caçamba:": "1.200 litros",
+                "Carga útil:": "610 kg",
+                "Tanque combustível:": "98 litros"
+            }
+        },
+        "1500-rebel-night-edition-5.7-v8-cd-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/RAM-1500.jpg",
+            "NOME": "1500-rebel-night-edition-5.7-v8-cd-2022",
+            "ANO": "2022",
+            "MARCA": "ram",
+            "MODELO": "1500",
+            "ESPECIFICACAO": {
+                "Marca:": "Ram",
+                "Modelo:": "1500",
+                "Versão:": "Rebel Night Edition 5.7 V8 CD",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "5",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "No bloco",
+                "Variação do comando:": "Admissão",
+                "Potência máxima (cv):": "400 @ 5.600 rpm",
+                "Torque máximo (kgfm):": "56,7 @ 3.950 rpm",
+                "Potência específica:": "70,7 cv/litro",
+                "Torque específico:": "10 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "6,5 kg/cv",
+                "Rel. peso/torque:": "46 kg/kgfm",
+                "Curso dos pistões:": "90,9 mm",
+                "Diâmetro dos cilindros:": "99,5 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Hemi"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "ZF 8HP"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "6,4 seg",
+                "Velocidade máxima:": "174 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,3",
+                "Estrada em km/l:": "6,6",
+                "Autonomia em km:": "647"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "14,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/65 R18",
+                "Traseira:": "275/65 R18",
+                "Altura do flanco:": "179 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.929 mm",
+                "Altura:": "2.012 mm",
+                "Largura:": "2.084 mm",
+                "Entre-eixos:": "3.672 mm",
+                "Bitola dianteira:": "1.740 mm",
+                "Bitola traseira:": "1.729 mm",
+                "Vão livre do solo:": "249 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.610 kg",
+                "Caçamba:": "1.200 litros",
+                "Carga útil:": "610 kg",
+                "Tanque combustível:": "98 litros"
+            }
+        }
+    }
+}

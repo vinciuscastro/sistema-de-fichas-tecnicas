@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/mercedes-benz-eqe-300-suv-2024.jpg",
+    "NOME": "eqe-suv-300-amg-line-2024",
+    "ANO": "2024",
+    "MARCA": "mercedes-benz",
+    "MODELO": "eqe",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "EQE SUV",
+        "Versão:": "300 AMG Line 2024",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "367 km",
+        "Capacidade da bateria:": "89 kWh",
+        "Potência:": "245 cv",
+        "Torque:": "56 kgfm",
+        "Peso/potência:": "10 kg/cv",
+        "Peso/torque:": "43,75 kg/kgfm",
+        "Consumo elétrico:": "20,8 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/40 R21",
+        "Traseira:": "275/40 R21",
+        "Altura do flanco:": "110 mm",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.863 mm",
+        "Altura:": "1.686 mm",
+        "Largura:": "1.940 mm",
+        "Entre eixos:": "3.030 mm",
+        "Bitola dianteira:": "1.654 mm",
+        "Bitola traseira:": "1.659 mm",
+        "Vão livre do solo:": "174 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.450 kg",
+        "Porta-malas:": "520 litros",
+        "Carga útil:": "745 kg"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/maio/Fiat-Fiorino-1988.jpg",
+    "NOME": "fiorino-furgão-1.0-1999",
+    "ANO": "1999",
+    "MARCA": "fiat",
+    "MODELO": "fiorino",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Fiorino",
+        "Versão:": "Furgão 1.0 1999",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Furgão",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transveral",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "994 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "56,1 @ 6.000 rpm",
+        "Torque em kgfm:": "8,2 @ 3.250 rpm",
+        "Potência específica:": "56,4 cv/litro",
+        "Torque específico:": "8,2 kgfm/litro",
+        "Taxa de compressão:": "9,5:1",
+        "Relação peso/potência:": "17,3 kg/cv",
+        "Relação peso/torque:": "118,5 kg/kgfm",
+        "Curso dos pistões:": "54,8 mm",
+        "Diâmetro dos cilindros:": "76 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Fiasa"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C506"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16 seg",
+        "Velocidade máxima:": "138 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "10,4",
+        "Estrada em km/l:": "13",
+        "Autonomia em km:": "832"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Não assistida",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,58 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.159 mm",
+        "Altura:": "1.873 mm",
+        "Largura:": "1.662 mm",
+        "Entre eixos:": "2.581 mm",
+        "Bitola dianteira:": "1.332 mm",
+        "Bitola traseira:": "1.360 mm",
+        "Vão livre do solo:": "135 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "972 kg",
+        "Porta-malas:": "3.200 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}

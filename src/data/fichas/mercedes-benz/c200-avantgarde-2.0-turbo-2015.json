@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-2015.jpg",
+    "NOME": "c200-avantgarde-2.0-turbo-2015",
+    "ANO": "2015",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c200",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C200",
+        "Versão:": "Avantgarde 2.0 Turbo 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.991 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "184 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "30,6 @ 1.200 rpm",
+        "Potência específica:": "92,4 cv/litro",
+        "Torque específico:": "15,4 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Relação peso/potência:": "8 kg/cv",
+        "Relação peso/torque:": "47,9 kg/kgfm",
+        "Curso dos pistões:": "92 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M274"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 seg",
+        "Velocidade máxima:": "235 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,6",
+        "Estrada em km/l:": "13,2",
+        "Autonomia em km:": "871"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólico"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/50 R17",
+        "Traseira:": "225/50 R17",
+        "Estepe:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,27 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.686 mm",
+        "Altura:": "1.442 mm",
+        "Largura:": "1.810 mm",
+        "Entre eixos:": "2.840 mm",
+        "Bitola dianteira:": "1.588 mm",
+        "Bitola traseira:": "1.570 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.465 kg",
+        "Porta-malas:": "480 litros",
+        "Carga útil:": "640 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

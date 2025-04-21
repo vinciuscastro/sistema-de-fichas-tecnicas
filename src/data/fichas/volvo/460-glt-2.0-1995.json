@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2025/janeiro/Volvo_C40_Recharge.jpg",
+    "NOME": "460-glt-2.0-1995",
+    "ANO": "1995",
+    "MARCA": "volvo",
+    "MODELO": "460",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "460",
+        "Versão:": "GLT 2.0 1995",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima ( CV):": "110 @ 5.200 rpm",
+        "Torque máximo (kgfm):": "16,8 @ 3.500 rpm",
+        "Potência específica:": "55,1 cv/litro",
+        "Torque específico:": "8,4 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Rel. peso/potência:": "9,6 kg/cv",
+        "Rel. peso/torque:": "62,6 kg/kgfm",
+        "Curso dos pistões:": "93 mm",
+        "Diâmetro dos cilindros:": "82,7 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,3 seg",
+        "Velocidade máxima:": "185 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "13",
+        "Autonomia em km:": "780"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço semi-arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Altura do flanco:": "120 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.435 mm",
+        "Altura:": "1.378 mm",
+        "Largura:": "1.686 mm",
+        "Entre eixos:": "2.503 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.051 kg",
+        "Porta-malas:": "401 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "60 litros"
+    }
+}

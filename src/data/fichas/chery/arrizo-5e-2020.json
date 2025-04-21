@@ -1,0 +1,72 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Marco/Arrizo.jpg",
+    "NOME": "arrizo-5e-2020",
+    "ANO": "2020",
+    "MARCA": "chery",
+    "MODELO": "arrizo",
+    "ESPECIFICACAO": {
+        "Marca:": "Chery",
+        "Modelo:": "Arrizo",
+        "Versão:": "5e 2020",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Potência:": "122 cv",
+        "Torque:": "28,1 kgfn",
+        "Peso/potência:": "12,46 kg/cv",
+        "Peso/torque:": "54,09 kg/kgfm",
+        "Cap. bateria:": "53,5 kWh",
+        "Autonomia:": "322 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10 seg",
+        "Velocidade máxima:": "152 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16",
+        "Estepe:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.532 mm",
+        "Altura:": "1.487 mm",
+        "Largura:": "1.814 mm",
+        "Entre eixos:": "2.650 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "129 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.520 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "não disponível"
+    }
+}

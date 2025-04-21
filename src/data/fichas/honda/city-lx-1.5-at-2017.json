@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/city-15.jpg",
+    "NOME": "city-lx-1.5-at-2017",
+    "ANO": "2017",
+    "MARCA": "honda",
+    "MODELO": "city",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "City",
+        "Versão:": "LX 1.5 AT 2017",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.497 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima em CV:": "116 (E) / 115 (G) @ 6.000 rpm",
+        "Torque máximo em kgfm:": "15,3 (E) / 15,2 (G) @ 4.800 rpm",
+        "Potência específica:": "77,5 cv/litro",
+        "Torque específico:": "10,2 kgfm/litro",
+        "Taxa de compressão:": "11,4:1",
+        "Rel. peso/potência:": "9,7 kg/cv",
+        "Rel. peso/torque:": "73,4 kg/kgfm",
+        "Curso dos pistões:": "89,4 mm",
+        "Diâmetro dos cilindros:": "73 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "L15A"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,3 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,5 (E) / 12,3 (G)",
+        "Estrada em km/l:": "10,3 (E) / 14,5 (G)",
+        "Autonomia em km:": "474 (E) / 667 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/55 R16",
+        "Traseira:": "185/55 R16",
+        "Altura do flanco:": "103 mm",
+        "Estepe:": "135/80 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.455 mm",
+        "Altura:": "1.485 mm",
+        "Largura:": "1.695 mm",
+        "Entre eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.482 mm",
+        "Bitola traseira:": "1.482 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.123 kg",
+        "Porta-malas:": "536 litros",
+        "Carga útil:": "397 kg",
+        "Tanque combustível:": "46 litros"
+    }
+}

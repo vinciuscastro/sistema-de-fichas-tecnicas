@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/911-1992.jpg",
+    "NOME": "911-carrera-4-3.6-1992",
+    "ANO": "1992",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Carrera 4 3.6",
+        "Ano/modelo:": "1992",
+        "Detalhes:": "Importado, coupé, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.600 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "250 cv @ 6.100 rpm",
+        "Torque:": "31,6 kgfm @ 4.800 rpm",
+        "Taxa de compressão:": "11,3:1",
+        "Código do motor:": "não informado"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6 s",
+        "Velocidade máxima:": "261 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,5 km/l",
+        "Rodoviário:": "10 km/l",
+        "Autonomia:": "770 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,84 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.250 mm",
+        "Altura:": "1.310 mm",
+        "Largura:": "1.652 mm",
+        "Entre-eixos:": "2.272 mm",
+        "Bitola dianteira:": "1.374 mm",
+        "Bitola traseira:": "1.369 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.450 kg",
+        "Porta-malas:": "123 litros",
+        "Carga útil:": "340 kg",
+        "Tanque combustível:": "77 litros"
+    }
+}

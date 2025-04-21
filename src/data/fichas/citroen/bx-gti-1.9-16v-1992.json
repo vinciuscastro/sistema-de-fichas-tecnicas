@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/BX.jpg",
+    "NOME": "bx-gti-1.9-16v-1992",
+    "ANO": "1992",
+    "MARCA": "citroen",
+    "MODELO": "bx",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "BX",
+        "Versão:": "GTi 1.9 16V 1992",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.905 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "160 @ 6.500 rpm",
+        "Torque máximo kgfm:": "18,5 @ 5.000 rpm",
+        "Potência específica:": "84 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10,4:1",
+        "Rel. peso/potência:": "6,7 kg/cv",
+        "Rel. peso/torque:": "57,8 kg/kgfm",
+        "Curso dos pistões:": "88 mm",
+        "Diâmetro cilindros:": "83 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "XU9J4"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "BE3/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,6 seg",
+        "Velocidade máxima:": "220 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,5",
+        "Estrada em km/l:": "11",
+        "Autonomia em km:": "726"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Esfera hidropneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R14",
+        "Traseira:": "195/60 R14",
+        "Altura do flanco:": "117 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,95 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.237 mm",
+        "Altura:": "1.361 mm",
+        "Largura:": "1.682 mm",
+        "Entre-eixos:": "2.655 mm",
+        "Bitola dianteira:": "1.440 mm",
+        "Bitola traseira:": "1.384 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.070 kg",
+        "Porta-malas:": "444 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

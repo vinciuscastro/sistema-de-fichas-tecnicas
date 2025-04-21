@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/C5_01.jpg",
+    "NOME": "c5-exclusive-2.0-at-2003",
+    "ANO": "2003",
+    "MARCA": "citroen",
+    "MODELO": "c5",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "C5",
+        "Versão:": "Exclusive 2.0 AT 2003",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima CV:": "138 @ 6.000 rpm",
+        "Torque máximo kgfm:": "20 @ 4.100 rpm",
+        "Potência específica:": "69,1 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "10,8:1",
+        "Rel. peso/potência:": "9,6 kg/cv",
+        "Rel. peso/torque:": "66,3 kg/kgfm",
+        "Curso dos pistões:": "88 mm",
+        "Diâmetro cilindros:": "85 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EW10J4"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "AL4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,3 seg",
+        "Velocidade máxima:": "202 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,5",
+        "Estrada em km/l:": "11,4",
+        "Autonomia em km:": "752"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Esfera hidropneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55 R16",
+        "Traseira:": "215/55 R16",
+        "Altura do flanco:": "118 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.618 mm",
+        "Altura:": "1.476 mm",
+        "Largura:": "1.770 mm",
+        "Entre-eixos:": "2.750 mm",
+        "Bitola dianteira:": "1.530 mm",
+        "Bitola traseira:": "1.485 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.325 kg",
+        "Porta-malas:": "456 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

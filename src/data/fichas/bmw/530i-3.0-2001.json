@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-530-2001.jpg",
+    "NOME": "530i-3.0-2001",
+    "ANO": "2001",
+    "MARCA": "bmw",
+    "MODELO": "530i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "530i",
+        "Versão:": "3.0 2001",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.793 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima em CV:": "231@ 5.900 rpm",
+        "Torque máximo em kgfm:": "30,6 @ 3.500 rpm",
+        "Potência específica:": "77,5 cv/litro",
+        "Torque específico:": "10,3 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "6,7 kg/cv",
+        "Relação peso/torque:": "50,3 kg/kgfm",
+        "Curso dos pistões:": "89,6 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M54B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 5HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,6 seg",
+        "Velocidade máxima:": "244 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,3",
+        "Estrada em km/l:": "10,2",
+        "Autonomia em km:": "714"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R16",
+        "Traseira:": "225/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.775 mm",
+        "Altura:": "1.435 mm",
+        "Largura:": "1.800 mm",
+        "Entre eixos:": "2.830 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.540 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "535 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

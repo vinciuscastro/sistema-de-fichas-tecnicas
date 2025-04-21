@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Volks/Fusca.jpg",
+    "NOME": "fusca-2.0-tsi-dsg",
+    "ANO": "DSG",
+    "MARCA": "volkswagen",
+    "MODELO": "fusca",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Fusca",
+        "Versão:": "2.0 TSi DSG",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, hatch, 2 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "211 cv @ 5.000 rpm",
+        "Torque:": "28,6 kgfm @ 1.500 rpm",
+        "Taxa de compressão:": "9,61"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,9 s",
+        "Velocidade máxima:": "224 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,2 km/l",
+        "Rodoviário:": "10,7 km/l",
+        "Autonomia:": "588 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "215/55 R17",
+        "Traseiros:": "215/55 R17"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.278 mm",
+        "Altura:": "1.486 mm",
+        "Largura:": "1.808 mm",
+        "Entre-eixos:": "2.537 mm",
+        "Vão livre do solo:": "não informado"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.368 kg",
+        "Porta-malas:": "310 litros",
+        "Carga útil:": "482 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

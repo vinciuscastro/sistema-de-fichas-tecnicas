@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/500_12.jpg",
+    "NOME": "500-cult-1.4-8v-dualogic-2014",
+    "ANO": "2014",
+    "MARCA": "fiat",
+    "MODELO": "500",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "500",
+        "Versão:": "Cult 1.4 8V Dualogic 2014",
+        "Origem:": "Importado",
+        "Detalhes:": "Hatch, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.368 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada, variável",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Flex",
+        "Potência em CV:": "88 (E) / 85 (G) @ 5.750 rpm",
+        "Torque em kgfm:": "12,5 (E) / 12,4 (G) @ 3.500 rpm",
+        "Taxa de compressão:": "12,3:1",
+        "Código do motor:": "Fire"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "5",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C513"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 s",
+        "Velocidade máxima:": "172 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "7,7 km/l (E) / 11,2 km/l (G)",
+        "Estrada:": "8,7 km/l (E) / 12,8 km/l (G)",
+        "Autonomia:": "348 km (E) / 512 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/55/15",
+        "Traseira:": "185/55/15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,06 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.546 mm",
+        "Altura:": "1.502 mm",
+        "Largura:": "1.627 mm",
+        "Entre eixos:": "2.300 mm",
+        "Bitola dianteira:": "1.411 mm",
+        "Bitola traseira:": "1.407 mm",
+        "Vão livre do solo:": "125 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.066 kg",
+        "Porta-malas:": "185 litros",
+        "Carga útil:": "320 kg",
+        "Tanque combustível:": "40 litros"
+    }
+}

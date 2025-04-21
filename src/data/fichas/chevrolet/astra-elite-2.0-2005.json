@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Astra_Elite.jpg",
+    "NOME": "astra-elite-2.0-2005",
+    "ANO": "2005",
+    "MARCA": "chevrolet",
+    "MODELO": "astra",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Astra",
+        "Versão:": "Elite 2.0",
+        "Ano fabricação:": "2005",
+        "Detalhes:": "Nacional, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Flex",
+        "Potência:": "127 cv (E) / 121 cv (G) @ 5.200 rpm",
+        "Torque:": "19,6 kgfm (E) / 18,3 kgfm (G) @ 2.400 rpm",
+        "Taxa de compressão:": "11,3:1",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,1 s",
+        "Velocidade máxima:": "201 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,7 km/l (E) / 8,5 km/l (G)",
+        "Rodoviário:": "10,1 km/l (E) / 12 km/l (G)",
+        "Autonomia:": "525 km (E) / 524 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Eixo de torção, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60 R15",
+        "Traseira:": "195/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,08 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.199 mm",
+        "Altura:": "1.431 mm",
+        "Largura:": "1.709 mm",
+        "Entre eixos:": "2.614 mm",
+        "Bitola dianteira:": "1.484 mm",
+        "Bitola traseira:": "1.460 mm",
+        "Vão livre do solo:": "115 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.161 kg",
+        "Porta-malas:": "370 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

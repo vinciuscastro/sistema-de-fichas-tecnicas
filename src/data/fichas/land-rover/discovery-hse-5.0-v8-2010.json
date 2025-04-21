@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Discovery-2010.jpg",
+    "NOME": "discovery-hse-5.0-v8-2010",
+    "ANO": "2010",
+    "MARCA": "land-rover",
+    "MODELO": "discovery",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Discovery",
+        "Versão:": "HSE 5.0 V8",
+        "Ano/modelo:": "2010",
+        "Detalhes:": "Importado, SUV, 4 portas, 7 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "5.000 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "375 cv @ 6.500 rpm",
+        "Torque:": "52 kgfm @ 3.500 rpm",
+        "Taxa de compressão:": "11,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,9 s",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,2 km/l",
+        "Rodoviário:": "6,8 km/l",
+        "Autonomia:": "584 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, braços sobrepostos, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/50 R20",
+        "Traseira:": "255/50 R20"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.829 mm",
+        "Altura:": "1.887 mm",
+        "Largura:": "1.915 mm",
+        "Entre-eixos:": "2.885 mm",
+        "Vão livre do solo:": "240 mm",
+        "Ângulo de entrada:": "36 graus",
+        "Ângulo de saída:": "28 graus",
+        "Travessia de água:": "600 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.473 kg",
+        "Porta-malas:": "280 litros",
+        "Carga útil:": "767 kg",
+        "Tanque combustível:": "86 litros"
+    }
+}

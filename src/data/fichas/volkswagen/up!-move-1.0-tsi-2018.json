@@ -1,0 +1,68 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/VW-up-2018.jpg",
+    "NOME": "up!-move-1.0-tsi-2018",
+    "ANO": "2018",
+    "MARCA": "volkswagen",
+    "MODELO": "up!",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "up!",
+        "Versão:": "Move 1.0 TSi",
+        "Ano/modelo:": "2018",
+        "Detalhes:": "Nacional, hatch, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "105 cv (E) / 101 cv (G) @ 5.000 rpm",
+        "Torque:": "16,8 kgfm (E) / 16,8 kgfm (G) @ 1.500 rpm",
+        "Taxa de compressão:": "10,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,5 s",
+        "Velocidade máxima:": "181 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10 km/l (E) / 14,3 km/l (G)",
+        "Rodoviário:": "11,5 km/l (E) / 16,3 km/l (G)",
+        "Autonomia:": "575 km (E) / 815 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Tambores"
+    },
+    "PNEUS": {
+        "Dianteiros:": "175/70 R14",
+        "Traseiros:": "175/70 R14"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.689 mm",
+        "Altura:": "1.504 mm",
+        "Largura:": "1.645 mm",
+        "Entre eixos:": "2.421 mm",
+        "Bitola dianteira:": "1.423 mm",
+        "Bitola traseira:": "1.424 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "951 kg",
+        "Porta-malas:": "285 litros",
+        "Carga útil:": "410 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

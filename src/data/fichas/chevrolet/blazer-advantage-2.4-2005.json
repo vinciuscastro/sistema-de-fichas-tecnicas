@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Blazer_Advantage.jpg",
+    "NOME": "blazer-advantage-2.4-2005",
+    "ANO": "2005",
+    "MARCA": "chevrolet",
+    "MODELO": "blazer",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Blazer",
+        "Versão:": "Advantage 2.4 2005",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.405 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "128 @ 4.800 rpm",
+        "Torque máx. (kgfm):": "21,9 @ 2.600 rpm",
+        "Potência específica:": "53,2 cv/litro",
+        "Torque específico:": "9,1 kgfm/litro",
+        "Taxa de compressão:": "9,6:1",
+        "Rel. peso/potência:": "13,4 kg/cv",
+        "Rel. peso/torque:": "78,5 kg/kgfm",
+        "Curso dos pistões:": "100 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "FSO 1305A"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14 seg",
+        "Velocidade máxima:": "155 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,3",
+        "Estrada em km/l:": "8,8",
+        "Autonomia em km:": "616"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola parabólica de lâmina única"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/75 R15",
+        "Traseira:": "225/75 R15",
+        "Altura do flanco:": "169 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.709 mm",
+        "Altura:": "1.722 mm",
+        "Largura:": "1.731 mm",
+        "Entre eixos:": "2.718 mm",
+        "Bitola dianteira:": "1.454 mm",
+        "Bitola traseira:": "1.399 mm",
+        "Vão livre do solo:": "228 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.720 kg",
+        "Porta-malas:": "456 litros",
+        "Carga útil:": "745 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

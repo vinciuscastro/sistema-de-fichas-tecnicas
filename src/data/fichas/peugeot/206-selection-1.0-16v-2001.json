@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Peugeot-206-2002.jpg",
+    "NOME": "206-selection-1.0-16v-2001",
+    "ANO": "2001",
+    "MARCA": "peugeot",
+    "MODELO": "206",
+    "ESPECIFICACAO": {
+        "Marca:": "Peugeot",
+        "Modelo:": "206",
+        "Versão:": "Selection 1.0 16V 2001",
+        "Origem:": "Nacional",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "70 @ 5.500 rpm",
+        "Torque em kgfm:": "9,5 @ 4.200 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "D4D"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "BE4/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,4 s",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,4",
+        "Estrada em km/l:": "15,5",
+        "Autonomia em km:": "775"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "9,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65/R14",
+        "Traseira:": "175/65/R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,01 m2",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.835 mm",
+        "Altura:": "1.432 mm",
+        "Largura:": "1.652 mm",
+        "Entre eixos:": "2.442 mm",
+        "Bitola dianteira:": "1.425 mm",
+        "Bitola traseira:": "1.410 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "950 kg",
+        "Porta-malas:": "245 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "50 litros"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/911-cabriolet-2005.jpg",
+    "NOME": "911-turbo-cabriolet-3.6-2005",
+    "ANO": "2005",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Turbo 3.6",
+        "Ano/modelo:": "2005",
+        "Detalhes:": "Importado, conversível, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.600 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "420 cv @ 6.000 rpm",
+        "Torque:": "57,1 kgfm @ 2.600 rpm",
+        "Taxa de compressão:": "9,4:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,3 s",
+        "Velocidade máxima:": "307 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6 km/l",
+        "Rodoviário:": "9 km/l",
+        "Autonomia:": "567 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/40 R18",
+        "Traseira:": "295/30 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,01 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.435 mm",
+        "Altura:": "1.295 mm",
+        "Largura:": "1.830 mm",
+        "Entre-eixos:": "2.350 mm",
+        "Bitola dianteira:": "1.472 mm",
+        "Bitola traseira:": "1.528 mm",
+        "Vão livre do solo:": "110 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.660 kg",
+        "Porta-malas:": "100 litros",
+        "Carga útil:": "320 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Versa-2016.jpg",
+    "NOME": "versa-s-1.0-2016",
+    "ANO": "2016",
+    "MARCA": "nissan",
+    "MODELO": "versa",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Versa",
+        "Versão:": "S 1.0 2016",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima (cv):": "77 (E) / 77 (G) @ 6.200 rpm",
+        "Torque máximo (kgfm):": "10 (E) / 10 (G) @ 4.000 rpm",
+        "Potência específica:": "77,1 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "11,2:1",
+        "Rel. peso/potência:": "13,7 kg/cv",
+        "Rel. peso/torque:": "105,6 kg/kgfm",
+        "Curso dos pistões:": "69,7 mm",
+        "Diâmetro dos cilindros:": "78 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "HR10"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16 seg",
+        "Velocidade máxima:": "162 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,8 (E) / 12,9 (G)",
+        "Estrada em km/l:": "10,5 (E) / 15,3 (G)",
+        "Autonomia em km:": "431 (E) / 627 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15",
+        "Altura do flanco:": "120 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.492 mm",
+        "Altura:": "1.506 mm",
+        "Largura:": "1.695 mm",
+        "Entre-eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.480 mm",
+        "Bitola traseira:": "1.485 mm",
+        "Vão livre do solo:": "138 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.056 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "41 litros"
+    }
+}

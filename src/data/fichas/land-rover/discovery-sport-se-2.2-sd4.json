@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-03.jpg",
+    "NOME": "discovery-sport-se-2.2-sd4",
+    "ANO": "SD4",
+    "MARCA": "land-rover",
+    "MODELO": "discovery",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Discovery Sport",
+        "Versão:": "SE 2.2 SD4",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Importado, SUV, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "2.179 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "190 cv @ 3.500 rpm",
+        "Torque:": "43 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "15,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,9 s",
+        "Velocidade máxima:": "188 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,3 km/l",
+        "Rodoviário:": "11,4 km/l",
+        "Autonomia:": "741 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "235/60 R18",
+        "Traseiros:": "235/60 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.589 mm",
+        "Altura:": "1.724 mm",
+        "Largura:": "2.000 mm",
+        "Entre-eixos:": "2.741 mm",
+        "Vão livre do solo:": "212 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.863 kg",
+        "Porta-malas:": "200 litros",
+        "Carga útil:": "730 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

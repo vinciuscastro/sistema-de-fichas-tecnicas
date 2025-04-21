@@ -1,0 +1,68 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Fiat/Strada/Adventure.jpg",
+    "NOME": "strada-adventure-1.8-16v-ce",
+    "ANO": "CE",
+    "MARCA": "fiat",
+    "MODELO": "strada",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Strada",
+        "Versão:": "Adventure 1.8 16V Cabine Estendida",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Nacional, picape, 2 portas, 1 ano de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.747 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "132 cv (E) / 130 cv (G) @ 5.250 rpm",
+        "Torque:": "18,9 kgfm (E) / 18,4 kgfm (G) @ 4.500 rpm",
+        "Taxa de compressão:": "11,2:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,3 s",
+        "Velocidade máxima:": "179 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,7 km/l (E) / 9,8 km/l (G)",
+        "Rodoviário:": "7,5 km/l (E) / 11,1 km/l (G)",
+        "Autonomia :": "435 km (E) / 643 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos, ventilados",
+        "Traseiros:": "Tambores"
+    },
+    "PNEUS": {
+        "Dianteiros:": "205/60 R16",
+        "Traseiros:": "205/60 R16"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.471 mm",
+        "Altura:": "1.648 mm",
+        "Largura:": "1.740 mm",
+        "Entre-eixos:": "2.753 mm",
+        "Bitola dianteira:": "1.469 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "194 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.201 kg",
+        "Caçamba:": "910 litros",
+        "Carga útil:": "685 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

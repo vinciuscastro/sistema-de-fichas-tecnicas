@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Voyage-14.jpg",
+    "NOME": "voyage-seleção-1.0-2015",
+    "ANO": "2015",
+    "MARCA": "volkswagen",
+    "MODELO": "voyage",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Voyage",
+        "Versão:": "Seleção 1.0 2015",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima (cv):": "76 (E) / 72 (G) @ 5.250 rpm",
+        "Torque máximo (kgfm):": "10,6 (E) / 9,7 (G) @ 3.850 rpm",
+        "Potência específica:": "76,1 cv/litro",
+        "Torque específico:": "10,6 kgfm/litro",
+        "Taxa de compressão:": "12,7:1",
+        "Rel. peso/potência:": "12,8 kg/cv",
+        "Rel. peso/torque:": "91,9 kg/kgfm",
+        "Curso dos pistões:": "70,6 mm",
+        "Diâmetro dos cilindros:": "67,1 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA111"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MQ200"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,1 seg",
+        "Velocidade máxima:": "167 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8 (E) / 11,8 (G)",
+        "Estrada em km/l:": "10,1 (E) / 14,9 (G)",
+        "Autonomia em km:": "556 (E) / 820 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Estepe:": "185/65 R14",
+        "Altura do flanco:": "120 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,03 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.215 mm",
+        "Altura:": "1.462 mm",
+        "Largura:": "1.656 mm",
+        "Entre eixos:": "2.465 mm",
+        "Bitola dianteira:": "1.429 mm",
+        "Bitola traseira:": "1.416 mm",
+        "Vão livre do solo:": "161 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "974 kg",
+        "Porta-malas:": "480 litros",
+        "Carga útil:": "440 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

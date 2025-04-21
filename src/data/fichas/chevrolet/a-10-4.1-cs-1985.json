@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chevrolet-A10-1985.jpg",
+    "NOME": "a-10-4.1-cs-1985",
+    "ANO": "1985",
+    "MARCA": "chevrolet",
+    "MODELO": "a",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "A-10",
+        "Versão:": "4.1 CS",
+        "Ano/modelo:": "1985",
+        "Detalhes:": "Nacional, picape, 2 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural - carburador",
+        "Cilindrada:": "4.093 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No bloco",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Álcool",
+        "Potência:": "122 cv @ 4.000 rpm",
+        "Torque:": "27 kgfm @ 2.500 rpm",
+        "Taxa de compressão:": "10,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "30 s",
+        "Velocidade máxima:": "130 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "3 km/l",
+        "Rodoviário:": "4 km/l",
+        "Autonomia:": "352 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Disco",
+        "Traseiro:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.828 mm",
+        "Altura:": "1.745 mm",
+        "Largura:": "1.980 mm",
+        "Entre-eixos:": "2.920 mm",
+        "Vão livre do solo:": "320 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.570 kg",
+        "Caçamba:": "750 litros",
+        "Carga útil:": "750 kg",
+        "Tanque combustível:": "88 litros"
+    }
+}

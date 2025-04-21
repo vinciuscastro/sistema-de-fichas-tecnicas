@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Agosto/GLC63_Coupe.jpg",
+    "NOME": "glc-63-amg-coupé-s-4.0-v8-2020",
+    "ANO": "2020",
+    "MARCA": "mercedes-benz",
+    "MODELO": "glc",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "GLC",
+        "Versão:": "63 AMG Coupé S 4.0 V8",
+        "Ano/modelo:": "2020",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 lugares"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "3.987 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "476 cv @ 5.500 rpm",
+        "Torque:": "66,3 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "10,7:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado DCT",
+        "Marchas:": "9",
+        "Tração:": "Integral parcial"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,2 km/l",
+        "Rodoviário:": "8,1 km/l",
+        "Autonomia:": "534 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Double wishbone, molas pneumáticas",
+        "Traseira:": "Double wishbone, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "265/40 R21",
+        "Traseiros:": "265/35 R21"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.679 mm",
+        "Altura:": "1.628 mm",
+        "Largura:": "1.930 mm",
+        "Entre eixos:": "2.873 mm",
+        "Vão livre do solo:": "170 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.925 kg",
+        "Porta-malas:": "550 litros",
+        "Carga útil:": "655 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

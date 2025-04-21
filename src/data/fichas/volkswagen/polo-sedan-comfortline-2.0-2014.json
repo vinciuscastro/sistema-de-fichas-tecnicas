@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Polo-Sedan-08.jpg",
+    "NOME": "polo-sedan-comfortline-2.0-2014",
+    "ANO": "2014",
+    "MARCA": "volkswagen",
+    "MODELO": "polo",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Polo Sedan",
+        "Versão:": "Comfortline 2.0",
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "120 (etanol) / 116 (gasolina) @ 5.250 rpm",
+        "Torque em kgfm:": "17,3 @ 2.250 rpm",
+        "Taxa de compressão:": "11,5:1",
+        "Código do motor:": "EA113"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MQ200"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,7 s",
+        "Velocidade máxima:": "202 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,1 (etanol) / 9 (gasolina)",
+        "Estrada em km/l:": "10,5 (etanol) / 13 (gasolina)",
+        "Autonomia em km:": "473 (etanol) / 585 (gasolina)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/55/ R15",
+        "Traseira:": "195/55 /R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.198 mm",
+        "Altura:": "1.501 mm",
+        "Largura:": "1.650 mm",
+        "Entre eixos:": "2.465 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.171 kg",
+        "Porta-malas:": "432 litros",
+        "Carga útil:": "479 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

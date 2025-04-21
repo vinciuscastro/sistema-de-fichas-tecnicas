@@ -1,0 +1,102 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Setembro/Ferrari-296-GTB-2022.jpg",
+    "NOME": "296-gtb-3.0-v6-2022",
+    "ANO": "2022",
+    "MARCA": "ferrari",
+    "MODELO": "296",
+    "ESPECIFICACAO": {
+        "Marca:": "Ferrari",
+        "Modelo:": "296",
+        "Versão:": "GTB 3.0 V6 2022",
+        "Combustível:": "Híbrido Plug In - Gasolina/Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.992 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "663 @ 7.500 rpm",
+        "Torque em kgfm:": "75,5 @ 6.250 rpm",
+        "Potência específica:": "221,6 cv/litro",
+        "Torque específico:": "25,2 kgfm/litro",
+        "Taxa de compressão:": "informação não disponível",
+        "Relação peso/potência:": "2,2 kg/cv",
+        "Relação peso/torque:": "19,5 kg/kgfm",
+        "Curso dos pistões:": "informação não disponível",
+        "Diâmetro dos cilindros:": "informação não disponível",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "F163",
+        "Potência:": "167 cv (tras)",
+        "Potência combinada:": "830 cv",
+        "Torque:": "informação não disponível",
+        "Torque combinado:": "informação não disponível",
+        "Capacidade bateria:": "7,45 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "25 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,9 seg",
+        "Velocidade máxima:": "330 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,9",
+        "Estrada em km/l:": "12,2",
+        "Autonomia em km:": "793"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/35 R20",
+        "Traseira:": "305/35 R20",
+        "Altura do flanco:": "107 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.565 mm",
+        "Altura:": "1.187 mm",
+        "Largura:": "1.958 mm",
+        "Entre eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.665 mm",
+        "Bitola traseira:": "1.632 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.470 kg",
+        "Porta-malas:": "74 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "74 litros"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Novembro/fit-04.jpg",
+    "NOME": "fit-lx-1.4-8v-2005",
+    "ANO": "2005",
+    "MARCA": "honda",
+    "MODELO": "fit",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "Fit",
+        "Versão:": "LX 1.4 8V 2005",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.339 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Variação do comando:": "não variávél",
+        "Potência em CV:": "80 @ 5.700 rpm",
+        "Torque em kgfm:": "11,8 @ 2.800 rpm",
+        "Potência específica:": "59,7 cv/litro",
+        "Torque específico:": "8,8 kgfm/litro",
+        "Taxa de compressão:": "10,4:1",
+        "Relação peso/potência:": "13,2 kg/cv",
+        "Relação peso/torque:": "89,4 kg/kgfm",
+        "Curso dos pistões:": "80 mm",
+        "Diâmetro dos cilindros:": "73 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "L13Ai-DSI"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,1 seg",
+        "Velocidade máxima:": "165 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,9",
+        "Estrada em km/l:": "16",
+        "Autonomia em km:": "672"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R14",
+        "Traseira:": "175/64 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.830 mm",
+        "Altura:": "1.525 mm",
+        "Largura:": "1.675 mm",
+        "Entre eixos:": "2.450 mm",
+        "Bitola dianteira:": "1.460 mm",
+        "Bitola traseira:": "1.445 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.055 kg",
+        "Porta-malas:": "353 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "42 litros"
+    }
+}

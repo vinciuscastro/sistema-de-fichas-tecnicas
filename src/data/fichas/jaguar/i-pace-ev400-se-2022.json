@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/jaguar-i-pace.jpg",
+    "NOME": "i-pace-ev400-se-2022",
+    "ANO": "2022",
+    "MARCA": "jaguar",
+    "MODELO": "i",
+    "ESPECIFICACAO": {
+        "Marca:": "Jaguar",
+        "Modelo:": "EV400",
+        "Versão:": "SE 2022",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "470 km",
+        "Capacidade da bateria:": "90 kWh",
+        "Potência:": "200 cv",
+        "Potência combinada:": "400 cv",
+        "Torque:": "35,5 kgfm",
+        "Torque combinado:": "71 kgfm",
+        "Rel. peso/Potência:": "5,52 kg/cv",
+        "Rel. peso/torque": "31,10 kg/kgfm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Integral sob demanda"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,8 seg",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/50 R20",
+        "Traseira:": "245/50 R20",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,68 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.682 mm",
+        "Altura:": "1.565 mm",
+        "Largura:": "2.011 mm",
+        "Entre eixos:": "2.990 mm",
+        "Bitola dianteira:": "1.627 mm",
+        "Bitola traseira:": "1.629 mm",
+        "Vão livre do solo:": "142 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.208 kg",
+        "Porta-malas:": "656 litros",
+        "Carga útil:": "462 kg"
+    }
+}

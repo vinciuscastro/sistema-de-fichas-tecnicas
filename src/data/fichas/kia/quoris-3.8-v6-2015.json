@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Quoris.jpg",
+    "NOME": "quoris-3.8-v6-2015",
+    "ANO": "2015",
+    "MARCA": "kia",
+    "MODELO": "quoris",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Quoris",
+        "Versão:": "3.8 V6 2015",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.778 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. ( CV):": "294 @ 6.200 rpm",
+        "Torque máx. (kgfm):": "36,5 @ 4.500 rpm",
+        "Potência específica:": "77,8 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Rel. peso/potência:": "6,8 kg/cv",
+        "Rel. peso/torque:": "54,8 kg/kgfm",
+        "Curso dos pistões:": "87 mm",
+        "Diâmetro dos cilindros:": "96 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Lambda"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 seg",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,4",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "675"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/50 R18",
+        "Traseira:": "245/50 R18",
+        "Altura do flanco:": "123 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,41 m²",
+        "Coef. aerodinâmico:": "0,27 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.090 mm",
+        "Altura:": "1.490 mm",
+        "Largura:": "1.900 mm",
+        "Entre eixos:": "3.045 mm",
+        "Bitola dianteira:": "1.616 mm",
+        "Bitola traseira:": "1.634 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.000 kg",
+        "Porta-malas:": "455 litros",
+        "Carga útil:": "430 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

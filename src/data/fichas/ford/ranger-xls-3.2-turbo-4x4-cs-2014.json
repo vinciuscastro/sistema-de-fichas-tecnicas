@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/Ranger-Sport-2015.jpg",
+    "NOME": "ranger-xls-3.2-turbo-4x4-cs-2014",
+    "ANO": "2014",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "XLS 3.2 Turbo 4x4 CS 2014",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado - Argentina",
+        "Categoria:": "Picape",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.198 cc",
+        "Cilindros:": "5, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "200 @ 3.000 rpm",
+        "Torque máx. (kgfm):": "47,9 @ 1.750 rpm",
+        "Potência específica:": "62,5 cv/litro",
+        "Torque específico:": "15 kgfm/litro",
+        "Taxa de compressão:": "15,5:1",
+        "Rel. peso/potência:": "9,9 kg/cv",
+        "Rel. peso/torque:": "41,4 kg/kgfm",
+        "Curso dos pistões:": "100,7 mm",
+        "Diâmetro dos cilindros:": "89,9 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "Duratorq"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "Getrag MT82"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,4 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "720"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/70 R16",
+        "Traseira:": "255/70 R16",
+        "Altura do flanco:": "179 mm",
+        "Estepe:": "255/70 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.351 mm",
+        "Altura:": "1.806 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "3.220 mm",
+        "Bitola dianteira:": "1.590 mm",
+        "Bitola traseira:": "1.590 mm",
+        "Vão livre do solo:": "232 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.981 kg",
+        "Caçamba:": "1.800 litros",
+        "Carga útil:": "1.219 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

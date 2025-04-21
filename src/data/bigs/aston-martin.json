@@ -1,0 +1,26 @@
+{
+    "marca": "aston-martin",
+    "modelos": {
+        "vantage-s-6.0-v12-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-vantage-2012.jpg",
+            "NOME": "vantage-s-6.0-v12-2016",
+            "ANO": "2016",
+            "MARCA": "aston-martin",
+            "MODELO": "vantage",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vantage S",
+                "Versão:": "6.0 V12 2016",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        }
+    }
+}

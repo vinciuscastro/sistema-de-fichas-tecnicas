@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Maio/Chevrolet-Monza-84-2P.jpg",
+    "NOME": "monza-sl-1.8-1984",
+    "ANO": "1984",
+    "MARCA": "chevrolet",
+    "MODELO": "monza",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Monza",
+        "Versão:": "SL 1.8 1984",
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "83 @ 5.200 rpm",
+        "Torque em kgfm:": "14,4 @ 3.100 rpm",
+        "Taxa de compressão:": "8:1",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,5 seg",
+        "Velocidade máxima:": "157 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,4",
+        "Estrada em km/l:": "13,5",
+        "Autonomia em km:": "824"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/70/ R13",
+        "Traseira:": "185/70/ R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,93 m²",
+        "Coef. aerodinâmico:": "0,39 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.366 mm",
+        "Altura:": "1.358 mm",
+        "Largura:": "1.668 mm",
+        "Entre eixos:": "2.574 mm",
+        "Bitola dianteira:": "1.406 mm",
+        "Bitola traseira:": "1.406 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.047 kg",
+        "Porta-malas:": "510 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "61 litros"
+    }
+}

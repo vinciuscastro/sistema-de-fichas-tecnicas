@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/IEV20.jpg",
+    "NOME": "iev20-elétrico-2022",
+    "ANO": "2022",
+    "MARCA": "jac",
+    "MODELO": "iev20",
+    "ESPECIFICACAO": {
+        "Marca:": "Jac",
+        "Modelo:": "Iev20 Elétrico 2022",
+        "Versão:": "Elétrico 2021",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "3",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "320 km",
+        "Capacidade da bateria:": "41 kWh",
+        "Potência:": "68 cv",
+        "Torque:": "21,9 kgfm",
+        "Peso/potência:": "19,71 kg/cv",
+        "Peso/torque:": "61,19 kg/kgfm",
+        "Consumo elétrico:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16 seg",
+        "Velocidade máxima:": "112 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15",
+        "Altura do flanco:": "120 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.775 mm",
+        "Altura:": "1.570 mm",
+        "Largura:": "1.685 mm",
+        "Entre eixos:": "2.390 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.340 kg",
+        "Porta-malas:": "121 litros",
+        "Carga útil:": "355 kg"
+    }
+}

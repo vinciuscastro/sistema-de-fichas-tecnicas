@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/nissan-leaf.jpg",
+    "NOME": "leaf-ze-2021",
+    "ANO": "2021",
+    "MARCA": "nissan",
+    "MODELO": "leaf",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Leaf",
+        "Versão:": "ZE 2021",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Potência:": "149 cv",
+        "Torque:": "48,53 kgfm",
+        "Peso/potência:": "10,62 kg/cv",
+        "Peso/torque:": "48,53 kg/kgfm",
+        "Capacidade da bateria:": "40 kWh",
+        "Consumo elétrico:": "16kWh/100 km",
+        "Autonomia:": "273 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,9 seg",
+        "Velocidade máxima:": "144 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/50 R17",
+        "Traseira:": "215/50 R17",
+        "Estepe:": "125/90 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,38 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.480 mm",
+        "Altura:": "1.565 mm",
+        "Largura:": "1.790 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.530 mm",
+        "Bitola traseira:": "1.545 mm",
+        "Vão livre do solo:": "155 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.582 kg",
+        "Porta-malas:": "435 litros",
+        "Carga útil:": "não disponível"
+    }
+}

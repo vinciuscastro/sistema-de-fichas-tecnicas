@@ -1,0 +1,99 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/745E.jpg",
+    "NOME": "745e-l-m-sport-3.0-turbo-2021",
+    "ANO": "2021",
+    "MARCA": "bmw",
+    "MODELO": "745e",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "745e",
+        "Versão:": "L M Sport 3.0 Turbo 2021",
+        "Combustível:": "Híbrido - gasolina/elétrico",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "6",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.998 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Admissão e escape",
+        "Potência em CV:": "286 @ 5.000 rpm",
+        "Torque em kgfm:": "45,9 @ 1.500 rpm",
+        "Potência específica:": "95,4 cv/litro",
+        "Torque específico:": "15,3 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "7,4 kg/cv",
+        "Relação peso/torque:": "44,3 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "não disponível",
+        "Potência:": "113 cv",
+        "Potência combinada:": "394 cv",
+        "Torque:": "27 kgfm",
+        "Torque combinado:": "61,2 kgfm",
+        "Capacidade bateria:": "12 kWh",
+        "Autonomia:": "51"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,3 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "21,8",
+        "Estrada em km/l:": "24,6",
+        "Autonomia em km:": "1.132"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R20",
+        "Traseira:": "275/35 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,41 m²",
+        "Coef. aerodinâmico:": "0,27 CX"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.260 mm",
+        "Altura:": "1.479 mm",
+        "Largura:": "1.902 mm",
+        "Entre eixos:": "3.210 mm",
+        "Bitola dianteira:": "1.611 mm",
+        "Bitola traseira:": "1.640 mm",
+        "Vão livre do solo:": "135 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.035 kg",
+        "Porta-malas:": "420 litros",
+        "Carga útil:": "635 kg",
+        "Tanque combustível:": "46 litros"
+    }
+}

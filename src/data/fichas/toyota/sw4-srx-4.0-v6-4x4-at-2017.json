@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/SW4.jpg",
+    "NOME": "sw4-srx-4.0-v6-4x4-at-2017",
+    "ANO": "2017",
+    "MARCA": "toyota",
+    "MODELO": "sw4",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "SW4",
+        "Versão:": "SRX 4.0 V6 4x4 AT 2017",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "8",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.956 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima (cv):": "238 @ 5.200 rpm",
+        "Torque máximo (kgfm):": "38,3 @ 3.800 rpm",
+        "Potência específica:": "60,2 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "8,7 kg/cv",
+        "Rel. peso/torque:": "53,8 kg/kgfm",
+        "Curso dos pistões:": "95 mm",
+        "Diâmetro dos cilindros:": "94 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "1GR-FE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6",
+        "Estrada em km/l:": "7,6",
+        "Autonomia em km:": "608"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/60 R18",
+        "Traseira:": "265/60 R18",
+        "Estepe:": "265/60 R18",
+        "Altura do flanco:": "159 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.795 mm",
+        "Altura:": "1.835 mm",
+        "Largura:": "1.855 mm",
+        "Entre-eixos:": "2.745 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "261 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.060 kg",
+        "Porta-malas:": "500 (5 lug) / 180 (7 lug) litros",
+        "Carga útil:": "590 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

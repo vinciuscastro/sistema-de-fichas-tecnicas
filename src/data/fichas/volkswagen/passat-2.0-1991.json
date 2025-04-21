@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Passat-1991.jpg",
+    "NOME": "passat-2.0-1991",
+    "ANO": "1991",
+    "MARCA": "volkswagen",
+    "MODELO": "passat",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Passat",
+        "Versão:": "2.0",
+        "Ano/modelo:": "1991",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "116 cv @ 5.400 rpm",
+        "Torque:": "16,9 kgfm @ 3.200 rpm",
+        "Taxa de compressão:": "10,4:1",
+        "Código do motor:": "EA113"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,3 s",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,7 km/l",
+        "Rodoviário:": "12,8 km/l",
+        "Autonomia:": "896 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,07 m²",
+        "Coef. aerodinâmico:": "0,30"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.573 mm",
+        "Altura:": "1.428 mm",
+        "Largura:": "1.704 mm",
+        "Entre-eixos:": "2.620 mm",
+        "Bitola dianteira:": "1.460 mm",
+        "Bitola traseira:": "1.422 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.169 kg",
+        "Porta-malas:": "495 litros",
+        "Carga útil:": "561 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

@@ -1,0 +1,3896 @@
+{
+    "marca": "lexus",
+    "modelos": {
+        "ux250h-luxury-2.0-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2022/dezembro/lexus-ux250h-2022.jpg",
+            "NOME": "ux250h-luxury-2.0-2021",
+            "ANO": "2021",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Luxury 2.0 2021",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "ux250h-dynamic-2.0-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2022/dezembro/lexus-ux250h-2022.jpg",
+            "NOME": "ux250h-dynamic-2.0-2021",
+            "ANO": "2021",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Dynamic 2.0 2021",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "ux250h-dynamic-2.0-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/dezembro/lexus-ux250h-2022.jpg",
+            "NOME": "ux250h-dynamic-2.0-2022",
+            "ANO": "2022",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Dynamic 2.0 2022",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "ux250h-luxury-2.0-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/dezembro/lexus-ux250h-2022.jpg",
+            "NOME": "ux250h-luxury-2.0-2022",
+            "ANO": "2022",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Luxury 2.0 2022",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "rx450h-f-sport-3.5-v6-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/dezembro/lexus-rx450h-2022.jpg",
+            "NOME": "rx450h-f-sport-3.5-v6-2022",
+            "ANO": "2022",
+            "MARCA": "lexus",
+            "MODELO": "rx450h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX450h",
+                "Versão:": "F-Sport 3.5 V6 2022",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "4",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "262 @ 6.000 rpm",
+                "Torque em kgfm:": "34,2 @ 4.600 rpm",
+                "Potência específica:": "75,8 cv/litro",
+                "Torque específico:": "9,9 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "8,2 kg/cv",
+                "Relação peso/torque:": "62,9 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro dos cilindros:": "94 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2GR-FXS",
+                "Potência:": "68 cv",
+                "Potência combinada:": "313 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 seg",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "11,6",
+                "Estrada em km/l:": "10,4",
+                "Autonomia em km:": "754"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R20",
+                "Traseira:": "225/55 R20",
+                "Altura do flanco:": "124 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.000 mm",
+                "Altura:": "1.705 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.150 kg",
+                "Porta-malas:": "453 litros",
+                "Carga útil:": "570 kg",
+                "Tanque combustível:": "65 litros"
+            }
+        },
+        "rx450h-luxury-3.5-v6-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/dezembro/lexus-rx450h-2022.jpg",
+            "NOME": "rx450h-luxury-3.5-v6-2022",
+            "ANO": "2022",
+            "MARCA": "lexus",
+            "MODELO": "rx450h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX450h",
+                "Versão:": "Luxury 3.5 V6 2022",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "4",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "262 @ 6.000 rpm",
+                "Torque em kgfm:": "34,2 @ 4.600 rpm",
+                "Potência específica:": "75,8 cv/litro",
+                "Torque específico:": "9,9 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "8,2 kg/cv",
+                "Relação peso/torque:": "62,9 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro dos cilindros:": "94 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2GR-FXS",
+                "Potência:": "68 cv",
+                "Potência combinada:": "313 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 seg",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "11,6",
+                "Estrada em km/l:": "10,4",
+                "Autonomia em km:": "754"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R20",
+                "Traseira:": "225/55 R20",
+                "Altura do flanco:": "124 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.000 mm",
+                "Altura:": "1.705 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.150 kg",
+                "Porta-malas:": "432 litros (5 lug) / 176 litros (7 lug)",
+                "Carga útil:": "570 kg",
+                "Tanque combustível:": "65 litros"
+            }
+        },
+        "rx450h-luxury-3.5-v6-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-RX450H-2021.jpg",
+            "NOME": "rx450h-luxury-3.5-v6-2021",
+            "ANO": "2021",
+            "MARCA": "lexus",
+            "MODELO": "rx450h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX450h",
+                "Versão:": "Luxury 3.5 V6 2021",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "4",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "262 @ 6.000 rpm",
+                "Torque em kgfm:": "34,2 @ 4.600 rpm",
+                "Potência específica:": "75,8 cv/litro",
+                "Torque específico:": "9,9 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "8,2 kg/cv",
+                "Relação peso/torque:": "62,9 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro dos cilindros:": "94 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2GR-FXS",
+                "Potência:": "68 cv",
+                "Potência combinada:": "313 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 seg",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "11,6",
+                "Estrada em km/l:": "10,4",
+                "Autonomia em km:": "754"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R20",
+                "Traseira:": "225/55 R20",
+                "Altura do flanco:": "124 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.000 mm",
+                "Altura:": "1.705 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.150 kg",
+                "Porta-malas:": "432 litros (5 lug) / 176 litros (7 lug)",
+                "Carga útil:": "570 kg",
+                "Tanque combustível:": "65 litros"
+            }
+        },
+        "rx450h-f-sport-3.5-v6-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-RX450H-2021.jpg",
+            "NOME": "rx450h-f-sport-3.5-v6-2021",
+            "ANO": "2021",
+            "MARCA": "lexus",
+            "MODELO": "rx450h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX450h",
+                "Versão:": "F-Sport 3.5 V6 2021",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "4",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "262 @ 6.000 rpm",
+                "Torque em kgfm:": "34,2 @ 4.600 rpm",
+                "Potência específica:": "75,8 cv/litro",
+                "Torque específico:": "9,9 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "8,2 kg/cv",
+                "Relação peso/torque:": "62,9 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro dos cilindros:": "94 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2GR-FXS",
+                "Potência:": "68 cv",
+                "Potência combinada:": "313 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 seg",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "11,6",
+                "Estrada em km/l:": "10,4",
+                "Autonomia em km:": "754"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R20",
+                "Traseira:": "225/55 R20",
+                "Altura do flanco:": "124 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.000 mm",
+                "Altura:": "1.705 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.150 kg",
+                "Porta-malas:": "453 litros",
+                "Carga útil:": "570 kg",
+                "Tanque combustível:": "65 litros"
+            }
+        },
+        "nx300h-dynamic-2.5-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-NX300h-2021.jpg",
+            "NOME": "nx300h-dynamic-2.5-2021",
+            "ANO": "2021",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "Dynamic 2.5 2021",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "nx300h-f-sport-2.5-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-NX300h-2021.jpg",
+            "NOME": "nx300h-f-sport-2.5-2021",
+            "ANO": "2021",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "F-Sport 2.5 2021",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "nx300h-luxury-2.5-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-NX300h-2021.jpg",
+            "NOME": "nx300h-luxury-2.5-2021",
+            "ANO": "2021",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "Luxury 2.5 2021",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "nx300h-luxury-2.5-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-NX300h-2021.jpg",
+            "NOME": "nx300h-luxury-2.5-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "Luxury 2.5 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "nx300h-f-sport-2.5-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-NX300h-2021.jpg",
+            "NOME": "nx300h-f-sport-2.5-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "F-Sport 2.5 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "nx300h-dynamic-2.5-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Lexus-NX300h-2021.jpg",
+            "NOME": "nx300h-dynamic-2.5-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "Dynamic 2.5 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "ux250h-luxury-2.0-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/UX250H.jpg",
+            "NOME": "ux250h-luxury-2.0-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Luxury 2.0 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "ux250h-dynamic-2.0-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/UX250H.jpg",
+            "NOME": "ux250h-dynamic-2.0-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Dynamic 2.0 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "ux250h-dynamic-2.0-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/UX250H.jpg",
+            "NOME": "ux250h-dynamic-2.0-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Dynamic 2.0 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "ux250h-f-sport-2.0-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/UX250H.jpg",
+            "NOME": "ux250h-f-sport-2.0-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "F-Sport 2.0 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "ux250h-luxury-2.0-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/UX250H.jpg",
+            "NOME": "ux250h-luxury-2.0-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "ux250h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "UX250h",
+                "Versão:": "Luxury 2.0 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.987 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "145 @ 6.000 rpm",
+                "Torque em kgfm:": "18,8 @ 5.200 rpm",
+                "Potência específica:": "73 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "11,1 kg/cv",
+                "Relação peso/torque:": "85,6 kg/kgfm",
+                "Curso dos pistões:": "97,6 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "M20A-FXS",
+                "Potência:": "107 cv",
+                "Potência combinada:": "181 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16,7",
+                "Estrada em km/l:": "14,7",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/50 R18",
+                "Traseira:": "225/50 R18",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,38 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.495 mm",
+                "Altura:": "1.520 mm",
+                "Largura:": "1.840 mm",
+                "Entre eixos:": "2.640 mm",
+                "Bitola dianteira:": "1.560 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.610 kg",
+                "Porta-malas:": "234 litros",
+                "Carga útil:": "495 kg",
+                "Tanque combustível:": "43 litros"
+            }
+        },
+        "rx450h-luxury-3.5-v6-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/RX450H.jpg",
+            "NOME": "rx450h-luxury-3.5-v6-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "rx450h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX450h",
+                "Versão:": "Luxury 3.5 V6 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "4",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "262 @ 6.000 rpm",
+                "Torque em kgfm:": "34,2 @ 4.600 rpm",
+                "Potência específica:": "75,8 cv/litro",
+                "Torque específico:": "9,9 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "8,2 kg/cv",
+                "Relação peso/torque:": "62,9 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro dos cilindros:": "94 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2GR-FXS",
+                "Potência:": "68 cv",
+                "Potência combinada:": "313 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 seg",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "11,6",
+                "Estrada em km/l:": "10,4",
+                "Autonomia em km:": "754"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R20",
+                "Traseira:": "225/55 R20",
+                "Altura do flanco:": "124 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.000 mm",
+                "Altura:": "1.705 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.150 kg",
+                "Porta-malas:": "432 litros (5 lug) / 176 litros (7 lug)",
+                "Carga útil:": "570 kg",
+                "Tanque combustível:": "65 litros"
+            }
+        },
+        "rx450h-f-sport-3.5-v6-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/RX450H.jpg",
+            "NOME": "rx450h-f-sport-3.5-v6-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "rx450h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX450h",
+                "Versão:": "F-Sport 3.5 V6 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "4",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "262 @ 6.000 rpm",
+                "Torque em kgfm:": "34,2 @ 4.600 rpm",
+                "Potência específica:": "75,8 cv/litro",
+                "Torque específico:": "9,9 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "8,2 kg/cv",
+                "Relação peso/torque:": "62,9 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro dos cilindros:": "94 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2GR-FXS",
+                "Potência:": "68 cv",
+                "Potência combinada:": "313 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P313 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 seg",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "11,6",
+                "Estrada em km/l:": "10,4",
+                "Autonomia em km:": "754"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R20",
+                "Traseira:": "225/55 R20",
+                "Altura do flanco:": "124 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.000 mm",
+                "Altura:": "1.705 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.150 kg",
+                "Porta-malas:": "453 litros",
+                "Carga útil:": "570 kg",
+                "Tanque combustível:": "65 litros"
+            }
+        },
+        "ls500h-3.5-v6-híbrido-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/LS500h.jpg",
+            "NOME": "ls500h-3.5-v6-híbrido-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "ls500h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "LS500H",
+                "Versão:": "3.5 V6 Híbrido 2020",
+                "Origem:": "Importado - Japão",
+                "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteira",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Híbrido plug-in",
+                "Potência CV:": "299 @ 6.600 rpm",
+                "Torque kgfm:": "37,5 @ 5.100 rpm",
+                "Taxa de compressão:": "13:1",
+                "Código do motor:": "8GR-FXS",
+                "Potência:": "179 cv",
+                "Potência combinada:": "296 cv",
+                "Torque:": "30,6 kgfm",
+                "Torque combinado:": "68,1 kgfm"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "10",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,4 s",
+                "Velocidade máxima:": "220 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "10,2 km/l",
+                "Estrada:": "11,5 km/l",
+                "Autonomia:": "943 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço, mola helicoidal",
+                "Traseira:": "Independente, multibraço, mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45/20",
+                "Traseira:": "245/45/20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,34 m²",
+                "Coef. aerodinâmico:": "0,27 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.235 mm",
+                "Altura:": "1.450 mm",
+                "Largura:": "1.900 mm",
+                "Entre eixos:": "3.125 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "430 litros",
+                "Carga útil:": "535 kg",
+                "Tanque combustível:": "82 litros"
+            }
+        },
+        "es300h-2.5-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/ES300H.jpg",
+            "NOME": "es300h-2.5-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "es300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "ES300h",
+                "Versão:": "2.5 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "7",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "2.487 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "178 @ 5.700 rpm",
+                "Torque em kgfm:": "22,1 @ 5.200 rpm",
+                "Potência específica:": "71,6 cv/litro",
+                "Torque específico:": "8,9 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "9,4 kg/cv",
+                "Relação peso/torque:": "76 kg/kgfm",
+                "Curso dos pistões:": "103,4 mm",
+                "Diâmetro dos cilindros:": "87,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "A25A-FXS",
+                "Potência:": "120 cv",
+                "Potência combinada:": "211 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem EpicicloidalConversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16",
+                "Estrada em km/l:": "15,4",
+                "Autonomia em km:": "800"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/45 R18",
+                "Traseira:": "235/45 R18",
+                "Altura do flanco:": "106 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,29 m²",
+                "Coef. aerodinâmico:": "0,26 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.976 mm",
+                "Altura:": "1.445 mm",
+                "Largura:": "1.864 mm",
+                "Entre eixos:": "2.870 mm",
+                "Bitola dianteira:": "1.600 mm",
+                "Bitola traseira:": "1.610 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.680 kg",
+                "Porta-malas:": "454 litros",
+                "Carga útil:": "470 kg",
+                "Tanque combustível:": "50 litros"
+            }
+        },
+        "ct200h-luxury-1.8-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/CT200H.jpg",
+            "NOME": "ct200h-luxury-1.8-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "ct200h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "CT200h",
+                "Versão:": "Luxury 1.8 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.798 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "99 @ 5.200 rpm",
+                "Torque em kgfm:": "14,5 @ 4.000 rpm",
+                "Potência específica:": "55,1 cv/litro",
+                "Torque específico:": "8,1 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "14,8 kg/cv",
+                "Relação peso/torque:": "101 kg/kgfm",
+                "Curso dos pistões:": "88,3 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2ZR-FXE",
+                "Potência:": "82 cv",
+                "Potência combinada:": "136 cv",
+                "Torque:": "21 kgfm",
+                "Torque combinado:": "26,5 kgfm",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,3 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "15,7",
+                "Estrada em km/l:": "14,2",
+                "Autonomia em km:": "707"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "205/55 R16",
+                "Traseira:": "205/55 R16",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,18 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.355 mm",
+                "Altura:": "1.455 mm",
+                "Largura:": "1.765 mm",
+                "Entre eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.540 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.465 kg",
+                "Porta-malas:": "375 litros",
+                "Carga útil:": "325 kg",
+                "Tanque combustível:": "45 litros"
+            }
+        },
+        "ct200h-eco-1.8-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/CT200H.jpg",
+            "NOME": "ct200h-eco-1.8-2020",
+            "ANO": "2020",
+            "MARCA": "lexus",
+            "MODELO": "ct200h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "CT200h",
+                "Versão:": "Eco 1.8 2020",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.798 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "99 @ 5.200 rpm",
+                "Torque em kgfm:": "14,5 @ 4.000 rpm",
+                "Potência específica:": "55,1 cv/litro",
+                "Torque específico:": "8,1 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "14,8 kg/cv",
+                "Relação peso/torque:": "101 kg/kgfm",
+                "Curso dos pistões:": "88,3 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2ZR-FXE",
+                "Potência:": "82 cv",
+                "Potência combinada:": "136 cv",
+                "Torque:": "21 kgfm",
+                "Torque combinado:": "26,5 kgfm",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,3 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "15,7",
+                "Estrada em km/l:": "14,2",
+                "Autonomia em km:": "707"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "205/55 R16",
+                "Traseira:": "205/55 R16",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,18 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.355 mm",
+                "Altura:": "1.455 mm",
+                "Largura:": "1.765 mm",
+                "Entre eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.540 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.465 kg",
+                "Porta-malas:": "375 litros",
+                "Carga útil:": "325 kg",
+                "Tanque combustível:": "45 litros"
+            }
+        },
+        "ls500h-3.5-v6-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2019/Marco/LS500.jpg",
+            "NOME": "ls500h-3.5-v6-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "ls500h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "LS500h",
+                "Versão:": "3.5 V6",
+                "Ano fabricação:": "2019",
+                "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "Duplo no cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Híbrido",
+                "Potência combinada:": "299 cv @ 6.600 rpm",
+                "Torque combinado:": "37,5 kgfm @ 5.100 rpm",
+                "Taxa de compressão:": "13:1",
+                "Código do motor:": "8GR-FXS"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "10",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,4 s",
+                "Velocidade máxima:": "220 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "10,2 km/l",
+                "Rodoviário:": "11,5 km/l",
+                "Autonomia:": "943 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço, mola helicoidal",
+                "Traseira:": "Independente, multibraço, mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45 R20",
+                "Traseira:": "245/45 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,34 m²",
+                "Coef. aerodinâmico:": "0,27 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.235 mm",
+                "Altura:": "1.450 mm",
+                "Largura:": "1.900 mm",
+                "Entre eixos:": "3.125 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "430 litros",
+                "Carga útil:": "535 kg",
+                "Tanque combustível:": "82 litros"
+            }
+        },
+        "rx350-f-sport-3.6-v6-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2019/Marco/RX350F.jpg",
+            "NOME": "rx350-f-sport-3.6-v6-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "rx350",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX350",
+                "Versão:": "F-Sport 3.5 V6",
+                "Ano fabricação:": "2019",
+                "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "Duplo no cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência combinada:": "305 cv @ 6.300 rpm",
+                "Torque combinado:": "38 kgfm @ 4.700 rpm",
+                "Taxa de compressão:": "11,8:1",
+                "Código do motor:": "2GR-FE"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 s",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,9 km/l",
+                "Rodoviário:": "9,4 km/l",
+                "Autonomia:": "676 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson, mola helicoidal",
+                "Traseira:": "Independente, multibraço, mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/55 R20",
+                "Traseira:": "235/55 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.890 mm",
+                "Altura:": "1.710 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "194 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.990 kg",
+                "Porta-malas:": "521 litros",
+                "Carga útil:": "750 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "rx350-3.6-v6-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2019/Marco/RX350.jpg ",
+            "NOME": "rx350-3.6-v6-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "rx350",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX350",
+                "Versão:": "3.5 V6",
+                "Ano fabricação:": "2019",
+                "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "Duplo no cabeçote, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "305 cv @ 6.300 rpm",
+                "Torque:": "38 kgfm @ 4.700 rpm",
+                "Taxa de compressão:": "11,8:1",
+                "Código do motor:": "2GR-FE"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 s",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,6 km/l",
+                "Rodoviário:": "8,5 km/l",
+                "Autonomia:": "612 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson, mola helicoidal",
+                "Traseira:": "Independente, multibraço, mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/55 R20",
+                "Traseira:": "235/55 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,75 m²",
+                "Coef. aerodinâmico:": "0,34 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.890 mm",
+                "Altura:": "1.710 mm",
+                "Largura:": "1.895 mm",
+                "Entre eixos:": "2.790 mm",
+                "Bitola dianteira:": "1.635 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "194 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.990 kg",
+                "Porta-malas:": "521 litros",
+                "Carga útil:": "750 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "ct200h-luxury-1.8-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2019/Marco/CT200.jpg ",
+            "NOME": "ct200h-luxury-1.8-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "ct200h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "CT200h",
+                "Versão:": "Luxury 1.8 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.798 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "99 @ 5.200 rpm",
+                "Torque em kgfm:": "14,5 @ 4.000 rpm",
+                "Potência específica:": "55,1 cv/litro",
+                "Torque específico:": "8,1 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "14,8 kg/cv",
+                "Relação peso/torque:": "101 kg/kgfm",
+                "Curso dos pistões:": "88,3 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2ZR-FXE",
+                "Potência:": "82 cv",
+                "Potência combinada:": "136 cv",
+                "Torque:": "21 kgfm",
+                "Torque combinado:": "26,5 kgfm",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,3 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "15,7",
+                "Estrada em km/l:": "14,2",
+                "Autonomia em km:": "707"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "205/55 R16",
+                "Traseira:": "205/55 R16",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,18 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.355 mm",
+                "Altura:": "1.455 mm",
+                "Largura:": "1.765 mm",
+                "Entre eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.540 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.465 kg",
+                "Porta-malas:": "375 litros",
+                "Carga útil:": "325 kg",
+                "Tanque combustível:": "45 litros"
+            }
+        },
+        "ct200h-eco-1.8-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2019/Marco/CT200.jpg ",
+            "NOME": "ct200h-eco-1.8-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "ct200h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "CT200h",
+                "Versão:": "Eco 1.8 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.798 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "99 @ 5.200 rpm",
+                "Torque em kgfm:": "14,5 @ 4.000 rpm",
+                "Potência específica:": "55,1 cv/litro",
+                "Torque específico:": "8,1 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "14,8 kg/cv",
+                "Relação peso/torque:": "101 kg/kgfm",
+                "Curso dos pistões:": "88,3 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2ZR-FXE",
+                "Potência:": "82 cv",
+                "Potência combinada:": "136 cv",
+                "Torque:": "21 kgfm",
+                "Torque combinado:": "26,5 kgfm",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,3 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "15,7",
+                "Estrada em km/l:": "14,2",
+                "Autonomia em km:": "707"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "205/55 R16",
+                "Traseira:": "205/55 R16",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,18 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.355 mm",
+                "Altura:": "1.455 mm",
+                "Largura:": "1.765 mm",
+                "Entre eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.540 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.465 kg",
+                "Porta-malas:": "375 litros",
+                "Carga útil:": "325 kg",
+                "Tanque combustível:": "45 litros"
+            }
+        },
+        "ls500h-3.5-v6-at-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/Lexus-LS.jpg",
+            "NOME": "ls500h-3.5-v6-at-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "ls500h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "LS500h",
+                "Versão:": "3.5 V6",
+                "Ano fabricação:": "2019",
+                "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção multiponto",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Híbrido (gasolina + elétrico)",
+                "Potência combinada:": "359 cv @ 6.600 rpm",
+                "Torque combinado:": "37,5 kgfm @ 5.100 rpm",
+                "Taxa de compressão:": "13:1",
+                "Código do motor:": "8GR-FXS"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "10",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,4 s",
+                "Velocidade máxima:": "250 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "10,2 km/l",
+                "Rodoviário:": "11,5 km/l",
+                "Autonomia:": "943 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, multibraço",
+                "Traseira:": "independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45 R20",
+                "Traseira:": "245/45 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,34 m²",
+                "Coef. aerodinâmico:": "0,27 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.235 mm",
+                "Altura:": "1.450 mm",
+                "Largura:": "1.900 mm",
+                "Entre-eixos:": "3.125 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.200 kg",
+                "Porta-malas:": "430 litros",
+                "Carga útil:": "535 kg",
+                "Tanque combustível:": "82 litros"
+            }
+        },
+        "es300h-2.5-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/Lexus-ES.jpg",
+            "NOME": "es300h-2.5-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "es300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "ES300h",
+                "Versão:": "2.5 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "7",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção direta e indireta multiponto",
+                "Cilindrada:": "2.487 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência em CV:": "178 @ 5.700 rpm",
+                "Torque em kgfm:": "22,1 @ 5.200 rpm",
+                "Potência específica:": "71,6 cv/litro",
+                "Torque específico:": "8,9 kgfm/litro",
+                "Taxa de compressão:": "14:1",
+                "Relação peso/potência:": "9,4 kg/cv",
+                "Relação peso/torque:": "76 kg/kgfm",
+                "Curso dos pistões:": "103,4 mm",
+                "Diâmetro dos cilindros:": "87,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "A25A-FXS",
+                "Potência:": "120 cv",
+                "Potência combinada:": "211 cv",
+                "Torque:": "20,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Engrenagem EpicicloidalConversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,5 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "16",
+                "Estrada em km/l:": "15,4",
+                "Autonomia em km:": "800"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/45 R18",
+                "Traseira:": "235/45 R18",
+                "Altura do flanco:": "106 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,29 m²",
+                "Coef. aerodinâmico:": "0,26 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.976 mm",
+                "Altura:": "1.445 mm",
+                "Largura:": "1.864 mm",
+                "Entre eixos:": "2.870 mm",
+                "Bitola dianteira:": "1.600 mm",
+                "Bitola traseira:": "1.610 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.680 kg",
+                "Porta-malas:": "454 litros",
+                "Carga útil:": "470 kg",
+                "Tanque combustível:": "50 litros"
+            }
+        },
+        "nx300h-f-sport-2.5-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/Lexus-NX.jpg",
+            "NOME": "nx300h-f-sport-2.5-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "F-Sport 2.5 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "nx300h-luxury-2.5-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/Lexus-NX.jpg",
+            "NOME": "nx300h-luxury-2.5-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "Luxury 2.5 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "nx300h-dynamic-2.5-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/Lexus-NX.jpg",
+            "NOME": "nx300h-dynamic-2.5-2019",
+            "ANO": "2019",
+            "MARCA": "lexus",
+            "MODELO": "nx300h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX300h",
+                "Versão:": "Dynamic 2.5 2019",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.494 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "155 @ 5.700 rpm",
+                "Torque em kgfm:": "21,4 @ 4.400 rpm",
+                "Potência específica:": "62,1 cv/litro",
+                "Torque específico:": "8,6 kgfm/litro",
+                "Taxa de compressão:": "12:1",
+                "Relação peso/potência:": "11,9 kg/cv",
+                "Relação peso/torque:": "86,4 kg/kgfm",
+                "Curso dos pistões:": "98 mm",
+                "Diâmetro dos cilindros:": "90 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2AR-FXE",
+                "Potência:": "67 cv",
+                "Potência combinada:": "200 cv",
+                "Torque:": "14,2 kgfm",
+                "Torque combinado:": "informação não disponível",
+                "Capacidade bateria:": "1,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático CVT",
+                "Marchas:": "6",
+                "Acoplamento:": "Engrenagem Epicicloidal",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "P314 ECVT"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,2 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "12,6",
+                "Estrada em km/l:": "11,1",
+                "Autonomia em km:": "706"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/60 R18",
+                "Traseira:": "225/60 R18",
+                "Altura do flanco:": "135 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,58 m²",
+                "Coef. aerodinâmico:": "0,32 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.640 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre eixos:": "2.660 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.570 mm",
+                "Vão livre do solo:": "185 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "475 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "56 litros"
+            }
+        },
+        "rx-350-3.5-v6": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Fevereiro/Lexus-RX350.jpg",
+            "NOME": "rx-350-3.5-v6",
+            "ANO": "V6",
+            "MARCA": "lexus",
+            "MODELO": "rx",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "RX 350",
+                "Versão:": "3.5 V6",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, SUV, 4 portas, 4 anos de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "305 cv @ 6.300 rpm",
+                "Torque:": "38 kgfm @ 4.700 rpm",
+                "Taxa de compressão:": "11,8:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,4 s",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "6,2 km/l (E) / 8,8 km/l (G)",
+                "Rodoviário:": "7,3 km/l (E) / 10,8 km/l (G)",
+                "Autonomia:": "365 km (E) / 540 km (G)"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos"
+            },
+            "PNEUS": {
+                "Dianteiros:": "235/55 R20",
+                "Traseiros:": "235/55 R20"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.890 mm",
+                "Altura:": "1.710 mm",
+                "Largura:": "1.895 mm",
+                "Entre-eixos:": "2.790 mm",
+                "Vão livre do solo:": "194 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.990 kg",
+                "Porta-malas:": "521 litros",
+                "Carga útil:": "750",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "nx-200t-turbo-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Lexus/Lexus-NX.jpg",
+            "NOME": "nx-200t-turbo-2016",
+            "ANO": "2016",
+            "MARCA": "lexus",
+            "MODELO": "nx",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "NX 200T",
+                "Versão:": "Luxury 2.0 Turbo / F-Sport 2.0 turbo",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, SUV, 4 portas, 4 anos de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Turbocompressor",
+                "Cilindrada:": "1.998 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "238 cv @ 5.600 rpm",
+                "Torque:": "35,7 kgfm @ 1.650 rpm",
+                "Taxa de compressão:": "10:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,2 s",
+                "Velocidade máxima:": "200 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "8,3 km/l",
+                "Rodoviário:": "10 km/l",
+                "Autonomia :": "600 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos"
+            },
+            "PNEUS": {
+                "Dianteiros:": "225/65 R17/235/55 R18",
+                "Traseiros:": "225/65 R17/235855 R18"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.630 mm",
+                "Altura:": "1.645 mm",
+                "Largura:": "1.845 mm",
+                "Entre-eixos:": "2.660 mm",
+                "Vão livre do solo:": "190 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "522 kg",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "ls-460-4.6-v8": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Lexus/LS-460.jpg",
+            "NOME": "ls-460-4.6-v8",
+            "ANO": "V8",
+            "MARCA": "lexus",
+            "MODELO": "ls",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "LS 460",
+                "Versão:": "4.6 V8",
+                "Ano/modelo:": "2016",
+                "Detalhes:": "Importado, sedã, 4 portas, 4 anos de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Cilindrada:": "4.608 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "354 cv @ 6.400 rpm",
+                "Torque:": "46,4 kgfm @ 4.100 rpm",
+                "Taxa de compressão:": "10,8:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,6 s",
+                "Velocidade máxima:": "250 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5,9 km/l",
+                "Rodoviária:": "9,2 km/l",
+                "Autonomia:": "772 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos"
+            },
+            "PNEUS": {
+                "Dianteiros:": "245/45 R19",
+                "Traseiros:": "245/45 R19"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.210 mm",
+                "Altura:": "1.475 mm",
+                "Largura:": "1.875 mm",
+                "Entre-eixos:": "3.090 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.080 kg",
+                "Porta-malas:": "450 litros",
+                "Carga útil:": "não informado",
+                "Tanque combustível:": "84 litros"
+            }
+        },
+        "es-350-3.5-v6": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Lexus/Lexus-ES-350.jpg",
+            "NOME": "es-350-3.5-v6",
+            "ANO": "V6",
+            "MARCA": "lexus",
+            "MODELO": "es",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "ES 350",
+                "Versão:": "3.5 V6",
+                "Ano/modelo:": "2017",
+                "Detalhes:": "Importado, sedã, 4 portas, 4 anos de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Cilindrada:": "3.456 cc",
+                "Cilindros:": "6, em V",
+                "Comando de válvulas:": "No cabeçote, corrente, variável",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Gasolina",
+                "Potência:": "277 cv @ 6.200 rpm",
+                "Torque:": "35,3 kgfm @ 4.700 rpm",
+                "Taxa de compressão:": "10,8:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "Dianteira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,5 s",
+                "Velocidade máxima:": "209 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "7,7 km/l",
+                "Rodoviário:": "11 km/l",
+                "Autonomia:": "715 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos ventilados",
+                "Traseiros:": "Discos"
+            },
+            "PNEUS": {
+                "Dianteiros:": "215/55 R17",
+                "Traseiros:": "215/55 R17"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.895 mm",
+                "Altura:": "1.450 mm",
+                "Largura:": "1.821 mm",
+                "Entre-eixos:": "2.819 mm",
+                "Vão livre do solo:": "143 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.640 kg",
+                "Porta-malas:": "430 litros",
+                "Carga útil:": "500kg",
+                "Tanque combustível:": "65 litros"
+            }
+        },
+        "ct200h-luxury-1.8-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Lexus/Lexus-CT200h-02.jpg",
+            "NOME": "ct200h-luxury-1.8-2018",
+            "ANO": "2018",
+            "MARCA": "lexus",
+            "MODELO": "ct200h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "CT200h",
+                "Versão:": "Luxury 1.8 2018",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.798 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "99 @ 5.200 rpm",
+                "Torque em kgfm:": "14,5 @ 4.000 rpm",
+                "Potência específica:": "55,1 cv/litro",
+                "Torque específico:": "8,1 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "14,8 kg/cv",
+                "Relação peso/torque:": "101 kg/kgfm",
+                "Curso dos pistões:": "88,3 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2ZR-FXE",
+                "Potência:": "82 cv",
+                "Potência combinada:": "136 cv",
+                "Torque:": "21 kgfm",
+                "Torque combinado:": "26,5 kgfm",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,3 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "15,7",
+                "Estrada em km/l:": "14,2",
+                "Autonomia em km:": "707"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "205/55 R16",
+                "Traseira:": "205/55 R16",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,18 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.355 mm",
+                "Altura:": "1.455 mm",
+                "Largura:": "1.765 mm",
+                "Entre eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.540 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.465 kg",
+                "Porta-malas:": "375 litros",
+                "Carga útil:": "325 kg",
+                "Tanque combustível:": "45 litros"
+            }
+        },
+        "ct200h-eco-1.8-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Lexus/Lexus-CT200h-01.jpg",
+            "NOME": "ct200h-eco-1.8-2018",
+            "ANO": "2018",
+            "MARCA": "lexus",
+            "MODELO": "ct200h",
+            "ESPECIFICACAO": {
+                "Marca:": "Lexus",
+                "Modelo:": "CT200h",
+                "Versão:": "Eco 1.8 2018",
+                "Combustível:": "Híbrido - Gasolina / Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.798 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência em CV:": "99 @ 5.200 rpm",
+                "Torque em kgfm:": "14,5 @ 4.000 rpm",
+                "Potência específica:": "55,1 cv/litro",
+                "Torque específico:": "8,1 kgfm/litro",
+                "Taxa de compressão:": "13:1",
+                "Relação peso/potência:": "14,8 kg/cv",
+                "Relação peso/torque:": "101 kg/kgfm",
+                "Curso dos pistões:": "88,3 mm",
+                "Diâmetro dos cilindros:": "80,5 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "2ZR-FXE",
+                "Potência:": "82 cv",
+                "Potência combinada:": "136 cv",
+                "Torque:": "21 kgfm",
+                "Torque combinado:": "26,5 kgfm",
+                "Capacidade bateria:": "informação não disponível",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "CVT",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,3 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "15,7",
+                "Estrada em km/l:": "14,2",
+                "Autonomia em km:": "707"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "205/55 R16",
+                "Traseira:": "205/55 R16",
+                "Altura do flanco:": "113 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,18 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.355 mm",
+                "Altura:": "1.455 mm",
+                "Largura:": "1.765 mm",
+                "Entre eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.540 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.465 kg",
+                "Porta-malas:": "375 litros",
+                "Carga útil:": "325 kg",
+                "Tanque combustível:": "45 litros"
+            }
+        }
+    }
+}

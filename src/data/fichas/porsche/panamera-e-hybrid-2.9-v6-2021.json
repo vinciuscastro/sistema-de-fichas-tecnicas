@@ -1,0 +1,83 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Panamera.jpg",
+    "NOME": "panamera-e-hybrid-2.9-v6-2021",
+    "ANO": "2021",
+    "MARCA": "porsche",
+    "MODELO": "panamera",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Panamera",
+        "Versão:": "E-Hybrid 2.9 V6 Turbo 2021",
+        "Origem:": "Importado - Alemanha",
+        "Detalhes:": "Sedã, 4 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.894 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Híbrido plug-in",
+        "Potência CV:": "330 @ 5.250 rpm",
+        "Torque kgfm:": "45,9 @ 1.750 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "EA839",
+        "Potência:": "136 cv",
+        "Potência combinada:": "462 cv",
+        "Torque:": "40,8 kgfm",
+        "Torque combinado:": "71,4 kgfm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "PDK"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,4 s",
+        "Velocidade máxima:": "280 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "19,2 km/l",
+        "Estrada:": "21,3 km/l",
+        "Autonomia:": "1.704 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, multibraço, mola pneumática",
+        "Traseira:": "Independente, multibraço, mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/45/19",
+        "Traseira:": "295/40/19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,38 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.049 mm",
+        "Altura:": "1.423 mm",
+        "Largura:": "1.937 mm",
+        "Entre eixos:": "2.950 mm",
+        "Bitola dianteira:": "1.671 mm",
+        "Bitola traseira:": "1.651 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.170 kg",
+        "Porta-malas:": "405 litros",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

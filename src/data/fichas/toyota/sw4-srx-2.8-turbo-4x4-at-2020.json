@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/SW4.jpg",
+    "NOME": "sw4-srx-2.8-turbo-4x4-at-2020",
+    "ANO": "2020",
+    "MARCA": "toyota",
+    "MODELO": "sw4",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "SW4",
+        "Versão:": "SRX 2.8 Turbo 4x4 AT 2020",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "8",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.755 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima (cv):": "177 @ 3.400 rpm",
+        "Torque máximo (kgfm):": "45,9 @ 2.800 rpm",
+        "Potência específica:": "64,2 cv/litro",
+        "Torque específico:": "16,7 kgfm/litro",
+        "Taxa de compressão:": "15,6:1",
+        "Rel. peso/potência:": "12 kg/cv",
+        "Rel. peso/torque:": "46,4 kg/kgfm",
+        "Curso dos pistões:": "103,6 mm",
+        "Diâmetro dos cilindros:": "92 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "1GD-FTV"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "AC60F"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "10,5",
+        "Autonomia em km:": "840"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/60 R18",
+        "Traseira:": "265/60 R18",
+        "Estepe:": "265/60 R18",
+        "Altura do flanco:": "159 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.795 mm",
+        "Altura:": "1.835 mm",
+        "Largura:": "1.855 mm",
+        "Entre-eixos:": "2.745 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "279 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.130 kg",
+        "Porta-malas:": "500 (5 lug) / 180 (7 lug) litros",
+        "Carga útil:": "590 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

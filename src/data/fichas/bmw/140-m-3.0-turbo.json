@@ -1,0 +1,64 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Novembro/BMW-M140i.jpg",
+    "NOME": "140-m-3.0-turbo",
+    "ANO": "turbo",
+    "MARCA": "bmw",
+    "MODELO": "140",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "Série 1",
+        "Versão:": "140 M 3.0 turbo",
+        "Ano modelo:": "2017",
+        "Detalhes:": "Importado, hatch, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "2.998 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "340 cv @ 5.500",
+        "Torque:": "51 kgfm @ 1.500 rpm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,5 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano": "8,4 km/l",
+        "Rodoviário": "11,1 km/l"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Disco, ventilados",
+        "Traseiros:": "Discos, ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "225/40 R18",
+        "Traseiros:": "245/35 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.324 mm",
+        "Altura:": "1.411 mm",
+        "Largura:": "1.765 mm",
+        "Entre-eixos:": "2.690 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.475 kg",
+        "Porta malas:": "360 litros",
+        "Carga útil:": "565 kg",
+        "Tanque combustível:": "52 litros",
+        "Capacidade reboque:": "Não disponível"
+    }
+}

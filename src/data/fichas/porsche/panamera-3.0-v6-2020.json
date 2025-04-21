@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Panamera.jpg",
+    "NOME": "panamera-3.0-v6-2020",
+    "ANO": "2020",
+    "MARCA": "porsche",
+    "MODELO": "panamera",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Panamera",
+        "Versão:": "3.0 V6 2020",
+        "Origem:": "Importado - Alemanha",
+        "Detalhes:": "Sedã, 4 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "2.995 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote,corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência CV:": "330 @ 5.400 rpm",
+        "Torque kgfm:": "45,9 @ 1.340 rpm",
+        "Taxa de compressão:": "11,2:1",
+        "Código do motor:": "EA839"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "PDK"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,7 s",
+        "Velocidade máxima:": "264 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "8,4 km/l",
+        "Estrada:": "12,4 km/l",
+        "Autonomia:": "930 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/45/19",
+        "Traseira:": "295/40/29"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,37 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.049 mm",
+        "Altura:": "1.423 mm",
+        "Largura:": "1.937 mm",
+        "Entre eixos:": "2.950 mm",
+        "Bitola dianteira:": "1.671 mm",
+        "Bitola traseira:": "1.651 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.815 kg",
+        "Porta-malas:": "495 litros",
+        "Carga útil:": "575 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

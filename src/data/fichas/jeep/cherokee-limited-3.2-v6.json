@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Jeep/Cherokee_01.jpg",
+    "NOME": "cherokee-limited-3.2-v6",
+    "ANO": "V6",
+    "MARCA": "jeep",
+    "MODELO": "cherokee",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Cherokee",
+        "Versão:": "Limited 3.2 V6",
+        "Ano/modelo:": "2015",
+        "Detalhes:": "Importado, SUV, 4 portas, 3 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "3.239 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "271 cv @ 6.500 rpm",
+        "Torque:": "32,2 kgfm @ 4.400 rpm",
+        "Taxa de compressão:": "10,7:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,1 s",
+        "Velocidade máxima:": "206 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7,2 km/l",
+        "Rodoviário:": "9,4 km/l",
+        "Autonomia:": "564 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos"
+    },
+    "PNEUS": {
+        "Dianteiros:": "225/55 R18",
+        "Traseiros:": "225/55 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.624 mm",
+        "Altura:": "1.683 mm",
+        "Largura:": "1.859 mm",
+        "Entre-eixos:": "2.700 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.834 kg",
+        "Porta-malas:": "412 litros",
+        "Carga útil:": "454 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Marco/X3_M.jpg",
+    "NOME": "x3-3.0-m-competition-2021",
+    "ANO": "2021",
+    "MARCA": "bmw",
+    "MODELO": "x3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X3",
+        "Versão:": "3.0 M Competition",
+        "Origem:": "Importado - Alemanha",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.993 cc",
+        "Cilindros:": "6, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência CV:": "210 @ 6.250 rpm",
+        "Torque kgfm:": "61,2 @ 2.600 rpm",
+        "Taxa de compressão:": "9,3:1",
+        "Código do motor:": "S58B30T0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,1 s",
+        "Velocidade máxima:": "285 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "6,2 km/l",
+        "Estrada:": "9,5 km/l",
+        "Autonomia:": "617 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/40/21",
+        "Traseira:": "265/40/21"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,66 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.726 mm",
+        "Altura:": "1.669 mm",
+        "Largura:": "1.897 mm",
+        "Entre eixos:": "2.864 mm",
+        "Bitola dianteira:": "1.698 mm",
+        "Bitola traseira:": "1.602 mm",
+        "Vão livre do solo:": "206 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.970 kg",
+        "Porta-malas:": "550 litros",
+        "Carga útil:": "530 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

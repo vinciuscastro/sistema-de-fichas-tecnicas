@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-318i-2011.jpg",
+    "NOME": "318i-2.0-2011",
+    "ANO": "2011",
+    "MARCA": "bmw",
+    "MODELO": "318i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "318i",
+        "Versão:": "2.0 2011",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "136 @ 6.000 rpm",
+        "Torque máximo em kgfm:": "19,4 @ 4.250 rpm",
+        "Potência específica:": "68,2 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Relação peso/potência:": "10,2 kg/cv",
+        "Relação peso/torque:": "71,6 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N46B20U2"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,8 seg",
+        "Velocidade máxima:": "208 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,1",
+        "Estrada em km/l:": "12,2",
+        "Autonomia em km:": "769"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/40 R17",
+        "Traseira:": "245/40 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,19 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.531 mm",
+        "Altura:": "1.421 mm",
+        "Largura:": "1.817 mm",
+        "Entre eixos:": "2.760 mm",
+        "Bitola dianteira:": "1.506 mm",
+        "Bitola traseira:": "1.535 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.390 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "520 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

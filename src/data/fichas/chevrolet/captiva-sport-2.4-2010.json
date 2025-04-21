@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chevrolet-Captiva-2009.jpg",
+    "NOME": "captiva-sport-2.4-2010",
+    "ANO": "2010",
+    "MARCA": "chevrolet",
+    "MODELO": "captiva",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Captiva",
+        "Versão:": "Sport 2.4 2010",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.384 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. (CV):": "185 @ 6.700 rpm",
+        "Torque máx. (kgfm):": "23,8 @ 4.900 rpm",
+        "Potência específica:": "77,6 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "11,2:1",
+        "Rel. peso/potência:": "9,1 kg/cv",
+        "Rel. peso/torque:": "70,6 kg/kgfm",
+        "Curso dos pistões:": "98 mm",
+        "Diâmetro dos cilindros:": "88 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Ecotec"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,9 seg",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,2",
+        "Estrada em km/l:": "9,7",
+        "Autonomia em km:": "708"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/60 R17",
+        "Traseira:": "235/60 R17",
+        "Altura do flanco:": "141 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,68 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.576 mm",
+        "Altura:": "1.704 mm",
+        "Largura:": "1.850 mm",
+        "Entre eixos:": "2.707 mm",
+        "Bitola dianteira:": "1.569 mm",
+        "Bitola traseira:": "1.579 mm",
+        "Vão livre do solo:": "200 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.680 kg",
+        "Porta-malas:": "383 litros",
+        "Carga útil:": "509 kg",
+        "Tanque combustível:": "73 litros"
+    }
+}

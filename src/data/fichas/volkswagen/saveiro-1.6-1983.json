@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Saveiro-1982.jpg",
+    "NOME": "saveiro-1.6-1983",
+    "ANO": "1983",
+    "MARCA": "volkswagen",
+    "MODELO": "saveiro",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Saveiro",
+        "Versão:": "1.6",
+        "Ano/modelo:": "1983",
+        "Detalhes:": "Nacional, picape, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.584 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No blovo, engrenagens",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "66 cv @ 4.600 rpm",
+        "Torque:": "12 kgfm @ 3.600 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "VW Boxer"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16,9 s",
+        "Velocidade máxima:": "142 km/h"
+    },
+    "CONSUMO": {
+        "Urbano": "10 km/l",
+        "Rodoviário": "14 km/l",
+        "Autonomia": "770 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "10 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.060 mm",
+        "Altura:": "1.369 mm",
+        "Largura:": "1.622 mm",
+        "Entre-eixos:": "2.358 mm",
+        "Bitola dianteira:": "1.350 mm",
+        "Bitola traseira:": "1.370 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "830 kg",
+        "Caçamba:": "870 litros",
+        "Carga útil:": "570 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

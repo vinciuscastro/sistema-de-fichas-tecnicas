@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/jac-e-js4.jpg",
+    "NOME": "e-js4-elétrico-2022",
+    "ANO": "2022",
+    "MARCA": "jac",
+    "MODELO": "e",
+    "ESPECIFICACAO": {
+        "Marca:": "Jac",
+        "Modelo:": "E-js4",
+        "Versão:": "Elétrico 2022",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "420 km",
+        "Capacidade da bateria:": "55 kWh",
+        "Potência:": "150 cv",
+        "Torque:": "34,7 kgfm",
+        "Peso/potência:": "11,27 kg/cv",
+        "Peso/torque:": "48,70 kg/kgfm",
+        "Consumo elétrico:": "13 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,5 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "225/45 R17",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.398 mm",
+        "Altura:": "1.656 mm",
+        "Largura:": "1.782 mm",
+        "Entre eixos:": "2.620 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "145 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.690 kg",
+        "Porta-malas:": "520 litros",
+        "Carga útil:": "470 kg"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Parati-89.jpg",
+    "NOME": "parati-gls-1.8-1989",
+    "ANO": "1989",
+    "MARCA": "volkswagen",
+    "MODELO": "parati",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Parati",
+        "Versão:": "GLS 1.8",
+        "Origem:": "Nacional",
+        "Detalhes:": "Perua, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.781 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "95 @ 5.400 rpm",
+        "Torque em kgfm:": "15,6 @ 3.200 rpm",
+        "Taxa de compressão:": "8,5:1",
+        "Código do motor:": "AP-1800"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,3 s",
+        "Velocidade máxima:": "161 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,3",
+        "Estrada em km/l:": "13,6",
+        "Autonomia em km:": "639"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Não assistida",
+        "Diâmetro de giro:": "9,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70/R13",
+        "Traseira:": "175/70/R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,90 m²",
+        "Coef. aerodinâmico:": "0,41 CX"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.075 mm",
+        "Altura:": "1.368 mm",
+        "Largura:": "1.622 mm",
+        "Entre eixos:": "2.358 mm",
+        "Bitola dianteira:": "1.350 mm",
+        "Bitola traseira:": "1.370 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "970 kg",
+        "Porta-malas:": "530 litros",
+        "Carga útil:": "460 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/Ranger-CS-2002.jpg",
+    "NOME": "ranger-xlt-4.0-v6-4x4-ce-manual-2002",
+    "ANO": "2002",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "XLT 4.0 V6 4x4 CE",
+        "Ano/modelo:": "2002",
+        "Detalhes:": "Importado, picape, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "4.011 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "210 cv @ 5.250 rpm",
+        "Torque:": "32,9 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "9,7:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10 s",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,2 km/l",
+        "Rodoviário:": "9 km/l",
+        "Autonomia:": "675 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "14 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/75 R15",
+        "Traseira:": "235/75 R15"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.150 mm",
+        "Altura:": "1.779 mm",
+        "Largura:": "1.763 mm",
+        "Entre eixos:": "3.192 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.490 kg",
+        "Caçamba:": "1.060 litros",
+        "Carga útil:": "750 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

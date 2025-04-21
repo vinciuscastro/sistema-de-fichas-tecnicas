@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Urus.jpg",
+    "NOME": "urus-lp-650-4-4.0-v8-2020",
+    "ANO": "2020",
+    "MARCA": "lamborghini",
+    "MODELO": "urus",
+    "ESPECIFICACAO": {
+        "Marca:": "Lamborghini",
+        "Modelo:": "Urus",
+        "Versão:": "LP 650-4 4.0 V8 2020",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "3.996 cc",
+        "Cilindros:": "4, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "650 @ 6.000 rpm",
+        "Torque máximo (kgfm):": "86,7 @ 2.250 rpm",
+        "Potência específica:": "162,7 cv/litro",
+        "Torque específico:": "21,7 kgfm/litro",
+        "Taxa de compressão:": "9:1",
+        "Rel. peso/potência:": "3,4 kg/cv",
+        "Rel. peso/torque:": "25,4 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA825"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,6 seg",
+        "Velocidade máxima:": "305 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,2",
+        "Estrada em km/l:": "6,8",
+        "Autonomia em km:": "578"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, multibraço",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "285/45 R21",
+        "Traseira:": "315/40 R21",
+        "Altura do flanco:": "126 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.112 mm",
+        "Altura:": "1.638 mm",
+        "Largura:": "2.016 mm",
+        "Entre-eixos:": "3.003 mm",
+        "Bitola dianteira:": "1.695 mm",
+        "Bitola traseira:": "1.710 mm",
+        "Vão livre do solo:": "248 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.200 kg",
+        "Porta-malas:": "616 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "85 litros"
+    }
+}

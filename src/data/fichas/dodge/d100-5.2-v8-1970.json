@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Marco/dodge-d-100-1970.jpg",
+    "NOME": "d100-5.2-v8-1970",
+    "ANO": "1970",
+    "MARCA": "dodge",
+    "MODELO": "d100",
+    "ESPECIFICACAO": {
+        "Marca:": "Dodge",
+        "Modelo:": "D100",
+        "Versão:": "5.8 V8",
+        "Ano/modelo:": "1970",
+        "Detalhes:": "Nacional, pickup, 2 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural, Carburador DFV 446 duplo descendente",
+        "Cilindrada:": "5.212 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No bloco",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "198 @ 4.400 rpm",
+        "Torque:": "42 kgfm @ 2.400 rpm",
+        "Taxa de compressão:": "6,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "3",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16 s",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,5 km/l",
+        "Rodoviário:": "7,5 km/l",
+        "Autonomia:": "510 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Tambor",
+        "Traseiros:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.860 mm",
+        "Altura:": "1.750 mm",
+        "Largura:": "2.010 mm",
+        "Entre-eixos:": "2.900 mm",
+        "Vão livre do solo:": "220 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.650 kg",
+        "Caçamba:": "709 litros",
+        "Carga útil:": "709 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Julho/Chevrolet-Onix_Plus-2022.jpg",
+    "NOME": "onix-sedan-premier-1.0-turbo-at-2024",
+    "ANO": "2024",
+    "MARCA": "chevrolet",
+    "MODELO": "onix",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Onix",
+        "Versão:": "Premier 1.0 Turbo AT 2024",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Sedã",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. (CV):": "116 (E) / 116 (G) @ 5.500 rpm",
+        "Torque máx. (kgfm):": "16,8 (E) / 16,3 (G) @ 2.000 rpm",
+        "Potência específica:": "116,1 cv/litro",
+        "Torque específico:": "16,8 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "9,63 kg/cv",
+        "Rel. peso/torque:": "66,6 kg/kgfm",
+        "Curso dos pistões:": "77,49 mm",
+        "Diâmetro dos cilindros:": "74 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "CSS Prime"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "GF6"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,4 seg",
+        "Velocidade máxima:": "187 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,4 (E) / 12,3 (G)",
+        "Estrada em km/l:": "12,2 (E) / 16,8 (G)",
+        "Autonomia em km:": "537 (E) / 739 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/55 R16",
+        "Traseira:": "195/55 R16",
+        "Altura do flanco:": "107 mm",
+        "Estepe:": "115/70 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,17 m2",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.474 mm",
+        "Altura:": "1.474 mm",
+        "Largura:": "1.730 mm",
+        "Entre eixos:": "2.600 mm",
+        "Bitola dianteira:": "1.506 mm",
+        "Bitola traseira:": "1.150 mm",
+        "Vão livre do solo:": "127 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.117 kg",
+        "Porta-malas:": "469 litros",
+        "Carga útil:": "375 kg",
+        "Tanque combustível:": "44 litros"
+    }
+}

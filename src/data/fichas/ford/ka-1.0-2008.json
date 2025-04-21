@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Setembro/Ka-2008.jpg",
+    "NOME": "ka-1.0-2008",
+    "ANO": "2008",
+    "MARCA": "ford",
+    "MODELO": "ka",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "KA",
+        "Versão:": "1.0",
+        "Ano/modelo:": "2008",
+        "Detalhes:": "Nacional, hatch, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Flex",
+        "Potência:": "72 cv (E) / 69 cv (G) @ 6.000 rpm",
+        "Torque:": "9,3 kgfm (E) / 8,9 kgfm (G) @ 4.750 rpm",
+        "Taxa de compressão:": "12,8:1",
+        "Código do motor:": "Zetec Rocam"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15,5 s",
+        "Velocidade máxima:": "160 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7,4 km/l (E) / 9,6 km/l (G)",
+        "Rodoviário:": "10,6 km/l (E) / 13,8 km/l (G)",
+        "Autonomia:": "477 km (E) / 621 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "9,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,98 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.836 mm",
+        "Altura:": "1.420 mm",
+        "Largura:": "1.641 mm",
+        "Entre eixos:": "2.452 mm",
+        "Bitola dianteira:": "1.425 mm",
+        "Bitola traseira:": "1.391 mm",
+        "Vão livre do solo:": "163 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "905 kg",
+        "Porta-malas:": "263 litros",
+        "Carga útil:": "467 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

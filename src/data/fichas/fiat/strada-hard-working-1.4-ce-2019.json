@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Novembro/HardCE.jpg",
+    "NOME": "strada-hard-working-1.4-ce-2019",
+    "ANO": "2019",
+    "MARCA": "fiat",
+    "MODELO": "strada",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Strada",
+        "Versão:": "Hard Working 1.4 CE 2019",
+        "Combustível:": "Flex - Etanol e/ou gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.368 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima em CV:": "88 (E) / 85 (G) @ 5.750 rpm",
+        "Torque máximo em kgfm:": "12,5 (E) / 12,4 (G) @ 3.500 rpm",
+        "Potência específica:": "64,3 cv/litro",
+        "Torque específico:": "9,1 kgfm/litro",
+        "Taxa de compressão:": "12,3:1",
+        "Rel. peso/potência:": "12,6 kg/cv",
+        "Rel. peso/torque:": "89 kg/kgfm",
+        "Curso dos pistões:": "84 mm",
+        "Diâmetro dos cilindros:": "72 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Fire"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C513"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,2 seg",
+        "Velocidade máxima:": "173 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,4 (E) / 10,8 (G)",
+        "Estrada em km/l:": "8,5 (E) / 12,3 (G)",
+        "Autonomia em km:": "493 (E) / 713 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola parabólica de lâmina única"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "não assistida",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R14",
+        "Traseira:": "175/70 R14",
+        "Altura do flanco:": "123 mm",
+        "Estepe:": "175/70 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.438 mm",
+        "Altura:": "1.590 mm",
+        "Largura:": "1.664 mm",
+        "Entre eixos:": "2.718 mm",
+        "Bitola dianteira:": "1.425 mm",
+        "Bitola traseira:": "1.390 mm",
+        "Vão livre do solo:": "170 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.113 kg",
+        "Caçamba:": "910 litros",
+        "Carga útil:": "705 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

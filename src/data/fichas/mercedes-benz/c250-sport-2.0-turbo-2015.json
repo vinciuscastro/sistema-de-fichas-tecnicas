@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-2015.jpg",
+    "NOME": "c250-sport-2.0-turbo-2015",
+    "ANO": "2015",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c250",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C250",
+        "Versão:": "Sport 2.0 Turbo",
+        "Ano/modelo:": "2015",
+        "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.991 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "211 cv @ 5.500 rpm",
+        "Torque:": "35,7 kgfm @ 1.200 rpm",
+        "Taxa de compressão:": "9,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "7",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,6 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,6 km/l",
+        "Rodoviário:": "13,6 km/l",
+        "Autonomia:": "897 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R18",
+        "Traseira:": "245/40 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,22 m²",
+        "Coef. aerodinâmico:": "0,27 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.686 mm",
+        "Altura:": "1.442 mm",
+        "Largura:": "1.810 mm",
+        "Entre-eixos:": "2.840 mm",
+        "Bitola dianteira:": "1.538 mm",
+        "Bitola traseira:": "1.570 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.480 kg",
+        "Porta-malas:": "480 litros",
+        "Carga útil:": "640 kg",
+        "Tanque combustível:": "66 litros"
+    }
+}

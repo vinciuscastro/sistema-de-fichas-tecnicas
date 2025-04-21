@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Setembro/Ka-2006.jpg",
+    "NOME": "ka-mp3-1.6-2006",
+    "ANO": "2006",
+    "MARCA": "ford",
+    "MODELO": "ka",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "KA",
+        "Versão:": "MP3 1.6",
+        "Ano/modelo:": "2003",
+        "Detalhes:": "Nacional, hatch, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "95 cv @ 5.500 rpm",
+        "Torque:": "14,2 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "Zetec Rocam"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,8 s",
+        "Velocidade máxima:": "186 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,5 km/l",
+        "Rodoviário:": "14,1 km/l",
+        "Autonomia:": "592 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60 R14",
+        "Traseira:": "185/60 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1.90 m²",
+        "Coef. aerodinâmico:": "0,43 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.624 mm",
+        "Altura:": "1.368 mm",
+        "Largura:": "1.631 mm",
+        "Entre eixos:": "2.446 mm",
+        "Bitola dianteira:": "1.393 mm",
+        "Bitola traseira:": "1.410 mm",
+        "Vão livre do solo:": "163 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "930 kg",
+        "Porta-malas:": "186 litros",
+        "Carga útil:": "380 kg",
+        "Tanque combustível:": "42 litros"
+    }
+}

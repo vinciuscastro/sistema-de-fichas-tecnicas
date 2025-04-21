@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-X5-2014.jpg",
+    "NOME": "x5-xdrive50i-4.4-v8-2014",
+    "ANO": "2014",
+    "MARCA": "bmw",
+    "MODELO": "x5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X5",
+        "Versão:": "xDrive50i 4.4 V8",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Importado, SUV, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "450 cv @ 6.000 rpm",
+        "Torque:": "66,3 kgfm @ 2.000 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "3,8 km/l",
+        "Rodoviário:": "7,6 km/l",
+        "Autonomia:": "646 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,7 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.886 mm",
+        "Altura:": "1.762 mm",
+        "Largura:": "1.938 mm",
+        "Entre-eixos:": "2.933 mm",
+        "Vão livre do solo:": "209 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.175 kg",
+        "Porta-malas:": "650 litros",
+        "Carga útil:": "710 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

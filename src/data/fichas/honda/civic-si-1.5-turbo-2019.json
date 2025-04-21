@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Marco/Civic.jpg ",
+    "NOME": "civic-si-1.5-turbo-2019",
+    "ANO": "2019",
+    "MARCA": "honda",
+    "MODELO": "civic",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "Civic",
+        "Versão:": "Si 1.5 Turbo 2019",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "10",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.498 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. (CV):": "208 @ 5.700 rpm",
+        "Torque máx. (kgfm):": "26,5 @ 2.100 rpm",
+        "Potência específica:": "138,9 cv/litro",
+        "Torque específico:": "17,7 kgfm/litro",
+        "Taxa de compressão:": "10,3:1",
+        "Rel. peso/potência:": "6,4 kg/cv",
+        "Rel. peso/torque:": "49,8 kg/kgfm",
+        "Curso dos pistões:": "89,5 mm",
+        "Diâmetro dos cilindros:": "73 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "L15B7"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,2 seg",
+        "Velocidade máxima:": "238 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "11,2",
+        "Estrada em km/l:": "13,7",
+        "Autonomia em km:": "644"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/40 R18",
+        "Traseira:": "235/40 R18",
+        "Altura do flanco:": "94 mm",
+        "Estepe:": "125/80 R 16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.522 mm",
+        "Altura:": "1.421 mm",
+        "Largura:": "1.799 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.533 mm",
+        "Bitola traseira:": "1.547 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.321 kg",
+        "Porta-malas:": "334 litros",
+        "Carga útil:": "419 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

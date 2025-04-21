@@ -1,0 +1,83 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Defender-110.jpg",
+    "NOME": "defender-110-sw-2.5-turbo-2004",
+    "ANO": "2004",
+    "MARCA": "land-rover",
+    "MODELO": "defender",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Defender",
+        "Versão:": "110 SW 2.5 Turbo",
+        "Ano/modelo:": "2004",
+        "Detalhes:": "Nacional, jipe, 4 portas, 9 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção indireta",
+        "Cilindrada:": "2.495 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Diesel",
+        "Potência:": "115 cv @ 3.800 rpm",
+        "Torque:": "29,6 kgfm @ 1.600 rpm",
+        "Taxa de compressão:": "19,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "4 x 4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "18,7 s",
+        "Velocidade máxima:": "140 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7,2 km/l",
+        "Rodoviário:": "8,9 km/l",
+        "Autonomia:": "667 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "14,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/85 R16",
+        "Traseira:": "235/85 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.599 mm",
+        "Altura:": "2.060 mm",
+        "Largura:": "1.790 mm",
+        "Entre-eixos:": "2.794 mm",
+        "Bitola dianteira:": "1.486 mm",
+        "Bitola traseira:": "1.486 mm",
+        "Vão livre do solo:": "215 mm",
+        "Ângulo de entrada:": "51 graus",
+        "Ângulo de saída:": "34 graus",
+        "Ângulo central:": "28 graus",
+        "Travessia de água:": "500 mm",
+        "Rampa máxima:": "45 graus",
+        "Inclinação lateral max.:": "30 graus"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.028 kg",
+        "Porta-malas:": "263 litros",
+        "Carga útil:": "920 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

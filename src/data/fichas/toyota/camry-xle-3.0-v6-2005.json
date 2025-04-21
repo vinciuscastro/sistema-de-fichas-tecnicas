@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Toyota-Camry-2003.jpg",
+    "NOME": "camry-xle-3.0-v6-2005",
+    "ANO": "2005",
+    "MARCA": "toyota",
+    "MODELO": "camry",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Camry",
+        "Versão:": "XLE 3.0 V6 2005",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.995 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "186 @ 5.300 rpm",
+        "Torque máx. (kgfm):": "27,8 @ 4.300 rpm",
+        "Potência específica:": "62,1 cv/litro",
+        "Torque específico:": "9,3 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "8,1 kg/cv",
+        "Rel. peso/torque:": "54 kg/kgfm",
+        "Curso dos pistões:": "83 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "1MZ-FE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,8 seg",
+        "Velocidade máxima:": "192 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,6",
+        "Estrada em km/l:": "9,5",
+        "Autonomia em km:": "665"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/60 R16",
+        "Traseira:": "215/60 R16",
+        "Altura do flanco:": "129 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,29 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.815 mm",
+        "Altura:": "1.500 mm",
+        "Largura:": "1.795 mm",
+        "Entre eixos:": "2.720 mm",
+        "Bitola dianteira:": "1.545 mm",
+        "Bitola traseira:": "1.515 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.500 kg",
+        "Porta-malas:": "587 litros",
+        "Carga útil:": "440 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/porsche-macan-t.jpg",
+    "NOME": "macan-t-2.0-2022",
+    "ANO": "2022",
+    "MARCA": "porsche",
+    "MODELO": "macan",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Macan",
+        "Versão:": "T 2.0 2022",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "265 @ 5.000 rpm",
+        "Torque máximo em kgfm:": "40,8 @ 1.800 rpm",
+        "Potência específica:": "133,6 cv/litro",
+        "Torque específico:": "20,6 kgfm/litro",
+        "Taxa de compressão:": "9,6:1",
+        "Rel. peso/potência:": "7 kg/cv",
+        "Rel. peso/torque:": "45,7 kg/kgfm",
+        "Curso dos pistões:": "92,8 mm",
+        "Diâmetro dos cilindros:": "82,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA888"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "PDK"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,2 seg",
+        "Velocidade máxima:": "232 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,4",
+        "Estrada em km/l:": "8,3",
+        "Autonomia em km:": "540"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/45 R20",
+        "Traseira:": "295/40 R20",
+        "Altura do flanco:": "118 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,62 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.726 mm",
+        "Altura:": "1.606 mm",
+        "Largura:": "1.927 mm",
+        "Entre eixos:": "2.807 mm",
+        "Bitola dianteira:": "1.645 mm",
+        "Bitola traseira:": "1.655 mm",
+        "Vão livre do solo:": "202 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.865 kg",
+        "Porta-malas:": "488 litros",
+        "Carga útil:": "645 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

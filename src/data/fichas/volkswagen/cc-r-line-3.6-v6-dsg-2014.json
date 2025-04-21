@@ -1,0 +1,68 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-CC-R-Line-2014.jpg",
+    "NOME": "cc-r-line-3.6-v6-dsg-2014",
+    "ANO": "2014",
+    "MARCA": "volkswagen",
+    "MODELO": "cc",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "CC",
+        "Versão:": "R-Line 3.6 V6 DSG 4Motion",
+        "Ano/modelo:": "2014",
+        "Detalhes:": "Importado, sedan, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "3.597 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "300 cv @ 6.600 rpm",
+        "Torque:": "35,7 kgfm @ 2.400 rpm",
+        "Taxa de compressão:": "11,4:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,5 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7 km/l",
+        "Rodoviário:": "10 km/l",
+        "Autonomia:": "680 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Disco ventilado",
+        "Traseiro:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.801 mm",
+        "Altura:": "1.426 mm",
+        "Largura:": "1.855 mm",
+        "Entre-eixos:": "2.712 mm",
+        "Bitola dianteira:": "1.555 mm",
+        "Bitola traseira:": "1.557 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.637 kg",
+        "Porta-malas:": "452 litros",
+        "Carga útil:": "509 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

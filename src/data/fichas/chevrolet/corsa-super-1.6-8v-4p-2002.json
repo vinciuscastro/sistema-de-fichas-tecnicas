@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Chevrolet-Corsa-99-4P.jpg",
+    "NOME": "corsa-super-1.6-8v-4p-2002",
+    "ANO": "2002",
+    "MARCA": "chevrolet",
+    "MODELO": "corsa",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Corsa",
+        "Versão:": "Super 1.6 4 portas 2002",
+        "Origem:": "Nacional",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.598 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "92 @ 5.600 rpm",
+        "Torque em kgfm:": "13 @ 2.800 rpm",
+        "Taxa de compressão:": "9,4:1",
+        "Código do motor:": "GM Família I"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,9 seg",
+        "Velocidade máxima:": "177 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "11",
+        "Estrada em km/l:": "15",
+        "Autonomia em km:": "690"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "9,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70/ R13",
+        "Traseira:": "165/60/ R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,88 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.729 mm",
+        "Altura:": "1.388 mm",
+        "Largura:": "1.608 mm",
+        "Entre eixos:": "2.443 mm",
+        "Bitola dianteira:": "1.387 mm",
+        "Bitola traseira:": "1.388 mm",
+        "Vão livre do solo:": "149 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "900 kg",
+        "Porta-malas:": "260 litros",
+        "Carga útil:": "425 kg",
+        "Tanque combustível:": "46 litros"
+    }
+}

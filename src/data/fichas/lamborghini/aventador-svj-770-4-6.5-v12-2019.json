@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Julho/Lamborghini-Aventador.jpg",
+    "NOME": "aventador-svj-770-4-6.5-v12-2019",
+    "ANO": "2019",
+    "MARCA": "lamborghini",
+    "MODELO": "aventador",
+    "ESPECIFICACAO": {
+        "Marca:": "Lamborghini",
+        "Modelo:": "Aventador",
+        "Versão:": "770-4 6.5 V12 2019",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "6.498 cc",
+        "Cilindros:": "12, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima (cv):": "770 @ 8.500 rpm",
+        "Torque máximo (kgfm):": "73,4 @ 6.750 rpm",
+        "Potência específica:": "118,6 cv/litro",
+        "Torque específico:": "11,3 kgfm/litro",
+        "Taxa de compressão:": "11,8:1",
+        "Rel. peso/potência:": "2 kg/cv",
+        "Rel. peso/torque:": "20,8 kg/kgfm",
+        "Curso dos pistões:": "76,4 mm",
+        "Diâmetro dos cilindros:": "95 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "LF539"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ISR"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,8 seg",
+        "Velocidade máxima:": "350 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "3,3",
+        "Estrada em km/l:": "6,5",
+        "Autonomia em km:": "553"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/30 R20",
+        "Traseira:": "355/25 R21",
+        "Altura do flanco:": "89 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,96 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.797 mm",
+        "Altura:": "1.136 mm",
+        "Largura:": "2.030 mm",
+        "Entre-eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.720 mm",
+        "Bitola traseira:": "1.680 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.525 kg",
+        "Porta-malas:": "140 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "85 litros"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Lancer-2010.jpg",
+    "NOME": "lancer-evolution-x-mr-2.0-turbo-2010",
+    "ANO": "2010",
+    "MARCA": "mitsubishi",
+    "MODELO": "lancer",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Lancer",
+        "Versão:": "Evolution X MR 2.0 Turbo",
+        "Ano/modelo:": "2010",
+        "Detalhes:": "Importado, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "295 cv @ 6.500 rpm",
+        "Torque:": "37,3 kgfm @ 3.500 rpm",
+        "Taxa de compressão:": "9,1:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,3 s",
+        "Velocidade máxima:": "242 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,7 km/l",
+        "Rodoviário:": "7,9 km/l",
+        "Autonomia:": "434 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R18",
+        "Traseira:": "245/40 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,28 m²",
+        "Coef. aerodinâmico:": "o,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.505 mm",
+        "Altura:": "1.480 mm",
+        "Largura:": "1.810 mm",
+        "Entre-eixos:": "2.650 mm",
+        "Bitola dianteira:": "1.590 mm",
+        "Bitola traseira:": "1.545 mm",
+        "Vão livre do solo:": "135 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.590 kg",
+        "Porta-malas:": "430 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Hilux-CS.jpg",
+    "NOME": "hilux-std-2.8-turbo-4x4-cs-2019",
+    "ANO": "2019",
+    "MARCA": "toyota",
+    "MODELO": "hilux",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Hilux",
+        "Versão:": "STD 2.8 Turbo 4x4 CS",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Importado, picape, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.755 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Diesel",
+        "Potência:": "177 cv @ 3.400 rpm",
+        "Torque:": "45,9 kgfm @ 1.600 rpm",
+        "Taxa de compressão:": "15:1",
+        "Código do motor:": "1GD"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,3 km/l",
+        "Rodoviário:": "11,2 km/l",
+        "Autonomia:": "896 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/70 R17",
+        "Traseira:": "225/70 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.330 mm",
+        "Altura:": "1.795 mm",
+        "Largura:": "1.800 mm",
+        "Entre-eixos:": "3.085 mm",
+        "Ângulo de entrada:": "30 graus",
+        "Ângulo de saída:": "25 graus",
+        "Vão livre do solo:": "269 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.980 kg",
+        "Caçamba:": "1.580 litros",
+        "Carga útil:": "1.020 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

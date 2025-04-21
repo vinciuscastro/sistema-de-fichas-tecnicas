@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/Tiggo.jpg",
+    "NOME": "tiggo-2-look-1.5-2019",
+    "ANO": "2019",
+    "MARCA": "chery",
+    "MODELO": "tiggo",
+    "ESPECIFICACAO": {
+        "Marca:": "Chery",
+        "Modelo:": "Tiggo 2",
+        "Versão:": "Look 1.5",
+        "Ano/modelo:": "2019",
+        "Detalhes:": "Nacional, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.496 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "115 cv (E) / 110 cv (G) @ 6.000 rpm",
+        "Torque:": "14,9 kgfm (E) / 13,8 kgfm (G) @ 2.700 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13 s",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,3 km/l (E) / 9,2 km/l (G)",
+        "Rodoviário:": "7,8 km/l (E) / 11,4 km/l (G)",
+        "Autonomia:": "390 km (E) / 570 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.200 mm",
+        "Altura:": "1.570 mm",
+        "Largura:": "1.760 mm",
+        "Entre-eixos:": "2.555 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "186 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.240 kg",
+        "Porta-malas:": "420 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "50 litros"
+    }
+}

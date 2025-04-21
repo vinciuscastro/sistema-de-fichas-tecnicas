@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Blazer_TD.jpg",
+    "NOME": "dlx-2.8-turbodiesel-4x4-2000",
+    "ANO": "2000",
+    "MARCA": "chevrolet",
+    "MODELO": "dlx",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Blazer",
+        "Versão:": "DLX 2.8 Turbodiesel 4x4 2000",
+        "Combustível:": "Diesel",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.798 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "3",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Engrenagens",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "132 @ 3.600 rpm",
+        "Torque máx. (kgfm):": "34,7 @ 1.800 rpm",
+        "Potência específica:": "47,2 cv/litro",
+        "Torque específico:": "12,4 kgfm/litro",
+        "Taxa de compressão:": "17,8:1",
+        "Rel. peso/potência:": "14,7 kg/cv",
+        "Rel. peso/torque:": "56,1 kg/kgfm",
+        "Curso dos pistões:": "103 mm",
+        "Diâmetro dos cilindros:": "93 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "MWM 4.07 TCA"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "FSO 2405K"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15,4 seg",
+        "Velocidade máxima:": "164 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "10,4",
+        "Autonomia em km:": "728"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola parabólica de lâmina única"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/70 R15",
+        "Traseira:": "235/70 R15",
+        "Altura do flanco:": "165 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.642 mm",
+        "Altura:": "1.694 mm",
+        "Largura:": "1.690 mm",
+        "Entre eixos:": "2.718 mm",
+        "Bitola dianteira:": "1.454 mm",
+        "Bitola traseira:": "1.399 mm",
+        "Vão livre do solo:": "228 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.945 kg",
+        "Porta-malas:": "456 litros",
+        "Carga útil:": "700 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

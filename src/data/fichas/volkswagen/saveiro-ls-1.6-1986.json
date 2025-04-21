@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Saveiro-1986.jpg",
+    "NOME": "saveiro-ls-1.6-1986",
+    "ANO": "1986",
+    "MARCA": "volkswagen",
+    "MODELO": "saveiro",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Saveiro",
+        "Versão:": "LS 1.6",
+        "Ano/modelo:": "1986",
+        "Detalhes:": "Nacional, picape, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.596 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "85 cv @ 5.600 rpm",
+        "Torque:": "12,6 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "8,5:1",
+        "Código do motor:": "AP-1600"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,8 s",
+        "Velocidade máxima:": "159 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,5 km/l",
+        "Rodoviário:": "12 km/l",
+        "Autonomia:": "660 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.060 mm",
+        "Altura:": "1.368 mm",
+        "Largura:": "1.622 mm",
+        "Entre-eixos:": "2.358 mm",
+        "Bitola dianteira:": "1.350 mm",
+        "Bitola traseira:": "1.370 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "890 kg",
+        "Caçamba:": "870 litros",
+        "Carga útil:": "570 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

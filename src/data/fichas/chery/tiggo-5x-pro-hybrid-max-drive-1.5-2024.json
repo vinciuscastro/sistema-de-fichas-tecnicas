@@ -1,0 +1,102 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/marco/chery-tiggo-5x-2023.jpg",
+    "NOME": "tiggo-5x-pro-hybrid-max-drive-1.5-2024",
+    "ANO": "2024",
+    "MARCA": "chery",
+    "MODELO": "tiggo",
+    "ESPECIFICACAO": {
+        "Marca:": "Chery",
+        "Modelo:": "Tiggo 5x",
+        "Versão:": "Pro Hybrid Max Drive 1.5 2024",
+        "Combustível:": "Híbrido leve- Gasolina e/ou Etanol/Eletricidade",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência em CV:": "150 @ 5.500 rpm",
+        "Torque em kgfm:": "21,4 @ 3.600 rpm",
+        "Potência específica:": "100,1 cv/litro",
+        "Torque específico:": "14,3 kgfm/litro",
+        "Taxa de compressão:": "9,5:1",
+        "Relação peso/potência:": "9,69 kg/cv",
+        "Relação peso/torque:": "67,9 kg/kgfm",
+        "Curso dos pistões:": "80,5 mm",
+        "Diâmetro dos cilindros:": "77 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "SQRE4T15B",
+        "Potência:": "10 cv",
+        "Potência combinada:": "160 cv",
+        "Torque:": "4,1 kgfm",
+        "Torque combinado:": "25,5 kgfm",
+        "Capacidade bateria:": "informação não disponível",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "CVT25"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,2 seg",
+        "Velocidade máxima:": "193 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,1 (E) / 11,1 (G)",
+        "Estrada em km/l:": "8,3 (E) / 10,9 (G)",
+        "Autonomia em km:": "423 (E) / 556 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, ultibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R18",
+        "Traseira:": "225/55 R18",
+        "Altura do flanco:": "124 mm",
+        "Estepe:": "225/60 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.338 mm",
+        "Altura:": "1.645 mm",
+        "Largura:": "1.830 mm",
+        "Entre eixos:": "2.631 mm",
+        "Bitola dianteira:": "1.550 mm",
+        "Bitola traseira:": "1.550 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.454 kg",
+        "Porta-malas:": "330 litros",
+        "Carga útil:": "337 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

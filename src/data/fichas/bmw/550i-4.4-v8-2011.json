@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-550-2011.jpg",
+    "NOME": "550i-4.4-v8-2011",
+    "ANO": "2011",
+    "MARCA": "bmw",
+    "MODELO": "550i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "550i",
+        "Versão:": "4.4 V8 2011",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "6",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "405 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "61,2 @ 1.750 rpm",
+        "Potência específica:": "92,2 cv/litro",
+        "Torque específico:": "13,9 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "4,5 kg/cv",
+        "Relação peso/torque:": "29,9 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N63B44"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,1",
+        "Estrada em km/l:": "10,2",
+        "Autonomia em km:": "714"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R18",
+        "Traseira:": "245/45 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,31 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.899 mm",
+        "Altura:": "1.464 mm",
+        "Largura:": "1.860 mm",
+        "Entre eixos:": "2.968 mm",
+        "Bitola dianteira:": "1.600 mm",
+        "Bitola traseira:": "1.627 mm",
+        "Vão livre do solo:": "141 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.830 kg",
+        "Porta-malas:": "520 litros",
+        "Carga útil:": "600 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

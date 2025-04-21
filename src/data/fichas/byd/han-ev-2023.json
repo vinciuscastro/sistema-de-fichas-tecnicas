@@ -1,0 +1,30 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd_han_ev.jpg",
+    "NOME": "han-ev-2023",
+    "ANO": "2023",
+    "MARCA": "byd",
+    "MODELO": "han",
+    "ESPECIFICACAO": {
+        "Marca:": "BYD",
+        "Modelo:": "HAN",
+        "Versão:": "EV 2023",
+        "Propulsão:": "Elétrico",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Grande",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "349km",
+        "Capacidade da bateria:": "85,4 kWh",
+        "Potência:": "517 cv",
+        "Torque:": "71,4 kgfm",
+        "Peso/potência:": "4,35 kg/cv",
+        "Peso/torque:": "31,51 kg/kgfm",
+        "Consumo elétrico:": "informação não disponível"
+    }
+}

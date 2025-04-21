@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/mercedes-benz-g63-amg-13.jpg",
+    "NOME": "g63-amg-5.5-v8-2017",
+    "ANO": "2017",
+    "MARCA": "mercedes-benz",
+    "MODELO": "g63",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "G63",
+        "Versão:": "AMG 5.5 V8 2017",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "5.461 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima em CV:": "571 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "77,5 @ 1.750 rpm",
+        "Potência específica:": "104,6 cv/litro",
+        "Torque específico:": "14,2 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "4,3 kg/cv",
+        "Relação peso/torque:": "31,9 kg/kgfm",
+        "Curso dos pistões:": "90,5 mm",
+        "Diâmetro dos cilindros:": "98 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatico",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,4 seg",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "3,5",
+        "Estrada em km/l:": "5,7",
+        "Autonomia em km:": "547"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Eixo rígido",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/50 R20",
+        "Traseira:": "275/50 R20",
+        "Estepe:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,08 m²",
+        "Coef. aerodinâmico:": "0,54 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.672 mm",
+        "Altura:": "1.938 mm",
+        "Largura:": "1.867 mm",
+        "Entre eixos:": "2.850 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.475 kg",
+        "Porta-malas:": "480 litros (5 lug) / 120 litros (7 lug)",
+        "Carga útil:": "725 kg",
+        "Tanque combustível:": "96 litros"
+    }
+}

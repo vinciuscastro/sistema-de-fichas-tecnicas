@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/maio/mercedes-benz-sprinter-van-313.jpg",
+    "NOME": "sprinter-van-313-luxo-2.2-2012",
+    "ANO": "2012",
+    "MARCA": "mercedes-benz",
+    "MODELO": "sprinter",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "Sprinter",
+        "Versão:": "Van 313 Luxo 2.2 2012",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Van",
+        "Portas:": "3",
+        "Ocupantes:": "16",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.150 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "129 @ 3.800 rpm",
+        "Torque em kgfm:": "31 @ 1.600 rpm",
+        "Potência específica:": "60 cv/litro",
+        "Torque específico:": "14,4 kgfm/litro",
+        "Taxa de compressão:": "18:1",
+        "Relação peso/potência:": "16,6 kg/cv",
+        "Relação peso/torque:": "69,3 kg/kgfm",
+        "Curso dos pistões:": "88,4 mm",
+        "Diâmetro dos cilindros:": "88 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "OM611"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "22 seg",
+        "Velocidade máxima:": "145 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,8",
+        "Estrada em km/l:": "10,8",
+        "Autonomia em km:": "864"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/70 R15",
+        "Traseira:": "225/70 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.640 mm",
+        "Altura:": "2.595 mm",
+        "Largura:": "1.922 mm",
+        "Entre eixos:": "3.550 mm",
+        "Bitola dianteira:": "1.638 mm",
+        "Bitola traseira:": "1.630 mm",
+        "Vão livre do solo:": "189 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.147 kg",
+        "Porta-malas:": "150 litros",
+        "Carga útil:": "1.533 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-328-2.0-Turbo.jpg",
+    "NOME": "328i-sport-2.0-turbo-2015",
+    "ANO": "2015",
+    "MARCA": "bmw",
+    "MODELO": "328i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "328i",
+        "Versão:": "Sport 2.0 Turbo",
+        "Ano/modelo:": "2015",
+        "Detalhes:": "Importado, sedan, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "245 cv @ 5.000 rpm",
+        "Torque:": "35,7 kgfm @ 1.250 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,1 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,4 km/l (E) / 9,3 km/l (G)",
+        "Rodoviário:": "9,1 km/l (E) / 13,2 km/l G)",
+        "Autonomia:": "546 km (E) / 792 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,5 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.624 mm",
+        "Altura:": "1.429 mm",
+        "Largura:": "1.811 mm",
+        "Entre-eixos:": "2.810 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.455 kg",
+        "Porta-malas:": "440 litros",
+        "Carga útil:": "550 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

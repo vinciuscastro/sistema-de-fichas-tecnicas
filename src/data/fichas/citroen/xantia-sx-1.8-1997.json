@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Xantia.jpg",
+    "NOME": "xantia-sx-1.8-1997",
+    "ANO": "1997",
+    "MARCA": "citroen",
+    "MODELO": "xantia",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "Xantia",
+        "Versão:": "SX 1.8 1997",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.761 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "112 @ 5.500 rpm",
+        "Torque máximo kgfm:": "16,1 @ 4.250 rpm",
+        "Potência específica:": "63,6 cv/litro",
+        "Torque específico:": "9,1 kgfm/litro",
+        "Taxa de compressão:": "10,4:1",
+        "Rel. peso/potência:": "11,3 kg/cv",
+        "Rel. peso/torque:": "78,8 kg/kgfm",
+        "Curso dos pistões:": "81,4 mm",
+        "Diâmetro cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "XU7JP4"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "BE3/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,7 seg",
+        "Velocidade máxima:": "193 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "13",
+        "Autonomia em km:": "845"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Esfera hidropneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14",
+        "Altura do flanco:": "120 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,09 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.440 mm",
+        "Altura:": "1.400 mm",
+        "Largura:": "1.760 mm",
+        "Entre-eixos:": "2.740 mm",
+        "Bitola dianteira:": "1.482 mm",
+        "Bitola traseira:": "1.442 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.268 kg",
+        "Porta-malas:": "317 litros",
+        "Carga útil:": "506 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

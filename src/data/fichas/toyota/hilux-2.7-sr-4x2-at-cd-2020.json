@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/Hilux_SR.jpg",
+    "NOME": "hilux-2.7-sr-4x2-at-cd-2020",
+    "ANO": "2020",
+    "MARCA": "toyota",
+    "MODELO": "hilux",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Hilux",
+        "Versão:": "SR 2.7 SR 4x2 AT CD",
+        "Origem:": "Importado - Argentina",
+        "Detalhes:": "Picape, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.694 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência CV:": "163 (E) / 159 (G) @ 5.000 rpm",
+        "Torque kgfm:": "25 (E) / 25 (G) @ 4.000 rpm",
+        "Taxa de compressão:": "12:1",
+        "Código do motor:": "2TR-FBE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Traseira",
+        "MarcCódigo do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15 s",
+        "Velocidade máxima:": "165 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "4,6 km/l (E) / 6,6 km/l (G)",
+        "Estrada:": "5,6 km/l (E) / 8 km/l (G)",
+        "Autonomia:": "448 km (E) / 640 km/l (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido, feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/65/17",
+        "Traseira:": "265/65/17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.315 mm",
+        "Altura:": "1.815 mm",
+        "Largura:": "1.855 mm",
+        "Entre eixos:": "3.085 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "310 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.850 kg",
+        "Caçamba:": "1.036 litros",
+        "Carga útil:": "860 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

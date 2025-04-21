@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Fevereiro/XV.jpg",
+    "NOME": "xv-s-2.0-2019",
+    "ANO": "2019",
+    "MARCA": "subaru",
+    "MODELO": "xv",
+    "ESPECIFICACAO": {
+        "Marca:": "Subaru",
+        "Modelo:": "XV",
+        "Versão:": "2.0",
+        "Ano fabricação:": "2019",
+        "Detalhes:": "Importado, Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.995 cc",
+        "Cilindros:": "4, opostos",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "156 cv @ 6.000 rpm",
+        "Torque:": "20 kgfm @ 4.000 rpm",
+        "Taxa de compressão:": "12,5:1",
+        "Código do motor:": "FB20B"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "7",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,4 s",
+        "Velocidade máxima:": "194 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,9 km/l",
+        "Rodoviário:": "12 km/l",
+        "Autonomia:": "756 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, mola helicoidal",
+        "Traseira:": "Independente, braços sobrepostos, mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R18",
+        "Traseira:": "225/55 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.465 mm",
+        "Altura:": "1.615 mm",
+        "Largura:": "1.800 mm",
+        "Entre-eixos:": "2.665 mm",
+        "Bitola dianteira:": "1.550 mm",
+        "Bitola traseira:": "1.555 mm",
+        "Vão livre do solo:": "220 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.465 kg",
+        "Porta-malas:": "380 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "63 litros"
+    }
+}

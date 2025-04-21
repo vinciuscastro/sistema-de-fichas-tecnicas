@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ferrari-California.jpg",
+    "NOME": "california-4.3-v8-2013",
+    "ANO": "2013",
+    "MARCA": "ferrari",
+    "MODELO": "california",
+    "ESPECIFICACAO": {
+        "Marca:": "Ferrari",
+        "Modelo:": "California",
+        "Versão:": "4.3 V8 2013",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "4.297 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima CV:": "460 @ 7.750 rpm",
+        "Torque máximo kgfm:": "49 @ 5.000 rpm",
+        "Potência específica:": "107,1 cv/litro",
+        "Torque específico:": "11,4 kgfm/litro",
+        "Taxa de compressão:": "12,2:1",
+        "Rel. peso/potência:": "3,6 kg/cv",
+        "Rel. peso/torque:": "33,9 kg/kgfm",
+        "Curso dos pistões:": "77,4 mm",
+        "Diâmetro cilindros:": "94 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4 seg",
+        "Velocidade máxima:": "310 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,3",
+        "Estrada em km/l:": "7,4",
+        "Autonomia em km:": "577"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R19",
+        "Traseira:": "285/40 R19",
+        "Altura do flanco:": "114 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,11 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.560 mm",
+        "Altura:": "1.308 mm",
+        "Largura:": "1.900 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.630 mm",
+        "Bitola traseira:": "1.605 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.660 kg",
+        "Porta-malas:": "240 litros",
+        "Carga útil:": "465 kg",
+        "Tanque combustível:": "78 litros"
+    }
+}

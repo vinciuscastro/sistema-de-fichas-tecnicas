@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Grand-Cherokee-2006.jpg",
+    "NOME": "grand-cherokee-limited-4.7-v8-2008",
+    "ANO": "2008",
+    "MARCA": "jeep",
+    "MODELO": "grand",
+    "ESPECIFICACAO": {
+        "Marca:": "Jeep",
+        "Modelo:": "Grand Cherokee",
+        "Versão:": "Limited 4.7 V8 2008",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "4.701 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "303 @ 5.650 rpm",
+        "Torque máx. (kgfm):": "45,5 @ 3.950 rpm",
+        "Potência específica:": "64,5 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Rel. peso/potência:": "7,3 kg/cv",
+        "Rel. peso/torque:": "48,6 kg/kgfm",
+        "Curso dos pistões:": "86,5 mm",
+        "Diâmetro dos cilindros:": "93 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,9 seg",
+        "Velocidade máxima:": "205 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4",
+        "Estrada em km/l:": "6",
+        "Autonomia em km:": "480"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/65 R17",
+        "Traseira:": "245/65 R17",
+        "Altura do flanco:": "159 mm",
+        "Estepe:": "245/65 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,77 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.750 mm",
+        "Altura:": "1.740 mm",
+        "Largura:": "1.870 mm",
+        "Entre eixos:": "2.781 mm",
+        "Bitola dianteira:": "1.575 mm",
+        "Bitola traseira:": "1.575 mm",
+        "Vão livre do solo:": "209 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.210 kg",
+        "Porta-malas:": "978 litros",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

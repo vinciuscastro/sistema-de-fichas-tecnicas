@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Marco/i8.jpg",
+    "NOME": "i8-roadster-1.5-turbo-2020",
+    "ANO": "2020",
+    "MARCA": "bmw",
+    "MODELO": "i8",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "i8",
+        "Versão:": "Roadster 1.5 Turbo",
+        "Ano fabricação:": "2020",
+        "Detalhes:": "Importado, conversível, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "3, em linha",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Híbrido, plug in",
+        "Potência máxima:": "143 cv",
+        "Torque máximo:": "25,5 kgfm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "B38K15T0",
+        "Potência combinada:": "374 cv",
+        "Torque combinado:": "42 kgfm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,6 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "11,3 km/l",
+        "Rodoviário:": "13,6 km/l",
+        "Autonomia:": "408 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas helicoidais",
+        "Traseira:": "Independente, multibraço, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/50 R20",
+        "Traseira:": "215/45 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,15 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.689 mm",
+        "Altura:": "1.289 mm",
+        "Largura:": "1.942 mm",
+        "Entre eixos:": "2.800 mm",
+        "Bitola dianteira:": "1.1644 mm",
+        "Bitola traseira:": "1.721 mm",
+        "Vão livre do solo:": "115 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.595 kg",
+        "Porta-malas:": "88 litros",
+        "Carga útil:": "305 kg",
+        "Tanque combustível:": "30 litros"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Sportage-18.jpg",
+    "NOME": "sportage-ex-2.0-at-2021",
+    "ANO": "2021",
+    "MARCA": "kia",
+    "MODELO": "sportage",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Sportage",
+        "Versão:": "EX 2.0 AT 2021",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "167 (E) / 156 (G) @ 6.200 rpm",
+        "Torque máximo (kgfm):": "20,6 (E) / 19,2 @ 4.700 rpm",
+        "Potência específica:": "83,5 cv/litro",
+        "Torque específico:": "10,3 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Rel. peso/potência:": "9,4 kg/cv",
+        "Rel. peso/torque:": "76,2 kg/kgfm",
+        "Curso dos pistões:": "97 mm",
+        "Diâmetro dos cilindros:": "81 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Nu"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "A6MF1"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,1 (E) / 8,8 (G)",
+        "Estrada em km/l:": "7,9 (E) / 11,4 (G)",
+        "Autonomia em km:": "490 (E) / 707 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R19",
+        "Traseira:": "245/45 R19",
+        "Altura do flanco:": "110 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,61 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.480 mm",
+        "Altura:": "1.655 mm",
+        "Largura:": "1.855 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.612 mm",
+        "Bitola traseira:": "1.625 mm",
+        "Vão livre do solo:": "182 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.570 kg",
+        "Porta-malas:": "503 litros",
+        "Carga útil:": "480 kg",
+        "Tanque combustível:": "62 litros"
+    }
+}

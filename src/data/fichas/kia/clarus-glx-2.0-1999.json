@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Clarus.jpg",
+    "NOME": "clarus-glx-2.0-1999",
+    "ANO": "1999",
+    "MARCA": "kia",
+    "MODELO": "clarus",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Clarus",
+        "Versão:": "GLX 2.0 1999",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.994 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "133 @ 6.000 rpm",
+        "Torque máx. (kgfm):": "17,5 @ 4.000 rpm",
+        "Potência específica:": "66,6 cv/litro",
+        "Torque específico:": "8,8 kgfm/litro",
+        "Taxa de compressão:": "9,2:1",
+        "Rel. peso/potência:": "9,7 kg/cv",
+        "Rel. peso/torque:": "73,6 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "FE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a aseco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,6 seg",
+        "Velocidade máxima:": "195 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,5",
+        "Estrada em km/l:": "11,3",
+        "Autonomia em km:": "678"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/70 R14",
+        "Traseira:": "195/70 R14",
+        "Altura do flanco:": "137 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.700 mm",
+        "Altura:": "1.420 mm",
+        "Largura:": "1.770 mm",
+        "Entre eixos:": "2.660 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.288 kg",
+        "Porta-malas:": "358 litros",
+        "Carga útil:": "420 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

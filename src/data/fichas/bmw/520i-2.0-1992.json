@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-520i-1992.jpg",
+    "NOME": "520i-2.0-1992",
+    "ANO": "1992",
+    "MARCA": "bmw",
+    "MODELO": "520i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "520i",
+        "Versão:": "2.0 1992",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.990 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima em CV:": "150 @ 5.900 rpm",
+        "Torque máximo em kgfm:": "19,4 @ 4.200 rpm",
+        "Potência específica:": "75,4 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "9,9 kg/cv",
+        "Relação peso/torque:": "76,3 kg/kgfm",
+        "Curso dos pistões:": "66 mm",
+        "Diâmetro dos cilindros:": "80 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M50B20TU"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 5HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,7 seg",
+        "Velocidade máxima:": "207 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7",
+        "Estrada em km/l:": "10,5",
+        "Autonomia em km:": "840"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/65 R15",
+        "Traseira:": "205/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,10 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.720 mm",
+        "Altura:": "1.412 mm",
+        "Largura:": "1.751 mm",
+        "Entre eixos:": "2.761 mm",
+        "Bitola dianteira:": "1.470 mm",
+        "Bitola traseira:": "1.495 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.480 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "510 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

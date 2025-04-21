@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Cooper-2015.jpg",
+    "NOME": "cooper-1.5-2017",
+    "ANO": "2017",
+    "MARCA": "mini",
+    "MODELO": "cooper",
+    "ESPECIFICACAO": {
+        "Marca:": "Mini",
+        "Modelo:": "Cooper",
+        "Versão:": "1.5",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, hatch, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "3, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "136 cv @ 6.000 rpm",
+        "Torque:": "23,4 kgfm @ 1.250 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B38A15M0"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,8 s",
+        "Velocidade máxima:": "210 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,6 km/l",
+        "Rodoviário:": "12,2 km/l",
+        "Autonomia:": "488 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,08 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.821 mm",
+        "Altura:": "1.414 mm",
+        "Largura:": "1.727 mm",
+        "Entre-eixos:": "2.495 mm",
+        "Bitola dianteira:": "1.501 mm",
+        "Bitola traseira:": "1.501 mm",
+        "Vão livre do solo:": "146 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.190 kg",
+        "Porta-malas:": "211 litros",
+        "Carga útil:": "480 kg",
+        "Tanque combustível:": "40 litros"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/Ranger-CD-2010.jpg",
+    "NOME": "ranger-limited-2.3-cd-2010",
+    "ANO": "2010",
+    "MARCA": "ford",
+    "MODELO": "ranger",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Ranger",
+        "Versão:": "Limited 2.3 CD 2010",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado - Argentina",
+        "Categoria:": "Picape",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.260 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "150 @ 5.250 rpm",
+        "Torque máx. (kgfm):": "22,1 @ 3.750 rpm",
+        "Potência específica:": "66,4 cv/litro",
+        "Torque específico:": "9,8 kgfm/litro",
+        "Taxa de compressão:": "9,7:1",
+        "Rel. peso/potência:": "11,4 kg/cv",
+        "Rel. peso/torque:": "77,6 kg/kgfm",
+        "Curso dos pistões:": "94 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Duratec"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "M50D-R1"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,9 seg",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6",
+        "Estrada em km/l:": "9",
+        "Autonomia em km:": "675"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "13,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/70 R16",
+        "Traseira:": "245/70 R16",
+        "Altura do flanco:": "172 mm",
+        "Estepe:": "245/70 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.204 mm",
+        "Altura:": "1.765 mm",
+        "Largura:": "1.763 mm",
+        "Entre eixos:": "2.831 mm",
+        "Bitola dianteira:": "1.455 mm",
+        "Bitola traseira:": "1.486 mm",
+        "Vão livre do solo:": "318 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.716 kg",
+        "Caçamba:": "844 litros",
+        "Carga útil:": "764 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

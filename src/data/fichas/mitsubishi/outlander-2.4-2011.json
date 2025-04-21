@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Outlander-2010.jpg",
+    "NOME": "outlander-2.4-2011",
+    "ANO": "2011",
+    "MARCA": "mitsubishi",
+    "MODELO": "outlander",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Outlander",
+        "Versão:": "2.4",
+        "Ano/modelo:": "2011",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.360 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "170 cv @ 6.000 rpm",
+        "Torque:": "23 kgfm @ 4.100 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "4B12"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,6 s",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8 km/l",
+        "Rodoviário:": "9,8 km/l",
+        "Autonomia:": "588 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R18",
+        "Traseira:": "225/55 R18"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.640 mm",
+        "Altura:": "1.680 mm",
+        "Largura:": "1.800 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.540 mm",
+        "Bitola traseira:": "1.540 mm",
+        "Vão livre do solo:": "215 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.585 kg",
+        "Porta-malas:": "715 litros",
+        "Carga útil:": "695 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

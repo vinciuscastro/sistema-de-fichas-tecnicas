@@ -1,0 +1,76 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Agosto/Fiesta-95.jpg",
+    "NOME": "fiesta-clx-1.3-1996",
+    "ANO": "1996",
+    "MARCA": "ford",
+    "MODELO": "fiesta",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Fiesta",
+        "Versão:": "CLX 1.3",
+        "Ano/modelo:": "1996",
+        "Detalhes:": "Nacional, hatch, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.299 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "58 cv @ 5.000 rpm",
+        "Torque:": "10,2 kgfm @ 2.500 rpm",
+        "Taxa de compressão:": "8,8:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16,5 s",
+        "Velocidade máxima:": "153 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "12 km/l",
+        "Rodoviário:": "16,8 km/l",
+        "Autonomia:": "705 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,97 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.830 mm",
+        "Altura:": "1.420 mm",
+        "Largura:": "1.630 mm",
+        "Entre eixos:": "2.440 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "165 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "975 kg",
+        "Porta-malas:": "198 litros",
+        "Carga útil:": "420 kg",
+        "Tanque combustível:": "42 litros"
+    }
+}

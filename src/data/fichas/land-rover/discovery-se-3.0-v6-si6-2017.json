@@ -1,0 +1,79 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Discovery-2017.jpg",
+    "NOME": "discovery-se-3.0-v6-si6-2017",
+    "ANO": "2017",
+    "MARCA": "land-rover",
+    "MODELO": "discovery",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Discovery",
+        "Versão:": "SE 3.0 V6 Si6",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Compressor",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "2.995 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "340 cv @ 6.500 rpm",
+        "Torque:": "45,9 kgfm @ 3.500 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "AJ-V6"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,1 s",
+        "Velocidade máxima:": "215 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,9 km/l",
+        "Rodoviário:": "8,6 km/l",
+        "Autonomia:": "765 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "diâmetro de giro:": "12,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/65 R19",
+        "Traseira:": "235/65 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,26 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.970 mm",
+        "Altura:": "1.852 mm",
+        "Largura:": "2.073 mm",
+        "Entre-eixos:": "2.923 mm",
+        "Vão livre do solo:": "283 mm",
+        "Ângulo de entrada:": "34 graus",
+        "Ângulo de saída:": "30 graus",
+        "Travessia de água:": "900 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.148 kg",
+        "Porta-malas:": "258 litros",
+        "Carga útil:": "732 kg",
+        "Tanque combustível:": "89 litros"
+    }
+}

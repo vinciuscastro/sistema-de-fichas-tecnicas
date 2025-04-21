@@ -1,0 +1,85 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-Pampa-4.png",
+    "NOME": "pampa-l-1.6-4x4-1995",
+    "ANO": "1995",
+    "MARCA": "ford",
+    "MODELO": "pampa",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Pampa",
+        "Versão:": "L 1.6 4x4 1995",
+        "Combustível:": "Álcool",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Portas:": "2",
+        "Ocupantes:": "2",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.555 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Válvulas por cilindro:": "2",
+        "Potência em CV:": "77 @ 5.000 rpm",
+        "Torque em kgfm:": "14,1 @ 3.000 rpm",
+        "Taxa de compressão:": "12:1",
+        "Código do motor:": "AE-1600"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Integral temporária",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "18 seg",
+        "Velocidade máxima:": "145 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,9",
+        "Estrada em km/l:": "12",
+        "Autonomia em km:": "1.224"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Não assistida",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,95 m²",
+        "Coef. aerodinâmico:": "0,52 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.420 mm",
+        "Altura:": "1.370 mm",
+        "Largura:": "1.674 mm",
+        "Entre eixos:": "2.578 mm",
+        "Bitola dianteira:": "1.367 mm",
+        "Bitola traseira:": "1.349 mm",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.111 kg",
+        "Caçamba:": "840 litros",
+        "Carga útil:": "454 kg",
+        "Tanque combustível:": "102 litros"
+    }
+}

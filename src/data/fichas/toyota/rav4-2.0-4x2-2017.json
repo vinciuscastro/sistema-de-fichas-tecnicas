@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Toyota-RAV-4-2017.jpg",
+    "NOME": "rav4-2.0-4x2-2017",
+    "ANO": "2017",
+    "MARCA": "toyota",
+    "MODELO": "rav4",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "RAV4",
+        "Versão:": "2.0 4x2 2017",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.987 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima (cv):": "145 @ 6.200 rpm",
+        "Torque máximo (kgfm):": "19,1 @ 3.600 rpm",
+        "Potência específica:": "73 cv/litro",
+        "Torque específico:": "9,6 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "10,5 kg/cv",
+        "Rel. peso/torque:": "79,8 kg/kgfm",
+        "Curso dos pistões:": "97,6 mm",
+        "Diâmetro dos cilindros:": "80,5 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "3ZR-FE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,6 seg",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,5",
+        "Estrada em km/l:": "10,9",
+        "Autonomia em km:": "570"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/65 R17",
+        "Traseira:": "225/65 R17",
+        "Estepe:": "225/65 R17",
+        "Altura do flanco:": "146 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.605 mm",
+        "Altura:": "1.715 mm",
+        "Largura:": "1.845 mm",
+        "Entre-eixos:": "2.660 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "191 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.525 kg",
+        "Porta-malas:": "547 litros",
+        "Carga útil:": "525 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

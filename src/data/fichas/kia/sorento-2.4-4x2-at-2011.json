@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Sorento-2011.jpg",
+    "NOME": "sorento-2.4-4x2-at-2011",
+    "ANO": "2011",
+    "MARCA": "kia",
+    "MODELO": "sorento",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Sorento",
+        "Versão:": "2.4 4x2 AT 2011",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.359 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. ( CV):": "174 @ 6.000 rpm",
+        "Torque máx. (kgfm):": "23 @ 3.750 rpm",
+        "Potência específica:": "73,8 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "9,9 kg/cv",
+        "Rel. peso/torque:": "74,8 kg/kgfm",
+        "Curso dos pistões:": "97 mm",
+        "Diâmetro dos cilindros:": "88 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Theta"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,5 seg",
+        "Velocidade máxima:": "188 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,8",
+        "Estrada em km/l:": "8,2",
+        "Autonomia em km:": "574"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/60 R16",
+        "Traseira:": "205/60 R16",
+        "Altura do flanco:": "123 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,81 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.685 mm",
+        "Altura:": "1.755 mm",
+        "Largura:": "1.885 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.618 mm",
+        "Bitola traseira:": "1.621 mm",
+        "Vão livre do solo:": "203 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.720 kg",
+        "Porta-malas:": "440 litros",
+        "Carga útil:": "790 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

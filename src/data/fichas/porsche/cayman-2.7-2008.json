@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Cayman-2008.jpg",
+    "NOME": "cayman-2.7-2008",
+    "ANO": "2008",
+    "MARCA": "porsche",
+    "MODELO": "cayman",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Cayman",
+        "Versão:": "2.7",
+        "Ano/modelo:": "2008",
+        "Detalhes:": "Importado, coupé, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Central",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.687 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "Duplo, no cabeçote, variável na admissão",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "245 cv @ 6.500 rpm",
+        "Torque:": "27,8 kgfm @ 4.600 rpm",
+        "Taxa de compressão:": "11,3:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,1 s",
+        "Velocidade máxima:": "258 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,8 km/l",
+        "Rodoviário:": "13,8 km/l",
+        "Autonomia:": "883 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R17",
+        "Traseira:": "235/50 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,00 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.372 mm",
+        "Altura:": "1.305 mm",
+        "Largura:": "1.801 mm",
+        "Entre-eixos:": "2.415 mm",
+        "Bitola dianteira:": "1.490 mm",
+        "Bitola traseira:": "1.534 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.300 kg",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "320 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}

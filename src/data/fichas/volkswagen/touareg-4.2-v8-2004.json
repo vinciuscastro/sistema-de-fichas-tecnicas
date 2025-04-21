@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/Touareg-2004.jpg",
+    "NOME": "touareg-4.2-v8-2004",
+    "ANO": "2004",
+    "MARCA": "volkswagen",
+    "MODELO": "touareg",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Touareg",
+        "Versão:": "4.2 V8",
+        "Ano/modelo:": "2004",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "4.172 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "5",
+        "Combustível:": "Gasolina",
+        "Potência:": "310 cv @ 6,200 rpm",
+        "Torque:": "41,8 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "V8"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,1 s",
+        "Velocidade máxima:": "225 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "3,5 km/l",
+        "Rodoviário:": "7,2 km/l",
+        "Autonomia:": "720 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, braços sobrepostos, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/55 R18",
+        "Traseira:": "255/55 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,83 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.754 mm",
+        "Altura:": "1.726 mm",
+        "Largura:": "1.928 mm",
+        "Entre-eixos:": "2.855 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "160 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.317 kg",
+        "Porta-malas:": "555 litros",
+        "Carga útil:": "731 kg",
+        "Tanque combustível:": "100 litros"
+    }
+}

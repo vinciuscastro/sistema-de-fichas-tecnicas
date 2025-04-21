@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Ford-F-100-79.png",
+    "NOME": "f-100-2.3-1985",
+    "ANO": "1985",
+    "MARCA": "ford",
+    "MODELO": "f",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "F-100",
+        "Versão:": "2.3 1985",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Porte:": "Grande",
+        "Portas:": "2",
+        "Ocupantes:": "3",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "2.300 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "99 @ 5.400 rpm",
+        "Torque máx. (kgfm):": "16,9 @ 3.200 rpm",
+        "Potência específica:": "43 cv/litro",
+        "Torque específico:": "7,3 kgfm/litro",
+        "Taxa de compressão:": "7,8:1",
+        "Rel. peso/potência:": "16,3 kg/cv",
+        "Rel. peso/torque:": "95,3 kg/kgfm",
+        "Curso dos pistões:": "79,4 mm",
+        "Diâmetro dos cilindros:": "96 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Georgia"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "22 seg",
+        "Velocidade máxima:": "140 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6",
+        "Estrada em km/l:": "7",
+        "Autonomia em km:": "609"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, duplo eixo em \"I\"",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "não assistida",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "informação não disponível",
+        "Traseira:": "informação não disponível",
+        "Altura do flanco:": "informação não disponível",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.856 mm",
+        "Altura:": "1.820 mm",
+        "Largura:": "2.029 mm",
+        "Entre eixos:": "2.920 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.610 kg",
+        "Caçamba:": "1.655 litros",
+        "Carga útil:": "750 kg",
+        "Tanque combustível:": "87 litros"
+    }
+}

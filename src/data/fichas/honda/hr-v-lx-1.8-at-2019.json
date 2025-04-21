@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Novembro/HRV-LX.jpg",
+    "NOME": "hr-v-lx-1.8-at-2019",
+    "ANO": "2019",
+    "MARCA": "honda",
+    "MODELO": "hr",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "HR-V",
+        "Versão:": "LX 1.8 AT 2019",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.799 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Único, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máxima em CV:": "140 (E) / 139 (G) @ 6.300 rpm",
+        "Torque máximo em kgfm:": "17,4 (E) 17,3 (G) @ 5.000 rpm",
+        "Potência específica:": "77,3 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10,6:1",
+        "Rel. peso/potência:": "9,1 kg/cv",
+        "Rel. peso/torque:": "73 kg/kgfm",
+        "Curso dos pistões:": "87,3 mm",
+        "Diâmetro dos cilindros:": "81 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "R18A1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,2 seg",
+        "Velocidade máxima:": "175 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,7 (E) / 11 (G)",
+        "Estrada em km/l:": "8,6 (E) / 12,3 (G)",
+        "Autonomia em km:": "439 (E) / 627 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/55 R17",
+        "Traseira:": "215/55 R17",
+        "Altura do flanco:": "118 mm",
+        "Estepe:": "135/90 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.329 mm",
+        "Altura:": "1.586 mm",
+        "Largura:": "1.772 mm",
+        "Entre eixos:": "2.610 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.540 mm",
+        "Vão livre do solo:": "177 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.271 kg",
+        "Porta-malas:": "437 litros",
+        "Carga útil:": "469 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

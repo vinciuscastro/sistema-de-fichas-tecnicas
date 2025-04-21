@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Evoque/Evoque_06.jpg",
+    "NOME": "evoque-conversível-hse-dynamic-2.0-si4-2017",
+    "ANO": "2017",
+    "MARCA": "land-rover",
+    "MODELO": "evoque",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Evoque Conversível",
+        "Versão:": "HSE Dynamic 2.0 Si4 2017",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máx. ( CV):": "240 @ 5.800 rpm",
+        "Torque máx. (kgfm):": "34,7 @ 1.750 rpm",
+        "Potência específica:": "120,1 cv/litro",
+        "Torque específico:": "17,4 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "8,1 kg/cv",
+        "Rel. peso/torque:": "55,8 kg/kgfm",
+        "Curso dos pistões:": "83,1 mm",
+        "Diâmetro dos cilindros:": "87,5 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Ecoboost"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 9HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,6 seg",
+        "Velocidade máxima:": "209 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,5",
+        "Estrada em km/l:": "11,3",
+        "Autonomia em km:": "791"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R20",
+        "Traseira:": "245/45 R20",
+        "Altura do flanco:": "110 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,71 m²",
+        "Coef. aerodinâmico:": "0,39 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.370 mm",
+        "Altura:": "1.609 mm",
+        "Largura:": "1.980 mm",
+        "Entre eixos:": "2.660 mm",
+        "Bitola dianteira:": "1.621 mm",
+        "Bitola traseira:": "1.628 mm",
+        "Vão livre do solo:": "211 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.936 kg",
+        "Porta-malas:": "251 litros",
+        "Carga útil:": "414 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

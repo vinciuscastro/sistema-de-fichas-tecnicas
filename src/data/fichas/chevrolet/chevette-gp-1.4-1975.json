@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Chevette_GP1.jpg",
+    "NOME": "chevette-gp-1.4-1975",
+    "ANO": "1975",
+    "MARCA": "chevrolet",
+    "MODELO": "chevette",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Chevette",
+        "Versão:": "GP 1.4",
+        "Ano fabricação:": "1975",
+        "Detalhes:": "Nacional, sedã, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.398 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "72 cv @ 5.800 rpm",
+        "Torque:": "10,8 kgfm @ 3.800 rpm",
+        "Taxa de compressão:": "8,5:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "4",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "19,5 s",
+        "Velocidade máxima:": "142 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9 km/l",
+        "Rodoviário:": "13 km/l",
+        "Autonomia:": "585 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas helicoidais",
+        "Traseira:": "Eixo rígido, barra Panhard, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.120 mm",
+        "Altura:": "1.320 mm",
+        "Largura:": "1.570 mm",
+        "Entre eixos:": "2.390 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "890 kg",
+        "Porta-malas:": "150 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "45 litros"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-m3-01.jpg",
+    "NOME": "m3-3.2-2002",
+    "ANO": "2002",
+    "MARCA": "bmw",
+    "MODELO": "m3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M3",
+        "Versão:0": "3.2 2002",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.246 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "343 @ 7.900 rpm",
+        "Torque máximo em kgfm:": "37,2 @ 4.900 rpm",
+        "Potência específica:": "105,7 cv/litro",
+        "Torque específico:": "11,5 kgfm/litro",
+        "Taxa de compressão:": "11,5:1",
+        "Relação peso/potência:": "4,4 kg/cv",
+        "Relação peso/torque:": "40,2 kg/kgfm",
+        "Curso dos pistões:": "91 mm",
+        "Diâmetro dos cilindros:": "87 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S54B32"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,5 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,2",
+        "Estrada em km/l:": "8",
+        "Autonomia em km:": "504"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R18",
+        "Traseira:": "225/45 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,08 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.492 mm",
+        "Altura:": "1.372 mm",
+        "Largura:": "1.780 mm",
+        "Entre eixos:": "2.731 mm",
+        "Bitola dianteira:": "1.508 mm",
+        "Bitola traseira:": "1.525 mm",
+        "Vão livre do solo:": "110 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.495 kg",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "505 kg",
+        "Tanque combustível:": "63 litros"
+    }
+}

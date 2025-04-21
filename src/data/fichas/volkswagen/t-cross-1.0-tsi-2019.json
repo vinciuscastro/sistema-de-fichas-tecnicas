@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2019/Maio/Tcross.jpg",
+    "NOME": "t-cross-1.0-tsi-2019",
+    "ANO": "2019",
+    "MARCA": "volkswagen",
+    "MODELO": "t",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "T-Cross",
+        "Versão:": "1.0 TSi",
+        "Ano fabricação:": "2020",
+        "Detalhes:": "Nacional, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "128 cv (E) / 116 cv (G) @ 5.500 rpm",
+        "Torque:": "20,4 kgfm @ 2.000 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "EA211"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "9,6 s",
+        "Velocidade máxima": "189 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,5 km/l (E) / 12,2 km/l (G)",
+        "Rodoviário:": "10,1 km/l (E) / 14,5 km/l (G)",
+        "Autonomia:": "525 km (E) / 754 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, mola helicoidal",
+        "Traseira:": "Eixo de torção, mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/60/16",
+        "Traseira:": "205/60/16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,34 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.199 mm",
+        "Altura:": "1.568 mm",
+        "Largura:": "1.760 mm",
+        "Entre eixos:": "2.651 mm",
+        "Bitola dianteira:": "1.531 mm",
+        "Bitola traseira:": "1.516 mm",
+        "Vão livre do solo:": "191 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.215 kg",
+        "Porta-malas:": "373 litros",
+        "Carga útil:": "445 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

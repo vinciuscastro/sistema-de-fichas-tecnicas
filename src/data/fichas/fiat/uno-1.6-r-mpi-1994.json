@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Junho/Fiat-Uno-16R94.jpg",
+    "NOME": "uno-1.6-r-mpi-1994",
+    "ANO": "1994",
+    "MARCA": "fiat",
+    "MODELO": "uno",
+    "ESPECIFICACAO": {
+        "Origem:": "Nacional",
+        "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.580 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "94 @ 5.750 rpm",
+        "Torque em kgfm:": "13,7 @ 3.000 rpm",
+        "Taxa de compressão:": "9:1",
+        "Código do motor:": "Sevel"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "C506"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,2 seg",
+        "Velocidade máxima:": "173 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,6",
+        "Estrada em km/l:": "14,7",
+        "Autonomia em km:": "735"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Feixe de molas semi-elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70 R13",
+        "Traseira:": "165/70 R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,90 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.644 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.548 mm",
+        "Entre eixos:": "2.361 mm",
+        "Bitola dianteira:": "1.345 mm",
+        "Bitola traseira:": "1.3621 mm",
+        "Vão livre do solo:": "139 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "923 kg",
+        "Porta-malas:": "290 litros",
+        "Carga útil:": "320 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

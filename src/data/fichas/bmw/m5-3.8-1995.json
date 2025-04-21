@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-m5-93.jpg",
+    "NOME": "m5-3.8-1995",
+    "ANO": "1995",
+    "MARCA": "bmw",
+    "MODELO": "m5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M5",
+        "Versão:": "3.8 1995",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.795 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "340 @ 6.900 rpm",
+        "Torque máximo em kgfm:": "40,8 @ 4.750 rpm",
+        "Potência específica:": "89,6 cv/litro",
+        "Torque específico:": "10,8 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "4,9 kg/cv",
+        "Relação peso/torque:": "44,4 kg/kgfm",
+        "Curso dos pistões:": "90 mm",
+        "Diâmetro dos cilindros:": "94,6 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S38B38"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,9 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "4,6",
+        "Estrada em km/l:": "7,4",
+        "Autonomia em km:": "592"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R17",
+        "Traseira:": "235/45 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,07 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.720 mm",
+        "Altura:": "1.392 mm",
+        "Largura:": "1.751 mm",
+        "Entre eixos:": "2.761 mm",
+        "Bitola dianteira:": "1.473 mm",
+        "Bitola traseira:": "1.495 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.650 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

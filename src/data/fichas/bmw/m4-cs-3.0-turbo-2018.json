@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/M4-CS.jpg",
+    "NOME": "m4-cs-3.0-turbo-2018",
+    "ANO": "2018",
+    "MARCA": "bmw",
+    "MODELO": "m4",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M4",
+        "Versão:": "CS 3.0 Turbo 2018",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "3",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.979 cc",
+        "Cilindros:": "6, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "460 @ 6.250 rpm",
+        "Torque máximo em kgfm:": "61,2 @ 4.000 rpm",
+        "Potência específica:": "154,4 cv/litro",
+        "Torque específico:": "20,5 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "3,4 kg/cv",
+        "Relação peso/torque:": "25,8 kg/kgfm",
+        "Curso dos pistões:": "89,6 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N55B30"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,9 seg",
+        "Velocidade máxima:": "280 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,2",
+        "Estrada em km/l:": "9,2",
+        "Autonomia em km:": "552"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/35 R19",
+        "Traseira:": "285/30 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,25 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.672 mm",
+        "Altura:": "1.392 mm",
+        "Largura:": "1.870 mm",
+        "Entre eixos:": "2.812 mm",
+        "Bitola dianteira:": "1.579 mm",
+        "Bitola traseira:": "1.603 mm",
+        "Vão livre do solo:": "121 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.580 kg",
+        "Porta-malas:": "445 litros",
+        "Carga útil:": "460 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

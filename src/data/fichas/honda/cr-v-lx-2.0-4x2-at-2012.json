@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Novembro/crv-12.jpg",
+    "NOME": "cr-v-lx-2.0-4x2-at-2012",
+    "ANO": "2012",
+    "MARCA": "honda",
+    "MODELO": "cr",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "CR-V",
+        "Versão:": "LX 2.0 4x2 AT",
+        "Ano/modelo:": "2012",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.997 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "155 cv @ 6.500 rpm",
+        "Torque:": "19,4 kgfm @ 4.300 rpm",
+        "Taxa de compressão:": "10,6:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "4x2"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,5 s",
+        "Velocidade máxima:": "171 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,8 km/l",
+        "Rodoviário:": "12,5 km/l",
+        "Autonomia:": "725 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/65 R17",
+        "Traseira:": "225/65 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.530 mm",
+        "Altura:": "1.650 mm",
+        "Largura:": "1.820 mm",
+        "Entre-eixos:": "2.620 mm",
+        "Bitola dianteira:": "1.560 mm",
+        "Bitola traseira:": "1.560 mm",
+        "Vão livre do solo:": "190 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.516 kg",
+        "Porta-malas:": "559 litros",
+        "Carga útil:": "449 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

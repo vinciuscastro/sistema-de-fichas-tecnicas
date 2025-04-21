@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2024/janeiro/honda-hr-v-2023.jpg",
+    "NOME": "hr-v-advance-1.5-turbo-2024",
+    "ANO": "2024",
+    "MARCA": "honda",
+    "MODELO": "hr",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "HR-V",
+        "Versão:": "Advance 1.5 Turbo 2024",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.498 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de Admissão e escape",
+        "Potência máxima em CV:": "177 @ 6.000 rpm",
+        "Torque máximo em kgfm:": "24,5 @ 1.700 rpm",
+        "Potência específica:": "118,2 cv/litro",
+        "Torque específico:": "16,4 kgfm/litro",
+        "Taxa de compressão:": "10,6:1",
+        "Relação peso/potência:": "7,97 kg/cv",
+        "Relação peso/torque:": "57,6 kg/kgfm",
+        "Curso dos pistões:": "89,5 mm",
+        "Diâmetro dos cilindros:": "73 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "L15B7"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "CVT"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,9 seg",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,9 (E) / 11,3 (G)",
+        "Estrada em km/l:": "8,8 (E) / 12,6 (G)",
+        "Autonomia em km:": "440 (E) / 630 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/60 R17",
+        "Traseira:": "215/60 R17",
+        "Estepe:": "145/90 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.385 mm",
+        "Altura:": "1.590 mm",
+        "Largura:": "1.790 mm",
+        "Entre eixos:": "2.610 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.540 mm",
+        "Vão livre do solo:": "181 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.410 kg",
+        "Porta-malas:": "354 litros",
+        "Carga útil:": "informação não disponível",
+        "Tanque combustível:": "50 litros"
+    }
+}

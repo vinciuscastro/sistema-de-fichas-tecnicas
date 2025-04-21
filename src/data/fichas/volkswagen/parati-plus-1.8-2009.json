@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Parati-G4.jpg",
+    "NOME": "parati-plus-1.8-2009",
+    "ANO": "2009",
+    "MARCA": "volkswagen",
+    "MODELO": "parati",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Parati",
+        "Versão:": "Plus 1.8",
+        "Origem:": "Nacional",
+        "Detalhes:": "Perua, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.781 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Flex",
+        "Potência em CV:": "106 (etanol) / 103 (gasolina) @ 5.250 rpm",
+        "Torque em kgfm:": "16 (etanol) / 15,5 (gasolina) @ 3.000 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "AP-1800"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10 s",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6 (etanol) / 9 (gasolina)",
+        "Estrada em km/l:": "7,8 (etanol) / 11,8 (gasolina)",
+        "Autonomia em km:": "398 (etanol / 602 (gasolina)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70/R13",
+        "Traseira:": "175/70/R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,04 m²",
+        "Coef. aerodinâmico:": "0,34 CX"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.189 mm",
+        "Altura:": "1.456 mm",
+        "Largura:": "1.651 mm",
+        "Entre eixos:": "2.469 mm",
+        "Bitola dianteira:": "1.388 mm",
+        "Bitola traseira:": "1.384 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.022 kg",
+        "Porta-malas:": "437 litros",
+        "Carga útil:": "460 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

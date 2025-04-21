@@ -1,0 +1,74 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/Sentra-1991.jpg",
+    "NOME": "sentra-gxe-1.6-1991",
+    "ANO": "1991",
+    "MARCA": "nissan",
+    "MODELO": "sentra",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "Sentra",
+        "Versão:": "GXE 1.6",
+        "Ano/modelo:": "1991",
+        "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.597 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "110 cv @ 6.000 rpm",
+        "Torque:": "16 kgfm @ 4.000 rpm",
+        "Taxa de compressão:": "9,5:1",
+        "Código do motor:": "não informado"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,1 s",
+        "Velocidade máxima:": "169 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8,6 km/l",
+        "Rodoviário:": "12,5 km/l",
+        "Autonomia:": "587 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "9,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/70 R13",
+        "Traseira:": "175/70 R13"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.325 mm",
+        "Altura:": "1.369 mm",
+        "Largura:": "1.666 mm",
+        "Entre-eixos:": "2.430 mm",
+        "Bitola dianteira:": "1.445 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.100 kg",
+        "Porta-malas:": "378 litros",
+        "Carga útil:": "395 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

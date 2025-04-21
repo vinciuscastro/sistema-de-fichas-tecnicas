@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-225i-Active-Tourer-2.0-Turbo.jpg",
+    "NOME": "225i-active-tourer-2.0-turbo-2016",
+    "ANO": "2016",
+    "MARCA": "bmw",
+    "MODELO": "225i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "225i",
+        "Versão:": "Active Tourer 2.0 Turbo 2016",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Minivan",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "231 @ 4.750 rpm",
+        "Torque máximo em kgfm:": "35,7 @ 1.250 rpm",
+        "Potência específica:": "115,6 cv/litro",
+        "Torque específico:": "17,9 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Relação peso/potência:": "6,2 kg/cv",
+        "Relação peso/torque:": "40,1 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "B48A2000"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin AWF835"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 seg",
+        "Velocidade máxima:": "235 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,8",
+        "Estrada em km/l:": "12,2",
+        "Autonomia em km:": "622"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R17",
+        "Traseira:": "205/55 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,38 m²",
+        "Coef. aerodinâmico:": "0,28 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.342 mm",
+        "Altura:": "1.555 mm",
+        "Largura:": "1.800 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.557 mm",
+        "Bitola traseira:": "1.558 mm",
+        "Vão livre do solo:": "156 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.430 kg",
+        "Porta-malas:": "468 litros",
+        "Carga útil:": "540 kg",
+        "Tanque combustível:": "51 litros"
+    }
+}

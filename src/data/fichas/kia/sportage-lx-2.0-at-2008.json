@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Sportage-2006.jpg",
+    "NOME": "sportage-lx-2.0-at-2008",
+    "ANO": "2008",
+    "MARCA": "kia",
+    "MODELO": "sportage",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Sportage",
+        "Versão:": "LX 2.0 AT 2008",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.975 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão",
+        "Potência máx. ( CV):": "142 @ 6.000 rpm",
+        "Torque máx. (kgfm):": "18,8 @ 4.500 rpm",
+        "Potência específica:": "71,9 cv/litro",
+        "Torque específico:": "9,5 kgfm/litro",
+        "Taxa de compressão:": "10,1:1",
+        "Rel. peso/potência:": "11,5 kg/cv",
+        "Rel. peso/torque:": "87 kg/kgfm",
+        "Curso dos pistões:": "93,5 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Beta"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "14,5 seg",
+        "Velocidade máxima:": "177 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,9",
+        "Estrada em km/l:": "10,2",
+        "Autonomia em km:": "592"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/65 R16",
+        "Traseira:": "215/65 R16",
+        "Altura do flanco:": "140 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,44 m²",
+        "Coef. aerodinâmico:": "0,39 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.350 mm",
+        "Altura:": "1.695 mm",
+        "Largura:": "1.800 mm",
+        "Entre eixos:": "2.630 mm",
+        "Bitola dianteira:": "1.540 mm",
+        "Bitola traseira:": "1.540 mm",
+        "Vão livre do solo:": "202 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.635 kg",
+        "Porta-malas:": "667 litros",
+        "Carga útil:": "505 kg",
+        "Tanque combustível:": "58 litros"
+    }
+}

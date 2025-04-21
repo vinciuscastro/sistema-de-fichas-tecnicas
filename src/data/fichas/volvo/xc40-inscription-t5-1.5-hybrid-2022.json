@@ -1,0 +1,100 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/volvo-xc40-2022.jpg",
+    "NOME": "xc40-inscription-t5-1.5-hybrid-2022",
+    "ANO": "2022",
+    "MARCA": "volvo",
+    "MODELO": "xc40",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "XC40",
+        "Versão:": "Inscription T5 1.5 Hybrid 2022",
+        "Combustível:": "Híbrido - gasolina/elétrico",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.477 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão",
+        "Potência em CV:": "180 @ 5.800 rpm",
+        "Torque em kgfm:": "27 @ 1.500 rpm",
+        "Potência específica:": "121,9 cv/litro",
+        "Torque específico:": "18,3 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "10,4 kg/cv",
+        "Relação peso/torque:": "69,3 kg/kgfm",
+        "Curso dos pistões:": "93,2 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "B3154T5",
+        "Potência:": "82 cv",
+        "Potência combinada:": "262 cv",
+        "Torque:": "16,3 kgfm",
+        "Torque combinado:": "43,3 kgfm",
+        "Capacidade bateria:": "10,7 kWh",
+        "Autonomia elétrica:": "47 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "7DCTH"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 seg",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "24,5",
+        "Estrada em km/l:": "22,3",
+        "Autonomia em km:": "1.070"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/50 R19",
+        "Traseira:": "235/50 R19",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,56 m²",
+        "Coef. aerodinâmico:": "0,37 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.425 mm",
+        "Altura:": "1.652 mm",
+        "Largura:": "1.863 mm",
+        "Entre eixos:": "2.702 mm",
+        "Bitola dianteira:": "1.601 mm",
+        "Bitola traseira:": "1.626 mm",
+        "Vão livre do solo:": "211 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.871 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "480 kg",
+        "Tanque combustível:": "48 litros"
+    }
+}

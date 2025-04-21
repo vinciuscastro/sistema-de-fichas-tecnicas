@@ -1,0 +1,99 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-530e-m-sport.jpg",
+    "NOME": "530e-hybrid-m-sport-2.0-turbo-2022",
+    "ANO": "2022",
+    "MARCA": "bmw",
+    "MODELO": "530e",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "530e",
+        "Versão:": "Hybrid M Sport 2.0 Turbo 2022",
+        "Combustível:": "Híbrido - gasolina/elétrico",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "7",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Admissão e escape",
+        "Potência em CV:": "184 @ 5.000 rpm",
+        "Torque em kgfm:": "30,6 @ 1.350 rpm",
+        "Potência específica:": "92,1 cv/litro",
+        "Torque específico:": "15,3 kgfm/litro",
+        "Taxa de compressão:": "11:1",
+        "Relação peso/potência:": "10 kg/cv",
+        "Relação peso/torque:": "61 kg/kgfm",
+        "Curso dos pistões:": "94,6 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "B48B20",
+        "Potência:": "109 cv",
+        "Potência combinada:": "292 cv",
+        "Torque:": "27 kgfm",
+        "Torque combinado:": "42,8 kgfm",
+        "Capacidade bateria:": "10,5 kWh",
+        "Autonomia:": "56 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,9 seg",
+        "Velocidade máxima:": "235 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "22",
+        "Estrada em km/l:": "26,4",
+        "Autonomia em km:": "1.214"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R19",
+        "Traseira:": "275/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,35 m²",
+        "Coef. aerodinâmico:": "0,25 CX"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.963 mm",
+        "Altura:": "1.483 mm",
+        "Largura:": "1.868 mm",
+        "Entre eixos:": "2.975 mm",
+        "Bitola dianteira:": "1.604 mm",
+        "Bitola traseira:": "1.631 mm",
+        "Vão livre do solo:": "150 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.835",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "650 kg",
+        "Tanque combustível:": "46 litros"
+    }
+}

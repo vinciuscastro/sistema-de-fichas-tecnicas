@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-318-92.jpg",
+    "NOME": "318i-1.8-1992",
+    "ANO": "1992",
+    "MARCA": "bmw",
+    "MODELO": "318i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "318i",
+        "Versão:": "1.8 1992",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "116 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "17,1 @ 3.900 rpm",
+        "Potência específica:": "64,6 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "9,7:1",
+        "Relação peso/potência:": "10,4 kg/cv",
+        "Relação peso/torque:": "70,5 kg/kgfm",
+        "Curso dos pistões:": "81 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M43B18"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,3 seg",
+        "Velocidade máxima:": "201 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,4",
+        "Estrada em km/l:": "10,5",
+        "Autonomia em km:": "683"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,01 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.433 mm",
+        "Altura:": "1.393 mm",
+        "Largura:": "1.698 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.418 mm",
+        "Bitola traseira:": "1.431 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.205 kg",
+        "Porta-malas:": "435 litros",
+        "Carga útil:": "460 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

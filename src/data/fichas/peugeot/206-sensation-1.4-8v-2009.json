@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Peugeot-206-2005.jpg",
+    "NOME": "206-sensation-1.4-8v-2009",
+    "ANO": "2009",
+    "MARCA": "peugeot",
+    "MODELO": "206",
+    "ESPECIFICACAO": {
+        "Marca:": "Peugeot",
+        "Modelo:": "206",
+        "Versão:": "Sensation 1.4 8V 2009",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica monoponto",
+        "Cilindrada:": "1.360 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "82 (E) / 80 (G) @ 5.250 rpm",
+        "Torque máx. (kgfm):": "12,8 (E) / 12,8 (G) @ 3.250 rpm",
+        "Potência específica:": "60,3 cv/litro",
+        "Torque específico:": "9,4 kgfm/litro",
+        "Taxa de compressão:": "10,2:1",
+        "Rel. peso/potência:": "12,5 kg/cv",
+        "Rel. peso/torque:": "80,2 kg/kgfm",
+        "Curso dos pistões:": "77 mm",
+        "Diâmetro dos cilindros:": "75 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "TU3JP"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MA/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,1 seg",
+        "Velocidade máxima:": "174 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,6 (E) / 10,7 (G)",
+        "Estrada em km/l:": "10,5 (E) / 14,2 (G)",
+        "Autonomia em km:": "525 (E) / 710 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Barra de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco sólido",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "9,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R14",
+        "Traseira:": "175/65 R14",
+        "Altura do flanco:": "114 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,01 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.835 mm",
+        "Altura:": "1.432 mm",
+        "Largura:": "1.652 mm",
+        "Entre eixos:": "2.442 mm",
+        "Bitola dianteira:": "1.439 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.027 kg",
+        "Porta-malas:": "245 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

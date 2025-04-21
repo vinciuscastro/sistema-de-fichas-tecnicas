@@ -1,0 +1,4415 @@
+{
+    "marca": "dodge",
+    "modelos": {
+        "dart-coupe-5.2-v8-1975": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Coupe.jpg",
+            "NOME": "dart-coupe-5.2-v8-1975",
+            "ANO": "1975",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Cupê, 2 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,7",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "11,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.495 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-coupe-5.2-v8-1974": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Coupe.jpg",
+            "NOME": "dart-coupe-5.2-v8-1974",
+            "ANO": "1974",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Cupê, 2 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,7",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "11,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.495 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-se-5.2-v8-1973": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Coupe.jpg",
+            "NOME": "dart-se-5.2-v8-1973",
+            "ANO": "1973",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Cupê, 2 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,7",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "11,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.495 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-gran-coupe-5.2-v8-1973": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Coupe.jpg",
+            "NOME": "dart-gran-coupe-5.2-v8-1973",
+            "ANO": "1973",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Cupê, 2 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,7",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "11,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.495 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-coupe-5.2-v8-1972": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Coupe.jpg",
+            "NOME": "dart-coupe-5.2-v8-1972",
+            "ANO": "1972",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Cupê, 2 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,7",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "11,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.495 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-coupe-5.2-v8-1971": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Coupe.jpg",
+            "NOME": "dart-coupe-5.2-v8-1971",
+            "ANO": "1971",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Cupê, 2 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,7",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "11,9 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.495 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-gran-sedan-5.2-v8-1978": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-gran-sedan-5.2-v8-1978",
+            "ANO": "1978",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-gran-sedan-5.2-v8-1977": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-gran-sedan-5.2-v8-1977",
+            "ANO": "1977",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-gran-sedan-5.2-v8-1976": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-gran-sedan-5.2-v8-1976",
+            "ANO": "1976",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-gran-sedan-5.2-v8-1975": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-gran-sedan-5.2-v8-1975",
+            "ANO": "1975",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-gran-sedan-5.2-v8-1974": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-gran-sedan-5.2-v8-1974",
+            "ANO": "1974",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-gran-sedan-5.2-v8-1973": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-gran-sedan-5.2-v8-1973",
+            "ANO": "1973",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-sedan-5.2-v8-1972": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-sedan-5.2-v8-1972",
+            "ANO": "1972",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-sedan-5.2-v8-1971": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-sedan-5.2-v8-1971",
+            "ANO": "1971",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-sedan-5.2-v8-1970": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Dart-Sedan-70.jpg",
+            "NOME": "dart-sedan-5.2-v8-1970",
+            "ANO": "1970",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Origem:": "Nacional",
+                "Detalhes:": "Sedã, 4 portas, 6 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "198 @ 4.400 rpm",
+                "Torque em kgfm:": "41,5 @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "LA 318"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "496"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Tambor",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Não assistida",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "1.480 mm",
+                "Bitola traseira:": "1.430 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.480 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "410 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "challenger-srt-hellcat-6.2-v8-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger-SRT-Hellcat.jpg",
+            "NOME": "challenger-srt-hellcat-6.2-v8-2018",
+            "ANO": "2018",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Compressor mecânico",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.166 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "717 @ 6.000 rpm",
+                "Torque em kgfm:": "89,8 @ 4.000 rpm",
+                "Taxa de compressão:": "9,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4 seg",
+                "Velocidade máxima:": "300 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,5",
+                "Estrada em km/l:": "6,2",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/40/ R20",
+                "Traseira:": "275/40/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,31 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.028 mm",
+                "Altura:": "1.416 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.951 mm",
+                "Bitola dianteira:": "1.625 mm",
+                "Bitola traseira:": "1.618 mm",
+                "Vão livre do solo:": "115 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.018 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "challenger-srt-hellcat-6.2-v8-2017": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger-SRT-Hellcat.jpg",
+            "NOME": "challenger-srt-hellcat-6.2-v8-2017",
+            "ANO": "2017",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Compressor mecânico",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.166 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "717 @ 6.000 rpm",
+                "Torque em kgfm:": "89,8 @ 4.000 rpm",
+                "Taxa de compressão:": "9,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4 seg",
+                "Velocidade máxima:": "300 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,5",
+                "Estrada em km/l:": "6,2",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/40/ R20",
+                "Traseira:": "275/40/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,31 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.028 mm",
+                "Altura:": "1.416 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.951 mm",
+                "Bitola dianteira:": "1.625 mm",
+                "Bitola traseira:": "1.618 mm",
+                "Vão livre do solo:": "115 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.018 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "challenger-srt-hellcat-6.2-v8-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger-SRT-Hellcat.jpg",
+            "NOME": "challenger-srt-hellcat-6.2-v8-2016",
+            "ANO": "2016",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Compressor mecânico",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.166 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "717 @ 6.000 rpm",
+                "Torque em kgfm:": "89,8 @ 4.000 rpm",
+                "Taxa de compressão:": "9,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4 seg",
+                "Velocidade máxima:": "300 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,5",
+                "Estrada em km/l:": "6,2",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/40/ R20",
+                "Traseira:": "275/40/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,31 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.028 mm",
+                "Altura:": "1.416 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.951 mm",
+                "Bitola dianteira:": "1.625 mm",
+                "Bitola traseira:": "1.618 mm",
+                "Vão livre do solo:": "115 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.018 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "challenger-srt-hellcat-6.2-v8-2015": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger-SRT-Hellcat.jpg",
+            "NOME": "challenger-srt-hellcat-6.2-v8-2015",
+            "ANO": "2015",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Compressor mecânico",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "6.166 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "717 @ 6.000 rpm",
+                "Torque em kgfm:": "89,8 @ 4.000 rpm",
+                "Taxa de compressão:": "9,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4 seg",
+                "Velocidade máxima:": "300 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,5",
+                "Estrada em km/l:": "6,2",
+                "Autonomia em km:": "434"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "275/40/ R20",
+                "Traseira:": "275/40/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,31 m²",
+                "Coef. aerodinâmico:": "0,38 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.028 mm",
+                "Altura:": "1.416 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.951 mm",
+                "Bitola dianteira:": "1.625 mm",
+                "Bitola traseira:": "1.618 mm",
+                "Vão livre do solo:": "115 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.018 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "challenger-rt-5.7-v8-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger.jpg",
+            "NOME": "challenger-rt-5.7-v8-2018",
+            "ANO": "2018",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "377 @ 5.200 rpm",
+                "Torque em kgfm:": "55,3 @ 4.400 rpm",
+                "Taxa de compressão:": "10,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 seg",
+                "Velocidade máxima:": "250 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "490"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45/ R20",
+                "Traseira:": "245/45/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,39 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.027 mm",
+                "Altura:": "1.460 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.950 mm",
+                "Bitola dianteira:": "1.611 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "131 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.852 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "challenger-rt-5.7-v8-2017": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger.jpg",
+            "NOME": "challenger-rt-5.7-v8-2017",
+            "ANO": "2017",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "377 @ 5.200 rpm",
+                "Torque em kgfm:": "55,3 @ 4.400 rpm",
+                "Taxa de compressão:": "10,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 seg",
+                "Velocidade máxima:": "250 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "490"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45/ R20",
+                "Traseira:": "245/45/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,39 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.027 mm",
+                "Altura:": "1.460 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.950 mm",
+                "Bitola dianteira:": "1.611 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "131 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.852 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "challenger-rt-5.7-v8-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger.jpg",
+            "NOME": "challenger-rt-5.7-v8-2016",
+            "ANO": "2016",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "377 @ 5.200 rpm",
+                "Torque em kgfm:": "55,3 @ 4.400 rpm",
+                "Taxa de compressão:": "10,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 seg",
+                "Velocidade máxima:": "250 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "490"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45/ R20",
+                "Traseira:": "245/45/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,39 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.027 mm",
+                "Altura:": "1.460 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.950 mm",
+                "Bitola dianteira:": "1.611 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "131 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.852 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "challenger-rt-5.7-v8-2015": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Junho/Dodge-Challenger.jpg",
+            "NOME": "challenger-rt-5.7-v8-2015",
+            "ANO": "2015",
+            "MARCA": "dodge",
+            "MODELO": "challenger",
+            "ESPECIFICACAO": {
+                "Origem:": "Importado",
+                "Detalhes:": "Cupê, 2 portas, 4 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.654 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco, engrenagens",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência em CV:": "377 @ 5.200 rpm",
+                "Torque em kgfm:": "55,3 @ 4.400 rpm",
+                "Taxa de compressão:": "10,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "5,2 seg",
+                "Velocidade máxima:": "250 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "490"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braço sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45/ R20",
+                "Traseira:": "245/45/ R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,39 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.027 mm",
+                "Altura:": "1.460 mm",
+                "Largura:": "1.923 mm",
+                "Entre eixos:": "2.950 mm",
+                "Bitola dianteira:": "1.611 mm",
+                "Bitola traseira:": "1.620 mm",
+                "Vão livre do solo:": "131 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.852 kg",
+                "Porta-malas:": "459 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "70 litros"
+            }
+        },
+        "polara-gls-1.8-1981": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara_GLS.jpg",
+            "NOME": "polara-gls-1.8-1981",
+            "ANO": "1981",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GL 1.8 Automatic 1981",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "17,6 s",
+                "Velocidade máxima:": "142 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "8 km/l",
+                "Estrada:": "10 km/l",
+                "Autonomia:": "600 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "972 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "polara-l-1.8-1980": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara_GLS.jpg",
+            "NOME": "polara-l-1.8-1980",
+            "ANO": "1980",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "L 1.8 1980",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "15,2 s",
+                "Velocidade máxima:": "156 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "9 km/l",
+                "Estrada:": "10,2 km/l",
+                "Autonomia:": "459 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.594 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.004 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "45 litros"
+            }
+        },
+        "polara-gls-1.8-1980": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara_GLS.jpg",
+            "NOME": "polara-gls-1.8-1980",
+            "ANO": "1980",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GLS 1.8 1980",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "15,2 s",
+                "Velocidade máxima:": "156 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "9 km/l",
+                "Estrada:": "10,2 km/l",
+                "Autonomia:": "459 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.594 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.004 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "45 litros"
+            }
+        },
+        "polara-gl-automatic-1.8-1980": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara.jpg",
+            "NOME": "polara-gl-automatic-1.8-1980",
+            "ANO": "1980",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GL 1.8 Automatic 1980",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "17,6 s",
+                "Velocidade máxima:": "142 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "8 km/l",
+                "Estrada:": "10 km/l",
+                "Autonomia:": "600 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "972 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "polara-gl-automatic-1.8-1979": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara.jpg",
+            "NOME": "polara-gl-automatic-1.8-1979",
+            "ANO": "1979",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GL 1.8 Automatic 1979",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "17,6 s",
+                "Velocidade máxima:": "142 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "8 km/l",
+                "Estrada:": "10 km/l",
+                "Autonomia:": "600 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "972 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "polara-gl-1.8-1979": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara.jpg",
+            "NOME": "polara-gl-1.8-1979",
+            "ANO": "1979",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GL 1.8 1979",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natual",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,6 s",
+                "Velocidade máxima:": "158 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "9 km/l",
+                "Estrada:": "11 km/l",
+                "Autonomia:": "660 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "972 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "polara-gl-1.8-1978": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara.jpg",
+            "NOME": "polara-gl-1.8-1978",
+            "ANO": "1978",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GL 1.8 1978",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,6 s",
+                "Velocidade máxima:": "158 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "9 km/l",
+                "Estrada:": "11 km/l",
+                "Autonomia:": "660 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "972 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "polara-gl-1.8-1977": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara.jpg",
+            "NOME": "polara-gl-1.8-1977",
+            "ANO": "1977",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GL 1.8 1977",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,6 s",
+                "Velocidade máxima:": "158 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "9 km/l",
+                "Estrada:": "11 km/l",
+                "Autonomia:": "660 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "972 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "polara-gl-1.8-1976": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Polara.jpg",
+            "NOME": "polara-gl-1.8-1976",
+            "ANO": "1976",
+            "MARCA": "dodge",
+            "MODELO": "polara",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Polara",
+                "Versão:": "GL 1976",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "93 @ 5.000 rpm",
+                "Torque kgfm:": "15,5 @ 3.500 rpm",
+                "Taxa de compressão:": "7,7:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,6 s",
+                "Velocidade máxima:": "158 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "9 km/l",
+                "Estrada:": "11 km/l",
+                "Autonomia:": "660 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "972 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "1800-se-1.8-1975": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Dodge_1800.jpg",
+            "NOME": "1800-se-1.8-1975",
+            "ANO": "1975",
+            "MARCA": "dodge",
+            "MODELO": "1800",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "1800",
+                "Versão:": "SE 1975",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "82 @ 4.600 rpm",
+                "Torque kgfm:": "14,5 @ 3.000 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "19 s",
+                "Velocidade máxima:": "144 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "8 km/l",
+                "Estrada:": "11 km/l",
+                "Autonomia:": "660 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "930 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "1800-se-1.8-1974": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Dodge_1800.jpg",
+            "NOME": "1800-se-1.8-1974",
+            "ANO": "1974",
+            "MARCA": "dodge",
+            "MODELO": "1800",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "1800",
+                "Versão:": "SE 1974",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "82 @ 4.600 rpm",
+                "Torque kgfm:": "14,5 @ 3.000 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "19 s",
+                "Velocidade máxima:": "144 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "8 km/l",
+                "Estrada:": "11 km/l",
+                "Autonomia:": "660 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.376 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.489 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "930 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "1800-gl-1.8-1973": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Dodge_1800.jpg",
+            "NOME": "1800-gl-1.8-1973",
+            "ANO": "1973",
+            "MARCA": "dodge",
+            "MODELO": "1800",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "1800",
+                "Versão:": "GL 1973",
+                "Origem:": "Nacional",
+                "Detalhes:": "Coupê, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Carburador",
+                "Cilindrada:": "1.799 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência CV:": "78 @ 4.600 rpm",
+                "Torque kgfm:": "13,4 @ 3.000 rpm",
+                "Taxa de compressão:": "7,5:1",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "20,3 s",
+                "Velocidade máxima:": "140 km/h"
+            },
+            "CONSUMO": {
+                "Cidade:": "8 km/l",
+                "Estrada:": "11 km/l",
+                "Autonomia:": "660 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "10,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "não disponível",
+                "Traseira:": "não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.420 mm",
+                "Largura:": "1.587 mm",
+                "Entre eixos:": "2.750 mm",
+                "Bitola dianteira:": "1.313 mm",
+                "Bitola traseira:": "1.321 mm",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "990 kg",
+                "Porta-malas:": "316 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "60 litros"
+            }
+        },
+        "journey-rt-3.6-v6-2015": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-rt-3.6-v6-2015",
+            "ANO": "2015",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "R/T 3.6 V6 2015",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.605 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima CV:": "280 @ 6.350 rpm",
+                "Torque máximo kgfm:": "34,9 @ 4.350 rpm",
+                "Potência específica:": "77,7 cv/litro",
+                "Torque específico:": "9,7 kgfm/litro",
+                "Taxa de compressão:": "10,2:1",
+                "Rel. peso/potência:": "7,1 kg/cv",
+                "Rel. peso/torque:": "56,8 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro cilindros:": "96 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Pentastar"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,9 seg",
+                "Velocidade máxima:": "208 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,5",
+                "Estrada em km/l:": "9,3",
+                "Autonomia em km:": "716"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R19",
+                "Traseira:": "225/55 R19",
+                "Altura do flanco:": "124 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.981 kg",
+                "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+                "Carga útil:": "491 kg",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "journey-rt-3.6-v6-2014": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-rt-3.6-v6-2014",
+            "ANO": "2014",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "R/T 3.6 V6 2014",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.605 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima CV:": "280 @ 6.350 rpm",
+                "Torque máximo kgfm:": "34,9 @ 4.350 rpm",
+                "Potência específica:": "77,7 cv/litro",
+                "Torque específico:": "9,7 kgfm/litro",
+                "Taxa de compressão:": "10,2:1",
+                "Rel. peso/potência:": "7,1 kg/cv",
+                "Rel. peso/torque:": "56,8 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro cilindros:": "96 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Pentastar"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,9 seg",
+                "Velocidade máxima:": "208 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,5",
+                "Estrada em km/l:": "9,3",
+                "Autonomia em km:": "716"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R19",
+                "Traseira:": "225/55 R19",
+                "Altura do flanco:": "124 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.981 kg",
+                "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+                "Carga útil:": "491 kg",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "journey-rt-3.6-v6-2013": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-rt-3.6-v6-2013",
+            "ANO": "2013",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "R/T 3.6 V6 2013",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.605 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima CV:": "280 @ 6.350 rpm",
+                "Torque máximo kgfm:": "34,9 @ 4.350 rpm",
+                "Potência específica:": "77,7 cv/litro",
+                "Torque específico:": "9,7 kgfm/litro",
+                "Taxa de compressão:": "10,2:1",
+                "Rel. peso/potência:": "7,1 kg/cv",
+                "Rel. peso/torque:": "56,8 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro cilindros:": "96 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Pentastar"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,9 seg",
+                "Velocidade máxima:": "208 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,5",
+                "Estrada em km/l:": "9,3",
+                "Autonomia em km:": "716"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R19",
+                "Traseira:": "225/55 R19",
+                "Altura do flanco:": "124 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.981 kg",
+                "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+                "Carga útil:": "491 kg",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "journey-stx-3.6-v6-2013": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-stx-3.6-v6-2013",
+            "ANO": "2013",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "STX 3.6 V6 2013",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.605 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima CV:": "280 @ 6.350 rpm",
+                "Torque máximo kgfm:": "34,9 @ 4.350 rpm",
+                "Potência específica:": "77,7 cv/litro",
+                "Torque específico:": "9,7 kgfm/litro",
+                "Taxa de compressão:": "10,2:1",
+                "Rel. peso/potência:": "7,1 kg/cv",
+                "Rel. peso/torque:": "56,8 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro cilindros:": "96 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Pentastar"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,9 seg",
+                "Velocidade máxima:": "208 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "7,4",
+                "Autonomia em km:": "570"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17",
+                "Altura do flanco:": "166 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.981 kg",
+                "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+                "Carga útil:": "491 kg",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "journey-sxt-3.6-v6-2012": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-sxt-3.6-v6-2012",
+            "ANO": "2012",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "SXT 3.6 V6 2012",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.605 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão",
+                "Potência máxima CV:": "280 @ 6.350 rpm",
+                "Torque máximo kgfm:": "34,9 @ 4.350 rpm",
+                "Potência específica:": "77,7 cv/litro",
+                "Torque específico:": "9,7 kgfm/litro",
+                "Taxa de compressão:": "10,2:1",
+                "Rel. peso/potência:": "7,1 kg/cv",
+                "Rel. peso/torque:": "56,8 kg/kgfm",
+                "Curso dos pistões:": "83 mm",
+                "Diâmetro cilindros:": "96 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Pentastar"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "8,9 seg",
+                "Velocidade máxima:": "208 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,1",
+                "Estrada em km/l:": "7,4",
+                "Autonomia em km:": "570"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17",
+                "Altura do flanco:": "166 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.981 kg",
+                "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+                "Carga útil:": "491 kg",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "journey-se-2.7-v6-2010": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-se-2.7-v6-2010",
+            "ANO": "2010",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "SE 2.7 V6 2010",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.736 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "185 @ 5.500 rpm",
+                "Torque máximo kgfm:": "26,1 @ 4.000 rpm",
+                "Potência específica:": "67,6 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "9,9:1",
+                "Rel. peso/potência:": "10,5 kg/cv",
+                "Rel. peso/torque:": "74,3 kg/kgfm",
+                "Curso dos pistões:": "78,5 mm",
+                "Diâmetro cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,8 seg",
+                "Velocidade máxima:": "182 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,6",
+                "Estrada em km/l:": "9,5",
+                "Autonomia em km:": "732"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/65 R17",
+                "Traseira:": "225/65 R17",
+                "Altura do flanco:": "146 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.940 kg",
+                "Porta-malas:": "580 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "journey-rt-2.7-v6-2010": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-rt-2.7-v6-2010",
+            "ANO": "2010",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "R/T 2.7 V6 2010",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.736 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "185 @ 5.500 rpm",
+                "Torque máximo kgfm:": "26,1 @ 4.000 rpm",
+                "Potência específica:": "67,6 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "9,9:1",
+                "Rel. peso/potência:": "10,5 kg/cv",
+                "Rel. peso/torque:": "74,3 kg/kgfm",
+                "Curso dos pistões:": "78,5 mm",
+                "Diâmetro cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,8 seg",
+                "Velocidade máxima:": "182 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,6",
+                "Estrada em km/l:": "9,5",
+                "Autonomia em km:": "732"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/55 R19",
+                "Traseira:": "225/55 R19",
+                "Altura do flanco:": "124 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.940 kg",
+                "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "journey-sxt-2.7-v6-2009": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Jouney-2009.jpg",
+            "NOME": "journey-sxt-2.7-v6-2009",
+            "ANO": "2009",
+            "MARCA": "dodge",
+            "MODELO": "journey",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Journey",
+                "Versão:": "SXT 2.7 V6 2009",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "7",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.736 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "185 @ 5.500 rpm",
+                "Torque máximo kgfm:": "26,1 @ 4.000 rpm",
+                "Potência específica:": "67,6 cv/litro",
+                "Torque específico:": "9,5 kgfm/litro",
+                "Taxa de compressão:": "9,9:1",
+                "Rel. peso/potência:": "10,5 kg/cv",
+                "Rel. peso/torque:": "74,3 kg/kgfm",
+                "Curso dos pistões:": "78,5 mm",
+                "Diâmetro cilindros:": "86 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,8 seg",
+                "Velocidade máxima:": "182 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,6",
+                "Estrada em km/l:": "9,5",
+                "Autonomia em km:": "732"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,7"
+            },
+            "PNEUS": {
+                "Dianteira:": "225/65 R17",
+                "Traseira:": "225/65 R17",
+                "Altura do flanco:": "146 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.888 mm",
+                "Altura:": "1.745 mm",
+                "Largura:": "1.878 mm",
+                "Entre-eixos:": "2.890 mm",
+                "Bitola dianteira:": "1.571 mm",
+                "Bitola traseira:": "1.582 mm",
+                "Vão livre do solo:": "197 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.940 kg",
+                "Porta-malas:": "580 litros (5 lug) / 167 litros (7 lug)",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "77 litros"
+            }
+        },
+        "dakota-sport-3.9-v6-cs-2000": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-CE.jpg",
+            "NOME": "dakota-sport-3.9-v6-cs-2000",
+            "ANO": "2000",
+            "MARCA": "dodge",
+            "MODELO": "dakota",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dakota",
+                "Versão:": "Sport 3.9 V6 CS 2000",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.908 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no bloco",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "177 @ 4.800 rpm",
+                "Torque máximo kgfm:": "31,3 @ 3.200 rpm",
+                "Potência específica:": "45,3 cv/litro",
+                "Torque específico:": "8 kgfm/litro",
+                "Taxa de compressão:": "9,1:1",
+                "Rel. peso/potência:": "10,1 kg/cv",
+                "Rel. peso/torque:": "57 kg/kgfm",
+                "Curso dos pistões:": "84,1 mm",
+                "Diâmetro cilindros:": "99,3 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Magnum"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11,2 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "7,3",
+                "Estrada em km/l:": "10",
+                "Autonomia em km:": "830"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,9"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/75 R15",
+                "Traseira:": "235/75 R15",
+                "Altura do flanco:": "176 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.980 mm",
+                "Altura:": "1.740 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "2.840 mm",
+                "Bitola dianteira:": "1.544 mm",
+                "Bitola traseira:": "1.562 mm",
+                "Vão livre do solo:": "240 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.785 kg",
+                "Caçamba:": "1.327 litros",
+                "Carga útil:": "1.000 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "dakota-sport-3.9-v6-ce-2000": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-CE.jpg",
+            "NOME": "dakota-sport-3.9-v6-ce-2000",
+            "ANO": "2000",
+            "MARCA": "dodge",
+            "MODELO": "dakota",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dakota",
+                "Versão:": "Sport 3.9 V6 CE 2000",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "3.908 cc",
+                "Cilindros:": "6, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no bloco",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "177 @ 4.800 rpm",
+                "Torque máximo kgfm:": "31,3 @ 3.200 rpm",
+                "Potência específica:": "45,3 cv/litro",
+                "Torque específico:": "8 kgfm/litro",
+                "Taxa de compressão:": "9,1:1",
+                "Rel. peso/potência:": "10,1 kg/cv",
+                "Rel. peso/torque:": "57 kg/kgfm",
+                "Curso dos pistões:": "84,1 mm",
+                "Diâmetro cilindros:": "99,3 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Magnum"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "11,2 seg",
+                "Velocidade máxima:": "175 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "7,3",
+                "Estrada em km/l:": "10",
+                "Autonomia em km:": "830"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,9"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/75 R15",
+                "Traseira:": "235/75 R15",
+                "Altura do flanco:": "176 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.460 mm",
+                "Altura:": "1.740 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "3.320 mm",
+                "Bitola dianteira:": "1.544 mm",
+                "Bitola traseira:": "1.562 mm",
+                "Vão livre do solo:": "240 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.785 kg",
+                "Caçamba:": "1.327 litros",
+                "Carga útil:": "1.000 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "dakota-rt-5.2-v8-at-ce-2000": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-CE.jpg",
+            "NOME": "dakota-rt-5.2-v8-at-ce-2000",
+            "ANO": "2000",
+            "MARCA": "dodge",
+            "MODELO": "dakota",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dakota",
+                "Versão:": "R/T 5.2 V8 AT CE 2000",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "2",
+                "Ocupantes:": "3",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.218 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no bloco",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "232 @ 4.400 rpm",
+                "Torque máximo kgfm:": "40 @ 3.200 rpm",
+                "Potência específica:": "44,5 cv/litro",
+                "Torque específico:": "7,7 kgfm/litro",
+                "Taxa de compressão:": "8,9:1",
+                "Rel. peso/potência:": "8,5 kg/cv",
+                "Rel. peso/torque:": "49,4 kg/kgfm",
+                "Curso dos pistões:": "84,1 mm",
+                "Diâmetro cilindros:": "99,3 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Magnum"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "4",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,8 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "4,4",
+                "Estrada em km/l:": "8,1",
+                "Autonomia em km:": "672"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,9"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/75 R15",
+                "Traseira:": "235/75 R15",
+                "Altura do flanco:": "176 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.463 mm",
+                "Altura:": "1.741 mm",
+                "Largura:": "1.816 mm",
+                "Entre-eixos:": "3.327 mm",
+                "Bitola dianteira:": "1.544 mm",
+                "Bitola traseira:": "1.562 mm",
+                "Vão livre do solo:": "240 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.974 kg",
+                "Caçamba:": "1.327 litros",
+                "Carga útil:": "750 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "dakota-sport-2.5-ce-turbo-2000": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-Sport.jpg",
+            "NOME": "dakota-sport-2.5-ce-turbo-2000",
+            "ANO": "2000",
+            "MARCA": "dodge",
+            "MODELO": "dakota",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dakota",
+                "Versão:": "Sport 2.5 CE Turbo 2000",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Diesel",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção indireta de combustível",
+                "Cilindrada:": "2.464 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no bloco",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "115 @ 3.900 rpm",
+                "Torque máximo kgfm:": "30,6 @ 2.000 rpm",
+                "Potência específica:": "46,7 cv/litro",
+                "Torque específico:": "12,4 kgfm/litro",
+                "Taxa de compressão:": "21:1",
+                "Rel. peso/potência:": "15,5 kg/cv",
+                "Rel. peso/torque:": "58,3 kg/kgfm",
+                "Curso dos pistões:": "94 mm",
+                "Diâmetro cilindros:": "92 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "Detroit"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "15,9 seg",
+                "Velocidade máxima:": "150 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8,1",
+                "Estrada em km/l:": "12,3",
+                "Autonomia em km:": "1.021"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,9"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/75 R15",
+                "Traseira:": "235/75 R15",
+                "Altura do flanco:": "176 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.460 mm",
+                "Altura:": "1.740 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "3.320 mm",
+                "Bitola dianteira:": "1.544 mm",
+                "Bitola traseira:": "1.562 mm",
+                "Vão livre do solo:": "240 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.785 kg",
+                "Caçamba:": "1.327 litros",
+                "Carga útil:": "1.000 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "dakota-2.5-cs-2000": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-CS.jpg",
+            "NOME": "dakota-2.5-cs-2000",
+            "ANO": "2000",
+            "MARCA": "dodge",
+            "MODELO": "dakota",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dakota",
+                "Versão:": "2.5 CS 2000",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "2",
+                "Ocupantes:": "3",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.464 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no bloco",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "121 @ 5.200 rpm",
+                "Torque máximo kgfm:": "20,1 @ 3.250 rpm",
+                "Potência específica:": "49,1 cv/litro",
+                "Torque específico:": "8,2 kgfm/litro",
+                "Taxa de compressão:": "9,2:1",
+                "Rel. peso/potência:": "13,7 kg/cv",
+                "Rel. peso/torque:": "82,4 kg/kgfm",
+                "Curso dos pistões:": "81 mm",
+                "Diâmetro cilindros:": "98,4 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "17,9 seg",
+                "Velocidade máxima:": "142 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,6",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "714"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,9"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/75 R15",
+                "Traseira:": "235/75 R15",
+                "Altura do flanco:": "176 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.980 mm",
+                "Altura:": "1.740 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "2.8400 mm",
+                "Bitola dianteira:": "1.544 mm",
+                "Bitola traseira:": "1.562 mm",
+                "Vão livre do solo:": "240 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.656 kg",
+                "Caçamba:": "1.000 litros",
+                "Carga útil:": "1.000 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "dakota-2.5-cs-1999": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-CS.jpg",
+            "NOME": "dakota-2.5-cs-1999",
+            "ANO": "1999",
+            "MARCA": "dodge",
+            "MODELO": "dakota",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dakota",
+                "Versão:": "2.5 CS 1999",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "2",
+                "Ocupantes:": "3",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.464 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no bloco",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "121 @ 5.200 rpm",
+                "Torque máximo kgfm:": "20,1 @ 3.250 rpm",
+                "Potência específica:": "49,1 cv/litro",
+                "Torque específico:": "8,2 kgfm/litro",
+                "Taxa de compressão:": "9,2:1",
+                "Rel. peso/potência:": "13,7 kg/cv",
+                "Rel. peso/torque:": "82,4 kg/kgfm",
+                "Curso dos pistões:": "81 mm",
+                "Diâmetro cilindros:": "98,4 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "17,9 seg",
+                "Velocidade máxima:": "142 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,6",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "714"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,9"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/75 R15",
+                "Traseira:": "235/75 R15",
+                "Altura do flanco:": "176 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.980 mm",
+                "Altura:": "1.740 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "2.8400 mm",
+                "Bitola dianteira:": "1.544 mm",
+                "Bitola traseira:": "1.562 mm",
+                "Vão livre do solo:": "240 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.656 kg",
+                "Caçamba:": "1.000 litros",
+                "Carga útil:": "1.000 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "dakota-2.5-cs-1998": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Maio/Dodge-Dakota-CS.jpg",
+            "NOME": "dakota-2.5-cs-1998",
+            "ANO": "1998",
+            "MARCA": "dodge",
+            "MODELO": "dakota",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dakota",
+                "Versão:": "2.5 CS 1998",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Nacional",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "2",
+                "Ocupantes:": "3",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "2.464 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no bloco",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "121 @ 5.200 rpm",
+                "Torque máximo kgfm:": "20,1 @ 3.250 rpm",
+                "Potência específica:": "49,1 cv/litro",
+                "Torque específico:": "8,2 kgfm/litro",
+                "Taxa de compressão:": "9,2:1",
+                "Rel. peso/potência:": "13,7 kg/cv",
+                "Rel. peso/torque:": "82,4 kg/kgfm",
+                "Curso dos pistões:": "81 mm",
+                "Diâmetro cilindros:": "98,4 mm",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "17,9 seg",
+                "Velocidade máxima:": "142 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "6,6",
+                "Estrada em km/l:": "8,6",
+                "Autonomia em km:": "714"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "10,9"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/75 R15",
+                "Traseira:": "235/75 R15",
+                "Altura do flanco:": "176 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.980 mm",
+                "Altura:": "1.740 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "2.8400 mm",
+                "Bitola dianteira:": "1.544 mm",
+                "Bitola traseira:": "1.562 mm",
+                "Vão livre do solo:": "240 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.656 kg",
+                "Caçamba:": "1.000 litros",
+                "Carga útil:": "1.000 kg",
+                "Tanque combustível:": "83 litros"
+            }
+        },
+        "charger-rt-v8-1976": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Marco/Dodge-Charger-RT-1976.jpg",
+            "NOME": "charger-rt-v8-1976",
+            "ANO": "1976",
+            "MARCA": "dodge",
+            "MODELO": "charger",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Charger",
+                "Versão:": "R/T 5.2 V8",
+                "Ano/modelo:": "1976",
+                "Detalhes:": "Nacional, Cupê, 2 portas"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural - Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência:": "215 @ 4.400 rpm",
+                "Torque:": "42,9 kgfm @ 2.400 rpm",
+                "Taxa de compressão:": "8,4:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "4",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "9,5 s",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "5 km/l",
+                "Rodoviário:": "8 km/l",
+                "Autonomia:": "496 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos, ventilados",
+                "Traseiros:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "2.820 mm",
+                "Vão livre do solo:": "160 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.525 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "400 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "dart-cupe-1971": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Marco/Dart-Cupe-5.2-V8-1971.jpg",
+            "NOME": "dart-cupe-1971",
+            "ANO": "1971",
+            "MARCA": "dodge",
+            "MODELO": "dart",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "Dart",
+                "Versão:": "Cupe 5.2 V8",
+                "Ano/modelo:": "1971",
+                "Detalhes:": "Nacional, Cupê, 2 portas"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural - Carburador",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência:": "198 @ 4.400 rpm",
+                "Torque:": "42 kgfm @ 2.400 rpm",
+                "Taxa de compressão:": "7,5:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,9 s",
+                "Velocidade máxima:": "177 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "4,7 km/l",
+                "Rodoviário:": "7 km/l",
+                "Autonomia:": "434 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Tambor",
+                "Traseiros:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.960 mm",
+                "Altura:": "1.390 mm",
+                "Largura:": "1.810 mm",
+                "Entre-eixos:": "2.820 mm",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.495 kg",
+                "Porta-malas:": "436 litros",
+                "Carga útil:": "não disponível",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "d100-5.2-v8-1970": {
+            "IMAGEM": "https://heycar.com.br/images/2017/Marco/dodge-d-100-1970.jpg",
+            "NOME": "d100-5.2-v8-1970",
+            "ANO": "1970",
+            "MARCA": "dodge",
+            "MODELO": "d100",
+            "ESPECIFICACAO": {
+                "Marca:": "Dodge",
+                "Modelo:": "D100",
+                "Versão:": "5.8 V8",
+                "Ano/modelo:": "1970",
+                "Detalhes:": "Nacional, pickup, 2 portas"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural, Carburador DFV 446 duplo descendente",
+                "Cilindrada:": "5.212 cc",
+                "Cilindros:": "8, em V",
+                "Comando de válvulas:": "No bloco",
+                "Válvulas por cilindro:": "2",
+                "Combustível:": "Gasolina",
+                "Potência:": "198 @ 4.400 rpm",
+                "Torque:": "42 kgfm @ 2.400 rpm",
+                "Taxa de compressão:": "6,8:1"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "3",
+                "Tração:": "Traseira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "16 s",
+                "Velocidade máxima:": "150 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "4,5 km/l",
+                "Rodoviário:": "7,5 km/l",
+                "Autonomia:": "510 km"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Tambor",
+                "Traseiros:": "Tambor"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Mecânica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.860 mm",
+                "Altura:": "1.750 mm",
+                "Largura:": "2.010 mm",
+                "Entre-eixos:": "2.900 mm",
+                "Vão livre do solo:": "220 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.650 kg",
+                "Caçamba:": "709 litros",
+                "Carga útil:": "709 kg",
+                "Tanque combustível:": "68 litros"
+            }
+        }
+    }
+}

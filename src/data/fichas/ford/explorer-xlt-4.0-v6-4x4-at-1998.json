@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Explorer_95.jpg",
+    "NOME": "explorer-xlt-4.0-v6-4x4-at-1998",
+    "ANO": "1998",
+    "MARCA": "ford",
+    "MODELO": "explorer",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Explorer",
+        "Versão:": "XLT 4.0 V6 4x4 AT 1998",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.996 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "162 @ 4.200 rpm",
+        "Torque máx. (kgfm):": "31,1 @ 2.800 rpm",
+        "Potência específica:": "40,5 cv/litro",
+        "Torque específico:": "7,8 kgfm/litro",
+        "Taxa de compressão:": "9:1",
+        "Rel. peso/potência:": "10,3 kg/cv",
+        "Rel. peso/torque:": "53,7 kg/kgfm",
+        "Curso dos pistões:": "84,3 mm",
+        "Diâmetro dos cilindros:": "100,3 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Cologne"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "5R55E"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,7 seg",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,9",
+        "Estrada em km/l:": "9,8",
+        "Autonomia em km:": "784"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semi elípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/75 R15",
+        "Traseira:": "235/75 R15",
+        "Altura do flanco:": "176 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,62 m²",
+        "Coef. aerodinâmico:": "0,41 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.788 mm",
+        "Altura:": "1.732 mm",
+        "Largura:": "1.783 mm",
+        "Entre eixos:": "2.832 mm",
+        "Bitola dianteira:": "1.486 mm",
+        "Bitola traseira:": "1.486 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.670 kg",
+        "Porta-malas:": "498 litros",
+        "Carga útil:": "580 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

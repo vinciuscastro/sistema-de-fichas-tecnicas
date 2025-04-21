@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/L200-2000.jpg",
+    "NOME": "l200-gls-2.5-turbo-2000",
+    "ANO": "2000",
+    "MARCA": "mitsubishi",
+    "MODELO": "l200",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "L200",
+        "Versão:": "GLS 2.5 Turbo",
+        "Ano/modelo": "2000",
+        "Detalhes:": "Nacional, pickup, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção indireta",
+        "Cilindrada:": "2.477 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Diesel",
+        "Potência:": "87 cv @ 4.200 rpm",
+        "Torque:": "20,5 kgfm @ 2.000 rpm",
+        "Taxa de compressão:": "21:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "4x4"
+    },
+    "DESEMPENHO": {
+        "Aceleração 0 a 100 km/h": "16,3 s",
+        "Velocidade máxima": "137 km/h"
+    },
+    "CONSUMO": {
+        "Urbano": "9,4 km/l",
+        "Rodoviário": "11,7 km/l",
+        "Autonomia": "877 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "13,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/75 R15",
+        "Traseira:": "255/75 R15"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.020 mm",
+        "Altura:": "1.800 mm",
+        "Largura:": "1.740 mm",
+        "Entre-eixos:": "2.960 mm",
+        "Ângulo de entrada:": "38 graus",
+        "Ângulo de saída:": "20 graus",
+        "Vão livre do solo:": "225 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.640 kg",
+        "Caçamba:": "1.000 litros",
+        "Carga útil:": "1.050 kg",
+        "Tanque de combustível": "75 litros"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Novembro/Spin-Advantage.jpg",
+    "NOME": "spin-advantage-1.8-at-2017",
+    "ANO": "2017",
+    "MARCA": "chevrolet",
+    "MODELO": "spin",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Spin",
+        "Versão:": "Advantage 1.8 AT 2017",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Minivan",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima (cv):": "111 (E) / 106 (G) @ 5.200 rpm",
+        "Torque máximo (kgfm):": "17,7 (E) / 17,7 (G) @ 2.600 rpm",
+        "Potência específica:": "61,8 cv/litro",
+        "Torque específico:": "9,9 kgfm/litro",
+        "Taxa de compressão:": "12,3:1",
+        "Rel. peso/potência:": "10,9 kg/cv",
+        "Rel. peso/torque:": "68,5 kg/kgfm",
+        "Curso dos pistões:": "88,2 mm",
+        "Diâmetro dos cilindros:": "80,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "GM Família I"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "GF6"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,9 seg",
+        "Velocidade máxima:": "168 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,5 (E) / 10,9 (G)",
+        "Estrada em km/l:": "9,2 (E) / 13,1 (G)",
+        "Autonomia em km:": "488 (E) / 694 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15",
+        "Estepe:": "115/70 R16",
+        "Altura do flanco:": "127 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,44 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.360 mm",
+        "Altura:": "1.684 mm",
+        "Largura:": "1.735 mm",
+        "Entre-eixos:": "2.620 mm",
+        "Bitola dianteira:": "1.503 mm",
+        "Bitola traseira:": "1.509 mm",
+        "Vão livre do solo:": "136 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.212 kg",
+        "Porta-malas:": "710 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "53 litros"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/Chery-Tiggo-2010.jpg",
+    "NOME": "tiggo-2.0-2012",
+    "ANO": "2012",
+    "MARCA": "chery",
+    "MODELO": "tiggo",
+    "ESPECIFICACAO": {
+        "Marca:": "Chery",
+        "Modelo:": "Tiggo",
+        "Versão:": "2.0",
+        "Ano/modelo:": "2012",
+        "Detalhes:": "Importado, SUV, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.971 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "135 cv @ 5.750 rpm",
+        "Torque:": "18,5 kgfm @ 4.300 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15 s",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7,7 km/l",
+        "Rodoviário:": "9,2 km/l",
+        "Autonomia:": "524 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.285 mm",
+        "Altura:": "1.705 mm",
+        "Largura:": "1.765 mm",
+        "Entre-eixos:": "2.510 mm",
+        "Vão livre do solo:": "190 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.375 kg",
+        "Porta-malas:": "435 litros",
+        "Carga útil:": "375 kg",
+        "Tanque combustível:": "57 litros"
+    }
+}

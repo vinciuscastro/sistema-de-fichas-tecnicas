@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/959-1987.jpg",
+    "NOME": "959-2.8-biturbo-1987",
+    "ANO": "1987",
+    "MARCA": "porsche",
+    "MODELO": "959",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "959",
+        "Versão:": "2.8 Biturbo",
+        "Ano/modelo:": "1987",
+        "Detalhes:": "Importado, coupé, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.850 cc",
+        "Cilindros:": "6, opostos",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "450 cv @ 6.500 rpm",
+        "Torque:": "51 kgfm @ 5.500 rpm",
+        "Taxa de compressão:": "8,3:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,7 s",
+        "Velocidade máxima:": "317 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,5 km/l",
+        "Rodoviário:": "9,3 km/l",
+        "Autonomia:": "790 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,1 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/45 R17",
+        "Traseira:": "275/40 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,0 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.260 mm",
+        "Altura:": "1.280 mm",
+        "Largura:": "1.840 mm",
+        "Entre-eixos:": "2.272 mm",
+        "Bitola dianteira:": "1.504 mm",
+        "Bitola traseira:": "1.550 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.550 kg",
+        "Porta-malas:": "77 litros",
+        "Carga útil:": "320 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

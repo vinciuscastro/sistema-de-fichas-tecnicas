@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Marco/Volkswagen-Quantum-85.jpg",
+    "NOME": "quantum-gl-1.8-1987",
+    "ANO": "1987",
+    "MARCA": "volkswagen",
+    "MODELO": "quantum",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Quantum",
+        "Versão:": "GL 1.8 Álcool",
+        "Origem:": "Nacional",
+        "Detalhes:": "Perua, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.781 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Álcool",
+        "Potência em CV:": "96 @ 5.000 rpm",
+        "Torque em kgfm:": "15,6 @ 3.400 rpm",
+        "Taxa de compressão:": "12:1",
+        "Código do motor:": "AP-1800"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11,9 s",
+        "Velocidade máxima:": "171 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,3",
+        "Estrada em km/l:": "10,2",
+        "Autonomia em km:": "765"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/60/ R14",
+        "Traseira:": "195/60 /R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,96 m²",
+        "Coef. aerodinâmico:": "0,42 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.569 mm",
+        "Altura:": "1.358 mm",
+        "Largura:": "1.695 mm",
+        "Entre eixos:": "2.550 mm",
+        "Bitola dianteira:": "1.414 mm",
+        "Bitola traseira:": "1.422 mm",
+        "Vão livre do solo:": "130 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.220 kg",
+        "Porta-malas:": "394 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "75 litros"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Toro-Volcano.jpg",
+    "NOME": "toro-volcano-2.0-turbo-at-4x4-2021",
+    "ANO": "2021",
+    "MARCA": "fiat",
+    "MODELO": "toro",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Toro",
+        "Versão:": "Volcano 2.0 Turbo AT 4x4 2021",
+        "Combustível:": "Diesel",
+        "Origem:": "Nacional",
+        "Categoria:": "Picape",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.956 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máxima (CV):": "170 @ 3.750 rpm",
+        "Torque máximo (kgfm):": "35,7 @ 1.750 rpm",
+        "Potência específica:": "86,9 cv/litro",
+        "Torque específico:": "18,3 kgfm/litro",
+        "Taxa de compressão:": "16,5:1",
+        "Rel. peso/potência:": "11 kg/cv",
+        "Rel. peso/torque:": "52,4 kg/kgfm",
+        "Curso dos pistões:": "90,4 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Multijet II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 9HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10 seg",
+        "Velocidade máxima:": "188 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,9",
+        "Estrada em km/l:": "12,3",
+        "Autonomia em km:": "738"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/60 R18",
+        "Traseira:": "225/60 R18",
+        "Altura do flanco:": "135 mm",
+        "Estepe:": "125/80 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.944 mm",
+        "Altura:": "1.743 mm",
+        "Largura:": "1.844 mm",
+        "Entre-eixos:": "2.990 mm",
+        "Bitola dianteira:": "1.549 mm",
+        "Bitola traseira:": "1.579 mm",
+        "Vão livre do solo:": "202 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.871 kg",
+        "Caçamba:": "820 litros",
+        "Carga útil:": "1.000 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

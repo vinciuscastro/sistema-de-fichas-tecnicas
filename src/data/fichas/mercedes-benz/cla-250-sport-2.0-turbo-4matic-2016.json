@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/mercedes-benz-cla-250-2014.jpg",
+    "NOME": "cla-250-sport-2.0-turbo-4matic-2016",
+    "ANO": "2016",
+    "MARCA": "mercedes-benz",
+    "MODELO": "cla",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "CLA 250",
+        "Versão:": "Sport 2.0 Turbo 4Matic 2016",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.991 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "211 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "35,7 @ 1.200 rpm",
+        "Potência específica:": "106 cv/litro",
+        "Torque específico:": "17,9 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Relação peso/potência:": "7,3 kg/cv",
+        "Relação peso/torque:": "43,1 kg/kgfm",
+        "Curso dos pistões:": "92 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M274"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,6 seg",
+        "Velocidade máxima:": "240 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,2",
+        "Estrada em km/l:": "13,5",
+        "Autonomia em km:": "675"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/40 R18",
+        "Traseira:": "235/40 R18",
+        "Estepe:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,16 m²",
+        "Coef. aerodinâmico:": "0,25 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.630 mm",
+        "Altura:": "1.432 mm",
+        "Largura:": "1.777 mm",
+        "Entre eixos:": "2.699 mm",
+        "Bitola dianteira:": "1.549 mm",
+        "Bitola traseira:": "1.547 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.540 kg",
+        "Porta-malas:": "470 litros",
+        "Carga útil:": "560 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

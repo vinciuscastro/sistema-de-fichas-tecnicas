@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/maio/kia-besta-gs.jpg",
+    "NOME": "besta-gs-2.7-2001",
+    "ANO": "2001",
+    "MARCA": "kia",
+    "MODELO": "besta",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Besta",
+        "Versão:": "GS 2.7 2001",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Van",
+        "Portas:": "3",
+        "Ocupantes:": "12",
+        "Geração:": "não disponível",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção indireta de combustível",
+        "Cilindrada:": "2.665 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "No cabeçote",
+        "Variação do comando:": "não variável",
+        "Potência em CV:": "83 @ 4.150 rpm",
+        "Torque em kgfm:": "17,5 @ 2.400 rpm",
+        "Potência específica:": "31,1 cv/litro",
+        "Torque específico:": "6,6 kgfm/litro",
+        "Taxa de compressão:": "21,5:1",
+        "Relação peso/potência:": "22,6 kg/cv",
+        "Relação peso/torque:": "107,1 kg/kgfm",
+        "Curso dos pistões:": "95 mm",
+        "Diâmetro dos cilindros:": "94,4 mm",
+        "Tuchos:": "não disponível",
+        "Código do motor:": "J2"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "25 seg",
+        "Velocidade máxima:": "130 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,6",
+        "Estrada em km/l:": "15,9",
+        "Autonomia em km:": "1.043"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Feixe de molas semielípticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/70 R14",
+        "Traseira:": "215/70 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4,820 mm",
+        "Altura:": "1.970 mm",
+        "Largura:": "1.810 mm",
+        "Entre eixos:": "2.580 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "195 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.875 kg",
+        "Porta-malas:": "10 litros",
+        "Carga útil:": "1.200 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

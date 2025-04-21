@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Junho/X6-M.jpg",
+    "NOME": "x6-m-4.4-v8-2018",
+    "ANO": "2018",
+    "MARCA": "bmw",
+    "MODELO": "x6",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X6",
+        "Versão:": "M 4.4 V8",
+        "Ano/modelo:": "2018",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "575 cv @ 6.000 rpm",
+        "Torque:": "76,5 kgfm @ 2.200 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "S63B44"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,2 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,4 km/l",
+        "Rodoviário:": "7,1 km/l",
+        "Autonomia:": "603 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "285/40 R20",
+        "Traseira:": "325/35 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,86 m²",
+        "Coef. aerodinâmico:": "0,37 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.909 mm",
+        "Altura:": "1.689 mm",
+        "Largura:": "1.989 mm",
+        "Entre-eixos:": "2.933 mm",
+        "Bitola dianteira:": "1.666 mm",
+        "Bitola traseira:": "1.667 mm",
+        "Vão livre do solo:": "195 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.265 kg",
+        "Porta-malas:": "550 litros",
+        "Carga útil:": "685 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

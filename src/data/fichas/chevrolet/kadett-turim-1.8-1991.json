@@ -1,0 +1,81 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Maio/Chevrolet-Kadett.jpg",
+    "NOME": "kadett-turim-1.8-1991",
+    "ANO": "1991",
+    "MARCA": "chevrolet",
+    "MODELO": "kadett",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Kadett",
+        "Versão:": "Turim 1.8 1991",
+        "Origem:": "Nacional",
+        "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "95 @ 5.800 rpm",
+        "Torque em kgfm:": "14,9 @ 3.000 rpm",
+        "Taxa de compressão:": "8,8:1",
+        "Código do motor:": "GM Família II"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,5 seg",
+        "Velocidade máxima:": "168 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,3",
+        "Estrada em km/l:": "12,7",
+        "Autonomia em km:": "597"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/70/ R13",
+        "Traseira:": "165/70/ R13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,91 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.073 mm",
+        "Altura:": "1.353 mm",
+        "Largura:": "1.663 mm",
+        "Entre eixos:": "2.520 mm",
+        "Bitola dianteira:": "1.406 mm",
+        "Bitola traseira:": "1.406 mm",
+        "Vão livre do solo:": "145 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "994 kg",
+        "Porta-malas:": "390 litros",
+        "Carga útil:": "500 kg",
+        "Tanque combustível:": "47 litros"
+    }
+}

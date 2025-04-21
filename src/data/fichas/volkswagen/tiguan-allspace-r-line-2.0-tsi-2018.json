@@ -1,0 +1,95 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Tiguan-R.jpg",
+    "NOME": "tiguan-allspace-r-line-2.0-tsi-2018",
+    "ANO": "2018",
+    "MARCA": "volkswagen",
+    "MODELO": "tiguan",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Tigual",
+        "Versão:": "Allspace R-Line 2.0 TSi 2018",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "7",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "1.984 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima (cv):": "220 @ 4.300 rpm",
+        "Torque máximo (kgfm):": "35,7 @ 1.600 rpm",
+        "Potência específica:": "110,9 cv/litro",
+        "Torque específico:": "18 kgfm/litro",
+        "Taxa de compressão:": "9,6:1",
+        "Rel. peso/potência:": "8,1 kg/cv",
+        "Rel. peso/torque:": "50 kg/kgfm",
+        "Curso dos pistões:": "92,8 mm",
+        "Diâmetro dos cilindros:": "82,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA888"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "DQ500"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 seg",
+        "Velocidade máxima:": "223 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,3",
+        "Estrada em km/l:": "9,6",
+        "Autonomia em km:": "576"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/45 R19",
+        "Traseira:": "255/45 R19",
+        "Estepe:": "145/85 R18",
+        "Altura do flanco:": "115 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,56 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.705 mm",
+        "Altura:": "1.658 mm",
+        "Largura:": "1.859 mm",
+        "Entre eixos:": "2.790 mm",
+        "Bitola dianteira:": "1.585 mm",
+        "Bitola traseira:": "1.574 mm",
+        "Vão livre do solo:": "216 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.785 kg",
+        "Porta-malas:": "686 litros (5 lug) / 216 litros (7 lug)",
+        "Carga útil:": "655 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

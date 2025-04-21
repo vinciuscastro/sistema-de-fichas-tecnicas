@@ -1,0 +1,1213 @@
+{
+    "marca": "byd",
+    "modelos": {
+        "tan-ev-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/setembro/byd-tan-ev-2022.jpg",
+            "NOME": "tan-ev-2022",
+            "ANO": "2022",
+            "MARCA": "byd",
+            "MODELO": "tan",
+            "ESPECIFICACAO": {
+                "Marca:": "Byd",
+                "Modelo:": "Tan",
+                "Versão:": "EV 2022",
+                "Combustível:": "Elétrico",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Potência:": "272 cv (traseiro)",
+                "Potência combinada:": "517 cv",
+                "Torque:": "35,7 kgfm (traseiro)",
+                "Torque combinado:": "69,3 kgfm (traseiro)",
+                "Peso/potência:": "4,79 kg/cv",
+                "Peso/torque:": "35,7 kg/kgfm",
+                "Autonomia:": "437 km"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Integral sob demanda"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,6 seg",
+                "Velocidade máxima:": "186 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "265/40 R22",
+                "Traseira:": "265/40 R22",
+                "Estepe:": "Kit de reparo e encimento"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.870 mm",
+                "Altura:": "1.725 mm",
+                "Largura:": "1.950 mm",
+                "Entre eixos:": "2.820 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "150 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.479 kg",
+                "Porta-malas:": "600 litros (5 lug) / 235 litros (7 lug)",
+                "Carga útil:": "não disponível"
+            }
+        },
+        "song-pro-dm-i-1.5-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/BYD-Song-Pro.jpg",
+            "NOME": "song-pro-dm-i-1.5-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "song",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Song Pro",
+                "Versão:": "DM-i 1.5 2025",
+                "Propulsão:": "Híbrido plug-in",
+                "Combustível:": "Gasolina/Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.498 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Fase de admissão",
+                "Potência em CV:": "110 @ 6.000 rpm",
+                "Torque em kgfm:": "13,8 @ 4.500 rpm",
+                "Potência específica:": "73,4 cv/litro",
+                "Torque específico:": "9,2 kgfm/litro",
+                "Taxa de compressão:": "15,5:1",
+                "Relação peso/potência:": "15,45 kg/cv",
+                "Relação peso/torque:": "123,2 kg/kgfm",
+                "Curso dos pistões:": "informação não disponível",
+                "Diâmetro dos cilindros:": "informação não disponível",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "BYD472QA",
+                "Potência:": "197 cv",
+                "Potência combinada:": "235 cv",
+                "Torque:": "32,2 kgfm",
+                "Torque combinado:": "40,8 kgfm",
+                "Capacidade bateria:": "8,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "28 km"
+            }
+        },
+        "shark-gs-1.5-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/BYD-Shark.jpg",
+            "NOME": "shark-gs-1.5-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "shark",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Shark",
+                "Versão:": "GS 1.5 2025",
+                "Propulsão:": "Híbrido plug-in",
+                "Combustível:": "Gasolina/Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Picape",
+                "Porte:": "Médio",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "6 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.498 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Único, no cabeçote, corrente",
+                "Variação do comando:": "Fase de admissão",
+                "Potência em CV:": "180 @ 4.500 rpm",
+                "Torque em kgfm:": "25 @ 3.000 rpm",
+                "Potência específica:": "120,2 cv/litro",
+                "Torque específico:": "16,7 kgfm/litro",
+                "Taxa de compressão:": "informação não disponível",
+                "Relação peso/potência:": "14,81 kg/cv",
+                "Relação peso/torque:": "106,6 kg/kgfm",
+                "Curso dos pistões:": "informação não disponível",
+                "Diâmetro dos cilindros:": "informação não disponível",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "BYD476ZQF",
+                "Potência:": "204 cv",
+                "Potência combinada:": "435 cv",
+                "Torque:": "34,7 kgfm",
+                "Torque combinado:": "34,7 kgfm",
+                "Capacidade bateria:": "29,6 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "70 km"
+            }
+        },
+        "seal-ev-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd-seal-2025.jpg",
+            "NOME": "seal-ev-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "seal",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Seal",
+                "Versão:": "EV 2025",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "372 km",
+                "Capacidade da bateria:": "82,5 kWh",
+                "Potência:": "530 cv",
+                "Torque:": "60,2 kgfm",
+                "Peso/potência:": "4,12 kg/cv",
+                "Peso/torque:": "36,30 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Integral sob demanda"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,8 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/45 R19",
+                "Traseira:": "235/45 R19",
+                "Altura do flanco:": "106 mm",
+                "Estepe:": "Kit de reparo e enchimento"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,33 m²",
+                "Coef. aerodinâmico:": "0,21 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.800 mm",
+                "Altura:": "1.460 mm",
+                "Largura:": "1.875 mm",
+                "Entre eixos:": "2.920 mm",
+                "Bitola dianteira:": "1.620 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "120 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.185 kg",
+                "Porta-malas:": "400 litros",
+                "Carga útil:": "446 kg"
+            }
+        },
+        "king-gs-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd-king-2025.jpg",
+            "NOME": "king-gs-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "king",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "King",
+                "Versão:": "GS 2025",
+                "Propulsão:": "Híbrido plug-in",
+                "Combustível:": "Gasolina/Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "6 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.498 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Fase de admissão",
+                "Potência em CV:": "110 @ 6.000 rpm",
+                "Torque em kgfm:": "13,8 @ 4.500 rpm",
+                "Potência específica:": "73,4 cv/litro",
+                "Torque específico:": "9,2 kgfm/litro",
+                "Taxa de compressão:": "15,5:1",
+                "Relação peso/potência:": "13,64 kg/cv",
+                "Relação peso/torque:": "108,7 kg/kgfm",
+                "Curso dos pistões:": "informação não disponível",
+                "Diâmetro dos cilindros:": "informação não disponível",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "BYD472QA",
+                "Potência:": "197 cv",
+                "Potência combinada:": "235 cv",
+                "Torque:": "33,1 kgfm",
+                "Torque combinado:": "33,1",
+                "Capacidade bateria:": "18,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "80 km"
+            }
+        },
+        "king-gl-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd-king-2025.jpg",
+            "NOME": "king-gl-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "king",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "King",
+                "Versão:": "GL 2025",
+                "Propulsão:": "Híbrido plug-in",
+                "Combustível:": "Gasolina/Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "6 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.498 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "Fase de admissão",
+                "Potência em CV:": "110 @ 6.000 rpm",
+                "Torque em kgfm:": "13,8 @ 4.500 rpm",
+                "Potência específica:": "73,4 cv/litro",
+                "Torque específico:": "9,2 kgfm/litro",
+                "Taxa de compressão:": "15,5:1",
+                "Relação peso/potência:": "13,64 kg/cv",
+                "Relação peso/torque:": "108,7 kg/kgfm",
+                "Curso dos pistões:": "informação não disponível",
+                "Diâmetro dos cilindros:": "informação não disponível",
+                "Tuchos:": "informação não disponível",
+                "Código do motor:": "BYD472QA",
+                "Potência:": "179 cv",
+                "Potência combinada:": "209 cv",
+                "Torque:": "32,2 kgfm",
+                "Torque combinado:": "32,2",
+                "Capacidade bateria:": "8,3 kWh",
+                "Consumo elétrico:": "informação não disponível",
+                "Autonomia elétrica:": "38 km"
+            }
+        },
+        "han-ev-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd_han_ev.jpg",
+            "NOME": "han-ev-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "han",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "HAN",
+                "Versão:": "EV 2025",
+                "Propulsão:": "Elétrico",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "349km",
+                "Capacidade da bateria:": "85,4 kWh",
+                "Potência:": "517 cv",
+                "Torque:": "71,4 kgfm",
+                "Peso/potência:": "4,35 kg/cv",
+                "Peso/torque:": "31,51 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            }
+        },
+        "han-ev-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd_han_ev.jpg",
+            "NOME": "han-ev-2024",
+            "ANO": "2024",
+            "MARCA": "byd",
+            "MODELO": "han",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "HAN",
+                "Versão:": "EV 2024",
+                "Propulsão:": "Elétrico",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "349km",
+                "Capacidade da bateria:": "85,4 kWh",
+                "Potência:": "517 cv",
+                "Torque:": "71,4 kgfm",
+                "Peso/potência:": "4,35 kg/cv",
+                "Peso/torque:": "31,51 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            }
+        },
+        "han-ev-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd_han_ev.jpg",
+            "NOME": "han-ev-2023",
+            "ANO": "2023",
+            "MARCA": "byd",
+            "MODELO": "han",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "HAN",
+                "Versão:": "EV 2023",
+                "Propulsão:": "Elétrico",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "349km",
+                "Capacidade da bateria:": "85,4 kWh",
+                "Potência:": "517 cv",
+                "Torque:": "71,4 kgfm",
+                "Peso/potência:": "4,35 kg/cv",
+                "Peso/torque:": "31,51 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            }
+        },
+        "dolphin-mini-gs-ev-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd-dolphin-mini-2024.jpg",
+            "NOME": "dolphin-mini-gs-ev-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "dolphin",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Dolphin Mini",
+                "Versão:": "GS EV 2025",
+                "Propulsão:": "Elétrico",
+                "Combustível:": "Eletrecidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Porte:": "subcompacto",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "280 km",
+                "Capacidade da bateria:": "38 kWh",
+                "Potência:": "75 cv",
+                "Torque:": "13,8 kgfm",
+                "Peso/potência:": "16,52 kg/cv",
+                "Peso/torque:": "89,78 kg/kgfm",
+                "Consumo elétrico:": "9,6 kWh/100 km"
+            }
+        },
+        "dolphin-mini-ev-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd-dolphin-mini-2024.jpg",
+            "NOME": "dolphin-mini-ev-2025",
+            "ANO": "2025",
+            "MARCA": "byd",
+            "MODELO": "dolphin",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Dolphin Mini",
+                "Versão:": "EV 2025",
+                "Propulsão:": "Elétrico",
+                "Combustível:": "Eletrecidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Porte:": "subcompacto",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "280 km",
+                "Capacidade da bateria:": "38 kWh",
+                "Potência:": "75 cv",
+                "Torque:": "13,8 kgfm",
+                "Peso/potência:": "16,52 kg/cv",
+                "Peso/torque:": "89,78 kg/kgfm",
+                "Consumo elétrico:": "9,6 kWh/100 km"
+            }
+        },
+        "dolphin-mini-ev-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/byd-dolphin-mini-2024.jpg",
+            "NOME": "dolphin-mini-ev-2024",
+            "ANO": "2024",
+            "MARCA": "byd",
+            "MODELO": "dolphin",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Dolphin Mini",
+                "Versão:": "EV 2024",
+                "Propulsão:": "Elétrico",
+                "Combustível:": "Eletrecidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Porte:": "subcompacto",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "280 km",
+                "Capacidade da bateria:": "38 kWh",
+                "Potência:": "75 cv",
+                "Torque:": "13,8 kgfm",
+                "Peso/potência:": "16,52 kg/cv",
+                "Peso/torque:": "89,78 kg/kgfm",
+                "Consumo elétrico:": "9,6 kWh/100 km"
+            }
+        },
+        "seal-ev-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2023/agosto/byd-seal-2024.jpg",
+            "NOME": "seal-ev-2024",
+            "ANO": "2024",
+            "MARCA": "byd",
+            "MODELO": "seal",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Seal",
+                "Versão:": "EV 2024",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "372 km",
+                "Capacidade da bateria:": "82,5 kWh",
+                "Potência:": "530 cv",
+                "Torque:": "60,2 kgfm",
+                "Peso/potência:": "4,12 kg/cv",
+                "Peso/torque:": "36,30 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Integral sob demanda"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,8 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/45 R19",
+                "Traseira:": "235/45 R19",
+                "Altura do flanco:": "106 mm",
+                "Estepe:": "Kit de reparo e enchimento"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,33 m²",
+                "Coef. aerodinâmico:": "0,21 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.800 mm",
+                "Altura:": "1.460 mm",
+                "Largura:": "1.875 mm",
+                "Entre eixos:": "2.920 mm",
+                "Bitola dianteira:": "1.620 mm",
+                "Bitola traseira:": "1.625 mm",
+                "Vão livre do solo:": "120 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.185 kg",
+                "Porta-malas:": "400 litros",
+                "Carga útil:": "446 kg"
+            }
+        },
+        "dolphin-plus-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2023/outubro/byd-dolphin.jpg",
+            "NOME": "dolphin-plus-2024",
+            "ANO": "2024",
+            "MARCA": "byd",
+            "MODELO": "dolphin",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Dolphin",
+                "Versão:": "Plus 2024",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "309 km",
+                "Capacidade da bateria:": "60,5 kWh",
+                "Potência:": "204 cv",
+                "Torque:": "31,6 kgfm",
+                "Peso/potência:": "8,13 kg/cv",
+                "Peso/torque:": "52,47 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Dianteira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo de torção",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "205/50 R17",
+                "Traseira:": "205/50 R17",
+                "Altura do flanco:": "103 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,36 m²",
+                "Coef. aerodinâmico:": "0,30 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.290 mm",
+                "Altura:": "1.570 mm",
+                "Largura:": "1.770 mm",
+                "Entre eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.530 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "120 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.658 kg",
+                "Porta-malas:": "250 litros",
+                "Carga útil:": "410 kg"
+            }
+        },
+        "dolphin-ev-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2023/outubro/byd-dolphin.jpg",
+            "NOME": "dolphin-ev-2024",
+            "ANO": "2024",
+            "MARCA": "byd",
+            "MODELO": "dolphin",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Dolphin",
+                "Versão:": "EV 2024",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "291 km",
+                "Capacidade da bateria:": "44,9 kWh",
+                "Potência:": "95 cv",
+                "Torque:": "18,3 kgfm",
+                "Peso/potência:": "14,79 kg/cv",
+                "Peso/torque:": "76,78 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Dianteira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,9 seg",
+                "Velocidade máxima:": "150 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo de torção",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "195/60 R16",
+                "Traseira:": "195/60 R16",
+                "Altura do flanco:": "117 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,36 m²",
+                "Coef. aerodinâmico:": "0,30 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.570 mm",
+                "Largura:": "1.770 mm",
+                "Entre eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.530 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.405 kg",
+                "Porta-malas:": "250 litros",
+                "Carga útil:": "410 kg"
+            }
+        },
+        "dolphin-diamond-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2023/outubro/byd-dolphin.jpg",
+            "NOME": "dolphin-diamond-2024",
+            "ANO": "2024",
+            "MARCA": "byd",
+            "MODELO": "dolphin",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Dolphin",
+                "Versão:": "Diamond 2024",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Hatch",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "291 km",
+                "Capacidade da bateria:": "44,9 kWh",
+                "Potência:": "95 cv",
+                "Torque:": "18,3 kgfm",
+                "Peso/potência:": "14,79 kg/cv",
+                "Peso/torque:": "76,78 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Dianteira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "10,9 seg",
+                "Velocidade máxima:": "150 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo de torção",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "10,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "195/60 R16",
+                "Traseira:": "195/60 R16",
+                "Altura do flanco:": "117 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,36 m²",
+                "Coef. aerodinâmico:": "0,30 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.125 mm",
+                "Altura:": "1.570 mm",
+                "Largura:": "1.770 mm",
+                "Entre eixos:": "2.700 mm",
+                "Bitola dianteira:": "1.530 mm",
+                "Bitola traseira:": "1.530 mm",
+                "Vão livre do solo:": "informação não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.405 kg",
+                "Porta-malas:": "250 litros",
+                "Carga útil:": "410 kg"
+            }
+        },
+        "yuan-plus-ev-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2023/marco/byd-yuan-plus-2023.jpg",
+            "NOME": "yuan-plus-ev-2023",
+            "ANO": "2023",
+            "MARCA": "byd",
+            "MODELO": "yuan",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Yuan Plus",
+                "Versão:": "EV 2023",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "294 km",
+                "Capacidade da bateria:": "60,5 kWh",
+                "Potência:": "204 cv",
+                "Torque:": "31,6 kgfm",
+                "Peso/potência:": "8,33 kg/cv",
+                "Peso/torque:": "53,8 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Dianteira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,3 seg",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "215/55 R18",
+                "Traseira:": "215/55 R18",
+                "Altura do flanco:": "118 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,57 m²",
+                "Coef. aerodinâmico:": "0,29 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.455 mm",
+                "Altura:": "1.615 mm",
+                "Largura:": "1.875 mm",
+                "Entre eixos:": "2.720 mm",
+                "Bitola dianteira:": "informação não disponível",
+                "Bitola traseira:": "informação não disponível",
+                "Vão livre do solo:": "175 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.700 kg",
+                "Porta-malas:": "440 litros",
+                "Carga útil:": "informação não disponível"
+            }
+        },
+        "song-plus-dm-i-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2023/marco/byd-song-plus-2023.jpg",
+            "NOME": "song-plus-dm-i-2023",
+            "ANO": "2023",
+            "MARCA": "byd",
+            "MODELO": "song",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "Song Plus",
+                "Versão:": "DM-i 2023",
+                "Combustível:": "Híbrido - gasolina/elétrico",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Transversal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "1.498 cc",
+                "Cilindros:": "4, em linha",
+                "Válvulas por cilindro:": "2",
+                "Comando de válvulas:": "Único, no cabeçote, corrente",
+                "Variação do comando:": "não variável",
+                "Potência em CV:": "110 @ 6.000 rpm",
+                "Torque em kgfm:": "13,8 @ 4.500 rpm",
+                "Potência específica:": "73,4 cv/litro",
+                "Torque específico:": "9,2 kgfm/litro",
+                "Taxa de compressão:": "informação não disponível",
+                "Relação peso/potência:": "15,4 kg/cv",
+                "Relação peso/torque:": "123,2 kg/kgfm",
+                "Curso dos pistões:": "informação não disponível",
+                "Diâmetro dos cilindros:": "informação não disponível",
+                "Tuchos:": "Mecânicos",
+                "Código do motor:": "BYD472ZQA",
+                "Potência:": "179 cv",
+                "Torque:": "32,2 kgfm"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem dupla a seco",
+                "Tração:": "Dianteira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "7,9 seg",
+                "Velocidade máxima:": "186 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "25",
+                "Estrada em km/l:": "23,3",
+                "Autonomia em km:": "1000"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/50 R19",
+                "Traseira:": "235/50 R19",
+                "Altura do flanco:": "118 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.705 mm",
+                "Altura:": "1.680 mm",
+                "Largura:": "1.890 mm",
+                "Entre eixos:": "2.865 mm",
+                "Bitola dianteira:": "1.630 mm",
+                "Bitola traseira:": "1.630 mm",
+                "Vão livre do solo:": "180 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.700 kg",
+                "Porta-malas:": "574 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "40 litros"
+            }
+        },
+        "et3-bev-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2023/marco/byd-et3-2023.jpg",
+            "NOME": "et3-bev-2022",
+            "ANO": "2022",
+            "MARCA": "byd",
+            "MODELO": "et3",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "et3",
+                "Versão:": "BEV 2022",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Furgão",
+                "Portas:": "4",
+                "Ocupantes:": "3",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "300 km",
+                "Capacidade da bateria:": "44,9 kWh",
+                "Potência:": "109 cv",
+                "Torque:": "18,3 kgfm",
+                "Peso/potência:": "14,79 kg/cv",
+                "Peso/torque:": "88,09 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Dianteira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "18,9 seg",
+                "Velocidade máxima:": "100 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Feixe de molas semi-elípticas"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "195/60 R16",
+                "Traseira:": "195/60 R16",
+                "Altura do flanco:": "117 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.460 mm",
+                "Altura:": "1.875 mm",
+                "Largura:": "1.720 mm",
+                "Entre eixos:": "2.725 mm",
+                "Bitola dianteira:": "1.490 mm",
+                "Bitola traseira:": "1.533 mm",
+                "Vão livre do solo:": "120 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.612 kg",
+                "Porta-malas:": "3.300 litros",
+                "Carga útil:": "808 kg"
+            }
+        },
+        "d1-ev-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2023/marco/byd-d1-2023.jpg",
+            "NOME": "d1-ev-2023",
+            "ANO": "2023",
+            "MARCA": "byd",
+            "MODELO": "d1",
+            "ESPECIFICACAO": {
+                "Marca:": "BYD",
+                "Modelo:": "D1",
+                "Versão:": "EV 2023",
+                "Combustível:": "Eletricidade",
+                "Origem:": "Importado",
+                "Categoria:": "Minivan",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Autonomia:": "371 km",
+                "Capacidade da bateria:": "53 kWh",
+                "Potência:": "136 cv",
+                "Torque:": "18,3 kgfm",
+                "Peso/potência:": "12,06 kg/cv",
+                "Peso/torque:": "89,62 kg/kgfm",
+                "Consumo elétrico:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Dianteira"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14 seg",
+                "Velocidade máxima:": "130 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Eixo de torção",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco sólido"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "11,2 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "195/60 R16",
+                "Traseira:": "195/60 R16",
+                "Altura do flanco:": "117 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.390 mm",
+                "Altura:": "1.650 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.800 mm",
+                "Bitola dianteira:": "1.590 mm",
+                "Bitola traseira:": "1.590 mm",
+                "Vão livre do solo:": "125 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.640 kg",
+                "Porta-malas:": "400 litros",
+                "Carga útil:": "informação não disponível"
+            }
+        },
+        "han-ev-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/setembro/byd-han-ev-2022.jpg",
+            "NOME": "han-ev-2022",
+            "ANO": "2022",
+            "MARCA": "byd",
+            "MODELO": "han",
+            "ESPECIFICACAO": {
+                "Marca:": "Byd",
+                "Modelo:": "Han",
+                "Versão:": "EV 2022",
+                "Combustível:": "Elétrico",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "5 anos"
+            },
+            "MOTOR": {
+                "Potência:": "272 cv (traseiro)",
+                "Potência combinada:": "494 cv",
+                "Torque:": "35,7 kgfm (traseiro)",
+                "Torque combinado:": "69,3 kgfm (traseiro)",
+                "Peso/potência:": "4,39 kg/cv",
+                "Peso/torque:": "31,31 kg/kgfm",
+                "Autonomia:": "500 km"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "1",
+                "Tração:": "Integral sob demanda"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,9 seg",
+                "Velocidade máxima:": "186 km/h"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, McPherson",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,3 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/45 R19",
+                "Traseira:": "245/45 R19",
+                "Estepe:": "Kit de reparo e encimento"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,43 m²",
+                "Coef. aerodinâmico:": "0,23 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.980 mm",
+                "Altura:": "1.495 mm",
+                "Largura:": "1.910 mm",
+                "Entre eixos:": "2.920 mm",
+                "Bitola dianteira:": "1.640 mm",
+                "Bitola traseira:": "1.640 mm",
+                "Vão livre do solo:": "125 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.170 kg",
+                "Porta-malas:": "410 litros",
+                "Carga útil:": "não disponível"
+            }
+        }
+    }
+}

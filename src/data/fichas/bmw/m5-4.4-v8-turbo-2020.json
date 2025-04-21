@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Marco/M5_01.jpg",
+    "NOME": "m5-4.4-v8-turbo-2020",
+    "ANO": "2020",
+    "MARCA": "bmw",
+    "MODELO": "m5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M5",
+        "Versão:": "4.4 V8 Turbo 2020",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "6",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "600 @ 5.700 rpm",
+        "Torque máximo em kgfm:": "76,5 @ 1.800 rpm",
+        "Potência específica:": "136,5 cv/litro",
+        "Torque específico:": "17,4 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "3,1 kg/cv",
+        "Relação peso/torque:": "24,2 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "S63B44"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Integral sob demanda",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,4 seg",
+        "Velocidade máxima:": "305 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,5",
+        "Estrada em km/l:": "8,5",
+        "Autonomia em km:": "578"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/35 R20",
+        "Traseira:": "295/30 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,35 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.965 mm",
+        "Altura:": "1.473 mm",
+        "Largura:": "1.903 mm",
+        "Entre eixos:": "2.982 mm",
+        "Bitola dianteira:": "1.626 mm",
+        "Bitola traseira:": "1.595 mm",
+        "Vão livre do solo:": "132 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.855 kg",
+        "Porta-malas:": "530 litros",
+        "Carga útil:": "585 kg",
+        "Tanque combustível:": "68 litros"
+    }
+}

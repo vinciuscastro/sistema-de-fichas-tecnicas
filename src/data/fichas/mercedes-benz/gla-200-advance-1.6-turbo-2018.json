@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/mercedes-benz-gla-200-15.jpg",
+    "NOME": "gla-200-advance-1.6-turbo-2018",
+    "ANO": "2018",
+    "MARCA": "mercedes-benz",
+    "MODELO": "gla",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "GLA 200",
+        "Versão:": "Advance 1.6 Turbo 2018",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.595 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "156 @ 5.300 rpm",
+        "Torque máximo em kgfm:": "25,5 @ 1.250 rpm",
+        "Potência específica:": "97,8 cv/litro",
+        "Torque específico:": "16 kgfm/litro",
+        "Taxa de compressão:": "10,3:1",
+        "Relação peso/potência:": "9,2 kg/cv",
+        "Relação peso/torque:": "56,3 kg/kgfm",
+        "Curso dos pistões:": "73,7 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M274DE16"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,8 seg",
+        "Velocidade máxima:": "215 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7 (E) / 8,6 (G)",
+        "Estrada em km/l:": "8,6 (E) / 12,7 (G)",
+        "Autonomia em km:": "430 (E) / 635 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/50 R18",
+        "Traseira:": "235/50 R18",
+        "Estepe:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,29 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.417 mm",
+        "Altura:": "1.494 mm",
+        "Largura:": "1.804 mm",
+        "Entre eixos:": "2.699 mm",
+        "Bitola dianteira:": "1.569 mm",
+        "Bitola traseira:": "1.560 mm",
+        "Vão livre do solo:": "134 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.435 kg",
+        "Porta-malas:": "421 litros",
+        "Carga útil:": "485 kg",
+        "Tanque combustível:": "50 litros"
+    }
+}

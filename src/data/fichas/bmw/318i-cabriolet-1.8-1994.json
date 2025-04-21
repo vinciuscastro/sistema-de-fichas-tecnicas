@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-318i-cabriolet.jpg",
+    "NOME": "318i-cabriolet-1.8-1994",
+    "ANO": "1994",
+    "MARCA": "bmw",
+    "MODELO": "318i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "318i",
+        "Versão:": "Cabriolet 1.8 1994",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Conversível",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "3",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.796 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "não variável",
+        "Potência máxima em CV:": "116 @ 5.500 rpm",
+        "Torque máximo em kgfm:": "17,1 @ 3.900 rpm",
+        "Potência específica:": "64,6 cv/litro",
+        "Torque específico:": "9,5 kgfm/litro",
+        "Taxa de compressão:": "9,7:1",
+        "Relação peso/potência:": "12 kg/cv",
+        "Relação peso/torque:": "81,6 kg/kgfm",
+        "Curso dos pistões:": "81 mm",
+        "Diâmetro dos cilindros:": "84 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "M43B18"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "GM 4L30-E"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,7 seg",
+        "Velocidade máxima:": "189 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8",
+        "Estrada em km/l:": "9,5",
+        "Autonomia em km:": "618"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/60 R15",
+        "Traseira:": "205/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,96 m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.433 mm",
+        "Altura:": "1.348 mm",
+        "Largura:": "1.710 mm",
+        "Entre eixos:": "2.700 mm",
+        "Bitola dianteira:": "1.408 mm",
+        "Bitola traseira:": "1.411 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.395 kg",
+        "Porta-malas:": "230 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "65 litros"
+    }
+}

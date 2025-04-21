@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Escort_Ghia_4P.jpg",
+    "NOME": "escort-ghia-1.6-1985",
+    "ANO": "1985",
+    "MARCA": "ford",
+    "MODELO": "escort",
+    "ESPECIFICACAO": {
+        "Marca:": "Ford",
+        "Modelo:": "Escort",
+        "Versão:": "Ghia 1.6 1985",
+        "Origem:": "Nacional",
+        "Detalhes:": "Hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Carburador",
+        "Cilindrada:": "1.555 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No bloco, corrente",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "651 @ 4.800 rpm",
+        "Torque em kgfm:": "10,8 @ 2.400 rpm",
+        "Taxa de compressão:": "9:1",
+        "Código do motor:": "CHT"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "16 s",
+        "Velocidade máxima:": "156 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "11,5 km/l",
+        "Estrada:": "16,8 km/l",
+        "Autonomia:": "8,6 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, McPherson",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Mecânica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/80/13",
+        "Traseira:": "165/80/13"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,87 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.969 mm",
+        "Altura:": "1.340 mm",
+        "Largura:": "1.640 mm",
+        "Entre eixos:": "2.402 mm",
+        "Bitola dianteira:": "1.385 mm",
+        "Bitola traseira:": "1.430 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "910 kg",
+        "Porta-malas:": "382 litros",
+        "Carga útil:": "350 kg",
+        "Tanque combustível:": "48 litros"
+    }
+}

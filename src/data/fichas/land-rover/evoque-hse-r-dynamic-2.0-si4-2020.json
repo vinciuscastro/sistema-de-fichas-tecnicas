@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Dezembro/Evoque.jpg",
+    "NOME": "evoque-hse-r-dynamic-2.0-si4-2020",
+    "ANO": "2020",
+    "MARCA": "land-rover",
+    "MODELO": "evoque",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Evoque",
+        "Versão:": "HSE R-Dynamic 2.0 Si4 2020",
+        "Combustível:": "Híbrido - Gasolina/Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.999 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência em CV:": "300 @ 5.500 rpm",
+        "Torque em kgfm:": "40,8 @ 1.500 rpm",
+        "Potência específica:": "150,1 cv/litro",
+        "Torque específico:": "20,4 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "6,4 kg/cv",
+        "Relação peso/torque:": "47,2 kg/kgfm",
+        "Curso dos pistões:": "92,3 mm",
+        "Diâmetro dos cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Ingenium AJ200",
+        "Potência:": "15,2 cv",
+        "Potência combinada:": "300 cv",
+        "Torque:": "14,3 kgfm",
+        "Torque combinado:": "40,8 kgfm",
+        "Capacidade bateria:": "0,2 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "9",
+        "Acoplamento:": "Conversor detorque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 9HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,6 seg",
+        "Velocidade máxima:": "242 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "7,1",
+        "Estrada em km/l:": "9,2",
+        "Autonomia em km:": "616"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco Sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/50 R20",
+        "Traseira:": "235/50 R20",
+        "Altura do flanco:": "118 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,67 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.371 mm",
+        "Altura:": "1.649 mm",
+        "Largura:": "1.904 mm",
+        "Entre eixos:": "2.681 mm",
+        "Bitola dianteira:": "1.625 mm",
+        "Bitola traseira:": "1.631 mm",
+        "Vão livre do solo:": "212 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.925 kg",
+        "Porta-malas:": "591 litros",
+        "Carga útil:": "525 kg",
+        "Tanque combustível:": "67 litros"
+    }
+}

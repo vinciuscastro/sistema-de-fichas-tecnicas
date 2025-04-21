@@ -1,0 +1,66 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-X5-2011.jpg",
+    "NOME": "x5-xdrive50i-4.4-v8-2011",
+    "ANO": "2011",
+    "MARCA": "bmw",
+    "MODELO": "x5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "X5",
+        "Versão:": "xDrive50i 4.4 V8",
+        "Ano/modelo:": "2011",
+        "Detalhes:": "Importado, SUV, 4 portas"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "4.395 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "408 cv @ 5.500 rpm",
+        "Torque:": "61,2 kgfm @ 1.750 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,5 s",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,2 km/l",
+        "Rodoviário:": "7,7 km/l",
+        "Autonomia:": "654 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "FREIOS": {
+        "Dianteiro:": "Discos ventilados",
+        "Traseiro:": "Discos ventilados"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,8 m"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.857 mm",
+        "Altura:": "1.739 mm",
+        "Largura:": "1.933 mm",
+        "Entre-eixos:": "2.933 mm",
+        "Vão livre do solo:": "222 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.190 kg",
+        "Porta-malas:": "620 litros",
+        "Carga útil:": "680 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

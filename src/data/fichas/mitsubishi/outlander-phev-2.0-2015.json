@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/Outlander-2014.jpg",
+    "NOME": "outlander-phev-2.0-2015",
+    "ANO": "2015",
+    "MARCA": "mitsubishi",
+    "MODELO": "outlander",
+    "ESPECIFICACAO": {
+        "Marca:": "Mitsubishi",
+        "Modelo:": "Outlander",
+        "Versão:": "PHEV 2.0",
+        "Ano/modelo:": "2015",
+        "Detalhes:": "Importado, SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Híbrido",
+        "Potência:": "121 cv @ 4.500 rpm",
+        "Torque:": "19,4 kgfm @ 4.500 rpm",
+        "Taxa de compressão:": "10:1",
+        "Observação:": "2 motores elétricos de 82 cv cada. Potência combinada total de 200 cv"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "11 s",
+        "Velocidade máxima:": "180 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "12 km/l",
+        "Rodoviário:": "13 km/l",
+        "Autonomia:": "585 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R18",
+        "Traseira:": "225/55 R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,57 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.665 mm",
+        "Altura:": "1.680 mm",
+        "Largura:": "1.800 mm",
+        "Entre-eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.540 mm",
+        "Bitola traseira:": "1.540 mm",
+        "Vão livre do solo:": "190 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.810 kg",
+        "Porta-malas:": "731 litros",
+        "Carga útil:": "575 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

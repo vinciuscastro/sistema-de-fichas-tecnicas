@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2021/Janeiro/Peugeot-205.jpg",
+    "NOME": "205-xsi-1.4-1996",
+    "ANO": "1996",
+    "MARCA": "peugeot",
+    "MODELO": "205",
+    "ESPECIFICACAO": {
+        "Marca:": "Peugeot",
+        "Modelo:": "205",
+        "Versão:": "XSi 1.4 1996",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica monoponto",
+        "Cilindrada:": "1.360 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "75 @ 6.500 rpm",
+        "Torque máx. (kgfm):": "11,3 @ 2.800 rpm",
+        "Potência específica:": "55,1 cv/litro",
+        "Torque específico:": "8,3 kgfm/litro",
+        "Taxa de compressão:": "9,3:1",
+        "Rel. peso/potência:": "11,3 kg/cv",
+        "Rel. peso/torque:": "75,2 kg/kgfm",
+        "Curso dos pistões:": "77 mm",
+        "Diâmetro dos cilindros:": "75 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "TU3MC"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Acoplamento:": "Embreagem monodisco a seco",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "MA/5"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13 seg",
+        "Velocidade máxima:": "165 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "13",
+        "Autonomia em km:": "675"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "não assistida",
+        "Diâmetro de giro:": "informação não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "155/70 R13",
+        "Traseira:": "155/70 R13",
+        "Altura do flanco:": "109 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.705 mm",
+        "Altura:": "1.376 mm",
+        "Largura:": "1.572 mm",
+        "Entre eixos:": "2.420 mm",
+        "Bitola dianteira:": "1.350 mm",
+        "Bitola traseira:": "1.350 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "850 kg",
+        "Porta-malas:": "290 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

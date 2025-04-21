@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/janeiro/volkswagen-polo-10-tsi-2023.jpg",
+    "NOME": "polo-comfortline-1.0-tsi-2023",
+    "ANO": "2023",
+    "MARCA": "volkswagen",
+    "MODELO": "polo",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Polo",
+        "Versão:": "Comfortline 1.0 TSi 2023",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Hatch",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "6",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima CV:": "116 (E) / 109 (G) @ 5.000 rpm",
+        "Torque máximo kgfm:": "16,8 (E) / 16,8 (G) @ 1.750 rpm",
+        "Potência específica:": "116,1 cv/litro",
+        "Torque específico:": "16,8 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "9,8 kg/cv",
+        "Rel. peso/torque:": "68,2 kg/kgfm",
+        "Curso dos pistões:": "76,4 mm",
+        "Diâmetro cilindros:": "74,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA211"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "AQ160-6F"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,5 seg",
+        "Velocidade máxima:": "192 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,7 (E) / 12,5 (G)",
+        "Estrada em km/l:": "10,8 (E) / 15,3 (G)",
+        "Autonomia em km:": "562 (E) / 796 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,6 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15",
+        "Altura do flanco:": "120 mm",
+        "Estepe:": "185/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,15 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.074 mm",
+        "Altura:": "1.471 mm",
+        "Largura:": "1.751 mm",
+        "Entre-eixos:": "2.566 mm",
+        "Bitola dianteira:": "1.524 mm",
+        "Bitola traseira:": "1.506 mm",
+        "Vão livre do solo:": "149 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.146 kg",
+        "Porta-malas:": "300 litros",
+        "Carga útil:": "424 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

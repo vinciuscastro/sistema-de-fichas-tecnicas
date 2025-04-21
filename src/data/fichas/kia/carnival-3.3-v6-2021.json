@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/Carnival.jpg",
+    "NOME": "carnival-3.3-v6-2021",
+    "ANO": "2021",
+    "MARCA": "kia",
+    "MODELO": "carnival",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Carnival",
+        "Versão:": "3.3 V6 2021",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Minivan",
+        "Portas:": "4",
+        "Ocupantes:": "8",
+        "Geração:": "3",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "3.342 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "270 @ 6.400 rpm",
+        "Torque máximo (kgfm):": "32,4 @ 5.300 rpm",
+        "Potência específica:": "80,8 cv/litro",
+        "Torque específico:": "9,7 kgfm/litro",
+        "Taxa de compressão:": "10,6:1",
+        "Rel. peso/potência:": "8 kg/cv",
+        "Rel. peso/torque:": "66,5 kg/kgfm",
+        "Curso dos pistões:": "83,8 mm",
+        "Diâmetro dos cilindros:": "92 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Lambda"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "A6LF1"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,5 seg",
+        "Velocidade máxima:": "200 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,4",
+        "Estrada em km/l:": "8,4",
+        "Autonomia em km:": "672"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "235/60 R18",
+        "Traseira:": "235/60 R18",
+        "Altura do flanco:": "141 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,55 m²",
+        "Coef. aerodinâmico:": "0,32 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.115 mm",
+        "Altura:": "1.755 mm",
+        "Largura:": "1.985 mm",
+        "Entre-eixos:": "3.060 mm",
+        "Bitola dianteira:": "1.735 mm",
+        "Bitola traseira:": "1.742 mm",
+        "Vão livre do solo:": "170 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.155 kg",
+        "Porta-malas:": "883 litros (5 lug) / 300 litros (8 lug)",
+        "Carga útil:": "615 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

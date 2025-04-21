@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/fevereiro/fiat-cronos-2023.jpg",
+    "NOME": "cronos-drive-s-design-1.3-at-2023",
+    "ANO": "2023",
+    "MARCA": "fiat",
+    "MODELO": "cronos",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Cronos",
+        "Versão:": "Drive S-Design 1.3 AT 2023",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Porte:": "Compacto",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.332 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "2",
+        "Comando de válvulas:": "Único, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima CV:": "107 (E) / 98 (G) @ 6.250 rpm",
+        "Torque máximo kgfm:": "13,7 (E) / 13,2 (G) @ 4.000 rpm",
+        "Potência específica:": "80,3 cv/litro",
+        "Torque específico:": "10,3 kgfm/litro",
+        "Taxa de compressão:": "13,2:1",
+        "Rel. peso/potência:": "10,6 kg/cv",
+        "Rel. peso/torque:": "83,1 kg/kgfm",
+        "Curso dos pistões:": "86,5 mm",
+        "Diâmetro cilindros:": "70 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "Firefly"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático CVT",
+        "Marchas:": "7",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,1 seg",
+        "Velocidade máxima:": "170 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9,3 (E) / 13,3 (G)",
+        "Estrada em km/l:": "11 (E) / 15 (G)",
+        "Autonomia em km:": "528 (E) / 720 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,5 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/60 R15",
+        "Traseira:": "185/60 R15",
+        "Altura do flanco:": "111 mm",
+        "Estepe:": "185/60 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,21 m²",
+        "Coef. aerodinâmico:": "0,34 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.364 mm",
+        "Altura:": "1.508 mm",
+        "Largura:": "1.726 mm",
+        "Entre-eixos:": "2.521 mm",
+        "Bitola dianteira:": "1.469 mm",
+        "Bitola traseira:": "1.502 mm",
+        "Vão livre do solo:": "158 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.139 kg",
+        "Porta-malas:": "525 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "48 litros"
+    }
+}

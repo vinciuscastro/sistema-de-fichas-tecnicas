@@ -1,0 +1,1432 @@
+{
+    "marca": "troller",
+    "modelos": {
+        "t4-3.0-turbo-4x4-2011": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4-07.jpg",
+            "NOME": "t4-3.0-turbo-4x4-2011",
+            "ANO": "2011",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "3.0 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.968 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "163 @ 3.800 rpm",
+                "Torque em kgfm:": "38,8 @ 1.600 rpm",
+                "Taxa de compressão:": "17:1",
+                "Código do motor:": "International NGD 3.0E"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,4 s",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8,3",
+                "Estrada em km/l:": "12,2",
+                "Autonomia em km:": "878"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-3.0-turbo-4x4-2010": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4-07.jpg",
+            "NOME": "t4-3.0-turbo-4x4-2010",
+            "ANO": "2010",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "3.0 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.968 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "163 @ 3.800 rpm",
+                "Torque em kgfm:": "38,8 @ 1.600 rpm",
+                "Taxa de compressão:": "17:1",
+                "Código do motor:": "International NGD 3.0E"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,4 s",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8,3",
+                "Estrada em km/l:": "12,2",
+                "Autonomia em km:": "878"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-3.0-turbo-4x4-2009": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4-07.jpg",
+            "NOME": "t4-3.0-turbo-4x4-2009",
+            "ANO": "2009",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "3.0 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.968 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "163 @ 3.800 rpm",
+                "Torque em kgfm:": "38,8 @ 1.600 rpm",
+                "Taxa de compressão:": "17:1",
+                "Código do motor:": "International NGD 3.0E"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,4 s",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8,3",
+                "Estrada em km/l:": "12,2",
+                "Autonomia em km:": "878"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-3.0-turbo-4x4-2008": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4-07.jpg",
+            "NOME": "t4-3.0-turbo-4x4-2008",
+            "ANO": "2008",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "3.0 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.968 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "163 @ 3.800 rpm",
+                "Torque em kgfm:": "38,8 @ 1.600 rpm",
+                "Taxa de compressão:": "17:1",
+                "Código do motor:": "International NGD 3.0E"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,4 s",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8,3",
+                "Estrada em km/l:": "12,2",
+                "Autonomia em km:": "878"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-3.0-turbo-4x4-2007": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4-07.jpg",
+            "NOME": "t4-3.0-turbo-4x4-2007",
+            "ANO": "2007",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "3.0 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.968 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "163 @ 3.800 rpm",
+                "Torque em kgfm:": "38,8 @ 1.600 rpm",
+                "Taxa de compressão:": "17:1",
+                "Código do motor:": "International NGD 3.0E"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,4 s",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8,3",
+                "Estrada em km/l:": "12,2",
+                "Autonomia em km:": "878"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-3.0-turbo-4x4-2006": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4-07.jpg",
+            "NOME": "t4-3.0-turbo-4x4-2006",
+            "ANO": "2006",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "3.0 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.968 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "163 @ 3.800 rpm",
+                "Torque em kgfm:": "38,8 @ 1.600 rpm",
+                "Taxa de compressão:": "17:1",
+                "Código do motor:": "International NGD 3.0E"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "14,4 s",
+                "Velocidade máxima:": "160 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "8,3",
+                "Estrada em km/l:": "12,2",
+                "Autonomia em km:": "878"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,6 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.850 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-2.8-turbo-4x4-2005": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4--01.jpg",
+            "NOME": "t4-2.8-turbo-4x4-2005",
+            "ANO": "2005",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "2.8 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.796 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No cabeçote, engrenagens",
+                "Válvulas por cilindro:": "3",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "114 @ 3.200 rpm",
+                "Torque em kgfm:": "33,3 @ 1.800 rpm",
+                "Taxa de compressão:": "19:1",
+                "Código do motor:": "MWM 4.07 TCA"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "16 s",
+                "Velocidade máxima:": "155 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "9",
+                "Estrada em km/l:": "13,4",
+                "Autonomia em km:": "965"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.630 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-2.8-turbo-4x4-2004": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4--01.jpg",
+            "NOME": "t4-2.8-turbo-4x4-2004",
+            "ANO": "2004",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "2.8 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.796 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No cabeçote, engrenagens",
+                "Válvulas por cilindro:": "3",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "114 @ 3.200 rpm",
+                "Torque em kgfm:": "33,3 @ 1.800 rpm",
+                "Taxa de compressão:": "19:1",
+                "Código do motor:": "MWM 4.07 TCA"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "16 s",
+                "Velocidade máxima:": "155 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "9",
+                "Estrada em km/l:": "13,4",
+                "Autonomia em km:": "965"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.630 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-2.8-turbo-4x4-2003": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4--01.jpg",
+            "NOME": "t4-2.8-turbo-4x4-2003",
+            "ANO": "2003",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "2.8 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.796 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No cabeçote, engrenagens",
+                "Válvulas por cilindro:": "3",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "114 @ 3.200 rpm",
+                "Torque em kgfm:": "33,3 @ 1.800 rpm",
+                "Taxa de compressão:": "19:1",
+                "Código do motor:": "MWM 4.07 TCA"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "16 s",
+                "Velocidade máxima:": "155 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "9",
+                "Estrada em km/l:": "13,4",
+                "Autonomia em km:": "965"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.630 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-2.8-turbo-4x4-2002": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4--01.jpg",
+            "NOME": "t4-2.8-turbo-4x4-2002",
+            "ANO": "2002",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "2.8 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.796 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No cabeçote, engrenagens",
+                "Válvulas por cilindro:": "3",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "114 @ 3.200 rpm",
+                "Torque em kgfm:": "33,3 @ 1.800 rpm",
+                "Taxa de compressão:": "19:1",
+                "Código do motor:": "MWM 4.07 TCA"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "16 s",
+                "Velocidade máxima:": "155 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "9",
+                "Estrada em km/l:": "13,4",
+                "Autonomia em km:": "965"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.630 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "t4-2.8-turbo-4x4-2001": {
+            "IMAGEM": "https://heycar.com.br/images/2021/Marco/Troller-T4--01.jpg",
+            "NOME": "t4-2.8-turbo-4x4-2001",
+            "ANO": "2001",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "2.8 Turbo",
+                "Origem:": "Nacional",
+                "Detalhes:": "Jipe, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "2.796 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "No cabeçote, engrenagens",
+                "Válvulas por cilindro:": "3",
+                "Combustível:": "Diesel",
+                "Potência em CV:": "114 @ 3.200 rpm",
+                "Torque em kgfm:": "33,3 @ 1.800 rpm",
+                "Taxa de compressão:": "19:1",
+                "Código do motor:": "MWM 4.07 TCA"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "5",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "16 s",
+                "Velocidade máxima:": "155 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "9",
+                "Estrada em km/l:": "13,4",
+                "Autonomia em km:": "965"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/75/R15",
+                "Traseira:": "255/75/R15"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "3.940 mm",
+                "Altura:": "1.880 mm",
+                "Largura:": "1.850 mm",
+                "Entre eixos:": "2.405 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "não disponível"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.630 kg",
+                "Porta-malas:": "130 litros",
+                "Carga útil:": "530 kg",
+                "Tanque combustível:": "72 litros"
+            }
+        },
+        "tx4-4x4-3.2-turbo-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Agosto/TX4.jpg",
+            "NOME": "tx4-4x4-3.2-turbo-2020",
+            "ANO": "2020",
+            "MARCA": "troller",
+            "MODELO": "tx4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "TX4",
+                "Versão:": "3.2 Turbo",
+                "Combustível:": "Diesel",
+                "Origem:": "Nacional",
+                "Categoria:": "Jipe",
+                "Portas:": "2",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "3 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.198 cc",
+                "Cilindros:": "5, em linha",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima (cv):": "200 @ 3.500 rpm",
+                "Torque máximo (kgfm):": "47,9 @ 1.750 rpm",
+                "Potência específica:": "62,5 cv/litro",
+                "Torque específico:": "15 kgfm/litro",
+                "Taxa de compressão:": "15,5:1",
+                "Rel. peso/potência:": "10,7 kg/cv",
+                "Rel. peso/torque:": "44,7 kg/kgfm",
+                "Curso dos pistões:": "100,76 mm",
+                "Diâmetro dos cilindros:": "89,9 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "Ford Duratorq"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Integral temporária",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12,3 seg",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "7,5",
+                "Estrada em km/l:": "7,7",
+                "Autonomia em km:": "465"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12,7 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17",
+                "Estepe:": "255/65 R17",
+                "Altura do flanco:": "166 mm"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.095 mm",
+                "Altura:": "1.966 mm",
+                "Largura:": "1.870 mm",
+                "Entre eixos:": "2.585 mm",
+                "Ângulo entrada:": "51 graus",
+                "Ângulo saída:": "51 graus",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.140 kg",
+                "Porta-malas:": "134 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "tx4-4x4-at-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Agosto/TX4.jpg",
+            "NOME": "tx4-4x4-at-2020",
+            "ANO": "2020",
+            "MARCA": "troller",
+            "MODELO": "tx4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "TX4",
+                "Versão:": "4x4 AT",
+                "Ano fabricação:": "2020",
+                "Detalhes:": "Nacional, SUV, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "3.198 cc",
+                "Cilindros:": "5, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência (cv):": "200 @ 3.000 rpm",
+                "Torque (kgfm):": "47,9@ 1.750 rpm",
+                "Taxa de compressão:": "15,5:1",
+                "Código do motor:": "Duratorq"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "4x4"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12,3 s",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Urbano (km/l):": "9,8",
+                "Rodoviário km/l):": "12,3",
+                "Autonomia (km):": "781"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido, molas helicoidais",
+                "Traseira:": "Eixo rígido, molas helicoidais"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.095 mm",
+                "Altura:": "1.966 mm",
+                "Largura:": "1.868 mm",
+                "Entre eixos:": "2.585 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.140 kg",
+                "Porta-malas:": "134 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "t4-4x4-at-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Agosto/T4.jpg",
+            "NOME": "t4-4x4-at-2020",
+            "ANO": "2020",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "4x4 AT",
+                "Ano fabricação:": "2020",
+                "Detalhes:": "Nacional, SUV, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "3.198 cc",
+                "Cilindros:": "5, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência (cv):": "200 @ 3.000 rpm",
+                "Torque (kgfm):": "47,9@ 1.750 rpm",
+                "Taxa de compressão:": "15,5:1",
+                "Código do motor:": "Duratorq"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Tração:": "4x4"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12,3 s",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Urbano (km/l):": "9,8",
+                "Rodoviário km/l):": "12,3",
+                "Autonomia (km):": "781"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido, molas helicoidais",
+                "Traseira:": "Eixo rígido, molas helicoidais"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.095 mm",
+                "Altura:": "1.966 mm",
+                "Largura:": "1.868 mm",
+                "Entre eixos:": "2.585 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.140 kg",
+                "Porta-malas:": "134 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "t4-4x4-2020": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Agosto/T4.jpg",
+            "NOME": "t4-4x4-2020",
+            "ANO": "2020",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "4x4 manual",
+                "Ano fabricação:": "2020",
+                "Detalhes:": "Nacional, SUV, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "3.198 cc",
+                "Cilindros:": "5, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência (cv):": "200 @ 3.000 rpm",
+                "Torque (kgfm):": "47,9@ 1.750 rpm",
+                "Taxa de compressão:": "15,5:1",
+                "Código do motor:": "Duratorq"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Tração:": "4x4"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12,3 s",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Urbano (km/l):": "9,8",
+                "Rodoviário km/l):": "12,3",
+                "Autonomia máxima (km):": "781"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido, molas helicoidais",
+                "Traseira:": "Eixo rígido, molas helicoidais"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.095 mm",
+                "Altura:": "1.966 mm",
+                "Largura:": "1.868 mm",
+                "Entre eixos:": "2.585 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.140 kg",
+                "Porta-malas:": "134 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "t4-trail-4x4-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Agosto/T4_Trail.jpg",
+            "NOME": "t4-trail-4x4-2019",
+            "ANO": "2019",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "Trail 4x4 manual",
+                "Ano fabricação:": "2019",
+                "Detalhes:": "Nacional, SUV, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "3.198 cc",
+                "Cilindros:": "5, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência (cv):": "200 @ 3.000 rpm",
+                "Torque (kgfm):": "47,9@ 1.750 rpm",
+                "Taxa de compressão:": "15,5:1",
+                "Código do motor:": "Duratorq"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Tração:": "4x4"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12,3 s",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Urbano (km/l):": "9,8",
+                "Rodoviário km/l):": "12,3",
+                "Autonomia (km):": "781"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido, molas helicoidais",
+                "Traseira:": "Eixo rígido, molas helicoidais"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.095 mm",
+                "Altura:": "1.966 mm",
+                "Largura:": "1.868 mm",
+                "Entre eixos:": "2.585 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.140 kg",
+                "Porta-malas:": "134 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "t4-4x4-2019": {
+            "IMAGEM": "https://heycar.com.br/images/2020/Agosto/T4.jpg",
+            "NOME": "t4-4x4-2019",
+            "ANO": "2019",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "4x4 manual",
+                "Ano fabricação:": "2019",
+                "Detalhes:": "Nacional, SUV, 2 portas, 5 ocupantes"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Alimentação:": "Injeção direta",
+                "Cilindrada:": "3.198 cc",
+                "Cilindros:": "5, em linha",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência (cv):": "200 @ 3.000 rpm",
+                "Torque (kgfm):": "47,9@ 1.750 rpm",
+                "Taxa de compressão:": "15,5:1",
+                "Código do motor:": "Duratorq"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Tração:": "4x4"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12,3 s",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Urbano (km/l):": "9,8",
+                "Rodoviário km/l):": "12,3",
+                "Autonomia máxima (km):": "781"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido, molas helicoidais",
+                "Traseira:": "Eixo rígido, molas helicoidais"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/65 R17",
+                "Traseira:": "255/65 R17"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "não disponível",
+                "Coef. aerodinâmico:": "não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.095 mm",
+                "Altura:": "1.966 mm",
+                "Largura:": "1.868 mm",
+                "Entre eixos:": "2.585 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "208 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.140 kg",
+                "Porta-malas:": "134 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        },
+        "t4-bold-3.2-turbo-2017": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Novembro/Troller_BoldT4-1.jpg",
+            "NOME": "t4-bold-3.2-turbo-2017",
+            "ANO": "2017",
+            "MARCA": "troller",
+            "MODELO": "t4",
+            "ESPECIFICACAO": {
+                "Marca:": "Troller",
+                "Modelo:": "T4",
+                "Versão:": "Bold 3.2 Turbo 2017",
+                "Detalhes:": "Nacional, Jipe, 2 portas, 3 anos de garantia"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbo",
+                "Cilindrada:": "3.198 cc",
+                "Cilindros:": "4, em linha",
+                "Comando de válvulas:": "duplo, no cabeçote",
+                "Válvulas por cilindro:": "4",
+                "Combustível:": "Diesel",
+                "Potência:": "200 cv @ 3.500",
+                "Torque:": "47,9 kgfm @ 1.750 rpm"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Tração:": "Integral"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "12,3 s",
+                "Velocidade máxima:": "180 km/h"
+            },
+            "CONSUMO": {
+                "Urbano:": "9,8 KM/L",
+                "Rodoviário:": "12,3 KM/L"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Eixo rígido",
+                "Traseira:": "Eixo rígido"
+            },
+            "FREIOS": {
+                "Dianteiros:": "Discos, ventilados",
+                "Traseiros:": "Discos"
+            },
+            "PNEUS": {
+                "Dianteiros:": "255/65 R17",
+                "Traseiros:": "255/65 R17"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.095 mm",
+                "Altura:": "1.966 mm",
+                "Largura:": "1.870 mm",
+                "Entre eixos:": "2.585 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.140 kg",
+                "Porta-malas:": "134 litros",
+                "Carga útil:": "420 kg",
+                "Tanque combustível:": "62 litros"
+            }
+        }
+    }
+}

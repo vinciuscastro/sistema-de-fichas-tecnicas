@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Hilux.jpg",
+    "NOME": "hilux-sr-2.7-flex-4x2-cd-2019",
+    "ANO": "2019",
+    "MARCA": "toyota",
+    "MODELO": "hilux",
+    "ESPECIFICACAO": {
+        "Marca:": "Toyota",
+        "Modelo:": "Hilux",
+        "Versão:": "SR 2.7 4x2 CD",
+        "Ano fabricação:": "2018",
+        "Detalhes:": "Importado, picape, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.694 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "163 cv (E) / 159 cv (G) @ 5.000 rpm",
+        "Torque:": "25 kgfm (E) / 25 kgfm (G) @ 4.000 rpm",
+        "Taxa de compressão:": "12:1",
+        "Código do motor:": "2TR-FBE"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "15 s",
+        "Velocidade máxima:": "165 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "4,8 km/l (E) / 6,9 km/l (G)",
+        "Rodoviário:": "5,6 km/l (E) / 8,1 km/l (G)",
+        "Autonomia:": "448 km (E) / 648 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/65 R17",
+        "Traseira:": "265/65 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.315 mm",
+        "Altura:": "1.815 mm",
+        "Largura:": "1.855 mm",
+        "Entre-eixos:": "3.085 mm",
+        "Ângulo de entrada:": "31 graus",
+        "Ângulo de saída:": "26 graus",
+        "Vão livre do solo:": "310 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.880 kg",
+        "Caçamba:": "1.036 litros",
+        "Carga útil:": "830 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

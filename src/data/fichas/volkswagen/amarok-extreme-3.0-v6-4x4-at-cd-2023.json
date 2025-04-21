@@ -1,0 +1,98 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/fevereiro/volkswagen-amarok-2023.jpg",
+    "NOME": "amarok-extreme-3.0-v6-4x4-at-cd-2023",
+    "ANO": "2023",
+    "MARCA": "volkswagen",
+    "MODELO": "amarok",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Amarok",
+        "Versão:": "Extreme 3.0 V6 4x4 AT CD 2023",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Picape",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.967 cc",
+        "Cilindros:": "6, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima CV:": "258 @ 3.250 rpm",
+        "Torque máximo kgfm:": "59,1 @ 1.400 rpm",
+        "Potência específica:": "87 cv/litro",
+        "Torque específico:": "19,9 kgfm/litro",
+        "Taxa de compressão:": "17:1",
+        "Rel. peso/potência:": "8,27 kg/cv",
+        "Rel. peso/torque:": "36,1 kg/kgfm",
+        "Curso dos pistões:": "91,4 mm",
+        "Diâmetro cilindros:": "83 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA897"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral permanente",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,4 seg",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "9",
+        "Estrada em km/l:": "9,7",
+        "Autonomia em km:": "776"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/50 R20",
+        "Traseira:": "255/50 R20",
+        "Altura do flanco:": "128 mm",
+        "Estepe:": "255/50 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,10 m²",
+        "Coef. aerodinâmico:": "0,46 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.254 mm",
+        "Altura:": "1.834 mm",
+        "Largura:": "1.944 mm",
+        "Entre-eixos:": "3.097 mm",
+        "Bitola dianteira:": "1.648 mm",
+        "Bitola traseira:": "1.644 mm",
+        "Vão livre do solo:": "244 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.134 kg",
+        "Caçamba:": "1.280 litros",
+        "Carga útil:": "1.156 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

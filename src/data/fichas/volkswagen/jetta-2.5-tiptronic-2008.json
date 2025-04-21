@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Jetta-2007.jpg",
+    "NOME": "jetta-2.5-tiptronic-2008",
+    "ANO": "2008",
+    "MARCA": "volkswagen",
+    "MODELO": "jetta",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Jetta",
+        "Versão:": "2.5 Tiptronic 2008",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "5",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "2.480 cc",
+        "Cilindros:": "5, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão",
+        "Potência máxima (cv):": "170 @ 5.000 rpm",
+        "Torque máximo (kgfm):": "24,5 @ 4.250 rpm",
+        "Potência específica:": "68,5 cv/litro",
+        "Torque específico:": "9,9 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "8,4 kg/cv",
+        "Rel. peso/torque:": "58,4 kg/kgfm",
+        "Curso dos pistões:": "92,8 mm",
+        "Diâmetro dos cilindros:": "82,5 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "EA855"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "Aisin TF-60SN"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "8,9 seg",
+        "Velocidade máxima:": "205 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,4",
+        "Estrada em km/l:": "9,8",
+        "Autonomia em km:": "539"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, miltibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/55 R16",
+        "Traseira:": "205/55 R16",
+        "Altura do flanco:": "113 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,21 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.554 mm",
+        "Altura:": "1.461 mm",
+        "Largura:": "1.781 mm",
+        "Entre eixos:": "2.578 mm",
+        "Bitola dianteira:": "informação não disponível",
+        "Bitola traseira:": "informação não disponível",
+        "Vão livre do solo:": "138 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.431 kg",
+        "Porta-malas:": "527 litros",
+        "Carga útil:": "510 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

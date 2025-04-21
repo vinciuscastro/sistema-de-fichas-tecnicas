@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2016/Novembro/Kia-Picanto.jpg",
+    "NOME": "picanto-ex-1.0-at-2017",
+    "ANO": "2017",
+    "MARCA": "kia",
+    "MODELO": "picanto",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Picanto",
+        "Versão:": "EX 1.0 AT 2017",
+        "Combustível:": "Flex - Etanol e/ou Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Hatch",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "998 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Ciclo de admissão e escape",
+        "Potência máxima (cv):": "80 (E) / 77 (G) @ 6.200 rpm",
+        "Torque máximo (kgfm):": "10 (E) / 9,6 (G) @ 4.500 rpm",
+        "Potência específica:": "80,2 cv/litro",
+        "Torque específico:": "10 kgfm/litro",
+        "Taxa de compressão:": "12,5:1",
+        "Rel. peso/potência:": "12,1 kg/cv",
+        "Rel. peso/torque:": "97 kg/kgfm",
+        "Curso dos pistões:": "84 mm",
+        "Diâmetro dos cilindros:": "71 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Kappa"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "17,1 seg",
+        "Velocidade máxima:": "161 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8 (E) / 10,6 (G)",
+        "Estrada em km/l:": "8,9 (E) / 12,1 (G)",
+        "Autonomia em km:": "312 (E) / 424 (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "9,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "165/60 R14",
+        "Traseira:": "165/60 R14",
+        "Altura do flanco:": "99 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "informação não disponível",
+        "Coef. aerodinâmico:": "informação não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.595 mm",
+        "Altura:": "1.490 mm",
+        "Largura:": "1.595 mm",
+        "Entre-eixos:": "2.385 mm",
+        "Bitola dianteira:": "1.415 mm",
+        "Bitola traseira:": "1.418 mm",
+        "Vão livre do solo:": "152 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "970 kg",
+        "Porta-malas:": "200 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "35 litros"
+    }
+}

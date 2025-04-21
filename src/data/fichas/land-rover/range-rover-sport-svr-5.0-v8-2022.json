@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/setembro/range-rover-sport.jpg",
+    "NOME": "range-rover-sport-svr-5.0-v8-2022",
+    "ANO": "2022",
+    "MARCA": "land-rover",
+    "MODELO": "range",
+    "ESPECIFICACAO": {
+        "Marca:": "Land Rover",
+        "Modelo:": "Range Rover Sport",
+        "Versão:": "SVR 5.0 V8 2022",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "SUV",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "2",
+        "Garantia:": "3 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Compressor mecânico",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "5.000 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "575 @ 6.000 rpm",
+        "Torque máximo em kgfm:": "71,4 @ 3.500 rpm",
+        "Potência específica:": "115 cv/litro",
+        "Torque específico:": "14,3 kgfm/litro",
+        "Taxa de compressão:": "9,5:1",
+        "Relação peso/potência:": "4 kg/cv",
+        "Relação peso/torque:": "32,4 kg/kgfm",
+        "Curso dos pistões:": "93 mm",
+        "Diâmetro dos cilindros:": "92,5 mm",
+        "Tuchos:": "não disponível",
+        "Código do motor:": "Jaguar AJ-133"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,5 seg",
+        "Velocidade máxima:": "280 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,4",
+        "Estrada em km/l:": "6,8",
+        "Autonomia em km:": "707"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "275/45 R21",
+        "Traseira:": "275/45 R21",
+        "Estepe:": "não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "3,18 m²",
+        "Coef. aerodinâmico:": "0,38 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.879 mm",
+        "Altura:": "1.803 mm",
+        "Largura:": "1.983 mm",
+        "Entre eixos:": "2.923 mm",
+        "Bitola dianteira:": "1.693 mm",
+        "Bitola traseira:": "1.686 mm",
+        "Vão livre do solo:": "278 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.310 kg",
+        "Porta-malas:": "535 litros",
+        "Carga útil:": "690 kg",
+        "Tanque combustível:": "104 litros"
+    }
+}

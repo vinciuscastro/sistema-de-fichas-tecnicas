@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Maio/Golf-VR6-1996.jpg",
+    "NOME": "golf-gti-2.8-vr6-1996",
+    "ANO": "1996",
+    "MARCA": "volkswagen",
+    "MODELO": "golf",
+    "ESPECIFICACAO": {
+        "Marca:": "Volkswagen",
+        "Modelo:": "Golf",
+        "Versão:": "GTi 2.8 VR6",
+        "Ano/modelo:": "1996",
+        "Detalhes:": "Importado, hatch, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.792 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "174 cv @ 5.800 rpm",
+        "Torque:": "24 kgfm @ 4.200 rpm",
+        "Taxa de compressão:": "10:1",
+        "Código do motor:": "VR6"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,8 s",
+        "Velocidade máxima:": "224 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "8 km/l",
+        "Rodoviário:": "11 km/l",
+        "Autonomia:": "605 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "Não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/50 R15",
+        "Traseira:": "205/50 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,05 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.074 mm",
+        "Altura:": "1.422 mm",
+        "Largura:": "1.694 mm",
+        "Entre-eixos:": "2.475 mm",
+        "Bitola dianteira:": "Não disponível",
+        "Bitola traseira:": "Não disponível",
+        "Vão livre do solo:": "Não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.207 kg",
+        "Porta-malas:": "330 litros",
+        "Carga útil:": "480 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

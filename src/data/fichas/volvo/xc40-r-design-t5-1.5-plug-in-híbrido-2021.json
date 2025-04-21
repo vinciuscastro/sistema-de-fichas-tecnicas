@@ -1,0 +1,101 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/XC40.jpg",
+    "NOME": "xc40-r-design-t5-1.5-plug-in-híbrido-2021",
+    "ANO": "2021",
+    "MARCA": "volvo",
+    "MODELO": "xc40",
+    "ESPECIFICACAO": {
+        "Marca:": "Volvo",
+        "Modelo:": "XC40",
+        "Versão:": "R-Design T5 1.5 Plug-in Híbrido 2021",
+        "Combustível:": "Híbrido plug-in - Gasolina/Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "1.477 cc",
+        "Cilindros:": "3, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote, correia dentada",
+        "Variação do comando:": "Admissão",
+        "Potência em CV:": "180 @ 5.800 rpm",
+        "Torque em kgfm:": "27 @ 1.500 rpm",
+        "Potência específica:": "121,9 cv/litro",
+        "Torque específico:": "18,3 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Relação peso/potência:": "10,4 kg/cv",
+        "Relação peso/torque:": "69,3 kg/kgfm",
+        "Curso dos pistões:": "93,2 mm",
+        "Diâmetro dos cilindros:": "82 mm",
+        "Tuchos:": "informação não disponível",
+        "Código do motor:": "B3154T5",
+        "Potência:": "82 cv",
+        "Potência combinada:": "262 cv",
+        "Torque:": "16,3 kgfm",
+        "Torque combinado:": "43,3 kgfm",
+        "Capacidade bateria:": "10,7 kWh",
+        "Consumo elétrico:": "informação não disponível",
+        "Autonomia elétrica:": "47 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "7DCTH"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,3 seg",
+        "Velocidade máxima:": "205 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "24,5",
+        "Estrada em km/l:": "22,3",
+        "Autonomia em km:": "1.070"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/45 R20",
+        "Traseira:": "245/45 R20",
+        "Altura do flanco:": "110 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,56 m²",
+        "Coef. aerodinâmico:": "0,37 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.425 mm",
+        "Altura:": "1.652 mm",
+        "Largura:": "1.863 mm",
+        "Entre eixos:": "2.702 mm",
+        "Bitola dianteira:": "1.601 mm",
+        "Bitola traseira:": "1.626 mm",
+        "Vão livre do solo:": "211 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.871 kg",
+        "Porta-malas:": "460 litros",
+        "Carga útil:": "517 kg",
+        "Tanque combustível:": "48 litros"
+    }
+}

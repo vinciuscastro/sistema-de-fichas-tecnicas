@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Koup.jpg",
+    "NOME": "koup-2.0-2012",
+    "ANO": "2012",
+    "MARCA": "kia",
+    "MODELO": "koup",
+    "ESPECIFICACAO": {
+        "Marca:": "Kia",
+        "Modelo:": "Koup",
+        "Versão:": "2.0 2012",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Porte:": "Médio",
+        "Portas:": "2",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "5 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.994 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Corrente",
+        "Variação do comando:": "não variável",
+        "Potência máx. ( CV):": "156 @ 6.200 rpm",
+        "Torque máx. (kgfm):": "19,8 @ 4.300 rpm",
+        "Potência específica:": "78,1 cv/litro",
+        "Torque específico:": "9,9 kgfm/litro",
+        "Taxa de compressão:": "10,5:1",
+        "Rel. peso/potência:": "7,8 kg/cv",
+        "Rel. peso/torque:": "61,2 kg/kgfm",
+        "Curso dos pistões:": "86 mm",
+        "Diâmetro dos cilindros:": "86 mm",
+        "Tuchos:": "Mecânicos",
+        "Código do motor:": "Theta"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,2 seg",
+        "Velocidade máxima:": "214 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,8",
+        "Estrada em km/l:": "11,5",
+        "Autonomia em km:": "598"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco sólido"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,8 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "215/45 R17",
+        "Traseira:": "215/45 R17",
+        "Altura do flanco:": "97 mm",
+        "Estepe:": "informação não disponível"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,10 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.480 mm",
+        "Altura:": "1.400 mm",
+        "Largura:": "1.765 mm",
+        "Entre eixos:": "2.650 mm",
+        "Bitola dianteira:": "1.560 mm",
+        "Bitola traseira:": "1.564 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.221 kg",
+        "Porta-malas:": "451 litros",
+        "Carga útil:": "528 kg",
+        "Tanque combustível:": "52 litros"
+    }
+}

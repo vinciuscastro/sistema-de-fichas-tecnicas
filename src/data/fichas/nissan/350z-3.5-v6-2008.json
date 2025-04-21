@@ -1,0 +1,80 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/350Z_08.jpg",
+    "NOME": "350z-3.5-v6-2008",
+    "ANO": "2008",
+    "MARCA": "nissan",
+    "MODELO": "350z",
+    "ESPECIFICACAO": {
+        "Marca:": "Nissan",
+        "Modelo:": "350Z",
+        "Versão:": "3.5 V6 2008",
+        "Origem:": "Importado - Japão",
+        "Detalhes:": "Coupé, 2 portas, 2 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "3.498 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, corrente variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência em CV:": "312 @ 6.800 rpm",
+        "Torque em kgfm:": "36,5 @ 4.800 rpm",
+        "Taxa de compressão:": "10,3:1",
+        "Código do motor:": "VQ35HR"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "6",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "FS6R31A"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h": "5,7 s",
+        "Velocidade máxima": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "5,2 km/l",
+        "Estrada:": "6,9 km/l",
+        "Autonomia:": "552 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Molas Helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,3 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45/R18",
+        "Traseira:": "245/45/R18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,03 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.303 mm",
+        "Altura:": "1.318 mm",
+        "Largura:": "1.815 mm",
+        "Entre eixos:": "2.650 mm",
+        "Bitola dianteira:": "1.535 mm",
+        "Bitola traseira:": "1.540 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.530 kg",
+        "Porta-malas:": "235 litros",
+        "Carga útil:": "290 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

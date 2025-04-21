@@ -1,0 +1,63 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/IEV330p.jpg",
+    "NOME": "iev330-p-elétrico-2020",
+    "ANO": "2020",
+    "MARCA": "jac",
+    "MODELO": "iev330",
+    "ESPECIFICACAO": {
+        "Marca:": "Jac",
+        "Modelo:": "IEV330 P",
+        "Versão:": "CD Elétrico 2020",
+        "Origem:": "Importado - China",
+        "Detalhes:": "Picape, 4 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Capacidade da bateria:": "67,2 kWh",
+        "Potência combinada:": "150 cv",
+        "Torque combinado:": "33,7 kgfm",
+        "Autonomia:": "320 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "99 s",
+        "Velocidade máxima:": "97 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Eixo rígido"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/65/18",
+        "Traseira:": "245/65/18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.615 mm",
+        "Altura:": "1.830 mm",
+        "Largura:": "1.880 mm",
+        "Entre eixos:": "3.380 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.200 kg",
+        "Caçamba:": "1500 litros",
+        "Carga útil:": "800 kg"
+    }
+}

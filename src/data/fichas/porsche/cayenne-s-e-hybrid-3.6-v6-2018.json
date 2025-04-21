@@ -1,0 +1,83 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/Cayenne_18.jpg",
+    "NOME": "cayenne-s-e-hybrid-3.6-v6-2018",
+    "ANO": "2018",
+    "MARCA": "porsche",
+    "MODELO": "cayenne",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Cayenne",
+        "Versão:": "S E-Hybrid 3.0 V6 Turbo",
+        "Origem:": "Importado - Alemanha",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Compressor",
+        "Alimentação:": "Injeção direta e indireta multiponto",
+        "Cilindrada:": "2.995 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência CV:": "333 @ 5.500 rpm",
+        "Torque kgfm:": "44,9 @ 3.000 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "EA837",
+        "Potência:": "95 cv",
+        "Potência combinada:": "416 cv",
+        "Torque:": "31,6 kgfm",
+        "Torque combinado:": "60,2 kgfm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,9 s",
+        "Velocidade máxima:": "243 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "12,1 km/l",
+        "Estrada:": "12,2 km/l",
+        "Autonomia:": "976 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/55/18",
+        "Traseira:": "255/55/18"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,81 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.855 mm",
+        "Altura:": "1.705 mm",
+        "Largura:": "1.939 mm",
+        "Entre eixos:": "2.895 mm",
+        "Bitola dianteira:": "1.655 mm",
+        "Bitola traseira:": "1.669 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.350 kg",
+        "Porta-malas:": "580 litros",
+        "Carga útil:": "700 kg",
+        "Tanque combustível:": "80 litros"
+    }
+}

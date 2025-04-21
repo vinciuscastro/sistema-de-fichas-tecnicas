@@ -1,0 +1,70 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Cayenne-GTS.jpg",
+    "NOME": "cayenne-gts-3.6-v6-turbo",
+    "ANO": "Turbo",
+    "MARCA": "porsche",
+    "MODELO": "cayenne",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Cayenne",
+        "Versão:": "GTS 3.6 V6 Turbo",
+        "Ano/modelo:": "2017",
+        "Detalhes:": "Importado, SUV, 4 portas, 2 anos de garantia"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbo",
+        "Cilindrada:": "3.604 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "440 cv @ 6.000 rpm",
+        "Torque:": "61,2 kgfm @ 1.600 rpm",
+        "Taxa de compressão:": "10,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Tração:": "Integral"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,1 s",
+        "Velocidade máxima:": "262 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "6,4 km/l",
+        "Rodoviário:": "8,8 km/l",
+        "Autonomia:": "748 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos, molas pneumáticas",
+        "Traseira:": "Independente, multibraço, molas pneumáticas"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,9 m"
+    },
+    "FREIOS": {
+        "Dianteiros:": "Discos ventilados",
+        "Traseiros:": "Discos ventilados"
+    },
+    "PNEUS": {
+        "Dianteiros:": "295/35 R21",
+        "Traseiros:": "295/35 R21"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.855 mm",
+        "Altura:": "1.688 mm",
+        "Largura:": "1.954 mm",
+        "Entre-eixos:": "2.895 mm",
+        "Vão livre do solo:": "204 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.185 kg",
+        "Porta-malas:": "670 litros",
+        "Carga útil:": "600 kg",
+        "Tanque combustível:": "85 litros"
+    }
+}

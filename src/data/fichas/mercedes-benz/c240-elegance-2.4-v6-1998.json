@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Marco/C-180-1996.jpg",
+    "NOME": "c240-elegance-2.4-v6-1998",
+    "ANO": "1998",
+    "MARCA": "mercedes-benz",
+    "MODELO": "c240",
+    "ESPECIFICACAO": {
+        "Marca:": "Mercedes-Benz",
+        "Modelo:": "C240",
+        "Versão:": "Elegance 2.4 V6",
+        "Ano/modelo:": "1998",
+        "Detalhes:": "Importado, sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "2.398 cc",
+        "Cilindros:": "6, em V",
+        "Comando de válvulas:": "No cabeçote",
+        "Válvulas por cilindro:": "3",
+        "Combustível:": "Gasolina",
+        "Potência:": "170 cv @ 5.900 rpm",
+        "Torque:": "22,9 kgfm @ 3.000 rpm",
+        "Taxa de compressão:": "10:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,9 s",
+        "Velocidade máxima:": "216 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7 km/l",
+        "Rodoviário:": "10 km/l",
+        "Autonomia:": "620 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/65 R15",
+        "Traseira:": "195/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,09 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.487 mm",
+        "Altura:": "1.427 mm",
+        "Largura:": "1.720 mm",
+        "Entre-eixos:": "2.690 mm",
+        "Bitola dianteira:": "1.493 mm",
+        "Bitola traseira:": "1.464 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.345 kg",
+        "Porta-malas:": "412 litros",
+        "Carga útil:": "425 kg",
+        "Tanque combustível:": "62 litros"
+    }
+}

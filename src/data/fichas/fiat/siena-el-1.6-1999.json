@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Julho/Siena-97.jpg",
+    "NOME": "siena-el-1.6-1999",
+    "ANO": "1999",
+    "MARCA": "fiat",
+    "MODELO": "siena",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Siena",
+        "Versão:": "EL 1.6",
+        "Ano fabricação:": "1999",
+        "Detalhes:": "Nacional, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.580 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Gasolina",
+        "Potência:": "82 cv @ 5.750 rpm",
+        "Torque:": "13 kgfm @ 2.650 rpm",
+        "Taxa de compressão:": "9,3:1",
+        "Código do motor:": "Sevel"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,9 s",
+        "Velocidade máxima:": "173 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "9,8 km/l",
+        "Rodoviário:": "13,5 km/l",
+        "Autonomia:": "648 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "175/65 R14",
+        "Traseira:": "175/65 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "1,98 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.100 mm",
+        "Altura:": "1.445 mm",
+        "Largura:": "1.614 mm",
+        "Entre-eixos:": "2.360 mm",
+        "Bitola dianteira:": "1.390 mm",
+        "Bitola traseira:": "1.380 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.103 kg",
+        "Porta-malas:": "488 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "48 litros"
+    }
+}

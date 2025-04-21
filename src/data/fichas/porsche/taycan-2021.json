@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/porsche-taycan-2022.jpg",
+    "NOME": "taycan-2021",
+    "ANO": "2021",
+    "MARCA": "porsche",
+    "MODELO": "taycan",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Taycan",
+        "Versão:": "Elétrico 2021",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "431 km",
+        "Capacidade da bateria:": "79,2 kWh",
+        "Potência combinada:": "326 cv",
+        "Torque combinado:": "32,6 kgfm",
+        "Peso/potência:": "6,56 kg/cv",
+        "Peso/torque:": "60,8 kg/kgfm",
+        "Consumo elétrico:": "24,8 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "2",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,4 seg",
+        "Velocidade máxima:": "230 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/55 R19",
+        "Traseira:": "275/45 R19",
+        "Altura do flanco:": "124 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,33 m²",
+        "Coef. aerodinâmico:": "0,22 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.963 mm",
+        "Altura:": "1.379 mm",
+        "Largura:": "1.966 mm",
+        "Entre eixos:": "2.900 mm",
+        "Bitola dianteira:": "1.710 mm",
+        "Bitola traseira:": "1.694 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.140 kg",
+        "Porta-malas:": "491 litros",
+        "Carga útil:": "740 kg"
+    }
+}

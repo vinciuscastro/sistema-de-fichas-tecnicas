@@ -1,0 +1,21 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2025/janeiro/fiat-scudo-cargo.jpg",
+    "NOME": "scudo-cargo-1.5-turbo-2025",
+    "ANO": "2025",
+    "MARCA": "fiat",
+    "MODELO": "scudo",
+    "ESPECIFICACAO": {
+        "Marca:": "Fiat",
+        "Modelo:": "Scudo",
+        "Versão:": "Cargo 1.5 Turbo 2025",
+        "Propulsão:": "Combustão interna",
+        "Combustível:": "Diesel",
+        "Origem:": "Importado",
+        "Categoria:": "Furgão",
+        "Porte:": "Médio",
+        "Portas:": "3",
+        "Ocupantes:": "3",
+        "Geração:": "1",
+        "Garantia:": "3 anos"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Fevereiro/I3_2018.jpg",
+    "NOME": "i3-rex-connected-2018",
+    "ANO": "2018",
+    "MARCA": "bmw",
+    "MODELO": "i3",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "i3",
+        "Versão:": "REX Connected",
+        "Ano fabricação:": "2018",
+        "Detalhes:": "Importado, hatch, 4 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "647 cc",
+        "Cilindros:": "2",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Elétrico",
+        "Potência máxima combustão:": "34 cv @ 5.000 rpm",
+        "Torque máximo combustão:": "5,7 kgfm @ 4.500 rpm",
+        "Taxa de compressão:": "10,6:1",
+        "Potência máxima elétrico:": "170 cv",
+        "Torque máximo elétrico:": "25,5 kgfm",
+        "Capacidade da bateria": "27,2 KwH",
+        "Código do motor:": "W20K06A"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "1",
+        "Tração": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "7,9 s",
+        "Velocidade máxima:": "150 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson, molas helicoidais",
+        "Traseira:": "Independente, multibraço, molas helicoidais"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "9,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "155/60 R20",
+        "Traseira:": "175/55 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,38 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "3.999 mm",
+        "Altura:": "1.578 mm",
+        "Largura:": "1.775 mm",
+        "Entre eixos:": "2.570 mm",
+        "Bitola dianteira:": "1.571 mm",
+        "Bitola traseira:": "1.556 mm",
+        "Vão livre do solo:": "170 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.340 kg",
+        "Porta-malas:": "260 litros",
+        "Carga útil:": "395 kg",
+        "Tanque combustível:": "9 litros"
+    }
+}

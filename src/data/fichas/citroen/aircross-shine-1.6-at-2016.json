@@ -1,0 +1,76 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Maio/Citroen-Aircross-2015.jpg",
+    "NOME": "aircross-shine-1.6-at-2016",
+    "ANO": "2016",
+    "MARCA": "citroen",
+    "MODELO": "aircross",
+    "ESPECIFICACAO": {
+        "Marca:": "Citroën",
+        "Modelo:": "Aircross",
+        "Versão:": "Shine 1.6 Automático",
+        "Ano/modelo:": "2016",
+        "Detalhes:": "Nacional, minivan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Cilindrada:": "1.587 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Flex",
+        "Potência:": "122 cv (E) / 115 cv (G) @ 5.800 rpm",
+        "Torque:": "16,4 kgfm (E) / 15,5 kgfm (G) @ 4.000 rpm",
+        "Taxa de compressão:": "12,5:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "13,5 s",
+        "Velocidade máxima:": "172 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "7,2 km/l (E) / 10,2 km/l (G)",
+        "Rodoviário:": "8,2 km/l (E) / 11,7 km/l (G)",
+        "Autonomia:": "451 km (E) / 643 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "205/60 R16",
+        "Traseira:": "205/60 R16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,47 m²",
+        "Coef. aerodinâmico:": "0,36 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.279 mm",
+        "Altura:": "1.697 mm",
+        "Largura:": "1.723 mm",
+        "Entre eixos:": "2.540 mm",
+        "Bitola dianteira:": "não informado",
+        "Bitola traseira:": "não informado",
+        "Vão livre do solo:": "230 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.328 kg",
+        "Porta-malas:": "403 litros",
+        "Carga útil:": "415 kg",
+        "Tanque combustível:": "55 litros"
+    }
+}

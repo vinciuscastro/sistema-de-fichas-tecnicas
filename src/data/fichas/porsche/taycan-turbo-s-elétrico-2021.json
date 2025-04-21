@@ -1,0 +1,73 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Novembro/Taycan_Turbo_S.jpg",
+    "NOME": "taycan-turbo-s-elétrico-2021",
+    "ANO": "2021",
+    "MARCA": "porsche",
+    "MODELO": "taycan",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "Taycan",
+        "Versão:": "Turbo S Elétrico 2021",
+        "Combustível:": "Eletricidade",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "1",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Autonomia:": "388 km",
+        "Capacidade da bateria:": "93,4 kWh",
+        "Potência:": "761 cv",
+        "Torque:": "56,1 kgfm",
+        "Peso/potência:": "3,02 kg/cv",
+        "Peso/torque:": "21,43 kg/kgfm",
+        "Consumo elétrico:": "26,9 kWh/100 km"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "2",
+        "Tração:": "Integral sob demanda"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "2,8 seg",
+        "Velocidade máxima:": "260 km/h"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco de carbono-cerâmica",
+        "Traseira:": "Disco de carbono-cerâmica"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "265/35 R21",
+        "Traseira:": "305/30 R21",
+        "Altura do flanco:": "92 mm"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,33 m²",
+        "Coef. aerodinâmico:": "0,25 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.963 mm",
+        "Altura:": "1.378 mm",
+        "Largura:": "1.966 mm",
+        "Entre eixos:": "2.900 mm",
+        "Bitola dianteira:": "1.690 mm",
+        "Bitola traseira:": "1.655 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.295 kg",
+        "Porta-malas:": "447 litros",
+        "Carga útil:": "575 kg"
+    }
+}

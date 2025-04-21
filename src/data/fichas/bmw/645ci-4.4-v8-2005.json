@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-645Ci-2005.jpg",
+    "NOME": "645ci-4.4-v8-2005",
+    "ANO": "2005",
+    "MARCA": "bmw",
+    "MODELO": "645ci",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "645ci",
+        "Versão:": "4.4 V8 2005",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "2",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "4.398 cc",
+        "Cilindros:": "8, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "333 @ 6.100 rpm",
+        "Torque máximo em kgfm:": "45,9 @ 3.600 rpm",
+        "Potência específica:": "75,7 cv/litro",
+        "Torque específico:": "10,4 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "4,9 kg/cv",
+        "Relação peso/torque:": "35,3 kg/kgfm",
+        "Curso dos pistões:": "82,7 mm",
+        "Diâmetro dos cilindros:": "92 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N62B44"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 6HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,8 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,4",
+        "Estrada em km/l:": "9,8",
+        "Autonomia em km:": "686"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R19",
+        "Traseira:": "245/40 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,16 m²",
+        "Coef. aerodinâmico:": "0,29 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.820 mm",
+        "Altura:": "1.373 mm",
+        "Largura:": "1.855 mm",
+        "Entre eixos:": "2.780 mm",
+        "Bitola dianteira:": "1.558 mm",
+        "Bitola traseira:": "1.592 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.620 kg",
+        "Porta-malas:": "450 litros",
+        "Carga útil:": "450 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

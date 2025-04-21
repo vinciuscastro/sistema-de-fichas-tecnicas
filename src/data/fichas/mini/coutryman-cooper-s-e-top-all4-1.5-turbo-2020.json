@@ -1,0 +1,84 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Outubro/Countryman.jpg",
+    "NOME": "coutryman-cooper-s-e-top-all4-1.5-turbo-2020",
+    "ANO": "2020",
+    "MARCA": "mini",
+    "MODELO": "coutryman",
+    "ESPECIFICACAO": {
+        "Marca:": "Mini",
+        "Modelo:": "Countryman",
+        "Versão:": "Cooper S E Top ALL4 1.5 Turbo",
+        "Origem:": "Importado - Inglaterra",
+        "Detalhes:": "SUV, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção direta",
+        "Cilindrada:": "1.499 cc",
+        "Cilindros:": "3, em linha",
+        "Comando de válvulas:": "No cabeçote, corrente, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência CV:": "136 @ 4.400 rpm",
+        "Torque kgfm:": "22,4 @ 1.400 rpm",
+        "Taxa de compressão:": "11:1",
+        "Código do motor:": "B38A15M0",
+        "Autonomia elétrica": "52 km",
+        "Potência:": "88 cv (traseira)",
+        "Potência combinada:": "224 cv",
+        "Torque:": "16,8 (traseira)",
+        "Torque combinado:": "39,3 kgfm"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Tração:": "Integral sob demanda",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "6,8 s",
+        "Velocidade máxima:": "198 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "22,3 km/l",
+        "Estrada:": "23,6 km/l",
+        "Autonomia:": "850 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "11,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45/19",
+        "Traseira:": "225/45/19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,41 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.299 mm",
+        "Altura:": "1.559 mm",
+        "Largura:": "1.822 mm",
+        "Entre eixos:": "2.670 mm",
+        "Bitola dianteira:": "1.585 mm",
+        "Bitola traseira:": "1.587 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.660 kg",
+        "Porta-malas:": "405 litros",
+        "Carga útil:": "610 kg",
+        "Tanque combustível:": "36 litros"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2023/junho/renault-scenic-03.jpg",
+    "NOME": "scenic-rxe-2.0-16v-at-2003",
+    "ANO": "2003",
+    "MARCA": "renault",
+    "MODELO": "scenic",
+    "ESPECIFICACAO": {
+        "Marca:": "Renault",
+        "Modelo:": "Scenic",
+        "Versão:": "RXE 2.0 16V AT",
+        "Combustível:": "Gasolina",
+        "Origem:": "Nacional",
+        "Categoria:": "Minivan",
+        "Porte:": "Médio",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "1",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "1.998 cc",
+        "Cilindros:": "4, em linha",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Acionamento:": "Correia dentada",
+        "Variação do comando:": "não variável",
+        "Potência máx. (CV):": "140 @ 5.500 rpm",
+        "Torque máx. (kgfm):": "19,2 @ 3.750 rpm",
+        "Potência específica:": "70,1 cv/litro",
+        "Torque específico:": "9,6 kgfm/litro",
+        "Taxa de compressão:": "9,8:1",
+        "Rel. peso/potência:": "9,2 kg/cv",
+        "Rel. peso/torque:": "67,2 kg/kgfm",
+        "Curso dos pistões:": "93 mm",
+        "Diâmetro dos cilindros:": "82,7 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "F4R"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "4",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Dianteira",
+        "Código do câmbio:": "DP0"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "12,1 seg",
+        "Velocidade máxima:": "185 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "8,2",
+        "Estrada em km/l:": "9,2",
+        "Autonomia em km:": "552"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, braço arrastado",
+        "Elemento elástico:": "Barra de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "10,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R15",
+        "Traseira:": "185/65 R15",
+        "Altura do flanco:": "120 mm",
+        "Estepe:": "185/65 R15"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,36 m²",
+        "Coef. aerodinâmico:": "0,33 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.169 mm",
+        "Altura:": "1.615 mm",
+        "Largura:": "1.719 mm",
+        "Entre eixos:": "2.580 mm",
+        "Bitola dianteira:": "1.450 mm",
+        "Bitola traseira:": "1.471 mm",
+        "Vão livre do solo:": "140 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.290 kg",
+        "Porta-malas:": "410 litros",
+        "Carga útil:": "510 kg",
+        "Tanque combustível:": "60 litros"
+    }
+}

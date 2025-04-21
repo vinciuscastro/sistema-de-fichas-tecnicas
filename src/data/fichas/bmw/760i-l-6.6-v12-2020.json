@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/julho/bmw-750i-l-20.jpg",
+    "NOME": "760i-l-6.6-v12-2020",
+    "ANO": "2020",
+    "MARCA": "bmw",
+    "MODELO": "760i",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "760i",
+        "Versão:": "L 6.6 V12 2020",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "4",
+        "Geração:": "6",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "6.592 cc",
+        "Cilindros:": "12, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "No cabeçote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "585 @ 5.250 rpm",
+        "Torque máximo em kgfm:": "86,7 @ 1.600 rpm",
+        "Potência específica:": "88,7 cv/litro",
+        "Torque específico:": "13,2 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Relação peso/potência:": "3,8 kg/cv",
+        "Relação peso/torque:": "25,6 kg/kgfm",
+        "Curso dos pistões:": "88,3 mm",
+        "Diâmetro dos cilindros:": "89 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "N74B66"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "8",
+        "Acoplamento:": "Conversor de torque",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "ZF 8HP"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,8 seg",
+        "Velocidade máxima:": "305 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "5,2",
+        "Estrada em km/l:": "7,1",
+        "Autonomia em km:": "554"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos",
+        "Elemento elástico:": "Mola pneumática"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Eletro-hidráulica",
+        "Diâmetro de giro:": "12,9 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "245/40 R20",
+        "Traseira:": "275/35 R20"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,42 m²",
+        "Coef. aerodinâmico:": "0,30 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "5.260 mm",
+        "Altura:": "1.479 mm",
+        "Largura:": "1.902 mm",
+        "Entre eixos:": "3.210 mm",
+        "Bitola dianteira:": "1.621 mm",
+        "Bitola traseira:": "1.618 mm",
+        "Vão livre do solo:": "135 mm"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "2.220 kg",
+        "Porta-malas:": "515 litros",
+        "Carga útil:": "620 kg",
+        "Tanque combustível:": "78 litros"
+    }
+}

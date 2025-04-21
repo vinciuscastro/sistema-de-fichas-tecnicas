@@ -1,0 +1,93 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Abril/BMW-M5-2007.jpg",
+    "NOME": "m5-5.0-v10-2010",
+    "ANO": "2010",
+    "MARCA": "bmw",
+    "MODELO": "m5",
+    "ESPECIFICACAO": {
+        "Marca:": "BMW",
+        "Modelo:": "M5",
+        "Versão:": "5.0 V10 2010",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Sedã",
+        "Portas:": "4",
+        "Ocupantes:": "5",
+        "Geração:": "4",
+        "Garantia:": "1 ano"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção eletrônica multiponto",
+        "Cilindrada:": "4.999 cc",
+        "Cilindros:": "10, em V",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabelote, corrente",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "507 @ 7.750 rpm",
+        "Torque máximo em kgfm:": "53 @ 6.100 rpm",
+        "Potência específica:": "101,4 cv/litro",
+        "Torque específico:": "10,6 kgfm/litro",
+        "Taxa de compressão:": "12:1",
+        "Relação peso/potência:": "3,5 kg/cv",
+        "Relação peso/torque:": "33,1 kg/kgfm",
+        "Curso dos pistões:": "75,2 mm",
+        "Diâmetro dos cilindros:": "92 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "7",
+        "Acoplamento:": "Embreagem dupla a seco",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "4,7 seg",
+        "Velocidade máxima:": "250 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "2,9",
+        "Estrada em km/l:": "5,8",
+        "Autonomia em km:": "406"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "12,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/40 R19",
+        "Traseira:": "285/35 R19"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,31 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.855 mm",
+        "Altura:": "1.469 mm",
+        "Largura:": "1.846 mm",
+        "Entre eixos:": "2.889 mm",
+        "Bitola dianteira:": "1.580 mm",
+        "Bitola traseira:": "1.566 mm",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.755 kg",
+        "Porta-malas:": "500 litros",
+        "Carga útil:": "545 kg",
+        "Tanque combustível:": "70 litros"
+    }
+}

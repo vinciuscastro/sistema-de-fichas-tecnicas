@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2017/Outubro/civic-sedan-99.jpg",
+    "NOME": "civic-ex-1.6-2000",
+    "ANO": "2000",
+    "MARCA": "honda",
+    "MODELO": "civic",
+    "ESPECIFICACAO": {
+        "Marca:": "Honda",
+        "Modelo:": "Civic",
+        "Versão:": "EX 1.6",
+        "Ano/modelo:": "2000",
+        "Detalhes:": "Nacional, sedan, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteira",
+        "Posição:": "Transversal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "1.590 cc",
+        "Cilindros:": "4, em linha",
+        "Comando de válvulas:": "Simples, no cabeçote, variável",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "127 cv @ 6.600 rpm",
+        "Torque:": "14,8 kgfm @ 5.500 rpm",
+        "Taxa de compressão:": "9,2:1",
+        "Código do motor:": "D16Y8"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,3 s",
+        "Velocidade máxima:": "190 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "10,6 km/l",
+        "Rodoviário:": "13 km/l",
+        "Autonomia:": "585 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braços sobrepostos"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "11,7 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "185/65 R14",
+        "Traseira:": "185/65 R14"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.450 mm",
+        "Altura:": "1.410 mm",
+        "Largura:": "1.705 mm",
+        "Entre eixos:": "2.620 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.138 kg",
+        "Porta-malas:": "337 litros",
+        "Carga útil:": "400 kg",
+        "Tanque combustível:": "45 litros"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2020/Setembro/Onix_Midnight.jpg",
+    "NOME": "onix-plus-midnight-1.0-turbo-2021",
+    "ANO": "2021",
+    "MARCA": "chevrolet",
+    "MODELO": "onix",
+    "ESPECIFICACAO": {
+        "Marca:": "Chevrolet",
+        "Modelo:": "Onix",
+        "Versão:": "Plus Midnight 1.0 Turbo",
+        "Origem:": "Nacional",
+        "Detalhes:": "Sedã, 4 portas, 5 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Transversal",
+        "Aspiração:": "Turbo",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "999 cc",
+        "Cilindros:": "3, em linha",
+        "Comando de válvulas:": "No cabeçote, correia dentada",
+        "Válvulas por cilindro:": "2",
+        "Combustível:": "Flex",
+        "Potência CV:": "116 @ 5.500 rpm",
+        "Torque kgfm:": "16,3 @ 2.000 rpm",
+        "Taxa de compressão:": "10,5:1",
+        "Código do motor:": "não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automático",
+        "Marchas:": "6",
+        "Tração:": "Dianteira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "10,9 s",
+        "Velocidade máxima:": "185 km/h"
+    },
+    "CONSUMO": {
+        "Cidade:": "8,6 km/l (E) / 10,9 km/l (G)",
+        "Estrada:": "12 km/l (E) / 15 km/l (G)",
+        "Autonomia:": "528 km (E) / 660 km (G)"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Eixo de torção"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Tambor"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "10,4 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "195/55/16",
+        "Traseira:": "195/55/16"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,14m²",
+        "Coef. aerodinâmico:": "0,35 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.163 mm",
+        "Altura:": "1.471 mm",
+        "Largura:": "1.730 mm",
+        "Entre eixos:": "2.600 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "não disponível",
+        "Porta-malas:": "469 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "44 litros"
+    }
+}

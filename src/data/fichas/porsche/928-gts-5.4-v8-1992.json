@@ -1,0 +1,77 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2018/Abril/928-1992.jpg",
+    "NOME": "928-gts-5.4-v8-1992",
+    "ANO": "1992",
+    "MARCA": "porsche",
+    "MODELO": "928",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "928",
+        "Versão:": "GTS 5.4 V8",
+        "Ano/modelo:": "1992",
+        "Detalhes:": "Importado, coupé, 2 portas, 4 ocupantes"
+    },
+    "MOTOR": {
+        "Instalação:": "Dianteiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Natural",
+        "Alimentação:": "Injeção multiponto",
+        "Cilindrada:": "5.397 cc",
+        "Cilindros:": "8, em V",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Válvulas por cilindro:": "4",
+        "Combustível:": "Gasolina",
+        "Potência:": "350 cv @ 5.700 rpm",
+        "Torque:": "51 kgfm @ 4.250 rpm",
+        "Taxa de compressão:": "10,4:1"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Manual",
+        "Marchas:": "5",
+        "Tração:": "Traseira"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "5,7 s",
+        "Velocidade máxima:": "275 km/h"
+    },
+    "CONSUMO": {
+        "Urbano:": "5,5 km/l",
+        "Rodoviário:": "10 km/l",
+        "Autonomia:": "860 km"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, braços sobrepostos",
+        "Traseira:": "Independente, braço semi-arrastado"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Hidráulica",
+        "Diâmetro de giro:": "não disponível"
+    },
+    "PNEUS": {
+        "Dianteira:": "225/45 R17",
+        "Traseira:": "255/40 R17"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "não disponível",
+        "Coef. aerodinâmico:": "não disponível"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.524 mm",
+        "Altura:": "1.282 mm",
+        "Largura:": "1.890 mm",
+        "Entre-eixos:": "2.499 mm",
+        "Bitola dianteira:": "não disponível",
+        "Bitola traseira:": "não disponível",
+        "Vão livre do solo:": "não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.620 kg",
+        "Porta-malas:": "200 litros",
+        "Carga útil:": "não disponível",
+        "Tanque combustível:": "86 litros"
+    }
+}

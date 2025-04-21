@@ -1,0 +1,94 @@
+{
+    "IMAGEM": "https://heycar.com.br/images/2022/outubro/porsche-911-carrera-gts.jpg",
+    "NOME": "911-carrera-gts-3.0-2022",
+    "ANO": "2022",
+    "MARCA": "porsche",
+    "MODELO": "911",
+    "ESPECIFICACAO": {
+        "Marca:": "Porsche",
+        "Modelo:": "911",
+        "Versão:": "Carrera GTS 3.0 2022",
+        "Combustível:": "Gasolina",
+        "Origem:": "Importado",
+        "Categoria:": "Cupê",
+        "Portas:": "2",
+        "Ocupantes:": "4",
+        "Geração:": "8",
+        "Garantia:": "2 anos"
+    },
+    "MOTOR": {
+        "Instalação:": "Traseiro",
+        "Posição:": "Longitudinal",
+        "Aspiração:": "Turbocompressor",
+        "Alimentação:": "Injeção direta de combustível",
+        "Cilindrada:": "2.981 cc",
+        "Cilindros:": "6, opostos horizontalmente",
+        "Válvulas por cilindro:": "4",
+        "Comando de válvulas:": "Duplo, no cabeçote",
+        "Variação do comando:": "Admissão e escape",
+        "Potência máxima em CV:": "480 @ 6.500 rpm",
+        "Torque máximo em kgfm:": "58,1 @ 2.300 rpm",
+        "Potência específica:": "161 cv/litro",
+        "Torque específico:": "19,5 kgfm/litro",
+        "Taxa de compressão:": "10:1",
+        "Rel. peso/potência:": "3,2 kg/cv",
+        "Rel. peso/torque:": "26,6 kg/kgfm",
+        "Curso dos pistões:": "76,4 mm",
+        "Diâmetro dos cilindros:": "91 mm",
+        "Tuchos:": "Hidráulicos",
+        "Código do motor:": "informação não disponível"
+    },
+    "TRANSMISSÃO": {
+        "Câmbio:": "Automatizado",
+        "Marchas:": "8",
+        "Acoplamento:": "Embreagem dupla banhada a óleo",
+        "Tração:": "Traseira",
+        "Código do câmbio:": "informação não disponível"
+    },
+    "DESEMPENHO": {
+        "Acel. 0 a 100 km/h:": "3,4 seg",
+        "Velocidade máxima:": "311 km/h"
+    },
+    "CONSUMO": {
+        "Cidade em km/l:": "6,8",
+        "Estrada em km/l:": "8,6",
+        "Autonomia em km:": "550"
+    },
+    "SUSPENSÃO": {
+        "Dianteira:": "Independente, McPherson",
+        "Traseira:": "Independente, multibraço",
+        "Elemento elástico:": "Mola helicoidal"
+    },
+    "FREIOS": {
+        "Dianteira:": "Disco ventilado",
+        "Traseira:": "Disco ventilado"
+    },
+    "DIREÇÃO": {
+        "Assistência:": "Elétrica",
+        "Diâmetro de giro:": "11,2 m"
+    },
+    "PNEUS": {
+        "Dianteira:": "255/35 R20",
+        "Traseira:": "315/30 R21",
+        "Estepe:": "Kit de reparo e enchimento"
+    },
+    "AERODINÂMICA": {
+        "Área frontal:": "2,05 m²",
+        "Coef. aerodinâmico:": "0,31 Cx"
+    },
+    "DIMENSÕES": {
+        "Comprimento:": "4.533 mm",
+        "Altura:": "1.301 mm",
+        "Largura:": "1.852 mm",
+        "Entre eixos:": "2.450 mm",
+        "Bitola dianteira:": "1.541 mm",
+        "Bitola traseira:": "1.544 mm",
+        "Vão livre do solo:": "informação não disponível"
+    },
+    "PESO E CAPACIDADES": {
+        "Peso:": "1.545 kg",
+        "Porta-malas:": "132 litros",
+        "Carga útil:": "440 kg",
+        "Tanque combustível:": "64 litros"
+    }
+}
