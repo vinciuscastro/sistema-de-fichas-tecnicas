@@ -6937,12 +6937,12 @@
                 "Tanque combustível:": "100 litros"
             }
         },
-        "cayennes-e-hybrid-3.0-v6-2017": {
+        "cayenne-e-hybrid-3.0-v6-2017": {
             "IMAGEM": "https://heycar.com.br/images/2020/Outubro/Cayenne_18.jpg",
-            "NOME": "cayennes-e-hybrid-3.0-v6-2017",
+            "NOME": "cayenne-e-hybrid-3.0-v6-2017",
             "ANO": "2017",
             "MARCA": "porsche",
-            "MODELO": "cayennes",
+            "MODELO": "cayenne",
             "ESPECIFICACAO": {
                 "Marca:": "Porsche",
                 "Modelo:": "Cayenne",

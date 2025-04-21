@@ -76,11 +76,16 @@ export default function FiltrosCarros() {
 
 
 
-  const opcoesFinais = arrModelos.filter(m => m.MODELO === modelo?.value && m.ANO === ano?.value)
-    .map(m => ({
-      label: m.ESPECIFICACAO?.["Versão:"] || m.NOME,
-      value: m.NOME
-    }));
+  const opcoesFinais = Array.from(
+    new Map(
+      arrModelos
+        .filter(m => m.MODELO === modelo?.value && m.ANO === ano?.value)
+        .map(m => {
+          const label = m.ESPECIFICACAO?.["Versão:"] || m.NOME;
+          return [label, { label, value: m.NOME }];
+        })
+    ).values()
+  );
 
   const handleFinalChange = (value) => {
     setModeloFinal(value);

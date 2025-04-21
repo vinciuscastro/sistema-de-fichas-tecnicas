@@ -817,7 +817,7 @@
             "NOME": "grand-vitara-2.0-4x2-1998",
             "ANO": "1998",
             "MARCA": "suzuki",
-            "MODELO": "grand",
+            "MODELO": "grand-vitara",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "Grand Vitara",
@@ -1690,7 +1690,7 @@
             "NOME": "s-cross-4style-allgrip-1.4-turbo-at-2021",
             "ANO": "2021",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -1769,7 +1769,7 @@
             "NOME": "s-cross-4style-s-allgrip-1.4-turbo-at-2021",
             "ANO": "2021",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -1848,7 +1848,7 @@
             "NOME": "s-cross-4style-s-allgrip-1.4-turbo-at-2020",
             "ANO": "2020",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -1927,7 +1927,7 @@
             "NOME": "s-cross-4style-allgrip-1.4-turbo-at-2020",
             "ANO": "2020",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -2006,7 +2006,7 @@
             "NOME": "s-cross-4style-1.4-turbo-at-2020",
             "ANO": "2020",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -3701,7 +3701,7 @@
             "NOME": "s-cross-4style-1.4-turbo-allgrip-at-2019",
             "ANO": "2019",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -3779,7 +3779,7 @@
             "NOME": "s-cross-4style-1.4-turbo-allgrip-at-2018",
             "ANO": "2018",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -3857,7 +3857,7 @@
             "NOME": "s-cross-4style-1.4-turbo-at-2019",
             "ANO": "2019",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -3935,7 +3935,7 @@
             "NOME": "s-cross-4style-1.4-turbo-at-2018",
             "ANO": "2018",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -4013,7 +4013,7 @@
             "NOME": "s-cross-4you-1.6-at-2019",
             "ANO": "2019",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -4091,7 +4091,7 @@
             "NOME": "s-cross-4you-1.6-at-2018",
             "ANO": "2018",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -4901,7 +4901,7 @@
             "NOME": "s-cross-4style-allgrip-1.4-at",
             "ANO": "AT",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -4967,7 +4967,7 @@
             "NOME": "s-cross-4style-1.4-at",
             "ANO": "AT",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",
@@ -5033,7 +5033,7 @@
             "NOME": "s-cross-4you-1.6-at",
             "ANO": "AT",
             "MARCA": "suzuki",
-            "MODELO": "s",
+            "MODELO": "s-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Suzuki",
                 "Modelo:": "S-Cross",

@@ -300,7 +300,7 @@
             "NOME": "t-cross-highline-1.4-tsi-at-2025",
             "ANO": "2025",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -321,7 +321,7 @@
             "NOME": "t-cross-comfortline-1.0-tsi-at-2025",
             "ANO": "2025",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -342,7 +342,7 @@
             "NOME": "t-cross-1.0-tsi-at-2025",
             "ANO": "2025",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -2552,12 +2552,12 @@
                 "Tanque combustível:": "52 litros"
             }
         },
-        "highline-1.0-tsi-2022": {
+        "nivus-highline-1.0-tsi-2022": {
             "IMAGEM": "https://heycar.com.br/images/2022/setembro/volkswagen-nivus-2022.jpg",
-            "NOME": "highline-1.0-tsi-2022",
+            "NOME": "nivus-highline-1.0-tsi-2022",
             "ANO": "2022",
             "MARCA": "volkswagen",
-            "MODELO": "highline",
+            "MODELO": "nivus",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "Nivus",
@@ -3782,7 +3782,7 @@
             "NOME": "t-cross-sense-1.0-tsi-at-2022",
             "ANO": "2022",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -3876,7 +3876,7 @@
             "NOME": "t-cross-highline-1.4-tsi-at-2022",
             "ANO": "2022",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -3970,7 +3970,7 @@
             "NOME": "t-cross-comfortline-1.0-tsi-at-2022",
             "ANO": "2022",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -4064,7 +4064,7 @@
             "NOME": "t-cross-1.0-tsi-at-2022",
             "ANO": "2022",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -46676,15 +46676,15 @@
                 "Tanque combustível:": "80 litros"
             }
         },
-        "brasília-ls-1.6-1982": {
+        "brasilia-ls-1.6-1982": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-ls-1.6-1982",
+            "NOME": "brasilia-ls-1.6-1982",
             "ANO": "1982",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "LS 1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -46757,15 +46757,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-ls-1.6-1981": {
+        "brasilia-ls-1.6-1981": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-ls-1.6-1981",
+            "NOME": "brasilia-ls-1.6-1981",
             "ANO": "1981",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "LS 1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -46838,15 +46838,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-ls-1.6-1980": {
+        "brasilia-ls-1.6-1980": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-ls-1.6-1980",
+            "NOME": "brasilia-ls-1.6-1980",
             "ANO": "1980",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "LS 1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -46919,15 +46919,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-ls-1.6-1979": {
+        "brasilia-ls-1.6-1979": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-ls-1.6-1979",
+            "NOME": "brasilia-ls-1.6-1979",
             "ANO": "1979",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "LS 1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -47000,15 +47000,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-1.6-1979": {
+        "brasilia-1.6-1979": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-1.6-1979",
+            "NOME": "brasilia-1.6-1979",
             "ANO": "1979",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -47081,15 +47081,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-1.6-1978": {
+        "brasilia-1.6-1978": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-1.6-1978",
+            "NOME": "brasilia-1.6-1978",
             "ANO": "1978",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -47162,15 +47162,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-1.6-1977": {
+        "brasilia-1.6-1977": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-1.6-1977",
+            "NOME": "brasilia-1.6-1977",
             "ANO": "1977",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -47243,15 +47243,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-1.6-1976": {
+        "brasilia-1.6-1976": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-1.6-1976",
+            "NOME": "brasilia-1.6-1976",
             "ANO": "1976",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -47324,15 +47324,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-1.6-1975": {
+        "brasilia-1.6-1975": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-1.6-1975",
+            "NOME": "brasilia-1.6-1975",
             "ANO": "1975",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -47405,15 +47405,15 @@
                 "Tanque combustível:": "46 litros"
             }
         },
-        "brasília-1.6-1974": {
+        "brasilia-1.6-1974": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-Brasilia-1976.jpg",
-            "NOME": "brasília-1.6-1974",
+            "NOME": "brasilia-1.6-1974",
             "ANO": "1974",
             "MARCA": "volkswagen",
-            "MODELO": "brasília",
+            "MODELO": "brasilia",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "Brasília",
+                "Modelo:": "Brasilia",
                 "Versão:": "1.6",
                 "Origem:": "Nacional",
                 "Detalhes:": "Hatch, 2 portas, 5 ocupantes"
@@ -49650,7 +49650,7 @@
             "NOME": "t-cross-highline-1.4-tsi-at-2021",
             "ANO": "2021",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -49744,7 +49744,7 @@
             "NOME": "t-cross-comfortline-1.0-tsi-at-2021",
             "ANO": "2021",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -49838,7 +49838,7 @@
             "NOME": "t-cross-1.0-tsi-at-2021",
             "ANO": "2021",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -49932,7 +49932,7 @@
             "NOME": "t-cross-1.0-tsi-2021",
             "ANO": "2021",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -51431,12 +51431,12 @@
                 "Tanque combustível:": "52 litros"
             }
         },
-        "highline-1.0-tsi-2021": {
+        "nivus-highline-1.0-tsi-2021": {
             "IMAGEM": "https://heycar.com.br/images/2020/Setembro/Nivus.jpg",
-            "NOME": "highline-1.0-tsi-2021",
+            "NOME": "nivus-highline-1.0-tsi-2021",
             "ANO": "2021",
             "MARCA": "volkswagen",
-            "MODELO": "highline",
+            "MODELO": "nivus",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "Nivus",
@@ -54486,7 +54486,7 @@
             "NOME": "t-cross-1.0-tsi-2019",
             "ANO": "2019",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -54658,7 +54658,7 @@
             "NOME": "t-cross-1.0-tsi-at-2020",
             "ANO": "2020",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -54752,7 +54752,7 @@
             "NOME": "t-cross-highline-1.4-tsi-at-2020",
             "ANO": "2020",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -54846,7 +54846,7 @@
             "NOME": "t-cross-comfortline-1.0-tsi-at-2020",
             "ANO": "2020",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -54940,7 +54940,7 @@
             "NOME": "t-cross-1.0-tsi-2020",
             "ANO": "2020",
             "MARCA": "volkswagen",
-            "MODELO": "t",
+            "MODELO": "t-cross",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "T-Cross",
@@ -87124,15 +87124,15 @@
                 "Tanque combustível:": "50 litros"
             }
         },
-        "up!-move-1.0-tsi-2018": {
+        "up-move-1.0-tsi-2018": {
             "IMAGEM": "https://heycar.com.br/images/2017/Abril/VW-up-2018.jpg",
-            "NOME": "up!-move-1.0-tsi-2018",
+            "NOME": "up-move-1.0-tsi-2018",
             "ANO": "2018",
             "MARCA": "volkswagen",
-            "MODELO": "up!",
+            "MODELO": "up",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
-                "Modelo:": "up!",
+                "Modelo:": "up",
                 "Versão:": "Move 1.0 TSi",
                 "Ano/modelo:": "2018",
                 "Detalhes:": "Nacional, hatch, 4 portas, 3 anos de garantia"
@@ -89348,12 +89348,12 @@
                 "Tanque combustível:": "50 litros"
             }
         },
-        "cc-2.0-tsi-dsg-2015": {
+        "passat-cc-2.0-tsi-dsg-2015": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-CC-tsi-2014.jpg",
-            "NOME": "cc-2.0-tsi-dsg-2015",
+            "NOME": "passat-cc-2.0-tsi-dsg-2015",
             "ANO": "2015",
             "MARCA": "volkswagen",
-            "MODELO": "cc",
+            "MODELO": "passat",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "CC",
@@ -89416,12 +89416,12 @@
                 "Tanque combustível:": "68 litros"
             }
         },
-        "cc-2.0-tsi-dsg-2014": {
+        "passat-cc-2.0-tsi-dsg-2014": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-CC-tsi-2014.jpg",
-            "NOME": "cc-2.0-tsi-dsg-2014",
+            "NOME": "passat-cc-2.0-tsi-dsg-2014",
             "ANO": "2014",
             "MARCA": "volkswagen",
-            "MODELO": "cc",
+            "MODELO": "passat",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "CC",
@@ -89484,12 +89484,12 @@
                 "Tanque combustível:": "68 litros"
             }
         },
-        "cc-r-line-3.6-v6-dsg-2014": {
+        "passat-cc-r-line-3.6-v6-dsg-2014": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-CC-R-Line-2014.jpg",
-            "NOME": "cc-r-line-3.6-v6-dsg-2014",
+            "NOME": "passat-cc-r-line-3.6-v6-dsg-2014",
             "ANO": "2014",
             "MARCA": "volkswagen",
-            "MODELO": "cc",
+            "MODELO": "passat",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "CC",
@@ -89552,12 +89552,12 @@
                 "Tanque combustível:": "68 litros"
             }
         },
-        "cc-3.6-v6-dsg-2013": {
+        "passat-cc-3.6-v6-dsg-2013": {
             "IMAGEM": "https://heycar.com.br/images/2017/Marco/Volkswagen-CC-2013.jpg",
-            "NOME": "cc-3.6-v6-dsg-2013",
+            "NOME": "passat-cc-3.6-v6-dsg-2013",
             "ANO": "2013",
             "MARCA": "volkswagen",
-            "MODELO": "cc",
+            "MODELO": "passat",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "CC",
@@ -91649,7 +91649,7 @@
             "NOME": "space-cross-1.6-16v-i-motion-2017",
             "ANO": "2017",
             "MARCA": "volkswagen",
-            "MODELO": "space",
+            "MODELO": "spacefox",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "Space Cross",
@@ -91746,7 +91746,7 @@
             "NOME": "space-cross-1.6-16v-2017",
             "ANO": "2017",
             "MARCA": "volkswagen",
-            "MODELO": "space",
+            "MODELO": "spacefox",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "Space Cross",
@@ -92188,12 +92188,12 @@
                 "Tanque combustível:": "55 litros"
             }
         },
-        "cc-2.0-tsi-dsg": {
+        "passat-cc-2.0-tsi-dsg": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Volks/CC.jpg",
-            "NOME": "cc-2.0-tsi-dsg",
+            "NOME": "passat-cc-2.0-tsi-dsg",
             "ANO": "DSG",
             "MARCA": "volkswagen",
-            "MODELO": "cc",
+            "MODELO": "passat",
             "ESPECIFICACAO": {
                 "Marca:": "Volkswagen",
                 "Modelo:": "CC",

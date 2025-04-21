@@ -5122,7 +5122,7 @@
             "NOME": "x-trail-se-2.0-2009",
             "ANO": "2009",
             "MARCA": "nissan",
-            "MODELO": "x",
+            "MODELO": "x-trail",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "X-Trail",
@@ -5202,7 +5202,7 @@
             "NOME": "x-trail-le-2.0-2009",
             "ANO": "2009",
             "MARCA": "nissan",
-            "MODELO": "x",
+            "MODELO": "x-trail",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "X-Trail",
@@ -5282,7 +5282,7 @@
             "NOME": "x-trail-gx-2.5-2008",
             "ANO": "2008",
             "MARCA": "nissan",
-            "MODELO": "x",
+            "MODELO": "x-trail",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "X-Trail",
@@ -5362,7 +5362,7 @@
             "NOME": "x-trail-gx-2.5-2007",
             "ANO": "2007",
             "MARCA": "nissan",
-            "MODELO": "x",
+            "MODELO": "x-trail",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "X-Trail",
@@ -5442,7 +5442,7 @@
             "NOME": "x-trail-gx-2.5-2006",
             "ANO": "2006",
             "MARCA": "nissan",
-            "MODELO": "x",
+            "MODELO": "x-trail",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "X-Trail",
@@ -5522,7 +5522,7 @@
             "NOME": "x-trail-gx-2.5-2005",
             "ANO": "2005",
             "MARCA": "nissan",
-            "MODELO": "x",
+            "MODELO": "x-trail",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "X-Trail",
@@ -24077,7 +24077,7 @@
             "NOME": "gt-r-3.8-v6-biturbo-2017",
             "ANO": "2017",
             "MARCA": "nissan",
-            "MODELO": "gt",
+            "MODELO": "gt-r",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "GT-R",
@@ -24155,7 +24155,7 @@
             "NOME": "gt-r-3.8-v6-biturbo-2012",
             "ANO": "2012",
             "MARCA": "nissan",
-            "MODELO": "gt",
+            "MODELO": "gt-r",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "GT-R",
@@ -24233,7 +24233,7 @@
             "NOME": "gt-r-3.8-v6-biturbo-2009",
             "ANO": "2009",
             "MARCA": "nissan",
-            "MODELO": "gt",
+            "MODELO": "gt-r",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "GT-R",
@@ -26442,7 +26442,7 @@
             "NOME": "gt-r-premium-3.8-v6-biturbo",
             "ANO": "Biturbo",
             "MARCA": "nissan",
-            "MODELO": "gt",
+            "MODELO": "gt-r",
             "ESPECIFICACAO": {
                 "Marca:": "Nissan",
                 "Modelo:": "GT-R",

@@ -3431,7 +3431,7 @@
             "NOME": "rx-350-3.5-v6",
             "ANO": "V6",
             "MARCA": "lexus",
-            "MODELO": "rx",
+            "MODELO": "rx-350",
             "ESPECIFICACAO": {
                 "Marca:": "Lexus",
                 "Modelo:": "RX 350",
@@ -3497,7 +3497,7 @@
             "NOME": "nx-200t-turbo-2016",
             "ANO": "2016",
             "MARCA": "lexus",
-            "MODELO": "nx",
+            "MODELO": "nx-200t",
             "ESPECIFICACAO": {
                 "Marca:": "Lexus",
                 "Modelo:": "NX 200T",
@@ -3563,7 +3563,7 @@
             "NOME": "ls-460-4.6-v8",
             "ANO": "V8",
             "MARCA": "lexus",
-            "MODELO": "ls",
+            "MODELO": "ls-460",
             "ESPECIFICACAO": {
                 "Marca:": "Lexus",
                 "Modelo:": "LS 460",
@@ -3629,7 +3629,7 @@
             "NOME": "es-350-3.5-v6",
             "ANO": "V6",
             "MARCA": "lexus",
-            "MODELO": "es",
+            "MODELO": "es-350",
             "ESPECIFICACAO": {
                 "Marca:": "Lexus",
                 "Modelo:": "ES 350",

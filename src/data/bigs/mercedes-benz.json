@@ -6,7 +6,7 @@
             "NOME": "eqs-suv-450-amg-line-2024",
             "ANO": "2024",
             "MARCA": "mercedes-benz",
-            "MODELO": "eqs",
+            "MODELO": "eqs450",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "EQS SUV",
@@ -80,7 +80,7 @@
             "NOME": "eqe-suv-300-amg-line-2024",
             "ANO": "2024",
             "MARCA": "mercedes-benz",
-            "MODELO": "eqe",
+            "MODELO": "eqe300",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "EQE SUV",
@@ -154,7 +154,7 @@
             "NOME": "cla-200-amg-line-1.3-2024",
             "ANO": "2024",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -249,7 +249,7 @@
             "NOME": "cla-200-1.6-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -344,7 +344,7 @@
             "NOME": "cla-200-1.6-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -439,7 +439,7 @@
             "NOME": "cla-200-vision-1.6-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -533,7 +533,7 @@
             "NOME": "cla-200-urban-1.6-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -628,7 +628,7 @@
             "NOME": "cla-200-urban-1.6-turbo-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -722,7 +722,7 @@
             "NOME": "cla-200-vision-1.6-turbo-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -816,7 +816,7 @@
             "NOME": "cla-200-vision-1.6-turbo-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -911,7 +911,7 @@
             "NOME": "cla-200-urban-1.6-turbo-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -1006,7 +1006,7 @@
             "NOME": "cla-200-first-edition-1.6-turbo-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -1101,7 +1101,7 @@
             "NOME": "cla-200-vision-1.6-turbo-2014",
             "ANO": "2014",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -1196,7 +1196,7 @@
             "NOME": "cla-200-urban-1.6-turbo-2014",
             "ANO": "2014",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -1291,7 +1291,7 @@
             "NOME": "cla-200-first-edition-1.6-turbo-2014",
             "ANO": "2014",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 200",
@@ -1576,7 +1576,7 @@
             "NOME": "eqe-300-edition-one-2023",
             "ANO": "2023",
             "MARCA": "mercedes-benz",
-            "MODELO": "eqe",
+            "MODELO": "eqe300",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "EQE",
@@ -1649,7 +1649,7 @@
             "NOME": "eqb-250-2023",
             "ANO": "2023",
             "MARCA": "mercedes-benz",
-            "MODELO": "eqb",
+            "MODELO": "eqb250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "EQB",
@@ -1722,7 +1722,7 @@
             "NOME": "eqa-250-2023",
             "ANO": "2023",
             "MARCA": "mercedes-benz",
-            "MODELO": "eqa",
+            "MODELO": "eqa250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "EQA",
@@ -2172,100 +2172,6 @@
                 "Porta-malas:": "430 litros",
                 "Carga útil:": "530 kg",
                 "Tanque combustível:": "43 litros"
-            }
-        },
-        "sobre-o-mini-cooper-s-exclusive-2.0-2p-2022": {
-            "IMAGEM": "https://heycar.com.br/images/2022/dezembro/mini-cooper-20.jpg",
-            "NOME": "sobre-o-mini-cooper-s-exclusive-2.0-2p-2022",
-            "ANO": "2022",
-            "MARCA": "mercedes-benz",
-            "MODELO": "sobre",
-            "ESPECIFICACAO": {
-                "Marca:": "Mini",
-                "Modelo:": "Cooper",
-                "Versão:": "S Exclusive 2.0 2P 2022",
-                "Combustível:": "Gasolina",
-                "Origem:": "Importado",
-                "Categoria:": "Hatch",
-                "Portas:": "2",
-                "Ocupantes:": "4",
-                "Geração:": "3",
-                "Garantia:": "2 anos"
-            },
-            "MOTOR": {
-                "Instalação:": "Dianteiro",
-                "Posição:": "Transversal",
-                "Aspiração:": "Turbocompressor",
-                "Alimentação:": "Injeção direta de combustível",
-                "Cilindrada:": "1.998 cc",
-                "Cilindros:": "4, em linha",
-                "Válvulas por cilindro:": "4",
-                "Comando de válvulas:": "Duplo, no cabeçote, corrente",
-                "Variação do comando:": "Ciclo de admissão e escape",
-                "Potência máxima (cv):": "192 @ 5.000 rpm",
-                "Torque máximo (kgfm):": "28,5 @ 1.350 rpm",
-                "Potência específica:": "96,1 cv/litro",
-                "Torque específico:": "14,3 kgfm/litro",
-                "Taxa de compressão:": "11:1",
-                "Rel. peso/potência:": "6,4 kg/cv",
-                "Rel. peso/torque:": "43 kg/kgfm",
-                "Curso dos pistões:": "94,6 mm",
-                "Diâmetro dos cilindros:": "82 mm",
-                "Tuchos:": "Hidráulicos",
-                "Código do motor:": "B48A20M0"
-            },
-            "TRANSMISSÃO": {
-                "Câmbio:": "Automatizado",
-                "Marchas:": "7",
-                "Acoplamento:": "Embreagem dupla banhada a óleo",
-                "Tração:": "Dianteira",
-                "Código do câmbio:": "informação não disponível"
-            },
-            "DESEMPENHO": {
-                "Acel. 0 a 100 km/h:": "6,7 seg",
-                "Velocidade máxima:": "235 km/h"
-            },
-            "CONSUMO": {
-                "Cidade em km/l:": "10,3",
-                "Estrada em km/l:": "13,4",
-                "Autonomia em km:": "590"
-            },
-            "SUSPENSÃO": {
-                "Dianteira:": "Independente, McPherson",
-                "Traseira:": "Independente, multibraço",
-                "Elemento elástico:": "Mola helicoidal"
-            },
-            "FREIOS": {
-                "Dianteira:": "Disco ventilado",
-                "Traseira:": "Disco sólido"
-            },
-            "DIREÇÃO": {
-                "Assistência:": "Eletro-hidráulica",
-                "Diâmetro de giro:": "10,8 m"
-            },
-            "PNEUS": {
-                "Dianteira:": "205/45 R17",
-                "Traseira:": "205/45 R17",
-                "Altura do flanco:": "92 mm"
-            },
-            "AERODINÂMICA": {
-                "Área frontal:": "2,09 m²",
-                "Coef. aerodinâmico:": "0,31 Cx"
-            },
-            "DIMENSÕES": {
-                "Comprimento:": "3.876 mm",
-                "Altura:": "1.414 mm",
-                "Largura:": "1.727 mm",
-                "Entre-eixos:": "2.495 mm",
-                "Bitola dianteira:": "1.485 mm",
-                "Bitola traseira:": "1.485 mm",
-                "Vão livre do solo:": "124 mm"
-            },
-            "PESO E CAPACIDADES": {
-                "Peso:": "1.225 kg",
-                "Porta-malas:": "211 litros",
-                "Carga útil:": "480 kg",
-                "Tanque combustível:": "44 litros"
             }
         },
         "a35-sedan-amg-2.0-4matic-2022": {
@@ -2931,7 +2837,7 @@
             "NOME": "gle-53-amg-3.0-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "gle",
+            "MODELO": "gle53",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLE",
@@ -3025,7 +2931,7 @@
             "NOME": "gle-53-amg-3.0-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "gle",
+            "MODELO": "gle53",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLE",
@@ -3119,7 +3025,7 @@
             "NOME": "gle-400-d-3.0-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "gle",
+            "MODELO": "gle400",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLE",
@@ -3213,7 +3119,7 @@
             "NOME": "glc-coupé-43-amg-3.0-v6-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé",
@@ -3307,7 +3213,7 @@
             "NOME": "glc-coupé-43-amg-3.0-v6-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé",
@@ -3401,7 +3307,7 @@
             "NOME": "glc-coupé-43-amg-3.0-v6-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé",
@@ -3495,7 +3401,7 @@
             "NOME": "glc-coupé-43-amg-3.0-v6-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé",
@@ -3589,7 +3495,7 @@
             "NOME": "glc-coupé-43-amg-3.0-v6-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé",
@@ -3683,7 +3589,7 @@
             "NOME": "glc-coupé-250-2.0-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé 250",
@@ -3777,7 +3683,7 @@
             "NOME": "glc-coupé-250-2.0-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé 250",
@@ -3871,7 +3777,7 @@
             "NOME": "glc-43-amg-3.0-v6-turbo-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -3965,7 +3871,7 @@
             "NOME": "glc-43-amg-3.0-v6-turbo-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -4059,7 +3965,7 @@
             "NOME": "glc-63-amg-4.0-v8-turbo-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -4153,7 +4059,7 @@
             "NOME": "glc-63-amg-4.0-v8-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -4247,7 +4153,7 @@
             "NOME": "glc-220-d-off-road-2.0-turbodiesel-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla220",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 220 D",
@@ -4341,7 +4247,7 @@
             "NOME": "glc-220-d-off-road-2.0-turbodiesel-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla220",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 220 D",
@@ -4435,7 +4341,7 @@
             "NOME": "glc-220-d-enduro-2.0-turbodiesel-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla220",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 220 D",
@@ -4529,7 +4435,7 @@
             "NOME": "glc-220-d-enduro-2.0-turbodiesel-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla220",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 220 D",
@@ -4623,7 +4529,7 @@
             "NOME": "glc-250-sport-2.0-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -4717,7 +4623,7 @@
             "NOME": "glc-250-sport-2.0-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -4811,7 +4717,7 @@
             "NOME": "glc-250-2.0-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -4905,7 +4811,7 @@
             "NOME": "glc-250-2.0-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -4999,7 +4905,7 @@
             "NOME": "glc-250-sport-2.0-turbo-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -5093,7 +4999,7 @@
             "NOME": "glc-250-2.0-turbo-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -5187,7 +5093,7 @@
             "NOME": "glb-35-amg-2.0-4matic-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "glb",
+            "MODELO": "glb35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLB 35",
@@ -5281,7 +5187,7 @@
             "NOME": "glb-200-advance-1.3-turbo-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "glb",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLB 200",
@@ -5375,7 +5281,7 @@
             "NOME": "glb-200-progressive-1.3-turbo-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "glb",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLB 200",
@@ -5469,7 +5375,7 @@
             "NOME": "glb-200-progressive-1.3-turbo-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "glb",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLB 200",
@@ -5563,7 +5469,7 @@
             "NOME": "glb-200-launch-edition-1.3-turbo-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "glb",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLB 200",
@@ -5657,7 +5563,7 @@
             "NOME": "glb-200-launch-edition-1.3-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glb",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLB 200",
@@ -5751,7 +5657,7 @@
             "NOME": "gla-45-amg-2.0-4-matic-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 45",
@@ -5845,7 +5751,7 @@
             "NOME": "gla-45-amg-2.0-4-matic-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 45",
@@ -5939,7 +5845,7 @@
             "NOME": "gla-45-amg-2.0-4-matic-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 45",
@@ -6033,7 +5939,7 @@
             "NOME": "gla-45-amg-2.0-4-matic-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 45",
@@ -6127,7 +6033,7 @@
             "NOME": "gla-35-amg-2.0-4-matic",
             "ANO": "Matic",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 35",
@@ -6221,7 +6127,7 @@
             "NOME": "gla-200-amg-line-1.3-turbo-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6315,7 +6221,7 @@
             "NOME": "gla-200-amg-line-1.3-turbo-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6409,7 +6315,7 @@
             "NOME": "gla-200-style-1.6-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6503,7 +6409,7 @@
             "NOME": "gla-200-style-1.6-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6597,7 +6503,7 @@
             "NOME": "gla-200-style-1.6-turbo-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6691,7 +6597,7 @@
             "NOME": "gla-200-enduro-1.6-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6785,7 +6691,7 @@
             "NOME": "gla-200-enduro-1.6-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6879,7 +6785,7 @@
             "NOME": "gla-200-enduro-1.6-turbo-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -6973,7 +6879,7 @@
             "NOME": "gla-200-advance-1.6-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -7067,7 +6973,7 @@
             "NOME": "gla-200-advance-1.6-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -7161,7 +7067,7 @@
             "NOME": "gla-200-advance-1.6-turbo-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -7255,7 +7161,7 @@
             "NOME": "gla-200-vision-black-edition-1.6-turbo-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -7349,7 +7255,7 @@
             "NOME": "gla-200-vision-1.6-turbo-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -7443,7 +7349,7 @@
             "NOME": "gla-200-advance-1.6-turbo-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -8289,7 +8195,7 @@
             "NOME": "eqc-400-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "eqc",
+            "MODELO": "eqc400",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "Eqc",
@@ -10200,7 +10106,7 @@
             "NOME": "cla-45-s-amg-2.0-4matic-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10294,7 +10200,7 @@
             "NOME": "cla-45-s-amg-2.0-4matic-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10388,7 +10294,7 @@
             "NOME": "cla-45-s-amg-2.0-4matic-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10482,7 +10388,7 @@
             "NOME": "cla-45-amg-2.0-4matic-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10576,7 +10482,7 @@
             "NOME": "cla-45-amg-2.0-4matic-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10670,7 +10576,7 @@
             "NOME": "cla-45-amg-2.0-4matic-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10763,7 +10669,7 @@
             "NOME": "cla-45-amg-2.0-4matic-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10857,7 +10763,7 @@
             "NOME": "cla-45-amg-2.0-4matic-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -10951,7 +10857,7 @@
             "NOME": "cla-45-amg-2.0-4matic-2014",
             "ANO": "2014",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 45",
@@ -11045,7 +10951,7 @@
             "NOME": "cla-35-amg-2.0-4matic-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 35",
@@ -11139,7 +11045,7 @@
             "NOME": "cla-35-amg-2.0-4matic-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 35",
@@ -11233,7 +11139,7 @@
             "NOME": "cla-35-amg-launch-edition-2.0-4matic-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 35",
@@ -11327,7 +11233,7 @@
             "NOME": "cla-35-amg-2.0-4matic-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 35",
@@ -11421,7 +11327,7 @@
             "NOME": "cla-250-2.0-turbo-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -11515,7 +11421,7 @@
             "NOME": "cla-250-2.0-turbo-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -11609,7 +11515,7 @@
             "NOME": "cla-250-2.0-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -11703,7 +11609,7 @@
             "NOME": "cla-250-sport-2.0-turbo-4matic-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -11797,7 +11703,7 @@
             "NOME": "cla-250-sport-2.0-turbo-4matic-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -11891,7 +11797,7 @@
             "NOME": "cla-250-sport-2.0-turbo-4matic-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -11985,7 +11891,7 @@
             "NOME": "cla-250-sport-2.0-turbo-4matic-2016",
             "ANO": "2016",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -12079,7 +11985,7 @@
             "NOME": "cla-250-sport-2.0-turbo-4matic-2015",
             "ANO": "2015",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -12173,7 +12079,7 @@
             "NOME": "cla-250-sport-2.0-turbo-4matic-2014",
             "ANO": "2014",
             "MARCA": "mercedes-benz",
-            "MODELO": "cla",
+            "MODELO": "cla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLA 250",
@@ -12849,7 +12755,7 @@
             "NOME": "a-35-amg-2.0-4matic-2022",
             "ANO": "2022",
             "MARCA": "mercedes-benz",
-            "MODELO": "a",
+            "MODELO": "a35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "A 35",
@@ -12943,7 +12849,7 @@
             "NOME": "a-35-amg-2.0-4matic-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "a",
+            "MODELO": "a35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "A 35",
@@ -16664,7 +16570,7 @@
         "atron-1635-(4x2)": {
             "IMAGEM": "https://heycar.com.br/images/2022/fevereiro/Mercedes-Benz-Atron-1635.jpg",
             "NOME": "atron-1635-(4x2)",
-            "ANO": "(4x2)",
+            "ANO": "2014",
             "MARCA": "mercedes-benz",
             "MODELO": "atron",
             "ESPECIFICACAO": {
@@ -17008,7 +16914,7 @@
             "NOME": "gle-400-d-3.0-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "gle",
+            "MODELO": "gle400",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLE",
@@ -17102,7 +17008,7 @@
             "NOME": "gls-450-3.0-2021",
             "ANO": "2021",
             "MARCA": "mercedes-benz",
-            "MODELO": "gls",
+            "MODELO": "gls450",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLS",
@@ -17185,7 +17091,7 @@
             "NOME": "s-560-4.0-v8-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "s",
+            "MODELO": "s560",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "S 560",
@@ -17251,7 +17157,7 @@
             "NOME": "s-560-4.0-v8-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "s",
+            "MODELO": "s560",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "S 560",
@@ -17317,7 +17223,7 @@
             "NOME": "glc-63-amg-coupé-s-4.0-v8-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -17383,7 +17289,7 @@
             "NOME": "glc-63-amg-4.0-v8-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -17477,7 +17383,7 @@
             "NOME": "glc-43-amg-3.0-v6-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -17571,7 +17477,7 @@
             "NOME": "glc-43-amg-3.0-v6-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -17665,7 +17571,7 @@
             "NOME": "glc-coupé-43-amg-3.0-v6-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé",
@@ -17759,7 +17665,7 @@
             "NOME": "glc-coupé-250-2.0-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC Coupé 250",
@@ -17853,7 +17759,7 @@
             "NOME": "glc-300-coupé-2.0-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla300",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -17919,7 +17825,7 @@
             "NOME": "glc-250-sport-2.0-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -18013,7 +17919,7 @@
             "NOME": "glc-250-highway-2.0-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 250",
@@ -18107,7 +18013,7 @@
             "NOME": "glc-220-d-enduro-2.0-turbodiesel-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla220",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 220 D",
@@ -18201,7 +18107,7 @@
             "NOME": "glc-220-d-off-road-2.0-turbodiesel-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla220",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC 220 D",
@@ -18295,7 +18201,7 @@
             "NOME": "gla-45-amg-2.0-4-matic-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 45",
@@ -18389,7 +18295,7 @@
             "NOME": "gla-250-sport-2.0-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 250",
@@ -18483,7 +18389,7 @@
             "NOME": "gla-250-sport-2.0-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 250",
@@ -18577,7 +18483,7 @@
             "NOME": "gla-200-enduro-1.6-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -18671,7 +18577,7 @@
             "NOME": "gla-200-night-1.6-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -18765,7 +18671,7 @@
             "NOME": "gla-200-night-1.6-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -18859,7 +18765,7 @@
             "NOME": "gla-200-advance-1.6-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -18953,7 +18859,7 @@
             "NOME": "gla-200-style-1.6-turbo-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -19047,7 +18953,7 @@
             "NOME": "gla-200-style-1.6-turbo-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 200",
@@ -19141,7 +19047,7 @@
             "NOME": "e-63-amg-4.0-v8-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "e",
+            "MODELO": "e63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "Classe E",
@@ -19207,7 +19113,7 @@
             "NOME": "e-63-amg-4.0-v8-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "e",
+            "MODELO": "e63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "Classe E",
@@ -19273,7 +19179,7 @@
             "NOME": "e-53-amg-3.0-v6-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "e",
+            "MODELO": "e53",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "Classe E",
@@ -19339,7 +19245,7 @@
             "NOME": "e-53-amg-3.0-v6-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "e",
+            "MODELO": "e53",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "Classe E",
@@ -19969,7 +19875,7 @@
             "NOME": "cls-53-amg-3.0-v6-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "cls",
+            "MODELO": "cla53",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLS",
@@ -20035,7 +19941,7 @@
             "NOME": "cls-53-amg-3.0-v6-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "cls",
+            "MODELO": "cla53",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLS",
@@ -20101,7 +20007,7 @@
             "NOME": "cls-450-sport-3.0-v6-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "cls",
+            "MODELO": "cla450",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLS",
@@ -20167,7 +20073,7 @@
             "NOME": "cls-450-3.0-v6-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "cls",
+            "MODELO": "cla450",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLS",
@@ -21361,7 +21267,7 @@
             "NOME": "amg-gt-63-s-4.0-v8-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -21439,7 +21345,7 @@
             "NOME": "amg-gt-63-s-4.0-v8-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -21517,7 +21423,7 @@
             "NOME": "amg-gt-4.0-v8-r-pro-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -21595,7 +21501,7 @@
             "NOME": "amg-gt-4.0-v8-r-pro-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -21673,7 +21579,7 @@
             "NOME": "amg-gt-4.0-v8-r-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -21751,7 +21657,7 @@
             "NOME": "amg-gt-4.0-v8-r-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -21829,7 +21735,7 @@
             "NOME": "amg-gt-4.0-v8-c-roadster-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -21907,7 +21813,7 @@
             "NOME": "amg-gt-4.0-v8-c-roadester-2019",
             "ANO": "2019",
             "MARCA": "mercedes-benz",
-            "MODELO": "amg",
+            "MODELO": "gt",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "AMG GT",
@@ -22079,7 +21985,7 @@
             "NOME": "a-35-amg-2.0-4matic-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "a",
+            "MODELO": "a35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "A 35",
@@ -22173,7 +22079,7 @@
             "NOME": "a-35-amg-launch-edition-2.0-4matic-2020",
             "ANO": "2020",
             "MARCA": "mercedes-benz",
-            "MODELO": "a",
+            "MODELO": "a35",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "A 35",
@@ -23154,12 +23060,12 @@
                 "Tanque combustível:": "66 litros"
             }
         },
-        "classe-b-1.6-turbo-2018": {
+        "b200-1.6-turbo-2018": {
             "IMAGEM": "https://heycar.com.br/images/2018/Agosto/Classe-B.jpg",
-            "NOME": "classe-b-1.6-turbo-2018",
+            "NOME": "b200-1.6-turbo-2018",
             "ANO": "2018",
             "MARCA": "mercedes-benz",
-            "MODELO": "classe",
+            "MODELO": "b200",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "B200",
@@ -28940,7 +28846,7 @@
             "NOME": "slc-43-amg-3.0-v6",
             "ANO": "V6",
             "MARCA": "mercedes-benz",
-            "MODELO": "slc",
+            "MODELO": "slc43",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "SLC",
@@ -29006,7 +28912,7 @@
             "NOME": "slc-300-2.0-turbo",
             "ANO": "Turbo",
             "MARCA": "mercedes-benz",
-            "MODELO": "slc",
+            "MODELO": "slc300",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "SLC",
@@ -29072,7 +28978,7 @@
             "NOME": "sl-63-amg-5.5-v8",
             "ANO": "V8",
             "MARCA": "mercedes-benz",
-            "MODELO": "sl",
+            "MODELO": "sl63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "SL",
@@ -29138,7 +29044,7 @@
             "NOME": "sl-400-3.0-v6",
             "ANO": "V6",
             "MARCA": "mercedes-benz",
-            "MODELO": "sl",
+            "MODELO": "sl400",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "SL",
@@ -29402,7 +29308,7 @@
             "NOME": "s-500-l-4.7-v8",
             "ANO": "V8",
             "MARCA": "mercedes-benz",
-            "MODELO": "s",
+            "MODELO": "s500",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "S",
@@ -29468,7 +29374,7 @@
             "NOME": "gls-63-amg-5.5-v8",
             "ANO": "V8",
             "MARCA": "mercedes-benz",
-            "MODELO": "gls",
+            "MODELO": "gls63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLS",
@@ -29534,7 +29440,7 @@
             "NOME": "gls-350-3.0-v6-turbodiesel",
             "ANO": "Turbodiesel",
             "MARCA": "mercedes-benz",
-            "MODELO": "gls",
+            "MODELO": "gls450",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLS",
@@ -29600,7 +29506,7 @@
             "NOME": "gle-coupe-400-3.0-v6-biturbo",
             "ANO": "Biturbo",
             "MARCA": "mercedes-benz",
-            "MODELO": "gle",
+            "MODELO": "gle400",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLE",
@@ -29666,7 +29572,7 @@
             "NOME": "gle-350-sport-3.0-v6",
             "ANO": "V6",
             "MARCA": "mercedes-benz",
-            "MODELO": "gle",
+            "MODELO": "gle350",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLE",
@@ -29732,7 +29638,7 @@
             "NOME": "gle-350-3.0-v6",
             "ANO": "V6",
             "MARCA": "mercedes-benz",
-            "MODELO": "gle",
+            "MODELO": "gle350",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLE",
@@ -29798,7 +29704,7 @@
             "NOME": "glc-coupe-250-sport-2.0-turbo",
             "ANO": "Turbo",
             "MARCA": "mercedes-benz",
-            "MODELO": "glc",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLC",
@@ -29859,12 +29765,12 @@
                 "Tanque combustível:": "66 litros"
             }
         },
-        "45-amg-2.0-4matic": {
+        "gla-45-amg-2.0-4matic": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Mercedes/GLA-AMG.jpg",
-            "NOME": "45-amg-2.0-4matic",
+            "NOME": "gla-45-amg-2.0-4matic",
             "ANO": "4Matic",
             "MARCA": "mercedes-benz",
-            "MODELO": "45",
+            "MODELO": "gla45",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA",
@@ -29930,7 +29836,7 @@
             "NOME": "gla-250-sport-2.0-turbo-2017",
             "ANO": "2017",
             "MARCA": "mercedes-benz",
-            "MODELO": "gla",
+            "MODELO": "gla250",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "GLA 250",
@@ -30316,7 +30222,7 @@
             "NOME": "cls-63-amg-5.5-v8-4matic",
             "ANO": "4Matic",
             "MARCA": "mercedes-benz",
-            "MODELO": "cls",
+            "MODELO": "cla63",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLS",
@@ -30382,7 +30288,7 @@
             "NOME": "cls-400-3.0-v6",
             "ANO": "V6",
             "MARCA": "mercedes-benz",
-            "MODELO": "cls",
+            "MODELO": "cla400",
             "ESPECIFICACAO": {
                 "Marca:": "Mercedes-Benz",
                 "Modelo:": "CLS",
