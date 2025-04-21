@@ -1,8 +1,46 @@
-// src/components/FiltrosCarros.jsx
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Box, FormControl, InputLabel, MenuItem, Select, Typography } from '@mui/material';
+import {
+  Box,
+  FormControl,
+  InputLabel,
+  MenuItem,
+  Select,
+  Typography,
+  Button,
+  Paper,
+  styled
+} from '@mui/material';
 import carrosPorMarca from '../index.js';
+
+const RedPaper = styled(Paper)(({ theme }) => ({
+  backgroundColor: '#800',
+  color: 'white',
+  padding: theme.spacing(4),
+  marginBottom: theme.spacing(4),
+  borderBottom: '4px solid #c00',
+  borderRadius: 0,
+  textAlign: 'center'
+}));
+
+const StyledFormControl = styled(FormControl)(({ theme }) => ({
+  minWidth: 240,
+  '& .MuiInputLabel-root': {
+    color: '#666',
+  },
+  '& .MuiOutlinedInput-root': {
+    backgroundColor: 'white',
+    '& fieldset': {
+      borderColor: '#ccc',
+    },
+    '&:hover fieldset': {
+      borderColor: '#c00',
+    },
+    '&.Mui-focused fieldset': {
+      borderColor: '#c00',
+    },
+  },
+}));
 
 export default function FiltrosCarros() {
   const navigate = useNavigate();
@@ -25,36 +63,121 @@ export default function FiltrosCarros() {
   };
 
   return (
-    <Box p={4} sx={{ backgroundColor: 'background.default', minHeight: '100vh' }}>
-      <Typography variant="h4" gutterBottom align="center">Catálogo de Carros</Typography>
-      <Box display="flex" flexWrap="wrap" gap={2} justifyContent="center">
-        <FormControl fullWidth sx={{ minWidth: 240 }}>
-          <InputLabel>Marca</InputLabel>
-          <Select value={marca} label="Marca" onChange={e => { setMarca(e.target.value); setModelo(''); setAno(''); setModeloFinal(''); }}>
-            {carrosPorMarca.map(m => <MenuItem key={m.marca} value={m.marca}>{m.marca.toUpperCase()}</MenuItem>)}
-          </Select>
-        </FormControl>
+    <Box sx={{
+      backgroundColor: '#f5f5f5',
+      minHeight: '100vh',
+      py: 4,
+      px: 2
+    }}>
+      <Box sx={{ maxWidth: 800, mx: 'auto' }}>
+        <RedPaper>
+          <Typography variant="h3" sx={{ textTransform: 'uppercase', mb: 2 }}>
+            Catálogo de Carros
+          </Typography>
+          <Typography variant="subtitle1">
+            Selecione os filtros para encontrar seu veículo
+          </Typography>
+        </RedPaper>
 
-        <FormControl fullWidth sx={{ minWidth: 240 }} disabled={!marca}>
-          <InputLabel>Modelo</InputLabel>
-          <Select value={modelo} label="Modelo" onChange={e => { setModelo(e.target.value); setAno(''); setModeloFinal(''); }}>
-            {modelosUnicos.map(m => <MenuItem key={m} value={m}>{m}</MenuItem>)}
-          </Select>
-        </FormControl>
+        <Box
+          sx={{
+            display: 'flex',
+            flexDirection: 'column',
+            gap: 3,
+            backgroundColor: 'white',
+            padding: 4,
+            borderRadius: '10px',
+            boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
+            borderLeft: '4px solid #c00'
+          }}
+        >
+          <StyledFormControl fullWidth>
+            <InputLabel>Marca</InputLabel>
+            <Select
+              value={marca}
+              label="Marca"
+              onChange={e => {
+                setMarca(e.target.value);
+                setModelo('');
+                setAno('');
+                setModeloFinal('');
+              }}
+            >
+              {carrosPorMarca.map(m => (
+                <MenuItem key={m.marca} value={m.marca}>
+                  {m.marca.toUpperCase()}
+                </MenuItem>
+              ))}
+            </Select>
+          </StyledFormControl>
 
-        <FormControl fullWidth sx={{ minWidth: 240 }} disabled={!modelo}>
-          <InputLabel>Ano</InputLabel>
-          <Select value={ano} label="Ano" onChange={e => { setAno(e.target.value); setModeloFinal(''); }}>
-            {anosUnicos.map(a => <MenuItem key={a} value={a}>{a}</MenuItem>)}
-          </Select>
-        </FormControl>
+          <StyledFormControl fullWidth disabled={!marca}>
+            <InputLabel>Modelo</InputLabel>
+            <Select
+              value={modelo}
+              label="Modelo"
+              onChange={e => {
+                setModelo(e.target.value);
+                setAno('');
+                setModeloFinal('');
+              }}
+            >
+              {modelosUnicos.map(m => (
+                <MenuItem key={m} value={m}>
+                  {m}
+                </MenuItem>
+              ))}
+            </Select>
+          </StyledFormControl>
 
-        <FormControl fullWidth sx={{ minWidth: 240 }} disabled={!ano}>
-          <InputLabel>Versão</InputLabel>
-          <Select value={modeloFinal} label="Versão" onChange={e => handleFinalChange(e.target.value)}>
-            {opcoesFinais.map(m => <MenuItem key={m.NOME} value={m.NOME}>{m.NOME}</MenuItem>)}
-          </Select>
-        </FormControl>
+          <StyledFormControl fullWidth disabled={!modelo}>
+            <InputLabel>Ano</InputLabel>
+            <Select
+              value={ano}
+              label="Ano"
+              onChange={e => {
+                setAno(e.target.value);
+                setModeloFinal('');
+              }}
+            >
+              {anosUnicos.map(a => (
+                <MenuItem key={a} value={a}>
+                  {a}
+                </MenuItem>
+              ))}
+            </Select>
+          </StyledFormControl>
+
+          <StyledFormControl fullWidth disabled={!ano}>
+            <InputLabel>Versão</InputLabel>
+            <Select
+              value={modeloFinal}
+              label="Versão"
+              onChange={e => handleFinalChange(e.target.value)}
+            >
+              {opcoesFinais.map(m => (
+                <MenuItem key={m.NOME} value={m.NOME}>
+                  {m.NOME}
+                </MenuItem>
+              ))}
+            </Select>
+          </StyledFormControl>
+
+          <Button
+            variant="contained"
+            disabled={!modeloFinal}
+            onClick={() => handleFinalChange(modeloFinal)}
+            sx={{
+              bgcolor: '#c00',
+              '&:hover': { bgcolor: '#a00' },
+              py: 1.5,
+              mt: 2,
+              fontSize: '1rem'
+            }}
+          >
+            Ver Ficha Técnica
+          </Button>
+        </Box>
       </Box>
     </Box>
   );

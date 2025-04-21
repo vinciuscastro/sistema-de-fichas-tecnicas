@@ -4,13 +4,12 @@ import {
   Box,
   Card,
   CardMedia,
-  CardContent,
   Typography,
   Button,
-  Grid,
   Chip,
   Paper,
-  styled
+  styled,
+  Divider
 } from '@mui/material';
 
 const RedHeader = styled(Paper)(({ theme }) => ({
@@ -19,7 +18,10 @@ const RedHeader = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(4),
   marginBottom: theme.spacing(4),
   borderBottom: '4px solid #c00',
-  borderRadius: 0
+  borderRadius: 0,
+  textAlign: 'center',
+  maxWidth: 800,
+  margin: '0 auto'
 }));
 
 const SpecCard = styled(Paper)(({ theme }) => ({
@@ -27,15 +29,18 @@ const SpecCard = styled(Paper)(({ theme }) => ({
   borderRadius: '10px',
   boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
   borderLeft: '4px solid #c00',
-  backgroundColor: 'white'
+  backgroundColor: 'white',
+  maxWidth: 800,
+  margin: '20px auto',
+  width: '100%'
 }));
 
-const DetailRow = styled(Grid)(({ theme }) => ({
-  padding: theme.spacing(1),
+const SpecRow = styled(Box)(({ theme }) => ({
+  display: 'flex',
+  justifyContent: 'space-between',
+  alignItems: 'center',
+  padding: theme.spacing(1.5, 0),
   borderBottom: '1px solid #eee',
-  '&:nth-of-type(even)': {
-    backgroundColor: '#f9f9f9'
-  },
   '&:last-child': {
     borderBottom: 'none'
   }
@@ -70,7 +75,7 @@ export default function CarDetails() {
           <Typography variant="h3" sx={{ textTransform: 'uppercase', mb: 2 }}>
             {car.ESPECIFICACAO['Versão:']}
           </Typography>
-          <Box sx={{ display: 'flex', gap: 1 }}>
+          <Box sx={{ display: 'flex', gap: 1, justifyContent: 'center' }}>
             {[car.ESPECIFICACAO['Combustível:'], car.ESPECIFICACAO['Origem:'], car.ESPECIFICACAO['Categoria:']].map(
               (badge) => (
                 <Chip
@@ -87,20 +92,28 @@ export default function CarDetails() {
           </Box>
         </RedHeader>
 
-        <Card sx={{ mb: 4, borderRadius: '8px', overflow: 'hidden' }}>
+        <Card sx={{
+          mb: 4,
+          borderRadius: 0,
+          boxShadow: 'none',
+          maxWidth: 800,
+          mx: 'auto'
+        }}>
           <CardMedia
             component="img"
-            height="400"
+            height="300"
             image={car.IMAGEM}
             alt={car.NOME}
             sx={{
-              objectFit: 'cover',
-              boxShadow: '0 4px 12px rgba(0,0,0,0.2)'
+              objectFit: 'contain',
+              mx: 'auto',
+              display: 'block',
+              width: '80%'
             }}
           />
         </Card>
 
-        <Grid container spacing={3}>
+        <Box>
           {Object.entries(car)
             .filter(([key]) => [
               'ESPECIFICACAO', 'MOTOR', 'TRANSMISSÃO', 'DESEMPENHO',
@@ -108,40 +121,41 @@ export default function CarDetails() {
               'AERODINÂMICA', 'DIMENSÕES', 'PESO E CAPACIDADES'
             ].includes(key))
             .map(([section, details]) => (
-              <Grid item xs={12} md={6} lg={4} key={section}>
-                <SpecCard>
-                  <Typography
-                    variant="h5"
-                    sx={{
-                      color: '#c00',
-                      borderBottom: '2px solid #c00',
-                      pb: 1,
-                      mb: 2
-                    }}
-                  >
-                    {section}
-                  </Typography>
+              <SpecCard key={section}>
+                <Typography
+                  variant="h5"
+                  sx={{
+                    color: '#c00',
+                    borderBottom: '2px solid #c00',
+                    pb: 1,
+                    mb: 3,
+                    textAlign: 'center'
+                  }}
+                >
+                  {section}
+                </Typography>
 
-                  <Grid container>
-                    {Object.entries(details).map(([k, v], index) => (
-                      <DetailRow item xs={12} key={k}>
-                        <Grid container spacing={2}>
-                          <Grid item xs={6}>
-                            <Typography variant="body2">{k}</Typography>
-                          </Grid>
-                          <Grid item xs={6}>
-                            <Typography variant="body2" sx={{ color: '#c00', fontWeight: 'bold' }}>
-                              {v}
-                            </Typography>
-                          </Grid>
-                        </Grid>
-                      </DetailRow>
-                    ))}
-                  </Grid>
-                </SpecCard>
-              </Grid>
+                <Box>
+                  {Object.entries(details).map(([k, v]) => (
+                    <SpecRow key={k}>
+                      <Typography variant="body1" sx={{ fontWeight: 'bold' }}>
+                        {k.replace(':', '')}
+                      </Typography>
+                      <Typography
+                        variant="body1"
+                        sx={{
+                          color: '#c00',
+                          fontWeight: 'bold'
+                        }}
+                      >
+                        {v}
+                      </Typography>
+                    </SpecRow>
+                  ))}
+                </Box>
+              </SpecCard>
             ))}
-        </Grid>
+        </Box>
       </Box>
     </Box>
   );
