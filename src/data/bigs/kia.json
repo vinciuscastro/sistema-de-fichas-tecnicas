@@ -17305,12 +17305,12 @@
                 "Tanque combustível:": "82 litros"
             }
         },
-        "sobre-o-modelo": {
+        "cerato-1.6-2006": {
             "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/Cerato-2006.jpg",
-            "NOME": "sobre-o-modelo",
-            "ANO": "MODELO",
+            "NOME": "cerato-1.6-2006",
+            "ANO": "2006",
             "MARCA": "kia",
-            "MODELO": "sobre",
+            "MODELO": "cerato",
             "ESPECIFICACAO": {
                 "Marca:": "Kia",
                 "Modelo:": "Cerato",

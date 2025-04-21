@@ -6,10 +6,10 @@
             "NOME": "f-type-coupe-r-dynamic-2.0-2024",
             "ANO": "2024",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
-                "Modelo:": "F-Tipe",
+                "Modelo:": "F-Type",
                 "Versão:": "Coupe R-Dynamic 2.0 2024",
                 "Combustível:": "Gasolina",
                 "Origem:": "Importado",
@@ -100,7 +100,7 @@
             "NOME": "f-pace-srv-edition-1988-5.0-v8-2023",
             "ANO": "2023",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -194,7 +194,7 @@
             "NOME": "f-pace-srv-5.0-v8-2024",
             "ANO": "2024",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -288,7 +288,7 @@
             "NOME": "f-pace-srv-5.0-v8-2023",
             "ANO": "2023",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -382,7 +382,7 @@
             "NOME": "f-pace-r-dynamic-se-2.0-phev-2024",
             "ANO": "2024",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -484,7 +484,7 @@
             "NOME": "e-pace-r-dynamic-se-2.0-2024",
             "ANO": "2024",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -579,7 +579,7 @@
             "NOME": "f-type-roadster-dynamic-black-2.0-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -673,7 +673,7 @@
             "NOME": "f-type-roadster-r-dynamic-2.0-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -767,7 +767,7 @@
             "NOME": "f-type-roadster-r-dynamic-2.0-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -861,7 +861,7 @@
             "NOME": "f-type-roadster-r-dynamic-3.0-v6-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -955,7 +955,7 @@
             "NOME": "f-type-roadster-r-dynamic-3.0-v6-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -1049,7 +1049,7 @@
             "NOME": "f-type-roadster-r-dynamic-2.0-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -1143,7 +1143,7 @@
             "NOME": "f-type-roadster-r-dynamic-2.0-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -1237,7 +1237,7 @@
             "NOME": "f-type-roadster-s-3.0-v6-2017",
             "ANO": "2017",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -1425,7 +1425,7 @@
             "NOME": "i-pace-black-ev400-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "i",
+            "MODELO": "i-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "EV400",
@@ -1499,7 +1499,7 @@
             "NOME": "i-pace-ev400-se-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "i",
+            "MODELO": "i-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "EV400",
@@ -1573,7 +1573,7 @@
             "NOME": "i-pace-ev400-se-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "i",
+            "MODELO": "i-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "EV400",
@@ -1647,7 +1647,7 @@
             "NOME": "i-pace-ev400-se-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "i",
+            "MODELO": "i-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "EV 400",
@@ -1721,7 +1721,7 @@
             "NOME": "i-pace-ev400-se-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "i",
+            "MODELO": "i-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "EV400",
@@ -1795,10 +1795,10 @@
             "NOME": "f-type-coupe-r-dynamic-2.0-2023",
             "ANO": "2023",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
-                "Modelo:": "F-Tipe",
+                "Modelo:": "F-Type",
                 "Versão:": "Coupe R-Dynamic 2.0 2023",
                 "Combustível:": "Gasolina",
                 "Origem:": "Importado",
@@ -1889,10 +1889,10 @@
             "NOME": "f-type-coupe-r-dynamic-2.0-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
-                "Modelo:": "F-Tipe",
+                "Modelo:": "F-Type",
                 "Versão:": "Coupe R-Dynamic 2.0 2022",
                 "Combustível:": "Gasolina",
                 "Origem:": "Importado",
@@ -1983,7 +1983,7 @@
             "NOME": "f-pace-srv-5.0-v8-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -2077,7 +2077,7 @@
             "NOME": "f-pace-srv-5.0-v8-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -2171,7 +2171,7 @@
             "NOME": "f-pace-s-3.0-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -2265,7 +2265,7 @@
             "NOME": "f-pace-r-dynamic-se-3.0-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -2359,7 +2359,7 @@
             "NOME": "f-pace-r-dynamic-s-3.0-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -2453,7 +2453,7 @@
             "NOME": "f-pace-r-dynamic-s-3.0-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -2547,7 +2547,7 @@
             "NOME": "e-pace-r-dynamic-se-2.0-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -2641,7 +2641,7 @@
             "NOME": "e-pace-r-dynamic-s-2.0-2022",
             "ANO": "2022",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -2735,7 +2735,7 @@
             "NOME": "e-pace-r-dynamic-s-2.0-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -2829,7 +2829,7 @@
             "NOME": "f-type-coupé-r-dynamic-3.0-v6-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -2923,7 +2923,7 @@
             "NOME": "f-type-coupé-r-dynamic-2.0-2021",
             "ANO": "2021",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -3260,7 +3260,7 @@
             "MODELO": "xj",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
-                "Modelo:": "XF",
+                "Modelo:": "XJ",
                 "Versão:": "3.0 V6 2019",
                 "Combustível:": "Gasolina",
                 "Origem:": "Importado",
@@ -3727,7 +3727,7 @@
             "NOME": "f-type-coupé-r-dynamic-2.0-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -3821,7 +3821,7 @@
             "NOME": "f-type-coupé-srv-5.0-v8-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -3915,7 +3915,7 @@
             "NOME": "f-pace-prestige-2.0-diesel-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -4009,7 +4009,7 @@
             "NOME": "f-pace-r-sport-2.0-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -4103,7 +4103,7 @@
             "NOME": "f-pace-prestige-2.0-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -4197,7 +4197,7 @@
             "NOME": "e-pace-r-dynamic-se-2.0-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -4291,7 +4291,7 @@
             "NOME": "e-pace-r-dynamic-se-2.0-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -4385,7 +4385,7 @@
             "NOME": "e-pace-r-dynamic-s-2.0-awd-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -4479,7 +4479,7 @@
             "NOME": "e-pace-r-dynamic-s-2.0-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -5226,12 +5226,12 @@
                 "Tanque combustível:": "70 litros"
             }
         },
-        "s-3.0-v6-supercharged-2018": {
+        "xf-s-3.0-v6-supercharged-2018": {
             "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/XF-30-2015.jpg",
-            "NOME": "s-3.0-v6-supercharged-2018",
+            "NOME": "xf-s-3.0-v6-supercharged-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "s",
+            "MODELO": "xf",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "XF",
@@ -5320,12 +5320,12 @@
                 "Tanque combustível:": "74 litros"
             }
         },
-        "s-3.0-v6-supercharged-2017": {
+        "xf-s-3.0-v6-supercharged-2017": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Jaguar/XF/Jaguar_XF_03.jpg",
-            "NOME": "s-3.0-v6-supercharged-2017",
+            "NOME": "xf-s-3.0-v6-supercharged-2017",
             "ANO": "2017",
             "MARCA": "jaguar",
-            "MODELO": "s",
+            "MODELO": "xf",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "XF",
@@ -5414,12 +5414,12 @@
                 "Tanque combustível:": "74 litros"
             }
         },
-        "s-3.0-v6-supercharged-2016": {
+        "xf-s-3.0-v6-supercharged-2016": {
             "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/XF-30-2015.jpg",
-            "NOME": "s-3.0-v6-supercharged-2016",
+            "NOME": "xf-s-3.0-v6-supercharged-2016",
             "ANO": "2016",
             "MARCA": "jaguar",
-            "MODELO": "s",
+            "MODELO": "xf",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "XF",
@@ -5513,7 +5513,7 @@
             "NOME": "e-pace-2.0-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -5607,7 +5607,7 @@
             "NOME": "f-pace-prestige-2.0-diesel-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -5701,7 +5701,7 @@
             "NOME": "f-pace-r-sport-2.0-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -5795,7 +5795,7 @@
             "NOME": "f-pace-prestige-2.0-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -5889,7 +5889,7 @@
             "NOME": "f-pace-pure-2.0-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -5983,7 +5983,7 @@
             "NOME": "f-type-coupé-r-5.0-v8-2020",
             "ANO": "2020",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -6077,7 +6077,7 @@
             "NOME": "f-type-coupé-srv-5.0-v8-2019",
             "ANO": "2019",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -6171,7 +6171,7 @@
             "NOME": "f-type-coupé-srv-5.0-v8-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -6265,7 +6265,7 @@
             "NOME": "f-type-coupé-srv-5.0-v8-2017",
             "ANO": "2017",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -6359,7 +6359,7 @@
             "NOME": "f-pace-s-3.0-v6-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -6453,7 +6453,7 @@
             "NOME": "f-pace-prestige-2.0-turbodiesel-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -6547,7 +6547,7 @@
             "NOME": "f-pace-r-sport-2.0-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -6641,7 +6641,7 @@
             "NOME": "f-pace-prestige-2.0-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -6735,7 +6735,7 @@
             "NOME": "f-pace-pure-2.0-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -6829,7 +6829,7 @@
             "NOME": "e-pace-first-edition-2.0-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -6923,7 +6923,7 @@
             "NOME": "e-pace-r-dynamic-se-2.0-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -7017,7 +7017,7 @@
             "NOME": "e-pace-r-dynamic-s-2.0-2018",
             "ANO": "2018",
             "MARCA": "jaguar",
-            "MODELO": "e",
+            "MODELO": "e-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "E-Pace",
@@ -7482,12 +7482,12 @@
                 "Tanque combustível:": "70 litros"
             }
         },
-        "portfolio-3.0-v6-supercharged-2015": {
+        "xf-portfolio-3.0-v6-supercharged-2015": {
             "IMAGEM": "https://heycar.com.br/images/2018/Janeiro/XF-30-2015.jpg",
             "NOME": "portfolio-3.0-v6-supercharged-2015",
             "ANO": "2015",
             "MARCA": "jaguar",
-            "MODELO": "portfolio",
+            "MODELO": "XF",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "XF",
@@ -8145,7 +8145,7 @@
             "NOME": "f-type-coupé-3.0-v6-2016",
             "ANO": "2016",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8239,7 +8239,7 @@
             "NOME": "f-type-roadster-s-3.0-v6-2016",
             "ANO": "2016",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8333,7 +8333,7 @@
             "NOME": "f-type-roadster-s-3.0-v6-2015",
             "ANO": "2015",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8427,7 +8427,7 @@
             "NOME": "f-type-coupé-3.0-v6-2015",
             "ANO": "2015",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8521,7 +8521,7 @@
             "NOME": "f-type-coupé-r-5.0-v8-2016",
             "ANO": "2016",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8615,7 +8615,7 @@
             "NOME": "f-type-roadster-s-3.0-v6-2014",
             "ANO": "2014",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8709,7 +8709,7 @@
             "NOME": "f-type-coupé-r-5.0-v8-2015",
             "ANO": "2015",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8803,7 +8803,7 @@
             "NOME": "f-type-roadster-s-5.0-v8-2014",
             "ANO": "2014",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8897,7 +8897,7 @@
             "NOME": "f-type-coupe-r-srv-5.0-v8-awd",
             "ANO": "AWD",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -8963,7 +8963,7 @@
             "NOME": "f-type-coupé-r-5.0-v8-awd",
             "ANO": "AWD",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -9029,7 +9029,7 @@
             "NOME": "f-type-coupé-s-3.0-v6",
             "ANO": "V6",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -9095,7 +9095,7 @@
             "NOME": "f-type-coupé-3.0-v6",
             "ANO": "V6",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-type",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Type",
@@ -9161,7 +9161,7 @@
             "NOME": "f-pace-s-3.0-v6-2017",
             "ANO": "2017",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -9255,7 +9255,7 @@
             "NOME": "f-pace-r-sport-2.0-2017",
             "ANO": "2017",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -9349,7 +9349,7 @@
             "NOME": "f-pace-first-edition-3.0-v6-2017",
             "ANO": "2017",
             "MARCA": "jaguar",
-            "MODELO": "f",
+            "MODELO": "f-pace",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
                 "Modelo:": "F-Pace",
@@ -9446,7 +9446,7 @@
             "MODELO": "xj",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
-                "Modelo:": "XF",
+                "Modelo:": "XJ",
                 "Versão:": "Supersport 5.0 V8 2015",
                 "Combustível:": "Gasolina",
                 "Origem:": "Importado",
@@ -9540,7 +9540,7 @@
             "MODELO": "xj",
             "ESPECIFICACAO": {
                 "Marca:": "Jaguar",
-                "Modelo:": "XF",
+                "Modelo:": "XJ",
                 "Versão:": "3.0 V6 2015",
                 "Combustível:": "Gasolina",
                 "Origem:": "Importado",

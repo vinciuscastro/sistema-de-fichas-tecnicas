@@ -44,6 +44,7 @@ const StyledAutocomplete = styled(Autocomplete)(({ theme }) => ({
 }));
 
 export default function FiltrosCarros() {
+  const formatarMarca = (str) => str.split('-').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
   const navigate = useNavigate();
   const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 
@@ -122,7 +123,7 @@ export default function FiltrosCarros() {
           }}
         >
           <StyledAutocomplete
-            options={carrosPorMarca.map(m => ({ label: m.marca, value: m.marca }))}
+            options={carrosPorMarca.map(m => ({ label: formatarMarca(m.marca), value: m.marca }))}
             value={marca}
             onChange={(_, newValue) => {
               setMarca(newValue);

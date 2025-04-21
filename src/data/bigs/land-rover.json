@@ -382,7 +382,7 @@
             "NOME": "range-rover-hse-dynamic-black-2.0-phev-2022",
             "ANO": "2022",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -481,7 +481,7 @@
             "NOME": "range-rover-hse-2.0-phev-2022",
             "ANO": "2022",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -580,7 +580,7 @@
             "NOME": "range-rover-sport-svr-carbon-edition-5.0-v8-2022",
             "ANO": "2022",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -674,7 +674,7 @@
             "NOME": "range-rover-sport-svr-5.0-v8-2022",
             "ANO": "2022",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -768,7 +768,7 @@
             "NOME": "range-rover-sport-se-3.0-2022",
             "ANO": "2022",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -862,7 +862,7 @@
             "NOME": "range-rover-sport-hse-3.0-2022",
             "ANO": "2022",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -2084,7 +2084,7 @@
             "NOME": "range-rover-vogue-se-2.0-phev-hybrid-2021",
             "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "vogue",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -3277,7 +3277,7 @@
             "NOME": "range-rover-sport-srv-5.0-v8-2021",
             "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -3357,7 +3357,7 @@
             "NOME": "range-rover-sport-se-3.0-v6-2021",
             "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -3437,7 +3437,7 @@
             "NOME": "range-rover-sport-hse-dynamic-3.0-v6-2021",
             "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -3517,7 +3517,7 @@
             "NOME": "range-rover-sport-hse-3.0-v6-2021",
             "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -3597,7 +3597,7 @@
             "NOME": "range-rover-sport-hse-dynamic-2.0-phev-2021",
             "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -3681,7 +3681,7 @@
             "NOME": "range-rover-sport-hse-2.0-phev-2021",
             "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -4235,7 +4235,7 @@
             "NOME": "range-rover-vogue-se-2.0-hybrid-2020",
             "ANO": "2020",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "vogue",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -4318,7 +4318,7 @@
             "NOME": "range-rover-vogue-autobiography-2.0-hybrid-2020",
             "ANO": "2020",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "vogue",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -4401,7 +4401,7 @@
             "NOME": "range-rover-sport-hse-dynamic-2.0-hybrid-2020",
             "ANO": "2020",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -5713,7 +5713,7 @@
             "NOME": "range-rover-autobiography-5.0-v8-2019",
             "ANO": "2019",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "autobiography",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -5791,7 +5791,7 @@
             "NOME": "range-rover-vogue-se-4.4-v8-2019",
             "ANO": "2019",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "vogue",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -5869,7 +5869,7 @@
             "NOME": "range-rover-vogue-3.0-v6-2019",
             "ANO": "2019",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "vogue",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -12757,7 +12757,7 @@
             "NOME": "range-rover-sport-hse-dynamic-4.4-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -12823,7 +12823,7 @@
             "NOME": "range-rover-sport-hst-3.0-v6",
             "ANO": "V6",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -12889,7 +12889,7 @@
             "NOME": "range-rover-sport-hse-3.0-v6-(die)",
             "ANO": "(die)",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -12955,7 +12955,7 @@
             "NOME": "range-rover-sport-hse-3.0-v6-(gas)",
             "ANO": "(gas)",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -13016,12 +13016,12 @@
                 "Tanque combustível:": "77 litros"
             }
         },
-        "ford-range-rover-sport-se-3.0-v6": {
+        "range-rover-sport-se-3.0-v6": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-05.jpg",
-            "NOME": "ford-range-rover-sport-se-3.0-v6",
-            "ANO": "V6",
+            "NOME": "range-rover-sport-se-3.0-v6",
+            "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "ford",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -13082,14 +13082,15 @@
                 "Tanque combustível:": "77 litros"
             }
         },
-        "ford-range-rover-sport-3.0-v6": {
+        "range-rover-sport-3.0-v6": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-04.jpg",
-            "NOME": "ford-range-rover-sport-3.0-v6",
-            "ANO": "V6",
+            "NOME": "range-rover-sport-3.0-v6",
+            "ANO": "2021",
             "MARCA": "land-rover",
-            "MODELO": "ford",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Instalação:": "Dianteiro",
+                "Versão": "Sport V6 3.0",
                 "Posição:": "Longitudinal",
                 "Aspiração:": "Turbo",
                 "Cilindrada:": "2.995 cc",
@@ -13146,7 +13147,7 @@
             "NOME": "range-rover-sport-srv-5.0-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -13212,7 +13213,7 @@
             "NOME": "range-rover-sport-hse-dynamic-5.0-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -13278,7 +13279,7 @@
             "NOME": "range-rover-sport-autobiography-5.0-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "sport",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover Sport",
@@ -13344,7 +13345,7 @@
             "NOME": "range-rover-sv-autobiography-lwb-5.0-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "autobiography",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13410,7 +13411,7 @@
             "NOME": "range-rover-sv-autobiography-dynamic-5.0-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "autobiography",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13476,7 +13477,7 @@
             "NOME": "range-rover-autobiography-5.0-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "autobiography",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13542,7 +13543,7 @@
             "NOME": "range-rover-autobiography-lwb-5.0-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "autobiography",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13608,7 +13609,7 @@
             "NOME": "range-rover-autobiography-lwb-4.4-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "autobiography",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13674,7 +13675,7 @@
             "NOME": "range-rover-autobiography-4.4-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "autobiography",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13740,7 +13741,7 @@
             "NOME": "range-rover-vogue-se-4.4-v8",
             "ANO": "V8",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "vogue",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13806,7 +13807,7 @@
             "NOME": "range-rover-vogue-3.0-v6",
             "ANO": "V6",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "vogue",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
@@ -13872,7 +13873,7 @@
             "NOME": "range-rover-black-3.0-v6-2016",
             "ANO": "2016",
             "MARCA": "land-rover",
-            "MODELO": "range",
+            "MODELO": "black",
             "ESPECIFICACAO": {
                 "Marca:": "Land Rover",
                 "Modelo:": "Range Rover",
