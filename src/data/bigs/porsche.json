@@ -17014,7 +17014,7 @@
         "panamera-turbo-4.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Panamera-Turbo.jpg",
             "NOME": "panamera-turbo-4.0-v8",
-            "ANO": "V8",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "panamera",
             "ESPECIFICACAO": {
@@ -17178,7 +17178,7 @@
         "panamera-4s-2.9-v6": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Panamera-4S.jpg",
             "NOME": "panamera-4s-2.9-v6",
-            "ANO": "V6",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "panamera",
             "ESPECIFICACAO": {
@@ -17248,7 +17248,7 @@
         "cayenne-turbo-s-4.8-v8": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Cayenne-Turbo-S.jpg",
             "NOME": "cayenne-turbo-s-4.8-v8",
-            "ANO": "V8",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "cayenne",
             "ESPECIFICACAO": {
@@ -17318,7 +17318,7 @@
         "cayenne-turbo-4.8-v8": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Cayenne-Turbo.jpg",
             "NOME": "cayenne-turbo-4.8-v8",
-            "ANO": "V8",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "cayenne",
             "ESPECIFICACAO": {
@@ -17388,7 +17388,7 @@
         "cayenne-gts-3.6-v6-turbo": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Cayenne-GTS.jpg",
             "NOME": "cayenne-gts-3.6-v6-turbo",
-            "ANO": "Turbo",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "cayenne",
             "ESPECIFICACAO": {
@@ -17458,7 +17458,7 @@
         "cayenne-s-e-hybrid-turbo": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Cayenne-Hybrid.jpg",
             "NOME": "cayenne-s-e-hybrid-turbo",
-            "ANO": "Turbo",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "cayenne",
             "ESPECIFICACAO": {
@@ -17528,7 +17528,7 @@
         "cayenne-s": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Cayenne-S.jpg",
             "NOME": "cayenne-s",
-            "ANO": "S",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "cayenne",
             "ESPECIFICACAO": {
@@ -17598,7 +17598,7 @@
         "cayenne-3.6-v6": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Cayenne.jpg",
             "NOME": "cayenne-3.6-v6",
-            "ANO": "V6",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "cayenne",
             "ESPECIFICACAO": {
@@ -17762,7 +17762,7 @@
         "macan-gts-3.0-v6": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Macan-GTS.jpg",
             "NOME": "macan-gts-3.0-v6",
-            "ANO": "V6",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "macan",
             "ESPECIFICACAO": {
@@ -17832,7 +17832,7 @@
         "macan-2.0-s": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Macan-S.jpg",
             "NOME": "macan-2.0-s",
-            "ANO": "S",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "macan",
             "ESPECIFICACAO": {
@@ -18416,7 +18416,7 @@
         "911-carrera-4s-cabrio": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Carrera-4S-Cabrio.jpg",
             "NOME": "911-carrera-4s-cabrio",
-            "ANO": "Cabrio",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "911",
             "ESPECIFICACAO": {
@@ -18486,7 +18486,7 @@
         "911-carrera-4-cabrio": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Carrera-4-Cabrio.jpg",
             "NOME": "911-carrera-4-cabrio",
-            "ANO": "Cabrio",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "911",
             "ESPECIFICACAO": {
@@ -18696,7 +18696,7 @@
         "911-carrera-s-cabrio": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Carrera-S-Cabriolet.jpg",
             "NOME": "911-carrera-s-cabrio",
-            "ANO": "Cabrio",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "911",
             "ESPECIFICACAO": {
@@ -18766,7 +18766,7 @@
         "911-carrera-cabriolet": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Porsche/Carrera-Cabriolet.jpg",
             "NOME": "911-carrera-cabriolet",
-            "ANO": "Cabriolet",
+            "ANO": "2017",
             "MARCA": "porsche",
             "MODELO": "911",
             "ESPECIFICACAO": {

@@ -22809,7 +22809,7 @@
         "prius-1.8-híbrido": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Prius.jpg",
             "NOME": "prius-1.8-híbrido",
-            "ANO": "híbrido",
+            "ANO": "2016",
             "MARCA": "toyota",
             "MODELO": "prius",
             "ESPECIFICACAO": {
@@ -23329,7 +23329,7 @@
         "hilux-std-2.8-turbo-4x4-cs": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux-CS.jpg",
             "NOME": "hilux-std-2.8-turbo-4x4-cs",
-            "ANO": "CS",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23399,7 +23399,7 @@
         "hilux-std-2.8-turbo-4x4-cd": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux.jpg",
             "NOME": "hilux-std-2.8-turbo-4x4-cd",
-            "ANO": "CD",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23469,7 +23469,7 @@
         "hilux-sr-2.7-4x2-at-cd": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux.jpg",
             "NOME": "hilux-sr-2.7-4x2-at-cd",
-            "ANO": "CD",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23539,7 +23539,7 @@
         "hilux-srv-2.7-4x4-at-cd": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux.jpg",
             "NOME": "hilux-srv-2.7-4x4-at-cd",
-            "ANO": "CD",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23609,7 +23609,7 @@
         "hilux-srv-2.7-4x2-at-cd": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux.jpg",
             "NOME": "hilux-srv-2.7-4x2-at-cd",
-            "ANO": "CD",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23679,7 +23679,7 @@
         "hilux-sr-2.8-turbo-4x4-at-cd": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux.jpg",
             "NOME": "hilux-sr-2.8-turbo-4x4-at-cd",
-            "ANO": "CD",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23749,7 +23749,7 @@
         "hilux-srv-2.8-turbo-4x4-at-cd": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux.jpg",
             "NOME": "hilux-srv-2.8-turbo-4x4-at-cd",
-            "ANO": "CD",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23819,7 +23819,7 @@
         "hilux-srx-2.8-turbo-4x4-at-cd": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Hilux.jpg",
             "NOME": "hilux-srx-2.8-turbo-4x4-at-cd",
-            "ANO": "CD",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "hilux",
             "ESPECIFICACAO": {
@@ -23959,7 +23959,7 @@
         "corolla-gli-1.8-at": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Corolla-2017.jpg",
             "NOME": "corolla-gli-1.8-at",
-            "ANO": "AT",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "corolla",
             "ESPECIFICACAO": {
@@ -24029,7 +24029,7 @@
         "corolla-gli-upper-black-1.8-at": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Corolla-2017.jpg",
             "NOME": "corolla-gli-upper-black-1.8-at",
-            "ANO": "AT",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "corolla",
             "ESPECIFICACAO": {
@@ -24287,7 +24287,7 @@
         "corolla-dynamic-2.0-at": {
             "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Toyota/Corolla-2017.jpg",
             "NOME": "corolla-dynamic-2.0-at",
-            "ANO": "AT",
+            "ANO": "2017",
             "MARCA": "toyota",
             "MODELO": "corolla",
             "ESPECIFICACAO": {

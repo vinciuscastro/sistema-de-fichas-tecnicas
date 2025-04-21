@@ -9280,7 +9280,7 @@
         "sobre-o-modelo": {
             "IMAGEM": "https://heycar.com.br/images/2018/Fevereiro/Defender-90-2009.jpg",
             "NOME": "sobre-o-modelo",
-            "ANO": "MODELO",
+            "ANO": "2011",
             "MARCA": "land-rover",
             "MODELO": "sobre",
             "ESPECIFICACAO": {
@@ -12755,7 +12755,7 @@
         "range-rover-sport-hse-dynamic-4.4-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS_Dynamic.jpg",
             "NOME": "range-rover-sport-hse-dynamic-4.4-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "sport",
             "ESPECIFICACAO": {
@@ -12821,7 +12821,7 @@
         "range-rover-sport-hst-3.0-v6": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-02.jpg",
             "NOME": "range-rover-sport-hst-3.0-v6",
-            "ANO": "V6",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "sport",
             "ESPECIFICACAO": {
@@ -12887,7 +12887,7 @@
         "range-rover-sport-hse-3.0-v6-(die)": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-01.jpg",
             "NOME": "range-rover-sport-hse-3.0-v6-(die)",
-            "ANO": "(die)",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "sport",
             "ESPECIFICACAO": {
@@ -12953,7 +12953,7 @@
         "range-rover-sport-hse-3.0-v6-(gas)": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-06.jpg",
             "NOME": "range-rover-sport-hse-3.0-v6-(gas)",
-            "ANO": "(gas)",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "sport",
             "ESPECIFICACAO": {
@@ -13145,7 +13145,7 @@
         "range-rover-sport-srv-5.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-03.jpg",
             "NOME": "range-rover-sport-srv-5.0-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "sport",
             "ESPECIFICACAO": {
@@ -13211,7 +13211,7 @@
         "range-rover-sport-hse-dynamic-5.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-02.jpg",
             "NOME": "range-rover-sport-hse-dynamic-5.0-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "sport",
             "ESPECIFICACAO": {
@@ -13277,7 +13277,7 @@
         "range-rover-sport-autobiography-5.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range_Sport/RRS-01.jpg",
             "NOME": "range-rover-sport-autobiography-5.0-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "sport",
             "ESPECIFICACAO": {
@@ -13343,7 +13343,7 @@
         "range-rover-sv-autobiography-lwb-5.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-07.jpg",
             "NOME": "range-rover-sv-autobiography-lwb-5.0-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "autobiography",
             "ESPECIFICACAO": {
@@ -13409,7 +13409,7 @@
         "range-rover-sv-autobiography-dynamic-5.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-06.jpg",
             "NOME": "range-rover-sv-autobiography-dynamic-5.0-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "autobiography",
             "ESPECIFICACAO": {
@@ -13475,7 +13475,7 @@
         "range-rover-autobiography-5.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-06.jpg",
             "NOME": "range-rover-autobiography-5.0-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "autobiography",
             "ESPECIFICACAO": {
@@ -13541,7 +13541,7 @@
         "range-rover-autobiography-lwb-5.0-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-07.jpg",
             "NOME": "range-rover-autobiography-lwb-5.0-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "autobiography",
             "ESPECIFICACAO": {
@@ -13607,7 +13607,7 @@
         "range-rover-autobiography-lwb-4.4-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-07.jpg",
             "NOME": "range-rover-autobiography-lwb-4.4-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "autobiography",
             "ESPECIFICACAO": {
@@ -13673,7 +13673,7 @@
         "range-rover-autobiography-4.4-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-04.jpg",
             "NOME": "range-rover-autobiography-4.4-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "autobiography",
             "ESPECIFICACAO": {
@@ -13739,7 +13739,7 @@
         "range-rover-vogue-se-4.4-v8": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-03.jpg",
             "NOME": "range-rover-vogue-se-4.4-v8",
-            "ANO": "V8",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "vogue",
             "ESPECIFICACAO": {
@@ -13805,7 +13805,7 @@
         "range-rover-vogue-3.0-v6": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Range/RR-02.jpg",
             "NOME": "range-rover-vogue-3.0-v6",
-            "ANO": "V6",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "vogue",
             "ESPECIFICACAO": {
@@ -14034,7 +14034,7 @@
         "evoque-se-dynamic-2.0-si4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Evoque/Evoque_05.jpg",
             "NOME": "evoque-se-dynamic-2.0-si4",
-            "ANO": "Si4",
+            "ANO": "2017",
             "MARCA": "land-rover",
             "MODELO": "evoque",
             "ESPECIFICACAO": {
@@ -14100,7 +14100,7 @@
         "evoque-hse-dynamic-2.0-si4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Evoque/Evoque_04.jpg",
             "NOME": "evoque-hse-dynamic-2.0-si4",
-            "ANO": "Si4",
+            "ANO": "2017",
             "MARCA": "land-rover",
             "MODELO": "evoque",
             "ESPECIFICACAO": {
@@ -14166,7 +14166,7 @@
         "evoque-se-2.0-si4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Evoque/Evoque_03.jpg",
             "NOME": "evoque-se-2.0-si4",
-            "ANO": "SI4",
+            "ANO": "2017",
             "MARCA": "land-rover",
             "MODELO": "evoque",
             "ESPECIFICACAO": {
@@ -14232,7 +14232,7 @@
         "evoque-se-2.0-td4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Evoque/Evoque_02.jpg",
             "NOME": "evoque-se-2.0-td4",
-            "ANO": "TD4",
+            "ANO": "2017",
             "MARCA": "land-rover",
             "MODELO": "evoque",
             "ESPECIFICACAO": {
@@ -14298,7 +14298,7 @@
         "evoque-hse-2.0-td4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Evoque/Evoque_01.jpg",
             "NOME": "evoque-hse-2.0-td4",
-            "ANO": "TD4",
+            "ANO": "2017",
             "MARCA": "land-rover",
             "MODELO": "evoque",
             "ESPECIFICACAO": {
@@ -14364,7 +14364,7 @@
         "discovery-sport-hse-luxury-2.0-sd4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-09.jpg",
             "NOME": "discovery-sport-hse-luxury-2.0-sd4",
-            "ANO": "SD4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14430,7 +14430,7 @@
         "discovery-sport-hse-2.2-sd4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-08.jpg",
             "NOME": "discovery-sport-hse-2.2-sd4",
-            "ANO": "SD4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14496,7 +14496,7 @@
         "discovery-sport-hse-luxury-2.0-td4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-07.jpg",
             "NOME": "discovery-sport-hse-luxury-2.0-td4",
-            "ANO": "TD4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14562,7 +14562,7 @@
         "discovery-sport-hse-2.0-td4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-06.jpg",
             "NOME": "discovery-sport-hse-2.0-td4",
-            "ANO": "TD4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14628,7 +14628,7 @@
         "discovery-sport-hse-luxury-2.0-si4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-05.jpg",
             "NOME": "discovery-sport-hse-luxury-2.0-si4",
-            "ANO": "Si4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14694,7 +14694,7 @@
         "discovery-sport-hse-2.0-si4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-04.jpg",
             "NOME": "discovery-sport-hse-2.0-si4",
-            "ANO": "Si4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14760,7 +14760,7 @@
         "discovery-sport-se-2.2-sd4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-03.jpg",
             "NOME": "discovery-sport-se-2.2-sd4",
-            "ANO": "SD4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14826,7 +14826,7 @@
         "discovery-sport-se-2.0-td4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-02.jpg",
             "NOME": "discovery-sport-se-2.0-td4",
-            "ANO": "TD4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14892,7 +14892,7 @@
         "discovery-sport-se-2.0-si4": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery_Sport/Discovery_Sport-01.jpg",
             "NOME": "discovery-sport-se-2.0-si4",
-            "ANO": "Si4",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -14958,7 +14958,7 @@
         "discovery-se-3.0-v6-turbo": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery-04.jpg",
             "NOME": "discovery-se-3.0-v6-turbo",
-            "ANO": "Turbo",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -15024,7 +15024,7 @@
         "discovery-s-3.0-v6-turbo": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery-03.jpg",
             "NOME": "discovery-s-3.0-v6-turbo",
-            "ANO": "Turbo",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -15090,7 +15090,7 @@
         "discovery-hse-3.0-v6-turbo": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery-02.jpg",
             "NOME": "discovery-hse-3.0-v6-turbo",
-            "ANO": "Turbo",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
@@ -15156,7 +15156,7 @@
         "discovery-graphite-3.0-v6-turbo": {
             "IMAGEM": "https://heycar.com.br/images/2016/Dezembro/Galerias/Land_Rover/Discovery-01.jpg",
             "NOME": "discovery-graphite-3.0-v6-turbo",
-            "ANO": "Turbo",
+            "ANO": "2016",
             "MARCA": "land-rover",
             "MODELO": "discovery",
             "ESPECIFICACAO": {
