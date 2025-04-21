@@ -2,15 +2,16 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
   Box,
-  FormControl,
-  InputLabel,
-  MenuItem,
-  Select,
   Typography,
   Button,
   Paper,
-  styled
+  styled,
+  TextField,
+  Autocomplete,
+  InputAdornment,
+  IconButton
 } from '@mui/material';
+import SearchIcon from '@mui/icons-material/Search';
 import carrosPorMarca from '../index.js';
 
 const RedPaper = styled(Paper)(({ theme }) => ({
@@ -23,12 +24,9 @@ const RedPaper = styled(Paper)(({ theme }) => ({
   textAlign: 'center'
 }));
 
-const StyledFormControl = styled(FormControl)(({ theme }) => ({
-  minWidth: 240,
-  '& .MuiInputLabel-root': {
-    color: '#666',
-  },
+const StyledAutocomplete = styled(Autocomplete)(({ theme }) => ({
   '& .MuiOutlinedInput-root': {
+    paddingRight: '9px !important',
     backgroundColor: 'white',
     '& fieldset': {
       borderColor: '#ccc',
@@ -40,26 +38,58 @@ const StyledFormControl = styled(FormControl)(({ theme }) => ({
       borderColor: '#c00',
     },
   },
+  '& .MuiInputLabel-root': {
+    color: '#666',
+  },
 }));
 
 export default function FiltrosCarros() {
   const navigate = useNavigate();
+  const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 
-  const [marca, setMarca] = useState('');
-  const [modelo, setModelo] = useState('');
-  const [ano, setAno] = useState('');
-  const [modeloFinal, setModeloFinal] = useState('');
+  const [marca, setMarca] = useState(null);
+  const [modelo, setModelo] = useState(null);
+  const [ano, setAno] = useState(null);
+  const [modeloFinal, setModeloFinal] = useState(null);
 
-  const modelosObj = carrosPorMarca.find(m => m.marca === marca)?.modelos || {};
+  const modelosObj = carrosPorMarca.find(m => m.marca === marca?.value)?.modelos || {};
   const arrModelos = Object.values(modelosObj);
-  const modelosUnicos = [...new Set(arrModelos.map(m => m.MODELO))];
-  const anosUnicos = [...new Set(arrModelos.filter(m => m.MODELO === modelo).map(m => m.ANO))];
-  const opcoesFinais = arrModelos.filter(m => m.MODELO === modelo && m.ANO === ano);
+
+  const modelosUnicos = Array.from(
+    new Map(
+      arrModelos.map(m => {
+        const label = capitalize(m.MODELO);
+        return [label, { label, value: m.MODELO }];
+      })
+    ).values()
+  ).sort((a, b) => a.label.localeCompare(b.label)); // Ordenar por nome do modelo
+
+
+  const anosUnicos = Array.from(
+    new Map(
+      arrModelos
+        .filter(m => m.MODELO === modelo?.value)
+        .map(m => [m.ANO, { label: m.ANO, value: m.ANO }])
+    ).values()
+  ).sort((a, b) => b.value - a.value); // Mais recente primeiro
+
+
+
+  const opcoesFinais = arrModelos.filter(m => m.MODELO === modelo?.value && m.ANO === ano?.value)
+    .map(m => ({
+      label: m.ESPECIFICACAO?.["Versão:"] || m.NOME,
+      value: m.NOME
+    }));
 
   const handleFinalChange = (value) => {
     setModeloFinal(value);
-    const selected = opcoesFinais.find(m => m.NOME === value);
-    if (selected) navigate('/details', { state: selected });
+  };
+
+  const handleNavigate = () => {
+    if (modeloFinal) {
+      const selectedCar = arrModelos.find(m => m.NOME === modeloFinal.value);
+      navigate('/details', { state: selectedCar });
+    }
   };
 
   return (
@@ -75,7 +105,7 @@ export default function FiltrosCarros() {
             Catálogo de Carros
           </Typography>
           <Typography variant="subtitle1">
-            Selecione os filtros para encontrar seu veículo
+            Pesquise e encontre seu veículo
           </Typography>
         </RedPaper>
 
@@ -91,82 +121,113 @@ export default function FiltrosCarros() {
             borderLeft: '4px solid #c00'
           }}
         >
-          <StyledFormControl fullWidth>
-            <InputLabel>Marca</InputLabel>
-            <Select
-              value={marca}
-              label="Marca"
-              onChange={e => {
-                setMarca(e.target.value);
-                setModelo('');
-                setAno('');
-                setModeloFinal('');
-              }}
-            >
-              {carrosPorMarca.map(m => (
-                <MenuItem key={m.marca} value={m.marca}>
-                  {m.marca.toUpperCase()}
-                </MenuItem>
-              ))}
-            </Select>
-          </StyledFormControl>
+          <StyledAutocomplete
+            options={carrosPorMarca.map(m => ({ label: m.marca, value: m.marca }))}
+            value={marca}
+            onChange={(_, newValue) => {
+              setMarca(newValue);
+              setModelo(null);
+              setAno(null);
+              setModeloFinal(null);
+            }}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Marca"
+                InputProps={{
+                  ...params.InputProps,
+                  endAdornment: (
+                    <InputAdornment position="end">
+                      <IconButton>
+                        <SearchIcon />
+                      </IconButton>
+                    </InputAdornment>
+                  ),
+                }}
+              />
+            )}
+          />
 
-          <StyledFormControl fullWidth disabled={!marca}>
-            <InputLabel>Modelo</InputLabel>
-            <Select
-              value={modelo}
-              label="Modelo"
-              onChange={e => {
-                setModelo(e.target.value);
-                setAno('');
-                setModeloFinal('');
-              }}
-            >
-              {modelosUnicos.map(m => (
-                <MenuItem key={m} value={m}>
-                  {m}
-                </MenuItem>
-              ))}
-            </Select>
-          </StyledFormControl>
+          <StyledAutocomplete
+            options={modelosUnicos}
+            value={modelo}
+            onChange={(_, newValue) => {
+              setModelo(newValue);
+              setAno(null);
+              setModeloFinal(null);
+            }}
+            disabled={!marca}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Modelo"
+                InputProps={{
+                  ...params.InputProps,
+                  endAdornment: (
+                    <InputAdornment position="end">
+                      <IconButton>
+                        <SearchIcon />
+                      </IconButton>
+                    </InputAdornment>
+                  ),
+                }}
+              />
+            )}
+          />
 
-          <StyledFormControl fullWidth disabled={!modelo}>
-            <InputLabel>Ano</InputLabel>
-            <Select
-              value={ano}
-              label="Ano"
-              onChange={e => {
-                setAno(e.target.value);
-                setModeloFinal('');
-              }}
-            >
-              {anosUnicos.map(a => (
-                <MenuItem key={a} value={a}>
-                  {a}
-                </MenuItem>
-              ))}
-            </Select>
-          </StyledFormControl>
+          <StyledAutocomplete
+            options={anosUnicos}
+            value={ano}
+            onChange={(_, newValue) => {
+              setAno(newValue);
+              setModeloFinal(null);
+            }}
+            disabled={!modelo}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Ano"
+                InputProps={{
+                  ...params.InputProps,
+                  endAdornment: (
+                    <InputAdornment position="end">
+                      <IconButton>
+                        <SearchIcon />
+                      </IconButton>
+                    </InputAdornment>
+                  ),
+                }}
+              />
+            )}
+          />
 
-          <StyledFormControl fullWidth disabled={!ano}>
-            <InputLabel>Versão</InputLabel>
-            <Select
-              value={modeloFinal}
-              label="Versão"
-              onChange={e => handleFinalChange(e.target.value)}
-            >
-              {opcoesFinais.map(m => (
-                <MenuItem key={m.NOME} value={m.NOME}>
-                  {m.NOME}
-                </MenuItem>
-              ))}
-            </Select>
-          </StyledFormControl>
+          <StyledAutocomplete
+            options={opcoesFinais}
+            value={modeloFinal}
+            onChange={(_, newValue) => handleFinalChange(newValue)}
+            disabled={!ano}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Versão"
+                InputProps={{
+                  ...params.InputProps,
+                  endAdornment: (
+                    <InputAdornment position="end">
+                      <IconButton>
+                        <SearchIcon />
+                      </IconButton>
+                    </InputAdornment>
+                  ),
+                }}
+              />
+            )}
+          />
 
           <Button
             variant="contained"
             disabled={!modeloFinal}
-            onClick={() => handleFinalChange(modeloFinal)}
+            onClick={() => handleNavigate()}
             sx={{
               bgcolor: '#c00',
               '&:hover': { bgcolor: '#a00' },
@@ -174,8 +235,9 @@ export default function FiltrosCarros() {
               mt: 2,
               fontSize: '1rem'
             }}
+            startIcon={<SearchIcon />}
           >
-            Ver Ficha Técnica
+            Buscar Ficha Técnica
           </Button>
         </Box>
       </Box>
