@@ -3775,7 +3775,7 @@
             "NOME": "e-tron-sportback-performance-black-2022",
             "ANO": "2022",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron Sportback",
@@ -3849,7 +3849,7 @@
             "NOME": "e-tron-sportback-performance-black-2021",
             "ANO": "2021",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron Sportback",
@@ -3923,7 +3923,7 @@
             "NOME": "e-tron-sportback-performance-black-2020",
             "ANO": "2020",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron Sportback",
@@ -3997,7 +3997,7 @@
             "NOME": "e-tron-sportback-performance-2022",
             "ANO": "2022",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron Sportback",
@@ -4071,7 +4071,7 @@
             "NOME": "e-tron-sportback-performance-2021",
             "ANO": "2021",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron Sportback",
@@ -4145,7 +4145,7 @@
             "NOME": "e-tron-sportback-performance-2020",
             "ANO": "2020",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron Sportback",
@@ -4219,7 +4219,7 @@
             "NOME": "e-tron-gt-2022",
             "ANO": "2022",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -4293,7 +4293,7 @@
             "NOME": "e-tron-gt-2021",
             "ANO": "2021",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -4367,7 +4367,7 @@
             "NOME": "e-tron-performance-2022",
             "ANO": "2022",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -4441,7 +4441,7 @@
             "NOME": "e-tron-performance-2021",
             "ANO": "2021",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -4515,7 +4515,7 @@
             "NOME": "e-tron-performance-black-2022",
             "ANO": "2022",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -4589,7 +4589,7 @@
             "NOME": "e-tron-performance-black-2021",
             "ANO": "2021",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -4663,7 +4663,7 @@
             "NOME": "e-tron-performance-black-2020",
             "ANO": "2020",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -4737,7 +4737,7 @@
             "NOME": "e-tron-performance-2020",
             "ANO": "2020",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -12378,7 +12378,7 @@
             "NOME": "rs-q3-sportback-2.5-tfsi-quattro-2022",
             "ANO": "2022",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3 Sportback",
@@ -12471,7 +12471,7 @@
             "NOME": "rs-q3-2.5-tfsi-quattro-2022",
             "ANO": "2022",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -12564,7 +12564,7 @@
             "NOME": "rs-q3-2.5-tfsi-quattro-2018",
             "ANO": "2018",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -12657,7 +12657,7 @@
             "NOME": "rs-q3-2.5-tfsi-quattro-2017",
             "ANO": "2017",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -12750,7 +12750,7 @@
             "NOME": "rs-q3-2.5-tfsi-quattro-2016",
             "ANO": "2016",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -12843,7 +12843,7 @@
             "NOME": "rs-q3-2.5-tfsi-quattro-2015",
             "ANO": "2015",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -12936,7 +12936,7 @@
             "NOME": "rs-q3-2.5-tfsi-quattro-2014",
             "ANO": "2014",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -21376,7 +21376,7 @@
             "NOME": "rs-q3-2.5-tfsi-quattro-2021",
             "ANO": "2021",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -21455,7 +21455,7 @@
             "NOME": "rs-q3-sportback-2.5-tfsi-quattro-2021",
             "ANO": "2021",
             "MARCA": "audi",
-            "MODELO": "rs",
+            "MODELO": "rs-q3",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "RS Q3",
@@ -22195,7 +22195,7 @@
             "NOME": "e-tron-prestige-black-quattro-2020",
             "ANO": "2020",
             "MARCA": "audi",
-            "MODELO": "e",
+            "MODELO": "e-tron",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "E-tron",
@@ -29795,12 +29795,12 @@
                 "Tanque combustível:": "65 litros"
             }
         },
-        "3.2-v6-fsi-quattro-2011": {
+        "a4-3.2-v6-fsi-quattro-2011": {
             "IMAGEM": "https://heycar.com.br/images/2018/Outubro/A4-09.jpg",
             "NOME": "3.2-v6-fsi-quattro-2011",
             "ANO": "2011",
             "MARCA": "audi",
-            "MODELO": "3.2",
+            "MODELO": "a4",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "A4",
@@ -29893,12 +29893,12 @@
                 "Tanque combustível:": "64 litros"
             }
         },
-        "3.2-v6-fsi-quattro-2010": {
+        "a4-3.2-v6-fsi-quattro-2010": {
             "IMAGEM": "https://heycar.com.br/images/2018/Outubro/A4-09.jpg",
             "NOME": "3.2-v6-fsi-quattro-2010",
             "ANO": "2010",
             "MARCA": "audi",
-            "MODELO": "3.2",
+            "MODELO": "a4",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "A4",
@@ -29991,12 +29991,12 @@
                 "Tanque combustível:": "64 litros"
             }
         },
-        "3.2-v6-fsi-quattro-2009": {
+        "a4-3.2-v6-fsi-quattro-2009": {
             "IMAGEM": "https://heycar.com.br/images/2018/Outubro/A4-09.jpg",
             "NOME": "3.2-v6-fsi-quattro-2009",
             "ANO": "2009",
             "MARCA": "audi",
-            "MODELO": "3.2",
+            "MODELO": "a4",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "A4",
@@ -30089,12 +30089,12 @@
                 "Tanque combustível:": "64 litros"
             }
         },
-        "3.2-v6-fsi-quattro-2008": {
+        "a4-3.2-v6-fsi-quattro-2008": {
             "IMAGEM": "https://heycar.com.br/images/2018/Outubro/A4-09.jpg",
             "NOME": "3.2-v6-fsi-quattro-2008",
             "ANO": "2008",
             "MARCA": "audi",
-            "MODELO": "3.2",
+            "MODELO": "a4",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "A4",
@@ -30187,12 +30187,12 @@
                 "Tanque combustível:": "64 litros"
             }
         },
-        "3.2-v6-fsi-2007": {
+        "a4-3.2-v6-fsi-2007": {
             "IMAGEM": "https://heycar.com.br/images/2018/Outubro/A4-09.jpg",
             "NOME": "3.2-v6-fsi-2007",
             "ANO": "2007",
             "MARCA": "audi",
-            "MODELO": "3.2",
+            "MODELO": "a4",
             "ESPECIFICACAO": {
                 "Marca:": "Audi",
                 "Modelo:": "A4",

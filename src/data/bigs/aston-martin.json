@@ -2,15 +2,15 @@
     "marca": "aston-martin",
     "modelos": {
         "vantage-s-6.0-v12-2016": {
-            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-vantage-2012.jpg",
+            "IMAGEM": "https://heycar.com.br/images/2017/Janeiro/Galerias/Aston/Vantage.jpg",
             "NOME": "vantage-s-6.0-v12-2016",
             "ANO": "2016",
             "MARCA": "aston-martin",
             "MODELO": "vantage",
             "ESPECIFICACAO": {
                 "Marca:": "Aston Martin",
-                "Modelo:": "Vantage S",
-                "Versão:": "6.0 V12 2016",
+                "Modelo:": "Vantage",
+                "Versão:": "S 6.0 V12 2016",
                 "Propulsão:": "Combustão interna",
                 "Combustível:": "Gasolina",
                 "Origem:": "Importado",
@@ -20,6 +20,1289 @@
                 "Ocupantes:": "4",
                 "Geração:": "1",
                 "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.935 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "573 @ 6.750 rpm",
+                "Torque máximo kgfm:": "63,2 @ 5.750 rpm",
+                "Potência específica:": "96,5 cv/litro",
+                "Torque específico:": "10,6 kgfm/litro",
+                "Taxa de compressão:": "10,9:1",
+                "Rel. peso/potência:": "2,9 kg/cv",
+                "Rel. peso/torque:": "26,3 kg/kgfm",
+                "Curso dos pistões:": "79,5 mm",
+                "Diâmetro cilindros:": "89 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "7",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,9 seg",
+                "Velocidade máxima:": "328 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,4",
+                "Estrada em km/l:": "6,4",
+                "Autonomia em km:": "512"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono cerâmica",
+                "Traseira:": "Disco de carbono cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/35 R19",
+                "Traseira:": "295/30 R19",
+                "Altura do flanco:": "89 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,97 m²",
+                "Coef. aerodinâmico:": "0,37 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.385 mm",
+                "Altura:": "1.241 mm",
+                "Largura:": "1.865 mm",
+                "Entre-eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.575 mm",
+                "Vão livre do solo:": "120 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.865 kg",
+                "Porta-malas:": "239 litros",
+                "Carga útil:": "340 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "vantage-s-6.0-v12-2015": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-vantage-2012.jpg",
+            "NOME": "vantage-s-6.0-v12-2015",
+            "ANO": "2015",
+            "MARCA": "aston-martin",
+            "MODELO": "vantage",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vantage S",
+                "Versão:": "6.0 V12 2015",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "vantage-6.0-v12-2012": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-vantage-2012.jpg",
+            "NOME": "vantage-6.0-v12-2012",
+            "ANO": "2012",
+            "MARCA": "aston-martin",
+            "MODELO": "vantage",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vantage",
+                "Versão:": "6.0 V12 2012",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "vantage-4.7-v8-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-vantage-2012.jpg",
+            "NOME": "vantage-4.7-v8-2016",
+            "ANO": "2016",
+            "MARCA": "aston-martin",
+            "MODELO": "vantage",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vantage",
+                "Versão:": "4.7 V8 2016",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "4.735 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "426 @ 7.000 rpm",
+                "Torque máximo kgfm:": "47,9 @ 5.750 rpm",
+                "Potência específica:": "90 cv/litro",
+                "Torque específico:": "10,1 kgfm/litro",
+                "Taxa de compressão:": "11,3:1",
+                "Rel. peso/potência:": "3,8 kg/cv",
+                "Rel. peso/torque:": "3,4 kg/kgfm",
+                "Curso dos pistões:": "91 mm",
+                "Diâmetro cilindros:": "91 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Manual",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,9 seg",
+                "Velocidade máxima:": "290 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,2",
+                "Estrada em km/l:": "6,1",
+                "Autonomia em km:": "488"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono cerâmica",
+                "Traseira:": "Disco de carbono cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "235/40 R19",
+                "Traseira:": "275/35 R19",
+                "Altura do flanco:": "96 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "1,99 m²",
+                "Coef. aerodinâmico:": "0,37 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.380 mm",
+                "Altura:": "1.255 mm",
+                "Largura:": "1.865 mm",
+                "Entre-eixos:": "2.600 mm",
+                "Bitola dianteira:": "1.570 mm",
+                "Bitola traseira:": "1.560 mm",
+                "Vão livre do solo:": "95 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.630 kg",
+                "Porta-malas:": "239 litros",
+                "Carga útil:": "200 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "vantage-4.7-v8-2014": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-vantage-2012.jpg",
+            "NOME": "vantage-4.7-v8-2014",
+            "ANO": "2014",
+            "MARCA": "aston-martin",
+            "MODELO": "vantage",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vantage",
+                "Versão:": "4.7 V8 2014",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "vantage-4.7-v8-2012": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-vantage-2012.jpg",
+            "NOME": "vantage-4.7-v8-2012",
+            "ANO": "2012",
+            "MARCA": "aston-martin",
+            "MODELO": "vantage",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vantage",
+                "Versão:": "4.7 V8 2012",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "dbx-707-4.0-v8-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-dbx-707.jpg",
+            "NOME": "dbx-707-4.0-v8-2024",
+            "ANO": "2024",
+            "MARCA": "aston-martin",
+            "MODELO": "dbx",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Dbx 707",
+                "Versão:": "4.0 V8 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "dbx-707-4.0-v8-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-dbx-707.jpg",
+            "NOME": "dbx-707-4.0-v8-2023",
+            "ANO": "2023",
+            "MARCA": "aston-martin",
+            "MODELO": "dbx",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Dbx 707",
+                "Versão:": "4.0 V8 2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "dbx-4.0-v8-2023": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-dbx-2021.jpg",
+            "NOME": "dbx-4.0-v8-2023",
+            "ANO": "2023",
+            "MARCA": "aston-martin",
+            "MODELO": "dbx",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Dbx",
+                "Versão:": "4.0 V8 2023",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "dbx-4.0-v8-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-dbx-2021.jpg",
+            "NOME": "dbx-4.0-v8-2021",
+            "ANO": "2021",
+            "MARCA": "aston-martin",
+            "MODELO": "dbx",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Dbx",
+                "Versão:": "4.0 V8 2021",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "db12-4.0-v8-2025": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/Aston_Martin-DB12-2024.jpg",
+            "NOME": "db12-4.0-v8-2025",
+            "ANO": "2025",
+            "MARCA": "aston-martin",
+            "MODELO": "db12",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "DB12",
+                "Versão:": "4.0 V8 2025",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "db12-volante-4.0-v8-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/aston-martin-db12-volante-2024.jpg",
+            "NOME": "db12-volante-4.0-v8-2024",
+            "ANO": "2024",
+            "MARCA": "aston-martin",
+            "MODELO": "db12",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "DB12",
+                "Versão:": "Volante 4.0 V8 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Conversível",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "db12-4.0-v8-2024": {
+            "IMAGEM": "https://heycar.com.br/images/2025/janeiro/Aston_Martin-DB12-2024.jpg",
+            "NOME": "db12-4.0-v8-2024",
+            "ANO": "2024",
+            "MARCA": "aston-martin",
+            "MODELO": "db12",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "DB12",
+                "Versão:": "4.0 V8 2024",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            }
+        },
+        "dbx-4.0-v8-turbo-2022": {
+            "IMAGEM": "https://heycar.com.br/images/2022/setembro/aston-martin-dbx.jpg",
+            "NOME": "dbx-4.0-v8-turbo-2022",
+            "ANO": "2022",
+            "MARCA": "aston-martin",
+            "MODELO": "dbx",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Dbx",
+                "Versão:": "4.0 V8 Turbo 2022",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.982 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência máxima CV:": "550 @ 6.500 rpm",
+                "Torque máximo kgfm:": "71,4 @ 2.200 rpm",
+                "Potência específica:": "138,1 cv/litro",
+                "Torque específico:": "17,9 kgfm/litro",
+                "Taxa de compressão:": "8,6:1",
+                "Rel. peso/potência:": "4,1 kg/cv",
+                "Rel. peso/torque:": "31,4 kg/kgfm",
+                "Curso dos pistões:": "92 mm",
+                "Diâmetro cilindros:": "83 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "M177DE40AL"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "9",
+                "Acoplamento:": "Embreagem dupla banhada a óleo",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,5 seg",
+                "Velocidade máxima:": "291 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "680"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco Ventilado",
+                "Traseira:": "Disco Ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/40 R22",
+                "Traseira:": "325/35 R22",
+                "Altura do flanco:": "114 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.039 mm",
+                "Altura:": "1.680 mm",
+                "Largura:": "1.998 mm",
+                "Entre-eixos:": "3.060 mm",
+                "Bitola dianteira:": "informação não disponível",
+                "Bitola traseira:": "informação não disponível",
+                "Vão livre do solo:": "190 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.245 kg",
+                "Porta-malas:": "632 litros",
+                "Carga útil:": "500 kg",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "dbx-4.0-v8-turbo-2021": {
+            "IMAGEM": "https://heycar.com.br/images/2022/setembro/aston-martin-dbx.jpg",
+            "NOME": "dbx-4.0-v8-turbo-2021",
+            "ANO": "2021",
+            "MARCA": "aston-martin",
+            "MODELO": "dbx",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Dbx",
+                "Versão:": "4.0 V8 Turbo 2021",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "SUV",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "5",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.982 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência máxima CV:": "550 @ 6.500 rpm",
+                "Torque máximo kgfm:": "71,4 @ 2.200 rpm",
+                "Potência específica:": "138,1 cv/litro",
+                "Torque específico:": "17,9 kgfm/litro",
+                "Taxa de compressão:": "8,6:1",
+                "Rel. peso/potência:": "4,1 kg/cv",
+                "Rel. peso/torque:": "31,4 kg/kgfm",
+                "Curso dos pistões:": "92 mm",
+                "Diâmetro cilindros:": "83 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "M177DE40AL"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "9",
+                "Acoplamento:": "Embreagem dupla banhada a óleo",
+                "Tração:": "Integral sob demanda",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,5 seg",
+                "Velocidade máxima:": "291 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5",
+                "Estrada em km/l:": "8",
+                "Autonomia em km:": "680"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco Ventilado",
+                "Traseira:": "Disco Ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "12,4 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "285/40 R22",
+                "Traseira:": "325/35 R22",
+                "Altura do flanco:": "114 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "informação não disponível",
+                "Coef. aerodinâmico:": "informação não disponível"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.039 mm",
+                "Altura:": "1.680 mm",
+                "Largura:": "1.998 mm",
+                "Entre-eixos:": "3.060 mm",
+                "Bitola dianteira:": "informação não disponível",
+                "Bitola traseira:": "informação não disponível",
+                "Vão livre do solo:": "190 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "2.245 kg",
+                "Porta-malas:": "632 litros",
+                "Carga útil:": "500 kg",
+                "Tanque combustível:": "85 litros"
+            }
+        },
+        "vanquish-6.0-v12-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Junho/Aston-Martin-Vanquish-6.0.jpg",
+            "NOME": "vanquish-6.0-v12-2016",
+            "ANO": "2016",
+            "MARCA": "aston-martin",
+            "MODELO": "vanquish",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vanquish",
+                "Versão:": "6.0 V12 2016",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "1 ano"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.935 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "576 @ 6.650 rpm",
+                "Torque máximo kgfm:": "64,2 @ 5.500 rpm",
+                "Potência específica:": "97,1 cv/litro",
+                "Torque específico:": "10,8 kgfm/litro",
+                "Taxa de compressão:": "11:1",
+                "Rel. peso/potência:": "3 kg/cv",
+                "Rel. peso/torque:": "27,1 kg/kgfm",
+                "Curso dos pistões:": "79,5 mm",
+                "Diâmetro cilindros:": "89 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,8 seg",
+                "Velocidade máxima:": "323 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "3,5",
+                "Estrada em km/l:": "7",
+                "Autonomia em km:": "546"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco de carbono-cerâmica",
+                "Traseira:": "Disco de carbono-cerâmica"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/35 R20",
+                "Traseira:": "305/30 R20",
+                "Altura do flanco:": "92 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,10 m²",
+                "Coef. aerodinâmico:": "0,37 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.720 mm",
+                "Altura:": "1.294 mm",
+                "Largura:": "1.912 mm",
+                "Entre-eixos:": "2.740 mm",
+                "Bitola dianteira:": "1.590 mm",
+                "Bitola traseira:": "1.590 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.739 kg",
+                "Porta-malas:": "368 litros",
+                "Carga útil:": "331 kg",
+                "Tanque combustível:": "78 litros"
+            }
+        },
+        "vanquish-6.0-v12-2003": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Setembro/Vanquish.jpg",
+            "NOME": "vanquish-6.0-v12-2003",
+            "ANO": "2003",
+            "MARCA": "aston-martin",
+            "MODELO": "vanquish",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Vanquish",
+                "Versão:": "6.0 V12 2003",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "1 ano"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.935 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "466 @ 6.500 rpm",
+                "Torque máximo kgfm:": "55,3 @ 5.000 rpm",
+                "Potência específica:": "78,5 cv/litro",
+                "Torque específico:": "9,3 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "3,9 kg/cv",
+                "Rel. peso/torque:": "33,2 kg/kgfm",
+                "Curso dos pistões:": "79,5 mm",
+                "Diâmetro cilindros:": "89 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automatizado",
+                "Marchas:": "6",
+                "Acoplamento:": "Embreagem monodisco a seco",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,8 seg",
+                "Velocidade máxima:": "306 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "2,9",
+                "Estrada em km/l:": "6,3",
+                "Autonomia em km:": "504"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco Ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12,8 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/40 R19",
+                "Traseira:": "285/40 R19",
+                "Altura do flanco:": "114 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,17 m²",
+                "Coef. aerodinâmico:": "0,33 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.666 mm",
+                "Altura:": "1.330 mm",
+                "Largura:": "1.923 mm",
+                "Entre-eixos:": "2.690 mm",
+                "Bitola dianteira:": "1.572 mm",
+                "Bitola traseira:": "1.584 mm",
+                "Vão livre do solo:": "120 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.835 kg",
+                "Porta-malas:": "226 litros",
+                "Carga útil:": "340 kg",
+                "Tanque combustível:": "80 litros"
+            }
+        },
+        "rapide-s-6.0-v12-2012": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Junho/Aston-Martin-Rapide-S.jpg",
+            "NOME": "rapide-s-6.0-v12-2012",
+            "ANO": "2012",
+            "MARCA": "aston-martin",
+            "MODELO": "rapide",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Rapide",
+                "Versão:": "S 6.0 V12 2012",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Sedã",
+                "Porte:": "Grande",
+                "Portas:": "4",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.935 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "558 @ 6.750 rpm",
+                "Torque máximo kgfm:": "63,2 @ 5.500 rpm",
+                "Potência específica:": "94 cv/litro",
+                "Torque específico:": "10,6 kgfm/litro",
+                "Taxa de compressão:": "11:1",
+                "Rel. peso/potência:": "3,6 kg/cv",
+                "Rel. peso/torque:": "31,5 kg/kgfm",
+                "Curso dos pistões:": "79,5 mm",
+                "Diâmetro cilindros:": "89 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,9 seg",
+                "Velocidade máxima:": "306 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "2,5",
+                "Estrada em km/l:": "5,6",
+                "Autonomia em km:": "504"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco Ventilado",
+                "Traseira:": "Disco Ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12,5 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/35 R20",
+                "Traseira:": "295/30 R20",
+                "Altura do flanco:": "89 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,21 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "5.020 mm",
+                "Altura:": "1.350 mm",
+                "Largura:": "1.939 mm",
+                "Entre-eixos:": "2.989 mm",
+                "Bitola dianteira:": "informação não disponível",
+                "Bitola traseira:": "informação não disponível",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.990 kg",
+                "Porta-malas:": "155 litros",
+                "Carga útil:": "500 kg",
+                "Tanque combustível:": "90 litros"
+            }
+        },
+        "dbs-6.0-v12-2011": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Setembro/DBS.jpg",
+            "NOME": "dbs-6.0-v12-2011",
+            "ANO": "2011",
+            "MARCA": "aston-martin",
+            "MODELO": "dbs",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Dbs",
+                "Versão:": "6.0 V12 2011",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "2",
+                "Geração:": "1",
+                "Garantia:": "1 ano"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.935 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "não variável",
+                "Potência máxima CV:": "517 @ 6.500 rpm",
+                "Torque máximo kgfm:": "58,1 @ 5.750 rpm",
+                "Potência específica:": "87,1 cv/litro",
+                "Torque específico:": "9,8 kgfm/litro",
+                "Taxa de compressão:": "10,9:1",
+                "Rel. peso/potência:": "3,5 kg/cv",
+                "Rel. peso/torque:": "31 kg/kgfm",
+                "Curso dos pistões:": "79,5 mm",
+                "Diâmetro cilindros:": "89 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,5 seg",
+                "Velocidade máxima:": "293 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "2,9",
+                "Estrada em km/l:": "6,7",
+                "Autonomia em km:": "523"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco Ventilado",
+                "Traseira:": "Disco Ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "12 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/35 R20",
+                "Traseira:": "295/30 R20",
+                "Altura do flanco:": "89 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,07 m²",
+                "Coef. aerodinâmico:": "0,37 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.721 mm",
+                "Altura:": "1.280 mm",
+                "Largura:": "1.905 mm",
+                "Entre-eixos:": "2.740 mm",
+                "Bitola dianteira:": "1.590 mm",
+                "Bitola traseira:": "1.580 mm",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.800 kg",
+                "Porta-malas:": "186 litros",
+                "Carga útil:": "255 kg",
+                "Tanque combustível:": "78 litros"
+            }
+        },
+        "db11-4.0-v8-turbo-2018": {
+            "IMAGEM": "https://heycar.com.br/images/2018/Setembro/DB11-V8.jpg",
+            "NOME": "db11-4.0-v8-turbo-2018",
+            "ANO": "2018",
+            "MARCA": "aston-martin",
+            "MODELO": "db11",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Db11",
+                "Versão:": "4.0 V8 Turbo 2018",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção direta de combustível",
+                "Cilindrada:": "3.982 cc",
+                "Cilindros:": "8, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência máxima CV:": "510 @ 6.000 rpm",
+                "Torque máximo kgfm:": "68,8 @ 2.000 rpm",
+                "Potência específica:": "128,1 cv/litro",
+                "Torque específico:": "17,3 kgfm/litro",
+                "Taxa de compressão:": "10,5:1",
+                "Rel. peso/potência:": "3,5 kg/cv",
+                "Rel. peso/torque:": "25,6 kg/kgfm",
+                "Curso dos pistões:": "92 mm",
+                "Diâmetro cilindros:": "83 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "M178DE40AL"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4 seg",
+                "Velocidade máxima:": "305 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "5,4",
+                "Estrada em km/l:": "8,1",
+                "Autonomia em km:": "632"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco Ventilado",
+                "Traseira:": "Disco Ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "informação não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/40 R20",
+                "Traseira:": "295/35 R20",
+                "Altura do flanco:": "103 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,13 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.750 mm",
+                "Altura:": "1.290 mm",
+                "Largura:": "1.940 mm",
+                "Entre-eixos:": "2.805 mm",
+                "Bitola dianteira:": "informação não disponível",
+                "Bitola traseira:": "informação não disponível",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.760 kg",
+                "Porta-malas:": "270 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "78 litros"
+            }
+        },
+        "db11-5.2-v12-turbo-2017": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Junho/Aston-Martin-DB11.jpg",
+            "NOME": "db11-5.2-v12-turbo-2017",
+            "ANO": "2017",
+            "MARCA": "aston-martin",
+            "MODELO": "db11",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "Db11",
+                "Versão:": "5.2 V12 Turbo 2017",
+                "Propulsão:": "Combustão interna",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Porte:": "Grande",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Turbocompressor",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.204 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Acionamento:": "Corrente",
+                "Variação do comando:": "Ciclo de admissão e escape",
+                "Potência máxima CV:": "608 @ 6.500 rpm",
+                "Torque máximo kgfm:": "71,4 @ 1.500 rpm",
+                "Potência específica:": "116,8 cv/litro",
+                "Torque específico:": "13,7 kgfm/litro",
+                "Taxa de compressão:": "9,3:1",
+                "Rel. peso/potência:": "2,9 kg/cv",
+                "Rel. peso/torque:": "24,8 kg/kgfm",
+                "Curso dos pistões:": "79,5 mm",
+                "Diâmetro cilindros:": "89 mm",
+                "Tuchos:": "Hidráulicos",
+                "Código do motor:": "informação não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "8",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "informação não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "3,9 seg",
+                "Velocidade máxima:": "322 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "2,6",
+                "Estrada em km/l:": "5,8",
+                "Autonomia em km:": "452"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, multibraço",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco Ventilado",
+                "Traseira:": "Disco Ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Elétrica",
+                "Diâmetro de giro:": "informação não disponível"
+            },
+            "PNEUS": {
+                "Dianteira:": "255/40 R20",
+                "Traseira:": "295/35 R20",
+                "Altura do flanco:": "103 mm",
+                "Estepe:": "informação não disponível"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,11 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.739 mm",
+                "Altura:": "1.279 mm",
+                "Largura:": "1.940 mm",
+                "Entre-eixos:": "2.805 mm",
+                "Bitola dianteira:": "informação não disponível",
+                "Bitola traseira:": "informação não disponível",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.770 kg",
+                "Porta-malas:": "270 litros",
+                "Carga útil:": "informação não disponível",
+                "Tanque combustível:": "78 litros"
+            }
+        },
+        "db9-6.0-v12-2016": {
+            "IMAGEM": "https://heycar.com.br/images/2016/Junho/Aston-Martin-DB9-2016.jpg",
+            "NOME": "db9-6.0-v12-2016",
+            "ANO": "2016",
+            "MARCA": "aston-martin",
+            "MODELO": "db9",
+            "ESPECIFICACAO": {
+                "Marca:": "Aston Martin",
+                "Modelo:": "DB9",
+                "Versão:": "6.0 V12",
+                "Combustível:": "Gasolina",
+                "Origem:": "Importado",
+                "Categoria:": "Cupê",
+                "Portas:": "2",
+                "Ocupantes:": "4",
+                "Geração:": "1",
+                "Garantia:": "2 anos"
+            },
+            "MOTOR": {
+                "Instalação:": "Dianteiro",
+                "Posição:": "Longitudinal",
+                "Aspiração:": "Natural",
+                "Alimentação:": "Injeção eletrônica multiponto",
+                "Cilindrada:": "5.935 cc",
+                "Cilindros:": "12, em V",
+                "Válvulas por cilindro:": "4",
+                "Comando de válvulas:": "Duplo, no cabeçote",
+                "Variação do comando:": "não variávél",
+                "Potência máxima em CV:": "517 @ 6.500 rpm",
+                "Torque máximo em kgfm:": "63,2 @ 5.000 rpm",
+                "Potência específica:": "87,1 cv/litro",
+                "Torque específico:": "10,6 kgfm/litro",
+                "Taxa de compressão:": "10:1",
+                "Relação peso/potência:": "3,5 kg/cv",
+                "Relação peso/torque:": "28,2 kg/kgfm",
+                "Curso dos pistões:": "79,5 mm",
+                "Diâmetro dos cilindros:": "89 mm",
+                "Tuchos:": "não disponível",
+                "Código do motor:": "não disponível"
+            },
+            "TRANSMISSÃO": {
+                "Câmbio:": "Automático",
+                "Marchas:": "6",
+                "Acoplamento:": "Conversor de torque",
+                "Tração:": "Traseira",
+                "Código do câmbio:": "não disponível"
+            },
+            "DESEMPENHO": {
+                "Acel. 0 a 100 km/h:": "4,6 seg",
+                "Velocidade máxima:": "295 km/h"
+            },
+            "CONSUMO": {
+                "Cidade em km/l:": "2,5",
+                "Estrada em km/l:": "5,7",
+                "Autonomia em km:": "445"
+            },
+            "SUSPENSÃO": {
+                "Dianteira:": "Independente, braços sobrepostos",
+                "Traseira:": "Independente, braços sobrepostos",
+                "Elemento elástico:": "Mola helicoidal"
+            },
+            "FREIOS": {
+                "Dianteira:": "Disco ventilado",
+                "Traseira:": "Disco ventilado"
+            },
+            "DIREÇÃO": {
+                "Assistência:": "Hidráulica",
+                "Diâmetro de giro:": "11,1 m"
+            },
+            "PNEUS": {
+                "Dianteira:": "245/35 R20",
+                "Traseira:": "295/30 R20"
+            },
+            "AERODINÂMICA": {
+                "Área frontal:": "2,07 m²",
+                "Coef. aerodinâmico:": "0,35 Cx"
+            },
+            "DIMENSÕES": {
+                "Comprimento:": "4.720 mm",
+                "Altura:": "1.282 mm",
+                "Largura:": "1.900 mm",
+                "Entre eixos:": "2.740 mm",
+                "Bitola dianteira:": "não disponível",
+                "Bitola traseira:": "não disponível",
+                "Vão livre do solo:": "130 mm"
+            },
+            "PESO E CAPACIDADES": {
+                "Peso:": "1.785 kg",
+                "Porta-malas:": "155 litros",
+                "Carga útil:": "200 kg",
+                "Tanque combustível:": "78 litros"
             }
         }
     }
