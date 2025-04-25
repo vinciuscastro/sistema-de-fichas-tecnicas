@@ -37,6 +37,7 @@ const SpecCard = styled(Paper)(({ theme }) => ({
 
 const SpecRow = styled(Box)(({ theme }) => ({
   display: 'flex',
+  flexWrap: 'wrap',
   justifyContent: 'space-between',
   alignItems: 'center',
   padding: theme.spacing(1.5, 0),
@@ -138,7 +139,13 @@ export default function CarDetails() {
                 <Box>
                   {Object.entries(details).map(([k, v]) => (
                     <SpecRow key={k}>
-                      <Typography variant="body1" sx={{ fontWeight: 'bold' }}>
+                      <Typography
+                        variant="body1"
+                        sx={{ fontWeight: 'bold' }}
+                        textAlign="left"
+                        maxWidth="45%"
+
+                      >
                         {k.replace(':', '')}
                       </Typography>
                       <Typography
@@ -147,6 +154,8 @@ export default function CarDetails() {
                           color: '#c00',
                           fontWeight: 'bold'
                         }}
+                        textAlign="right"
+                        maxWidth="45%"
                       >
                         {v}
                       </Typography>
