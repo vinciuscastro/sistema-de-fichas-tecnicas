@@ -126,6 +126,7 @@ export default function CarDetails() {
                 <Typography
                   variant="h5"
                   sx={{
+                    fontWeight: '600',
                     color: '#c00',
                     borderBottom: '2px solid #c00',
                     pb: 1,
