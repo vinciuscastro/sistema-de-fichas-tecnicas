@@ -1,12 +1,36 @@
-# React + Vite
+# Fichás Técnicas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto dividido em duas frentes: uma aplicação backend desenvolvida em Python, responsável por coletar e tratar dados técnicos de veículos por meio de web scraping, e uma aplicação frontend em React que exibe essas informações com recursos de busca e filtragem. O objetivo é fornecer uma base de dados rica e acessível sobre aproximadamente 10 mil carros, organizada em um sistema simples e navegável.
 
-Currently, two official plugins are available:
+## Funcionalidades
+- [x] Coleta automatizada de dados: uso de Selenium e Bs4 para raspagem de sites automotivos.
+- [x]  Limpeza e estruturação: aplicação de técnicas de regex para padronização dos dados e armazenamento em formato JSON.
+- [x]  Exibição por marca e modelo: dados organizados por fabricante, modelo e ano.
+- [x] Filtros dinâmicos no frontend: busca por marca, modelo, ano e outras características técnicas.
+- [x] Exibição de imagens dos veículos.
+- [ ] Possibilidade de comparação entre modelos.
+- [ ] Uso de API para obtenção de dados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Layout
+O layout do aplicativo foi desenvolvido com base no Material Design, seguindo as diretrizes do Google. O design foi pensado para ser acessível e inclusivo, com uma paleta de cores contrastantes e fontes legíveis.
 
-## Expanding the ESLint configuration
+## Protótipo
+O protótipo do aplicativo foi desenvolvido no Figma e pode ser acessado [aqui](https://www.figma.com/design/doDYkngAHltqjDwAO5ik72/Prot%C3%B3tipo-Final).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologias
+- **Backend**
+  - Python
+  - Selenium
+  - Requests
+  - BeautifulSoup
+  - Regex
+
+- **Frontend**
+  - React
+
+## Organização dos Dados
+
+- data/urls/: contém arquivos JSON separados por marca (ex: chevrolet.json, fiat.json, etc.), cada um com a lista de URLs das fichas técnicas dos carros daquela marca. Essas URLs foram obtidas via web scraping com Selenium.
+
+- data/bigs/: JSONs consolidados por marca, onde cada arquivo reúne todas as informações técnicas dos veículos daquela fabricante. Esses dados foram coletados com requests + BeautifulSoup, utilizando as URLs da pasta urls/.
+
