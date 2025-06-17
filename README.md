@@ -11,12 +11,6 @@ Projeto dividido em duas frentes: uma aplicação backend desenvolvida em Python
 - [ ] Possibilidade de comparação entre modelos.
 - [ ] Uso de API para obtenção de dados.
 
-## Layout
-O layout do aplicativo foi desenvolvido com base no Material Design, seguindo as diretrizes do Google. O design foi pensado para ser acessível e inclusivo, com uma paleta de cores contrastantes e fontes legíveis.
-
-## Protótipo
-O protótipo do aplicativo foi desenvolvido no Figma e pode ser acessado [aqui](https://www.figma.com/design/doDYkngAHltqjDwAO5ik72/Prot%C3%B3tipo-Final).
-
 ## Tecnologias
 - **Backend**
   - Python
