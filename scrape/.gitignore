@@ -1,0 +1,11 @@
+venv/
+tests/
+.idea/
+__pycache__/
+main_fire.py
+secret.json
+data/
+carros_jsons/
+*.json
+pyvenv.cfg
+*.pyc
